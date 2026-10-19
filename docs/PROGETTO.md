@@ -11,7 +11,7 @@ Revisione tecnica: 18 ottobre 2026.
 - playful.js e playful.css: filtri, tessere, righe e dialoghi.
 - scripts/catalog-tools.cjs, build.cjs e test.cjs: validazione, generazione riproducibile e controlli senza dipendenze esterne.
 
-I vecchi app.js, data.js, verified.js, revision.js, details.js, remaining.js e style.css rimangono recuperabili nel repository, ma non sono caricati dall’interfaccia. Non aggiungere eventi modificando questi file.
+I vecchi app.js, data.js, verified.js, revision.js, details.js, remaining.js e style.css, non più caricati dall’interfaccia, sono stati rimossi il 19 ottobre 2026; restano recuperabili dalla cronologia git (ultimo commit che li contiene: ca4d90e). Non ricrearli per aggiungere eventi.
 
 ## Comportamento
 
