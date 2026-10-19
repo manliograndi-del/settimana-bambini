@@ -1184,7 +1184,7 @@
       "startsAt": "2026-10-31T16:30:00+01:00",
       "id": "monsters-got-talent",
       "organizationId": "org-9",
-      "illustration": "icona-circo.webp"
+      "illustration": "illustrazione-monsters-got-talent.webp"
     },
     {
       "title": "Le creature della notte bussano alla porta",
@@ -1218,7 +1218,7 @@
       "startsAt": "2026-10-31T20:30:00+01:00",
       "id": "mrsn-creature-notte",
       "organizationId": "mrsn-new",
-      "illustration": "icona-festa.webp"
+      "illustration": "illustrazione-mrsn-creature-notte.webp"
     },
     {
       "title": "Mostri in codice",
@@ -1250,7 +1250,7 @@
       "startsAt": "2026-10-31T15:00:00+01:00",
       "id": "ogr-mostri-codice",
       "organizationId": "ogr",
-      "illustration": "icona-festa.webp"
+      "illustration": "illustrazione-ogr-mostri-codice.webp"
     },
     {
       "title": "Mind Your Brain!",
@@ -1286,7 +1286,7 @@
       "startsAt": "2026-10-31T10:00:00+01:00",
       "id": "ogr-mind-your-brain",
       "organizationId": "ogr",
-      "illustration": "icona-festa.webp"
+      "illustration": "illustrazione-ogr-mind-your-brain.webp"
     },
     {
       "title": "Reaction Show",
@@ -1322,7 +1322,7 @@
       "startsAt": "2026-10-31T15:00:00+01:00",
       "id": "much-reaction-show",
       "organizationId": "org-4",
-      "illustration": "icona-museo.webp"
+      "illustration": "illustrazione-much-reaction-show.webp"
     },
     {
       "title": "Halloween in biblioteca",
@@ -1356,7 +1356,7 @@
       "startsAt": "2026-10-31T10:30:00+01:00",
       "id": "bct-halloween-pavese",
       "organizationId": "org-35",
-      "illustration": "icona-festa.webp"
+      "illustration": "illustrazione-bct-halloween-pavese.webp"
     },
     {
       "id": "coccole-e-libri",
@@ -1473,7 +1473,7 @@
     {
       "id": "storie-piccine",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-piccine.webp",
       "title": "Storie piccine",
       "category": "Lettura",
       "municipality": "Torino",
@@ -1719,7 +1719,7 @@
     {
       "id": "scuola-con-la-c-letture-al-bibliobus",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-scuola-con-la-c-letture-al-bibliobus.webp",
       "title": "Scuola con la c - letture al Bibliobus",
       "category": "Lettura",
       "municipality": "Torino",
@@ -1755,7 +1755,7 @@
     {
       "id": "brevi-storie-a-due-e-quattro-zampe",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-brevi-storie-a-due-e-quattro-zampe.webp",
       "title": "Brevi storie a due e quattro zampe",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -1789,7 +1789,7 @@
     {
       "id": "le-storie-del-mercoledi-zuppa-di-zucca",
       "organizationId": "org-35",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-le-storie-del-mercoledi-zuppa-di-zucca.webp",
       "title": "Le storie del mercoledì - Zuppa di zucca",
       "category": "Lettura",
       "municipality": "Torino",
@@ -2049,7 +2049,7 @@
     {
       "id": "il-giorno-di-halloween-con-il-ladro-di-zucche-le",
       "organizationId": "org-36",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-il-giorno-di-halloween-con-il-ladro-di-zucche-le.webp",
       "title": "Il giorno di Halloween con il Ladro di zucche - letture del pomeriggio",
       "category": "Lettura",
       "municipality": "Torino",
@@ -2151,7 +2151,7 @@
     {
       "id": "il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro",
       "organizationId": "moncalieri-new",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro.webp",
       "title": "Il martedì dei ragazzi - Ma non era Cappuccetto Rosso?",
       "category": "Lettura",
       "municipality": "Moncalieri",
@@ -2185,7 +2185,7 @@
     {
       "id": "notte-da-brividi-dei-pupazzi",
       "organizationId": "org-38",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-notte-da-brividi-dei-pupazzi.webp",
       "title": "Notte (da brividi) dei pupazzi",
       "category": "Lettura",
       "municipality": "Venaria Reale",
@@ -2316,7 +2316,7 @@
     {
       "id": "giornata-educante-smonta-la-paura",
       "organizationId": "second-autunno-valigia",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-giornata-educante-smonta-la-paura.webp",
       "title": "Giornata educante - Smonta la paura!",
       "category": "Laboratorio",
       "municipality": "Avigliana",
@@ -2345,7 +2345,7 @@
     {
       "id": "sabati-favolosi-il-mostruoso-concorso-di-hallowe",
       "organizationId": "second-autunno-valigia",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-sabati-favolosi-il-mostruoso-concorso-di-hallowe.webp",
       "title": "Sabati favolosi - Il mostruoso concorso di Halloween",
       "category": "Teatro",
       "municipality": "Avigliana",
@@ -2538,7 +2538,7 @@
     {
       "id": "winnie-the-pooh-ora-abbiamo-sei-anni",
       "organizationId": "org-teatro-della-concordia",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-winnie-the-pooh-ora-abbiamo-sei-anni.webp",
       "title": "Winnie the Pooh - Ora abbiamo sei anni",
       "category": "Teatro",
       "municipality": "Venaria Reale",
@@ -2567,7 +2567,7 @@
     {
       "id": "noteingioco-laboratorio-musicale-2-3-anni",
       "organizationId": "unione",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-noteingioco-laboratorio-musicale-2-3-anni.webp",
       "title": "Noteingioco - laboratorio musicale 2-3 anni",
       "category": "Musica",
       "municipality": "Torino",
@@ -2697,7 +2697,7 @@
     {
       "id": "manifesti-fuori-posto-laboratorio-graphic-days-k",
       "organizationId": "second-graphic-visite",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-manifesti-fuori-posto-laboratorio-graphic-days-k.webp",
       "title": "Manifesti fuori posto - laboratorio Graphic Days Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2731,7 +2731,7 @@
     {
       "id": "la-tribu-del-disordine-laboratorio-graphic-days",
       "organizationId": "second-graphic-visite",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-la-tribu-del-disordine-laboratorio-graphic-days.webp",
       "title": "La tribù del disordine - laboratorio Graphic Days Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2765,7 +2765,7 @@
     {
       "id": "trame-da-inventare-laboratorio-graphic-days-kids",
       "organizationId": "second-graphic-visite",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-trame-da-inventare-laboratorio-graphic-days-kids.webp",
       "title": "Trame da inventare - laboratorio Graphic Days Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2974,7 +2974,7 @@
     {
       "id": "puppets-for-babies",
       "organizationId": "ogr",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-puppets-for-babies.webp",
       "title": "Puppets for babies",
       "category": "Teatro",
       "municipality": "Torino",
@@ -3005,7 +3005,7 @@
     {
       "id": "tai-chi-salute",
       "organizationId": "ogr",
-      "illustration": "icona-sport.webp",
+      "illustration": "illustrazione-tai-chi-salute.webp",
       "title": "Tai Chi… salute!",
       "category": "Sport",
       "municipality": "Torino",
@@ -3131,7 +3131,7 @@
     {
       "id": "una-giornata-con-la-regina",
       "organizationId": "org-fondazione-ordine-mauriziano-palazzina-d",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-una-giornata-con-la-regina.webp",
       "title": "Una giornata con la Regina",
       "category": "Museo",
       "municipality": "Nichelino",
@@ -3166,7 +3166,7 @@
     {
       "id": "japan-2d-dreams-studio-ghibli-dal-vivo-munlight",
       "organizationId": "org-46",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-japan-2d-dreams-studio-ghibli-dal-vivo-munlight.webp",
       "title": "Japan 2D dreams – Studio Ghibli dal vivo (Munlight Sonata)",
       "category": "Musica",
       "municipality": "Cambiano",
@@ -3226,7 +3226,7 @@
     {
       "id": "maschere-del-bosco",
       "organizationId": "org-41",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-maschere-del-bosco.webp",
       "title": "Maschere del Bosco",
       "category": "Laboratorio",
       "municipality": "Venaria Reale",
@@ -3260,7 +3260,7 @@
     {
       "id": "mandria-express-giro-notturno-in-trenino",
       "organizationId": "org-40",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-mandria-express-giro-notturno-in-trenino.webp",
       "title": "Mandria Express – Giro notturno in trenino",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -3294,7 +3294,7 @@
     {
       "id": "halloween-la-notte-degli-zombie",
       "organizationId": "org-40",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-halloween-la-notte-degli-zombie.webp",
       "title": "Halloween – La Notte degli Zombie",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -3519,7 +3519,7 @@
     {
       "id": "sabati-giocondi-cantiere-in-miniatura",
       "organizationId": "org-15",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-sabati-giocondi-cantiere-in-miniatura.webp",
       "title": "Sabati Giocondi – Cantiere in miniatura",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -3579,7 +3579,7 @@
     {
       "id": "samonios-la-vera-storia-di-halloween",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-samonios-la-vera-storia-di-halloween.webp",
       "title": "Samonios – La vera storia di Halloween",
       "category": "Festa",
       "municipality": "Torino",
@@ -3674,7 +3674,7 @@
     {
       "id": "risparmiare-e-favoloso",
       "organizationId": "org-fondazione-tancredi-di-barolo-musli-con-",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-risparmiare-e-favoloso.webp",
       "title": "Risparmiare è favoloso!",
       "category": "Museo",
       "municipality": "Torino",
@@ -3741,7 +3741,7 @@
     {
       "id": "il-ritmo-dei-colori",
       "organizationId": "org-65",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-il-ritmo-dei-colori.webp",
       "title": "Il ritmo dei colori",
       "category": "Laboratorio",
       "municipality": "Venaria Reale",
@@ -3777,7 +3777,7 @@
     {
       "id": "un-giardino-a-colori",
       "organizationId": "org-65",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-un-giardino-a-colori.webp",
       "title": "Un giardino a colori",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -3878,7 +3878,7 @@
     {
       "id": "halloween-al-parco",
       "organizationId": "org-45",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-halloween-al-parco.webp",
       "title": "Halloween al parco",
       "category": "Festa",
       "municipality": "Pino Torinese",
@@ -4010,7 +4010,7 @@
     {
       "id": "piccole-domeniche-sulle-tracce-di",
       "organizationId": "org-6",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-piccole-domeniche-sulle-tracce-di.webp",
       "title": "Piccole domeniche: Sulle tracce di",
       "category": "Museo",
       "municipality": "Torino",
@@ -4184,7 +4184,7 @@
     {
       "id": "carta-bianca-gala-degli-allievi-della-scuola-fli",
       "organizationId": "org-magdaclan",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-carta-bianca-gala-degli-allievi-della-scuola-fli.webp",
       "title": "Carta Bianca – galà degli allievi della scuola FLIC (MagdaHub)",
       "category": "Circo",
       "municipality": "Torino",
@@ -4218,7 +4218,7 @@
     {
       "id": "error-440-chilowatt-magdahub",
       "organizationId": "org-magdaclan",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-error-440-chilowatt-magdahub.webp",
       "title": "Error 440 – Chilowatt (MagdaHub)",
       "category": "Circo",
       "municipality": "Torino",
@@ -4316,7 +4316,7 @@
     {
       "id": "l-ora-del-racconto-letture-per-famiglie",
       "organizationId": "org-biblioteca-archimede",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-l-ora-del-racconto-letture-per-famiglie.webp",
       "title": "L'ora del racconto - Letture per famiglie",
       "category": "Lettura",
       "municipality": "Settimo Torinese",

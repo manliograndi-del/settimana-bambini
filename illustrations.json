@@ -1619,5 +1619,671 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "samonios-la-vera-storia-di-halloween",
+    "title": "Samonios – La vera storia di Halloween",
+    "source": "https://museireali.beniculturali.it/events/samonios-2026-la-vera-storia-di-halloween/",
+    "description": "Serata di rievocazione storica sulle origini celtiche di Halloween, con figuranti e performer. Si chiude con un rito del fuoco nei Giardini Reali.",
+    "asset": "illustrazione-samonios-la-vera-storia-di-halloween.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: An evening celebration in royal gardens with performers dressed as ancient Celts, lanterns, a bonfire ritual, families watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-samonios-la-vera-storia-di-halloween.webp",
+      "derivedFrom": "illustrazione-samonios-la-vera-storia-di-halloween.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "bct-halloween-pavese",
+    "title": "Halloween in biblioteca",
+    "source": "https://bct.comune.torino.it/eventi-attivita/halloween-in-biblioteca",
+    "description": "Il sabato di Halloween i bibliotecari leggono ad alta voce storie da brivido per bambini. Un appuntamento breve per festeggiare in biblioteca.",
+    "asset": "illustrazione-bct-halloween-pavese.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A librarian reading a spooky storybook aloud to children sitting on cushions in a cosy library, paper bats and a pumpkin lantern, a friendly little ghost peeking from a shelf.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-bct-halloween-pavese.webp",
+      "derivedFrom": "illustrazione-bct-halloween-pavese.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "halloween-la-notte-degli-zombie",
+    "title": "Halloween – La Notte degli Zombie",
+    "source": "https://www.parchireali.it/events/halloween-la-notte-degli-zombie/",
+    "description": "Camminata serale nel bosco con una guida naturalistica, tra prove e giochi a tema Halloween. Si scopre come animali e piante sopravvivono al buio e si affronta la paura del bosco di notte. Il travestimento è benvenuto.",
+    "asset": "illustrazione-halloween-la-notte-degli-zombie.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children with headlamps on an evening walk in the woods, a nature guide, friendly cartoon zombies made of leaves, an owl watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-halloween-la-notte-degli-zombie.webp",
+      "derivedFrom": "illustrazione-halloween-la-notte-degli-zombie.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-giorno-di-halloween-con-il-ladro-di-zucche-le",
+    "title": "Il giorno di Halloween con il Ladro di zucche - letture del pomeriggio",
+    "source": "https://www.binariagruppoabele.org/events/ladrodizucche/",
+    "description": "Letture in tre angoli della libreria intorno al nuovo albo Il ladro di zucche, con uno scoiattolo e un uccellino alle prese con un ladro di zucche. Alla fine c'è una merenda per tutti e si può venire in maschera.",
+    "asset": "illustrazione-il-giorno-di-halloween-con-il-ladro-di-zucche-le.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A squirrel and a little bird searching for a sneaky pumpkin thief in a pumpkin patch, children listening in a cosy bookshop corner.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-giorno-di-halloween-con-il-ladro-di-zucche-le.webp",
+      "derivedFrom": "illustrazione-il-giorno-di-halloween-con-il-ladro-di-zucche-le.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "mrsn-creature-notte",
+    "title": "Le creature della notte bussano alla porta",
+    "source": "https://mrsntorino.it/le-creature-della-notte-bussano-alla-porta-apriamo-senza-paura/",
+    "description": "Una visita serale con attività nelle sale del museo, alla scoperta di miti e leggende di vari continenti. Si scoprono gli animali che stanno dietro le superstizioni e ci si chiede se portino sfortuna o saggezza.",
+    "asset": "illustrazione-mrsn-creature-notte.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children with a flashlight exploring a natural history museum hall at night, shadows of an owl, a bat and a wolf on the wall, display cases with stuffed animals, magical not scary.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mrsn-creature-notte.webp",
+      "derivedFrom": "illustrazione-mrsn-creature-notte.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "brevi-storie-a-due-e-quattro-zampe",
+    "title": "Brevi storie a due e quattro zampe",
+    "source": "https://bct.comune.torino.it/eventi-attivita/brevi-storie-a-due-e-quattro-zampe-0",
+    "description": "L'autrice e l'illustratrice del libro leggono storie di bambini e animali e parlano delle emozioni che provano. Poi i bambini partecipano a un laboratorio di gioco e creatività.",
+    "asset": "illustrazione-brevi-storie-a-due-e-quattro-zampe.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children with a dog and a cat listening to an author reading a book, then playing with paper animal shapes, hearts showing emotions.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-brevi-storie-a-due-e-quattro-zampe.webp",
+      "derivedFrom": "illustrazione-brevi-storie-a-due-e-quattro-zampe.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "le-storie-del-mercoledi-zuppa-di-zucca",
+    "title": "Le storie del mercoledì - Zuppa di zucca",
+    "source": "https://bct.comune.torino.it/eventi-attivita/le-storie-del-mercoledi-3",
+    "description": "Lettura animata e con musica dell'albo Zuppa di zucca di Helen Cooper. Dopo la storia bambini e genitori fanno insieme un laboratorio creativo.",
+    "asset": "illustrazione-le-storie-del-mercoledi-zuppa-di-zucca.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A reader with a guitar telling a story to little children next to a big pot of pumpkin soup, a cat, a squirrel and a duck as friendly characters around it.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-le-storie-del-mercoledi-zuppa-di-zucca.webp",
+      "derivedFrom": "illustrazione-le-storie-del-mercoledi-zuppa-di-zucca.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "l-ora-del-racconto-letture-per-famiglie",
+    "title": "L'ora del racconto - Letture per famiglie",
+    "source": "https://www.bibliotecarchimede.it/lora-del-racconto-ottobre-2026/",
+    "description": "Le volontarie e i volontari lettori leggono storie per famiglie con bambini dai 3 anni. Un pomeriggio di ascolto nella sala ragazzi.",
+    "asset": "illustrazione-l-ora-del-racconto-letture-per-famiglie.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Volunteer readers reading to families in a children's library room, kids sitting on the floor with picture books.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-l-ora-del-racconto-letture-per-famiglie.webp",
+      "derivedFrom": "illustrazione-l-ora-del-racconto-letture-per-famiglie.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "carta-bianca-gala-degli-allievi-della-scuola-fli",
+    "title": "Carta Bianca – galà degli allievi della scuola FLIC (MagdaHub)",
+    "source": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+    "description": "Gli allievi della scuola di circo FLIC presentano i loro numeri in una serata di gala. Uno spettacolo di un'ora per tutta la famiglia.",
+    "asset": "illustrazione-carta-bianca-gala-degli-allievi-della-scuola-fli.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Young circus students performing on a stage: aerial silks, a hand balance, juggling, proud families applauding.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-carta-bianca-gala-degli-allievi-della-scuola-fli.webp",
+      "derivedFrom": "illustrazione-carta-bianca-gala-degli-allievi-della-scuola-fli.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "ogr-mind-your-brain",
+    "title": "Mind Your Brain!",
+    "source": "https://ogrtorino.it/events/mind-your-brain",
+    "description": "Mostra interattiva del centro scientifico finlandese Heureka su come funziona il cervello: emozioni, sensi, sonno e crescita. Si gioca insieme con movimento, musica, puzzle e attività manuali.",
+    "asset": "illustrazione-ogr-mind-your-brain.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A family playing inside a colourful interactive science exhibition about the brain: a giant friendly brain sculpture, buttons, lights and a child jumping on a sensor floor.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-ogr-mind-your-brain.webp",
+      "derivedFrom": "illustrazione-ogr-mind-your-brain.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "monsters-got-talent",
+    "title": "Monster’s Got Talent. La Regina degli Spaventapasseri",
+    "source": "https://casateatroragazzi.it/spettacoli/monsters-got-talent/",
+    "description": "La Regina degli Spaventapasseri vuole lasciare il trono e il contadino suo amico deve trovarle un erede, con una selezione comica in cui viene coinvolto anche il pubblico. Acrobazie di circo contemporaneo e teatro fisico in clima d'autunno e di Halloween. Un'ora prima dell'inizio ci sono giochi, laboratori, set fotografico e dolcetto-scherzetto.",
+    "asset": "illustrazione-monsters-got-talent.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A comic scarecrow queen with a straw crown on a little theatre stage, a farmer friend holding a list, and a line of funny friendly monsters auditioning while children in the audience laugh.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-monsters-got-talent.webp",
+      "derivedFrom": "illustrazione-monsters-got-talent.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "ogr-mostri-codice",
+    "title": "Mostri in codice",
+    "source": "https://ogrtorino.it/events/mostri-in-codice",
+    "description": "Laboratorio di Halloween per famiglie: i bambini trasformano un piccolo robot Ozobot in un mostriciattolo e lo programmano con i colori per superare percorsi e ostacoli. Un primo approccio al coding.",
+    "asset": "illustrazione-ogr-mostri-codice.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Two children on the floor decorating a tiny round robot as a cute little monster with paper horns, drawing a coloured line path on paper for it to follow, Halloween pumpkins around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-ogr-mostri-codice.webp",
+      "derivedFrom": "illustrazione-ogr-mostri-codice.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "notte-da-brividi-dei-pupazzi",
+    "title": "Notte (da brividi) dei pupazzi",
+    "source": "https://www.bibliotecavenariareale.it/notte-dei-pupazzi-2026/",
+    "description": "Il venerdì i bambini lasciano in biblioteca il loro pupazzo, che di notte sceglie un libro. Il sabato mattina lo ritirano con il libro e una sorpresa, tra letture animate di Halloween, anche in costume.",
+    "asset": "illustrazione-notte-da-brividi-dei-pupazzi.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Teddy bears and soft toys at night in a library choosing books by flashlight, a moon in the window, cosy and slightly spooky.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-notte-da-brividi-dei-pupazzi.webp",
+      "derivedFrom": "illustrazione-notte-da-brividi-dei-pupazzi.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "un-giardino-a-colori",
+    "title": "Un giardino a colori",
+    "source": "https://lavenaria.it/evento/2026-un-giardino-a-colori/",
+    "description": "Visita di 45 minuti ai giardini d'autunno e laboratorio di 45 minuti. Con foglie e colori della natura si creano composizioni.",
+    "asset": "illustrazione-un-giardino-a-colori.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children making compositions with colourful autumn leaves on paper in a garden, a guide showing plants.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-un-giardino-a-colori.webp",
+      "derivedFrom": "illustrazione-un-giardino-a-colori.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "una-giornata-con-la-regina",
+    "title": "Una giornata con la Regina",
+    "source": "https://www.ordinemauriziano.it/palazzina-stupinigi/eventi/una-giornata-con-la-regina/",
+    "description": "Giornata per i cento anni dalla morte della regina Margherita: rievocatori in costume guidano nelle stanze della regina raccontando i Savoia e il cioccolato torinese. Per le famiglie c'è la Merenda Reale con cioccolata calda e biscotti.",
+    "asset": "illustrazione-una-giornata-con-la-regina.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Actors in 19th century royal costume, a queen with pearls and a wide dress, showing children royal rooms and a tray of chocolate.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-una-giornata-con-la-regina.webp",
+      "derivedFrom": "illustrazione-una-giornata-con-la-regina.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "winnie-the-pooh-ora-abbiamo-sei-anni",
+    "title": "Winnie the Pooh - Ora abbiamo sei anni",
+    "source": "https://www.teatrodellaconcordia.it/programma-prossimi-eventi/",
+    "description": "Uno spettacolo della rassegna domenicale Favole a Merenda dedicato all'orsetto Winnie the Pooh e ai suoi amici del Bosco dei Cento Acri. Un pomeriggio a teatro pensato per i più piccoli e le loro famiglie.",
+    "asset": "illustrazione-winnie-the-pooh-ora-abbiamo-sei-anni.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A gentle teddy bear, a little piglet, a donkey and a boy having a picnic with a honey pot in an English forest, puppet theatre style (original characters, not Disney).",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-winnie-the-pooh-ora-abbiamo-sei-anni.webp",
+      "derivedFrom": "illustrazione-winnie-the-pooh-ora-abbiamo-sei-anni.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro",
+    "title": "Il martedì dei ragazzi - Ma non era Cappuccetto Rosso?",
+    "source": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/martedi-dei-ragazzi-4",
+    "description": "Lettura animata di Cappuccetto Rosso in cui l'attrice sbaglia apposta parole e battute. Gli equivoci fanno ridere e invitano i bambini a giocare con la lingua.",
+    "asset": "illustrazione-il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: An actress dressed as a little girl in a red hood reading a fairy tale book upside down, a confused wolf and laughing children.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro.webp",
+      "derivedFrom": "illustrazione-il-martedi-dei-ragazzi-ma-non-era-cappuccetto-ro.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "puppets-for-babies",
+    "title": "Puppets for babies",
+    "source": "https://ogrtorino.it/events/puppets-for-babies",
+    "description": "Spettacolo di pupazzi ispirato al libro 'Piccolo blu e piccolo giallo' di Leo Lionni, con immagini dipinte dal vivo. Parla di amicizia, inclusione e valore delle differenze attraverso i colori.",
+    "asset": "illustrazione-puppets-for-babies.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A blue blob and a yellow blob puppet hugging and becoming green, painted live on a screen, very young children watching in wonder.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-puppets-for-babies.webp",
+      "derivedFrom": "illustrazione-puppets-for-babies.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "scuola-con-la-c-letture-al-bibliobus",
+    "title": "Scuola con la c - letture al Bibliobus",
+    "source": "https://bct.comune.torino.it/eventi-attivita/scuola-con-la-c",
+    "description": "Letture ad alta voce sul bibliobus dedicate all'inizio della scuola: il primo giorno alla materna, l'arrivo alla primaria e il ritorno dai compagni dopo le vacanze.",
+    "asset": "illustrazione-scuola-con-la-c-letture-al-bibliobus.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A colourful mobile library bus parked in a square with its side open, a reader inside reading to small children with school backpacks.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-scuola-con-la-c-letture-al-bibliobus.webp",
+      "derivedFrom": "illustrazione-scuola-con-la-c-letture-al-bibliobus.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "tai-chi-salute",
+    "title": "Tai Chi… salute!",
+    "source": "https://ogrtorino.it/events/tai-chi-salute",
+    "description": "Attività di Tai Chi da fare insieme, adulti e bambini, con movimenti ispirati ad animali come il gatto, la tigre e la rondine. Aiuta equilibrio, coordinazione e calma, senza gare.",
+    "asset": "illustrazione-tai-chi-salute.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Adults and children in a park doing slow Tai Chi moves imitating a cat, a tiger and a swallow, calm and balanced.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tai-chi-salute.webp",
+      "derivedFrom": "illustrazione-tai-chi-salute.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "trame-da-inventare-laboratorio-graphic-days-kids",
+    "title": "Trame da inventare - laboratorio Graphic Days Kids",
+    "source": "https://www.graphicdays.it/2026/torino/graphicdays/trame-da-inventare/",
+    "description": "Ogni bambino crea il proprio stendardo con un collage di ritagli e scarti di stoffa, scegliendo forme e colori da una scatola di materiali. Alla fine tutti gli stendardi partecipano a una parata collettiva.",
+    "asset": "illustrazione-trame-da-inventare-laboratorio-graphic-days-kids.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children making banners with fabric scraps and collage, a box full of colourful materials, banners hung all together like a parade.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-trame-da-inventare-laboratorio-graphic-days-kids.webp",
+      "derivedFrom": "illustrazione-trame-da-inventare-laboratorio-graphic-days-kids.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "giornata-educante-smonta-la-paura",
+    "title": "Giornata educante - Smonta la paura!",
+    "source": "https://avigliananotizie.it/ottobre-in-biblioteca/",
+    "description": "Laboratorio artistico e di racconto a tema Halloween da fare insieme a un adulto. Si lavora sulla paura per guardarla da vicino e smontarla.",
+    "asset": "illustrazione-giornata-educante-smonta-la-paura.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A child and an adult painting and taking apart a big cardboard monster, revealing it is just friendly and silly inside.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-giornata-educante-smonta-la-paura.webp",
+      "derivedFrom": "illustrazione-giornata-educante-smonta-la-paura.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "halloween-al-parco",
+    "title": "Halloween al parco",
+    "source": "https://ticket.p3q.it/evento/70855_halloween-al-parco-a",
+    "description": "Festa di Halloween nel bosco con merenda, storie paurose e percorsi al buio in maschera. Per i genitori che restano a terra c'è una pila frontale.",
+    "asset": "illustrazione-halloween-al-parco.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in costumes at a Halloween party in the woods, snacks on a table, paper lanterns, a path lit by headlamps.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-halloween-al-parco.webp",
+      "derivedFrom": "illustrazione-halloween-al-parco.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "mandria-express-giro-notturno-in-trenino",
+    "title": "Mandria Express – Giro notturno in trenino",
+    "source": "https://www.parchireali.it/events/mandria-express-9/",
+    "description": "Un giro in trenino di sera dentro il parco chiuso al pubblico. Una guida naturalistica racconta la storia della Mandria, le piante e i grandi alberi.",
+    "asset": "illustrazione-mandria-express-giro-notturno-in-trenino.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A little tourist train with lights traveling at night through a park with huge old trees, families on board, a moon and stars.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mandria-express-giro-notturno-in-trenino.webp",
+      "derivedFrom": "illustrazione-mandria-express-giro-notturno-in-trenino.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "error-440-chilowatt-magdahub",
+    "title": "Error 440 – Chilowatt (MagdaHub)",
+    "source": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+    "description": "Una conferenza-spettacolo della compagnia Chilowatt che mescola circo e racconto. Adatta ai ragazzi dagli 8 anni.",
+    "asset": "illustrazione-error-440-chilowatt-magdahub.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A circus performer on stage with light bulbs, cables and a ladder, mixing acrobatics and storytelling, sparks of electricity.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-error-440-chilowatt-magdahub.webp",
+      "derivedFrom": "illustrazione-error-440-chilowatt-magdahub.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "much-reaction-show",
+    "title": "Reaction Show",
+    "source": "https://www.mu-ch.it/evento/reaction-show-31-ottobre-2026-much/",
+    "description": "Uno spettacolo di esperimenti chimici dal vivo al Museo della Chimica, della durata di circa un'ora. Pensato per bambini dai 5 anni con le loro famiglie.",
+    "asset": "illustrazione-much-reaction-show.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A cheerful scientist in a lab coat on stage pouring liquids that make colourful foam and bubbles, children in the front row amazed with wide eyes.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-much-reaction-show.webp",
+      "derivedFrom": "illustrazione-much-reaction-show.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "risparmiare-e-favoloso",
+    "title": "Risparmiare è favoloso!",
+    "source": "https://www.fondazionetancredidibarolo.com/project/eventi_ottobre-2026/",
+    "description": "Pomeriggio per famiglie per la Giornata del Risparmio, in due musei. Si gioca sul risparmio e si scopre come lo insegnava la scuola di una volta.",
+    "asset": "illustrazione-risparmiare-e-favoloso.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A family playing a game about saving with a big piggy bank and coins, an old style classroom with a blackboard behind.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-risparmiare-e-favoloso.webp",
+      "derivedFrom": "illustrazione-risparmiare-e-favoloso.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "sabati-giocondi-cantiere-in-miniatura",
+    "title": "Sabati Giocondi – Cantiere in miniatura",
+    "source": "https://www.barrito.to.it/i-sabati-giocondi-ottobre-2026/",
+    "description": "Laboratorio in cui i bambini costruiscono piccole case e inventano storie intorno ai loro edifici. È l'ultimo appuntamento dei Sabati Giocondi di ottobre.",
+    "asset": "illustrazione-sabati-giocondi-cantiere-in-miniatura.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children building tiny houses from cardboard and wooden blocks with little cranes and toy workers, inventing stories.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sabati-giocondi-cantiere-in-miniatura.webp",
+      "derivedFrom": "illustrazione-sabati-giocondi-cantiere-in-miniatura.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "sabati-favolosi-il-mostruoso-concorso-di-hallowe",
+    "title": "Sabati favolosi - Il mostruoso concorso di Halloween",
+    "source": "https://avigliananotizie.it/ottobre-in-biblioteca/",
+    "description": "Spettacolo comico e interattivo per festeggiare Halloween, da guardare in maschera. I bambini partecipano a un buffo concorso di mostri.",
+    "asset": "illustrazione-sabati-favolosi-il-mostruoso-concorso-di-hallowe.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in monster costumes parading on a stage in a funny contest, a comic presenter with a big bow tie, pumpkins and paper bats.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sabati-favolosi-il-mostruoso-concorso-di-hallowe.webp",
+      "derivedFrom": "illustrazione-sabati-favolosi-il-mostruoso-concorso-di-hallowe.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-piccine",
+    "title": "Storie piccine",
+    "source": "https://bct.comune.torino.it/eventi-attivita/storie-piccine-4",
+    "description": "Pomeriggio di letture ad alta voce per bambini piccoli insieme ai genitori. Alla fine si possono scegliere libri della biblioteca da portare a casa.",
+    "asset": "illustrazione-storie-piccine.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A parent and a toddler on a rug turning the pages of a big picture book, other little children around, a basket of books to take home.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-piccine.webp",
+      "derivedFrom": "illustrazione-storie-piccine.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-ritmo-dei-colori",
+    "title": "Il ritmo dei colori",
+    "source": "https://lavenaria.it/evento/il-ritmo-dei-colori/",
+    "description": "Visita alla mostra 'Atelier dei Moderni' e laboratorio ispirato a Robert Delaunay. Si colorano due dischi da montare a casa come decorazione da appendere.",
+    "asset": "illustrazione-il-ritmo-dei-colori.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children colouring circular discs with bright concentric rings in the style of colourful abstract circles, in a modern art museum.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-ritmo-dei-colori.webp",
+      "derivedFrom": "illustrazione-il-ritmo-dei-colori.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "japan-2d-dreams-studio-ghibli-dal-vivo-munlight",
+    "title": "Japan 2D dreams – Studio Ghibli dal vivo (Munlight Sonata)",
+    "source": "https://www.munlabtorino.it/eventi-2026/#mun-light-sonata",
+    "description": "Pomeriggio con passeggiata in cava, degustazione e concerto: un quartetto d'archi suona le musiche dei film d'animazione dello Studio Ghibli. Proposta per tutte le età.",
+    "asset": "illustrazione-japan-2d-dreams-studio-ghibli-dal-vivo-munlight.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A string quartet playing outdoors in an old stone quarry at sunset, families listening, a magical forest spirit mood (no famous characters).",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-japan-2d-dreams-studio-ghibli-dal-vivo-munlight.webp",
+      "derivedFrom": "illustrazione-japan-2d-dreams-studio-ghibli-dal-vivo-munlight.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "la-tribu-del-disordine-laboratorio-graphic-days",
+    "title": "La tribù del disordine - laboratorio Graphic Days Kids",
+    "source": "https://www.graphicdays.it/2026/torino/graphicdays/la-tribu-del-disordine/",
+    "description": "Con carta, cartone, colori e forme geometriche i bambini costruiscono una maschera partendo da elementi scelti a caso. Tutte le maschere formano una tribù immaginaria che sfila nella parata di quartiere.",
+    "asset": "illustrazione-la-tribu-del-disordine-laboratorio-graphic-days.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children wearing colourful cardboard masks made of random geometric shapes, standing together like a funny tribe.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-tribu-del-disordine-laboratorio-graphic-days.webp",
+      "derivedFrom": "illustrazione-la-tribu-del-disordine-laboratorio-graphic-days.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "manifesti-fuori-posto-laboratorio-graphic-days-k",
+    "title": "Manifesti fuori posto - laboratorio Graphic Days Kids",
+    "source": "https://www.graphicdays.it/2026/torino/graphicdays/manifesti-fuori-posto/",
+    "description": "I bambini immaginano cosa vorrebbero nel loro quartiere e lo trasformano in un manifesto, partendo da una base serigrafata e aggiungendo lettere, forme e materiali in collage. A fine giornata i manifesti sfilano in una parata nello spazio pubblico.",
+    "asset": "illustrazione-manifesti-fuori-posto-laboratorio-graphic-days-k.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children making big posters of their dream neighbourhood with cut-out shapes, a tree, a playground, glued on a printed base.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-manifesti-fuori-posto-laboratorio-graphic-days-k.webp",
+      "derivedFrom": "illustrazione-manifesti-fuori-posto-laboratorio-graphic-days-k.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "maschere-del-bosco",
+    "title": "Maschere del Bosco",
+    "source": "https://www.arnicatorino.it/maschere-del-bosco/",
+    "description": "Laboratorio per famiglie in cui si costruisce la maschera del proprio animale del parco con foglie, rametti e corteccia raccolti sui sentieri. Una guida naturalistica accompagna l'attività raccontando storie sugli animali del bosco.",
+    "asset": "illustrazione-maschere-del-bosco.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children making animal masks (deer, fox, owl) from leaves, twigs and bark in the woods, with a nature guide.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-maschere-del-bosco.webp",
+      "derivedFrom": "illustrazione-maschere-del-bosco.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "noteingioco-laboratorio-musicale-2-3-anni",
+    "title": "Noteingioco - laboratorio musicale 2-3 anni",
+    "source": "https://unionemusicale.it/concerto/noteingioco-25102026/",
+    "description": "Un laboratorio di ascolto e di gioco con canti, filastrocche, piccoli strumenti e movimento, con uno strumento suonato dal vivo. I bambini partecipano insieme a un adulto. C'è uno spazio attrezzato per il cambio e l'allattamento.",
+    "asset": "illustrazione-noteingioco-laboratorio-musicale-2-3-anni.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers and parents sitting in a circle shaking maracas and tapping little drums, a musician playing a violin, musical notes floating.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-noteingioco-laboratorio-musicale-2-3-anni.webp",
+      "derivedFrom": "illustrazione-noteingioco-laboratorio-musicale-2-3-anni.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "piccole-domeniche-sulle-tracce-di",
+    "title": "Piccole domeniche: Sulle tracce di",
+    "source": "https://abbonamentomusei.it/en/evento/piccole-domeniche-3/",
+    "description": "Percorso per i più piccoli sulla Pista 500 e nella Collezione permanente, alla ricerca degli animali nascosti nelle opere e nel giardino sul tetto. Racconti ed esplorazione con i sensi insieme ai genitori.",
+    "asset": "illustrazione-piccole-domeniche-sulle-tracce-di.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers crawling and exploring a rooftop garden on an old car test track, looking for little animals hidden among plants and artworks.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-piccole-domeniche-sulle-tracce-di.webp",
+      "derivedFrom": "illustrazione-piccole-domeniche-sulle-tracce-di.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
