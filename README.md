@@ -2,7 +2,7 @@
 
 Calendario illustrato per famiglie a Torino e nell’area metropolitana.
 
-Sito: https://manliograndi-del.github.io/eventi-bambini-torino/
+Sito: https://manliograndi-del.github.io/settimana-bambini/
 
 Leggere [AGENTS.md](AGENTS.md) e [docs/PROGETTO.md](docs/PROGETTO.md) prima di lavorare sul sito.
 

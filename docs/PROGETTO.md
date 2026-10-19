@@ -31,7 +31,7 @@ Le ricerche e le piste sono gestite nel workspace privato. Il sito non scopre au
 
 ## Sviluppo e recupero
 
-Clonare https://github.com/manliograndi-del/eventi-bambini-torino in una cartella dedicata, creare un ramo di lavoro e controllare git status prima di modificare. Non inizializzare o pubblicare l’intero workspace editoriale.
+Clonare https://github.com/manliograndi-del/settimana-bambini in una cartella dedicata, creare un ramo di lavoro e controllare git status prima di modificare. Non inizializzare o pubblicare l’intero workspace editoriale.
 
 Eseguire node scripts/build.cjs e node scripts/test.cjs, poi controllare in browser index.html o usare un server statico locale. Il report di build elenca attività disponibili e giorni mancanti sui tredici giorni; non è un controllo delle fonti. La build aggiorna le versioni cache in base al contenuto dei file.
 
