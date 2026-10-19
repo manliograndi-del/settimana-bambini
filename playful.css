@@ -110,6 +110,6 @@ dialog::backdrop{background:#18394466;backdrop-filter:blur(3px)}
 @media(max-width:600px){.filters{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:auto auto auto;justify-content:center;gap:6px;padding:10px 0 0}.chip{font-size:13px;padding:4px 7px;gap:3px}}
 @media(max-width:360px){.chip{font-size:12px;padding:4px 5px}.chip i{display:none}}
 @media(prefers-reduced-motion:reduce){.chip{transition:none}.chip:hover{transform:none}}
-.dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from calc(var(--angle,0deg) - 16deg),#ffce63 0 32deg,transparent 32deg);-webkit-mask:radial-gradient(closest-side,transparent 52%,#000 53%);mask:radial-gradient(closest-side,transparent 52%,#000 53%);pointer-events:none}
-.dial.unchosen .dial-arc{background:conic-gradient(from 166deg,#ffe08f 0 338deg,transparent 338deg)}
+.dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from calc(var(--angle,0deg) - 30deg),#ffce63 0 60deg,transparent 60deg);-webkit-mask:radial-gradient(closest-side,transparent 46%,#000 47%);mask:radial-gradient(closest-side,transparent 46%,#000 47%);pointer-events:none}
+.dial.unchosen .dial-arc{background:conic-gradient(from 190deg,#ffe08f 0 340deg,transparent 340deg)}
 .dial.unchosen .dial-pointer{opacity:0}
