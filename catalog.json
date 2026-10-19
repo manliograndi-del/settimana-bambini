@@ -1823,7 +1823,7 @@
     {
       "id": "storie-fuori-di-zucca",
       "organizationId": "org-35",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-storie-fuori-di-zucca.webp",
       "title": "Storie fuori di zucca",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2117,7 +2117,7 @@
     {
       "id": "il-martedi-dei-ragazzi-arriva-cornabicorna",
       "organizationId": "moncalieri-new",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-il-martedi-dei-ragazzi-arriva-cornabicorna.webp",
       "title": "Il martedì dei ragazzi - Arriva Cornabicorna!",
       "category": "Lettura",
       "municipality": "Moncalieri",
@@ -3037,7 +3037,7 @@
     {
       "id": "storie-di-ragnatele",
       "organizationId": "ogr",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-storie-di-ragnatele.webp",
       "title": "Storie di ragnatele",
       "category": "Teatro",
       "municipality": "Torino",
@@ -3456,7 +3456,7 @@
     {
       "id": "tata-nel-bosco-halloween-senza-paura",
       "organizationId": "org-43",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-tata-nel-bosco-halloween-senza-paura.webp",
       "title": "Tata nel bosco – Halloween senza paura",
       "category": "Natura",
       "municipality": "Torino",

@@ -2357,5 +2357,77 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "storie-di-ragnatele",
+    "title": "Storie di ragnatele",
+    "source": "https://ogrtorino.it/events/storie-di-ragnatele",
+    "description": "Un breve spettacolo teatrale su tisane e incantesimi per giocare con paure e misteri, seguito da un laboratorio di teatro e danza e da un'attività creativa. Si può venire mascherati e portare una coperta.",
+    "asset": "illustrazione-storie-di-ragnatele.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A small stage with a giant friendly spider web, a witch making herbal tea, children dancing and playing with paper spiders.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-di-ragnatele.webp",
+      "derivedFrom": "illustrazione-storie-di-ragnatele.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-fuori-di-zucca",
+    "title": "Storie fuori di zucca",
+    "source": "https://bct.comune.torino.it/eventi-attivita/storie-fuori-di-zucca",
+    "description": "Si leggono insieme storie di mostri, fantasmi e streghe e poi si fa un laboratorio a tema Halloween. I bambini possono arrivare travestiti.",
+    "asset": "illustrazione-storie-fuori-di-zucca.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in Halloween costumes (little witch, ghost, monster) listening to stories and making paper pumpkins and ghosts at a table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-fuori-di-zucca.webp",
+      "derivedFrom": "illustrazione-storie-fuori-di-zucca.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "tata-nel-bosco-halloween-senza-paura",
+    "title": "Tata nel bosco – Halloween senza paura",
+    "source": "https://www.nelboscoconhelix.com/tata-nel-bosco-gli-appuntamenti-di-ottobre/",
+    "description": "Uscita nel parco a tema Halloween pensata per i più piccoli, in versione senza spavento. Fa parte di 'Tata nel bosco', con piccole avventure nella natura a misura di bambino.",
+    "asset": "illustrazione-tata-nel-bosco-halloween-senza-paura.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers in tiny pumpkin and ghost costumes exploring the woods with a gentle nanny, smiling pumpkins, nothing scary.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tata-nel-bosco-halloween-senza-paura.webp",
+      "derivedFrom": "illustrazione-tata-nel-bosco-halloween-senza-paura.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-martedi-dei-ragazzi-arriva-cornabicorna",
+    "title": "Il martedì dei ragazzi - Arriva Cornabicorna!",
+    "source": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/martedi-dei-ragazzi-3",
+    "description": "Un'attrice legge due storie buffe sulla strega Cornabicorna, tra capricci e dispetti. L'idea è aiutare i bambini a riconoscere le emozioni, anche quelle delle streghe.",
+    "asset": "illustrazione-il-martedi-dei-ragazzi-arriva-cornabicorna.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A funny grumpy witch with crooked horns and a pointy hat throwing a tantrum, and laughing small children watching an actress tell the story.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-martedi-dei-ragazzi-arriva-cornabicorna.webp",
+      "derivedFrom": "illustrazione-il-martedi-dei-ragazzi-arriva-cornabicorna.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
