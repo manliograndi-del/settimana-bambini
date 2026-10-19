@@ -737,5 +737,23 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "coccole-e-libri",
+    "title": "Coccole e libri",
+    "source": "https://bct.comune.torino.it/eventi-attivita/coccole-e-libri-2",
+    "description": "Incontro del lunedì mattina per future mamme e famiglie con bambini nel primo anno di vita. Si chiacchiera con esperte sui primi mesi e si ascoltano insieme storie, filastrocche e ninne nanne.",
+    "asset": "illustrazione-coccole-e-libri.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Mothers sitting on soft rugs in a library corner, one pregnant, others holding babies under one year old, a picture book open, warm and tender atmosphere.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-coccole-e-libri.webp",
+      "derivedFrom": "illustrazione-coccole-e-libri.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
