@@ -17,7 +17,7 @@ I vecchi app.js, data.js, verified.js, revision.js, details.js, remaining.js e s
 
 Finestra oggi + sei giorni. I dati possono contenere tredici giorni di riserva. Le date passate sono nascoste; una sessione odierna con fine documentata scompare dopo la fine, altrimenti resta fino al giorno seguente. I controlli automatici verificano gli offset di Roma, compreso il cambio dell’ora.
 
-Filtri per giorno, età e gratuità; nessun filtro territorio/categoria e nessun secondo bambino attivo. “Meno di 1 anno” comprende le attività che ammettono almeno una parte della fascia 0–11 mesi: leggere la fascia precisa nella scheda. Età non dichiarate restano segnalate.
+Filtri per giorno, età e tre pulsanti sotto i giorni: Gratis (costBand free), Fuori Torino (municipality diverso da Torino) e Ogni settimana (isRecurring, oppure date nello stesso giorno della settimana a sette giorni di distanza, esclusi gli eventi aperti tre o più giorni di fila). Nessun filtro categoria e nessun secondo bambino attivo. Lo 0 dell’orologio (“Meno di 1 anno”) comprende le attività che ammettono almeno una parte della fascia 0–11 mesi: leggere la fascia precisa nella scheda. Età non dichiarate restano segnalate.
 
 Sotto dieci risultati le schede diventano righe espandibili. Il controllo periodico non ricrea l’elenco se i risultati sono invariati; quando cambiano, conserva espansioni e focus dei risultati ancora presenti. Il dialogo usa il titolo dell’evento come nome accessibile. Gli stati vuoti distinguono assenza di giorni selezionati, filtri senza risultati e giornate non censite.
 
