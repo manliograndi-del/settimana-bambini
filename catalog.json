@@ -1581,7 +1581,7 @@
     {
       "id": "un-bel-posticino",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-un-bel-posticino.webp",
       "title": "Un bel posticino",
       "category": "Lettura",
       "municipality": "Torino",
@@ -1617,7 +1617,7 @@
     {
       "id": "crear-leggendo",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-crear-leggendo.webp",
       "title": "Crear leggendo",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -1651,7 +1651,7 @@
     {
       "id": "favole-pop-up-cuordiferro",
       "organizationId": "org-35",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-favole-pop-up-cuordiferro.webp",
       "title": "Favole Pop Up! Cuordiferro",
       "category": "Teatro",
       "municipality": "Torino",
@@ -1685,7 +1685,7 @@
     {
       "id": "la-fenice-on-tour-in-viaggio-tra-i-giochi",
       "organizationId": "org-35",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-la-fenice-on-tour-in-viaggio-tra-i-giochi.webp",
       "title": "La fenice on tour. In viaggio tra i giochi",
       "category": "Gioco e parchi",
       "municipality": "Torino",
@@ -1891,7 +1891,7 @@
     {
       "id": "c-era-una-volta-un-quante-storie",
       "organizationId": "org-36",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-c-era-una-volta-un-quante-storie.webp",
       "title": "C'era una volta un... Quante storie!",
       "category": "Lettura",
       "municipality": "Torino",
@@ -1922,7 +1922,7 @@
     {
       "id": "c-era-una-volta-un-parole-a-rovescio",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-c-era-una-volta-un-parole-a-rovescio.webp",
       "title": "C'era una volta un... Parole a rovescio",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -1953,7 +1953,7 @@
     {
       "id": "c-era-una-volta-un-marionetta-o-burattino",
       "organizationId": "org-36",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-c-era-una-volta-un-marionetta-o-burattino.webp",
       "title": "C'era una volta un... Marionetta o burattino?",
       "category": "Teatro",
       "municipality": "Torino",
@@ -1984,7 +1984,7 @@
     {
       "id": "c-era-una-volta-un-un-sogno-grande-come-il-mondo",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-c-era-una-volta-un-un-sogno-grande-come-il-mondo.webp",
       "title": "C'era una volta un... Un sogno grande come il mondo",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2015,7 +2015,7 @@
     {
       "id": "laboratorio-di-biscotti-di-halloween-della-mamma",
       "organizationId": "org-36",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-laboratorio-di-biscotti-di-halloween-della-mamma.webp",
       "title": "Laboratorio di biscotti di Halloween della Mamma dei Biscotti",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2252,7 +2252,7 @@
     {
       "id": "il-circo-di-casa",
       "organizationId": "org-comune-di-chivasso",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-il-circo-di-casa.webp",
       "title": "Il circo di casa",
       "category": "Circo",
       "municipality": "Chivasso",
@@ -2286,7 +2286,7 @@
     {
       "id": "sabati-favolosi-hilarious-books",
       "organizationId": "second-autunno-valigia",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-sabati-favolosi-hilarious-books.webp",
       "title": "Sabati favolosi - Hilarious books",
       "category": "Lettura",
       "municipality": "Avigliana",
@@ -2408,7 +2408,7 @@
     {
       "id": "incubo-sognidoro-incontro-con-laura-borio",
       "organizationId": "org-34",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-incubo-sognidoro-incontro-con-laura-borio.webp",
       "title": "Incubo&Sognidoro - Incontro con Laura Borio",
       "category": "Lettura",
       "municipality": "Torino",
@@ -2442,7 +2442,7 @@
     {
       "id": "la-caverna-delle-meraviglie",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-caverna-delle-meraviglie.webp",
       "title": "La caverna delle meraviglie",
       "category": "Teatro",
       "municipality": "Torino",
@@ -2474,7 +2474,7 @@
     {
       "id": "il-giro-del-mondo-in-80-giorni",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-giro-del-mondo-in-80-giorni.webp",
       "title": "Il giro del mondo in 80 giorni",
       "category": "Teatro",
       "municipality": "Torino",
@@ -2506,7 +2506,7 @@
     {
       "id": "la-bella-addormentata-nel-bosco",
       "organizationId": "org-10",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-bella-addormentata-nel-bosco.webp",
       "title": "La Bella Addormentata nel Bosco",
       "category": "Teatro",
       "municipality": "Torino",
@@ -2631,7 +2631,7 @@
     {
       "id": "parole-sottosopra-laboratorio-graphic-days-kids",
       "organizationId": "second-graphic-visite",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-parole-sottosopra-laboratorio-graphic-days-kids.webp",
       "title": "Parole sottosopra - laboratorio Graphic Days Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2665,7 +2665,7 @@
     {
       "id": "visita-alle-mostre-per-famiglie-graphic-days",
       "organizationId": "second-graphic-visite",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-visita-alle-mostre-per-famiglie-graphic-days.webp",
       "title": "Visita alle mostre per famiglie - Graphic Days",
       "category": "Museo",
       "municipality": "Torino",
@@ -2799,7 +2799,7 @@
     {
       "id": "chimici-ignoti-show-scientifico",
       "organizationId": "org-4",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-chimici-ignoti-show-scientifico.webp",
       "title": "Chimici ignoti – show scientifico",
       "category": "Museo",
       "municipality": "Settimo Torinese",
@@ -2835,7 +2835,7 @@
     {
       "id": "guarda-cars-motori-ruggenti-al-mauto",
       "organizationId": "mauto-new",
-      "illustration": "icona-cinema.webp",
+      "illustration": "illustrazione-guarda-cars-motori-ruggenti-al-mauto.webp",
       "title": "Guarda \"Cars – Motori Ruggenti\" al MAUTO",
       "category": "Cinema",
       "municipality": "Torino",
@@ -2866,7 +2866,7 @@
     {
       "id": "mostruosamente-sostenibili-speciale-halloween",
       "organizationId": "org-3",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-mostruosamente-sostenibili-speciale-halloween.webp",
       "title": "Mostruosamente sostenibili – Speciale Halloween",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2942,7 +2942,7 @@
     {
       "id": "pop-up-lab",
       "organizationId": "ogr",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-pop-up-lab.webp",
       "title": "Pop-Up Lab",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -3068,7 +3068,7 @@
     {
       "id": "di-segno-in-segno-attivita-per-famiglie",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-di-segno-in-segno-attivita-per-famiglie.webp",
       "title": "Di segno in segno – attività per famiglie",
       "category": "Museo",
       "municipality": "Torino",
@@ -3099,7 +3099,7 @@
     {
       "id": "domenica-tra-bosco-e-museo-visita-guidata-alla-p",
       "organizationId": "org-museo-laboratorio-della-preistoria-di-va",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-domenica-tra-bosco-e-museo-visita-guidata-alla-p.webp",
       "title": "Domenica tra bosco e museo – visita guidata alla preistoria",
       "category": "Natura",
       "municipality": "Vaie",
@@ -3195,7 +3195,7 @@
     {
       "id": "immersion-tra-colori-sentieri-e-sapori-d-autunno",
       "organizationId": "org-40",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-immersion-tra-colori-sentieri-e-sapori-d-autunno.webp",
       "title": "IMMERSION – Tra colori, sentieri e sapori d'autunno al Parco La Mandria",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -3364,7 +3364,7 @@
     {
       "id": "scopriminiera-visita-guidata-in-miniera",
       "organizationId": "org-ecomuseo-regionale-delle-miniere-e-della",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-scopriminiera-visita-guidata-in-miniera.webp",
       "title": "ScopriMiniera – visita guidata in miniera",
       "category": "Museo",
       "municipality": "Prali",
@@ -3412,7 +3412,7 @@
     {
       "id": "scoprialpi-visita-guidata",
       "organizationId": "org-ecomuseo-regionale-delle-miniere-e-della",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-scoprialpi-visita-guidata.webp",
       "title": "ScopriAlpi – visita guidata",
       "category": "Natura",
       "municipality": "Prali",
@@ -3490,7 +3490,7 @@
     {
       "id": "sabati-giocondi-libri-racconti-e-corpo",
       "organizationId": "org-15",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-sabati-giocondi-libri-racconti-e-corpo.webp",
       "title": "Sabati Giocondi – Libri, racconti e corpo",
       "category": "Lettura",
       "municipality": "Torino",
@@ -3548,7 +3548,7 @@
     {
       "id": "via-il-colore-viva-il-disegno-alla-scoperta-dei",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-via-il-colore-viva-il-disegno-alla-scoperta-dei.webp",
       "title": "Via il colore! Viva il disegno: alla scoperta dei Tiepolo",
       "category": "Museo",
       "municipality": "Torino",
@@ -3613,7 +3613,7 @@
     {
       "id": "carlo-tancredi-di-barolo-l-educazione-del-giovan",
       "organizationId": "org-fondazione-tancredi-di-barolo-musli",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-carlo-tancredi-di-barolo-l-educazione-del-giovan.webp",
       "title": "Carlo Tancredi di Barolo: l'educazione del giovane Marchese",
       "category": "Teatro",
       "municipality": "Torino",
@@ -3644,7 +3644,7 @@
     {
       "id": "scriviamo-in-bella-laboratorio-di-calligrafia",
       "organizationId": "org-fondazione-tancredi-di-barolo-musli",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-scriviamo-in-bella-laboratorio-di-calligrafia.webp",
       "title": "Scriviamo in bella! – laboratorio di calligrafia",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -3703,7 +3703,7 @@
     {
       "id": "palette-d-autunno-i-colori-della-zucca",
       "organizationId": "org-65",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-palette-d-autunno-i-colori-della-zucca.webp",
       "title": "Palette d'autunno – I colori della zucca",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -3813,7 +3813,7 @@
     {
       "id": "pomeriggi-di-gioco-al-munlab",
       "organizationId": "org-cil-creativita-in-liberta-munlab-ecomuse",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-pomeriggi-di-gioco-al-munlab.webp",
       "title": "Pomeriggi di gioco al Munlab",
       "category": "Gioco e parchi",
       "municipality": "Cambiano",
@@ -3847,7 +3847,7 @@
     {
       "id": "i-burattini-di-antonio-argenio",
       "organizationId": "org-biblioteca-civica-barbara-allason-comune",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-i-burattini-di-antonio-argenio.webp",
       "title": "I burattini di Antonio Argenio",
       "category": "Lettura",
       "municipality": "Pecetto Torinese",
@@ -3912,7 +3912,7 @@
     {
       "id": "campo-di-zucche-1-zucca-ingresso-al-giardino",
       "organizationId": "org-giardino-di-rosero",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-campo-di-zucche-1-zucca-ingresso-al-giardino.webp",
       "title": "Campo di zucche – 1 zucca + ingresso al Giardino",
       "category": "Natura",
       "municipality": "Pino Torinese",
@@ -4044,7 +4044,7 @@
     {
       "id": "family-afternoons-all-opera",
       "organizationId": "org-6",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-family-afternoons-all-opera.webp",
       "title": "Family Afternoons: All'opera",
       "category": "Museo",
       "municipality": "Torino",
@@ -4078,7 +4078,7 @@
     {
       "id": "con-i-nonni-al-museo",
       "organizationId": "org-6",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-con-i-nonni-al-museo.webp",
       "title": "Con i nonni al museo",
       "category": "Museo",
       "municipality": "Torino",
@@ -4112,7 +4112,7 @@
     {
       "id": "l-orchestra-silenziosa-delle-piante",
       "organizationId": "org-lingotto-musica-ets",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-l-orchestra-silenziosa-delle-piante.webp",
       "title": "L'orchestra silenziosa delle piante",
       "category": "Musica",
       "municipality": "Torino",
@@ -4146,7 +4146,7 @@
     {
       "id": "cabaret-forum-nuovi-circhi-magdahub",
       "organizationId": "org-magdaclan",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-cabaret-forum-nuovi-circhi-magdahub.webp",
       "title": "Cabaret Forum Nuovi Circhi (MagdaHub)",
       "category": "Circo",
       "municipality": "Torino",
@@ -4285,7 +4285,7 @@
     {
       "id": "l-ora-del-racconto-bisticci-a-volonta",
       "organizationId": "org-biblioteca-archimede",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-l-ora-del-racconto-bisticci-a-volonta.webp",
       "title": "L'ora del racconto - Bisticci a volontà",
       "category": "Lettura",
       "municipality": "Settimo Torinese",
