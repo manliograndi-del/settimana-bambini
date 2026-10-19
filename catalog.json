@@ -2083,7 +2083,7 @@
     {
       "id": "m-ami-il-luogo-delle-mamme",
       "organizationId": "moncalieri-new",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-m-ami-il-luogo-delle-mamme.webp",
       "title": "m'ami. Il luogo delle mamme!",
       "category": "Lettura",
       "municipality": "Moncalieri",
@@ -2599,7 +2599,7 @@
     {
       "id": "musicaintasca-laboratorio-musicale-3-4-anni",
       "organizationId": "unione",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-musicaintasca-laboratorio-musicale-3-4-anni.webp",
       "title": "Musicaintasca - laboratorio musicale 3-4 anni",
       "category": "Musica",
       "municipality": "Torino",
@@ -2902,7 +2902,7 @@
     {
       "id": "un-mostro-di-scienza-speciale-halloween",
       "organizationId": "org-3",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-un-mostro-di-scienza-speciale-halloween.webp",
       "title": "Un mostro di scienza – Speciale Halloween",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -3330,7 +3330,7 @@
     {
       "id": "halloween-la-pozione-della-strega",
       "organizationId": "org-40",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-halloween-la-pozione-della-strega.webp",
       "title": "Halloween – La Pozione della Strega",
       "category": "Natura",
       "municipality": "Venaria Reale",

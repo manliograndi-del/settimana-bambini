@@ -2285,5 +2285,77 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "un-mostro-di-scienza-speciale-halloween",
+    "title": "Un mostro di scienza – Speciale Halloween",
+    "source": "https://www.acomeambiente.org/blog/2026/10/01/speciale-halloween-laboratorio-un-mostro-di-scienza-3/",
+    "description": "Laboratorio di Halloween tra scienza e sostenibilità: con esperimenti e 'pozioni' i partecipanti creano il proprio mostro. Due turni di un'ora e mezza.",
+    "asset": "illustrazione-un-mostro-di-scienza-speciale-halloween.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in goggles mixing bubbling coloured potions in flasks to create a funny friendly monster in a science lab.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-un-mostro-di-scienza-speciale-halloween.webp",
+      "derivedFrom": "illustrazione-un-mostro-di-scienza-speciale-halloween.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "halloween-la-pozione-della-strega",
+    "title": "Halloween – La Pozione della Strega",
+    "source": "https://www.parchireali.it/events/halloween-la-pozione-della-strega/",
+    "description": "Pomeriggio di giochi per famiglie nel bosco: bisogna aiutare la strega di Cascina Brero a preparare una pozione. Si cercano ingredienti misteriosi, si risolvono indovinelli e si fanno piccoli esperimenti.",
+    "asset": "illustrazione-halloween-la-pozione-della-strega.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A friendly witch near a farmhouse with a big cauldron, children bringing mysterious ingredients like mushrooms, acorns and feathers.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-halloween-la-pozione-della-strega.webp",
+      "derivedFrom": "illustrazione-halloween-la-pozione-della-strega.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "musicaintasca-laboratorio-musicale-3-4-anni",
+    "title": "Musicaintasca - laboratorio musicale 3-4 anni",
+    "source": "https://unionemusicale.it/concerto/musicaintasca-01112026/",
+    "description": "Giochi musicali legati da una storia sugli animali del bosco, con pianoforte, fisarmonica e percussioni dal vivo. Bambini e genitori cantano, ballano e fanno ginnastica a ritmo di musica, scoprendo che il corpo è uno strumento.",
+    "asset": "illustrazione-musicaintasca-laboratorio-musicale-3-4-anni.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Small children dancing dressed as forest animals (fox, owl, rabbit) while musicians play piano, accordion and drums.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-musicaintasca-laboratorio-musicale-3-4-anni.webp",
+      "derivedFrom": "illustrazione-musicaintasca-laboratorio-musicale-3-4-anni.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "m-ami-il-luogo-delle-mamme",
+    "title": "m'ami. Il luogo delle mamme!",
+    "source": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/mami-luogo-delle-mamme",
+    "description": "Incontro in biblioteca per mamme con bambini nel primo anno, guidato da una pedagogista. È uno spazio informale per raccontarsi esperienze, dubbi e difficoltà.",
+    "asset": "illustrazione-m-ami-il-luogo-delle-mamme.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Mothers with newborn babies sitting in a circle of armchairs in a library, chatting and smiling, a friendly woman with a notebook listening.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-m-ami-il-luogo-delle-mamme.webp",
+      "derivedFrom": "illustrazione-m-ami-il-luogo-delle-mamme.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
