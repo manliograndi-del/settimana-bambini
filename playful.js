@@ -1,19 +1,19 @@
 const $=id=>document.getElementById(id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const {romeDate,weekDates,occurrenceDate,upcoming,coverage}=Calendar;
 let visibleWeek=weekDates();
-const state={days:new Set(visibleWeek),age1:5,chosen:false,free:false,outside:false,weekly:false};
+const state={days:new Set(visibleWeek),age1:0,chosen:false,free:false,outside:false,weekly:false};
 const catalog=DATA.verifiedEvents.filter(e=>e.status==='published'&&!e.isExample);
+const BANDS=[{from:0,to:3,label:'Da 0 a 3 anni'},{from:3,to:6,label:'Da 3 a 6 anni'},{from:6,to:12,label:'Da 6 a 12 anni'},{from:12,to:null,label:'Oltre 12 anni'}];
 function fit(e){
  if(!state.chosen)return {rank:0,label:''};
  if(e.ageMinMonths==null)return {rank:3,label:'Età da confermare'};
- const age=state.age1;
- const ok=age===0?e.ageMinMonths<12:age===13?(e.ageMaxMonths==null||e.ageMaxMonths>=156)&&e.ageMinMonths<=216:age*12>=e.ageMinMonths&&(e.ageMaxMonths==null||age*12<=e.ageMaxMonths);
- return {rank:ok?0:4,label:ok&&age===0?'Controlla la fascia in mesi':''};
+ const b=BANDS[state.age1],ok=(b.to==null||e.ageMinMonths<b.to*12)&&(e.ageMaxMonths==null||e.ageMaxMonths>=b.from*12);
+ return {rank:ok?0:4,label:''};
 }
 const DAY=864e5;
 function weekly(e){if(e.isRecurring===true)return true;const t=[...new Set(e.occurrences.map(occurrenceDate))].map(d=>Date.parse(d+'T12:00:00Z'));if(t.some(a=>t.includes(a+DAY)&&t.includes(a+2*DAY)))return false;return t.some(a=>t.includes(a+7*DAY));}
 function outside(e){return !!e.municipality&&e.municipality!=='Torino';}
-function ageText(){return state.age1===0?'Meno di 1 anno':state.age1===13?'Oltre 12 anni':state.age1+' anni';}
+function ageText(){return BANDS[state.age1].label;}
 function results(){return catalog.filter(e=>(!state.free||e.costBand==='free')&&(!state.outside||outside(e))&&(!state.weekly||weekly(e))&&fit(e).rank!==4&&e.occurrences.some(d=>state.days.has(occurrenceDate(d))&&upcoming(d,e))).sort((a,b)=>fit(a).rank-fit(b).rank);}
 function art(e){
  if(!/^[a-zA-Z0-9_-]+\.(png|webp|jpg)$/.test(e.illustration||''))return '<span class="art" role="img" aria-label="Illustrazione non disponibile"></span>';
@@ -46,9 +46,11 @@ function renderNow(){
  if(focusKey){const target=[...$('events').querySelectorAll('[data-key]')].find(n=>n.dataset.key===focusKey);if(target){const child=target.querySelectorAll('summary,a,button,[tabindex]')[focusIndex];(child||target.querySelector('summary')||target).focus({preventScroll:true});}else $('reset').focus({preventScroll:true});}
  lastView=viewSignature();}
 function syncFilters(){for(const k of ['free','outside','weekly'])$(k).setAttribute('aria-pressed',String(state[k]));}
-function ageAngle(age){return age<=6?-135+age*22.5:age<=12?(age-6)*11.25:135;}
-function angleAge(a){if(a<-135)return 0;if(a>135)return 13;return Math.round(a<=0?(a+135)/22.5:a<=67.5?6+a/11.25:a<101.25?12:13);}
-function syncDial(id){const dial=$(id),age=state[id];dial.style.setProperty('--angle',ageAngle(age)+'deg');dial.querySelector('.dial-number').textContent=state.chosen?age:'—';dial.querySelector('.dial-unit-label').textContent=age===0&&state.chosen?'meno di 1 anno':'anni';dial.querySelectorAll('[data-age]').forEach(n=>n.classList.toggle('selected',state.chosen&&Number(n.dataset.age)===age));dial.classList.toggle('unchosen',!state.chosen);dial.setAttribute('aria-valuenow',age);dial.setAttribute('aria-valuetext',state.chosen?(age===13?'Oltre 12 anni':age===0?'Meno di 1 anno':age+' anni'):'Età non selezionata');}
+/* Quattro fasce di 67,5° ciascuna, da 0 (in basso a sinistra) a 12+ (in basso a destra). */
+function bandStart(i){return -135+i*67.5;}
+function angleBand(a){return Math.max(0,Math.min(3,Math.floor((a+135)/67.5)));}
+const MARK_BAND={0:0,3:1,6:2,12:3,13:3};
+function syncDial(id){const dial=$(id),band=state[id],start=bandStart(band);dial.style.setProperty('--angle',(start+33.75)+'deg');dial.style.setProperty('--arc-from',(start-16)+'deg');dial.querySelectorAll('[data-age]').forEach(n=>{const a=Number(n.dataset.age),ends=[BANDS[band].from,BANDS[band].to??13];n.classList.toggle('selected',state.chosen&&ends.includes(a));});dial.classList.toggle('unchosen',!state.chosen);dial.setAttribute('aria-valuenow',band);dial.setAttribute('aria-valuetext',state.chosen?BANDS[band].label:'Tutte le età');}
 let audioContext;
 function tick(){try{const Audio=window.AudioContext||window.webkitAudioContext;if(!Audio)return;audioContext??=new Audio();if(audioContext.state==='suspended')audioContext.resume();const osc=audioContext.createOscillator(),gain=audioContext.createGain(),t=audioContext.currentTime;osc.type='triangle';osc.frequency.setValueAtTime(1100,t);osc.frequency.exponentialRampToValueAtTime(180,t+.025);gain.gain.setValueAtTime(.075,t);gain.gain.exponentialRampToValueAtTime(.001,t+.03);osc.connect(gain);gain.connect(audioContext.destination);osc.start(t);osc.stop(t+.035);}catch{}}
 let renderTimer,renderVersion=0,initialized=false;
@@ -66,8 +68,8 @@ function render(){
  if(!reduce)for(const n of $('events').children){const old=rects.get(n.dataset.key),now=n.getBoundingClientRect();n.animate(old?[{transform:'translate('+ (old.left-now.left)+'px,'+(old.top-now.top)+'px)',opacity:1},{transform:'translate(0,0)',opacity:1}]:[{opacity:0,transform:'scale(.85)'},{opacity:1,transform:'scale(1)'}],{duration:480,easing:'cubic-bezier(.2,.7,.2,1)'});}
  },220);
 }
-function reset(){Object.assign(state,{age1:5,chosen:false,free:false,outside:false,weekly:false});state.days=new Set(visibleWeek);render();}
-for(const id of ['age1']){const dial=$(id);let dragging=false;function update(ev){const r=dial.getBoundingClientRect(),x=ev.clientX-r.left-r.width/2,y=ev.clientY-r.top-r.height/2;let a=Math.atan2(x,-y)*180/Math.PI;if(ev.target.dataset.age!==undefined)a=ageAngle(Number(ev.target.dataset.age));const value=Math.max(0,Math.min(13,angleAge(a)));if(state[id]!==value||!state.chosen){state[id]=value;state.chosen=true;tick();render();}}dial.addEventListener('pointerdown',ev=>{if(ev.button!==0)return;if(state.chosen&&ev.target.dataset.age!==undefined&&Number(ev.target.dataset.age)===state[id]){state.chosen=false;tick();render();return;}dragging=true;dial.setPointerCapture(ev.pointerId);update(ev);});dial.addEventListener('pointermove',ev=>{if(dragging)update(ev)});for(const type of ['pointerup','pointercancel','lostpointercapture'])dial.addEventListener(type,()=>dragging=false);dial.addEventListener('keydown',ev=>{const steps={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1,PageUp:1,PageDown:-1};if(!(ev.key in steps)&&!['Home','End'].includes(ev.key))return;ev.preventDefault();state[id]=ev.key==='Home'?0:ev.key==='End'?13:Math.max(0,Math.min(13,state[id]+steps[ev.key]));state.chosen=true;tick();render();});}
+function reset(){Object.assign(state,{age1:0,chosen:false,free:false,outside:false,weekly:false});state.days=new Set(visibleWeek);render();}
+for(const id of ['age1']){const dial=$(id);let dragging=false;function bandAt(ev){if(ev.target.dataset.age!==undefined)return MARK_BAND[ev.target.dataset.age];const r=dial.getBoundingClientRect(),x=ev.clientX-r.left-r.width/2,y=ev.clientY-r.top-r.height/2;return angleBand(Math.atan2(x,-y)*180/Math.PI);}function choose(band){if(state[id]!==band||!state.chosen){state[id]=band;state.chosen=true;tick();render();}}dial.addEventListener('pointerdown',ev=>{if(ev.button!==0)return;const band=bandAt(ev);if(state.chosen&&band===state[id]){state.chosen=false;tick();render();return;}dragging=true;dial.setPointerCapture(ev.pointerId);choose(band);});dial.addEventListener('pointermove',ev=>{if(dragging)choose(bandAt(ev))});for(const type of ['pointerup','pointercancel','lostpointercapture'])dial.addEventListener(type,()=>dragging=false);dial.addEventListener('keydown',ev=>{const steps={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1,PageUp:1,PageDown:-1};if(ev.key==='Escape'&&state.chosen){state.chosen=false;tick();render();return;}if(!(ev.key in steps)&&!['Home','End'].includes(ev.key))return;ev.preventDefault();state[id]=ev.key==='Home'?0:ev.key==='End'?3:state.chosen?Math.max(0,Math.min(3,state[id]+steps[ev.key])):(steps[ev.key]>0?0:3);state.chosen=true;tick();render();});}
 function refreshCalendar(){const next=weekDates(),changed=next[0]!==visibleWeek[0];if(changed){visibleWeek=next;state.days=new Set(next);}document.querySelectorAll('[data-date]').forEach((b,i)=>{const date=visibleWeek[i],d=new Date(date+'T12:00:00Z');b.dataset.date=date;b.classList.toggle('weekend',d.getUTCDay()===0||d.getUTCDay()===6);b.querySelector('span').textContent=d.toLocaleDateString('it-IT',{weekday:'short',timeZone:'UTC'}).replace('.','').toUpperCase();b.querySelector('b').textContent=d.getUTCDate();b.querySelector('small').textContent=d.toLocaleDateString('it-IT',{month:'short',timeZone:'UTC'});b.setAttribute('aria-label',d.toLocaleDateString('it-IT',{weekday:'long',day:'numeric',month:'long',timeZone:'UTC'}));});document.querySelector('.footnote').textContent='Torino e dintorni · '+visibleWeek[0].split('-').reverse().join('/')+' – '+visibleWeek[6].split('-').reverse().join('/')+' · Illustrazioni originali. Date di verifica e fonti nelle schede.';}
 refreshCalendar();
 document.querySelectorAll('[data-date]').forEach(b=>b.onclick=()=>{const d=b.dataset.date;if(state.days.has(d)){state.days.delete(d);if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){b.classList.remove('puff');void b.offsetWidth;b.classList.add('puff');setTimeout(()=>b.classList.remove('puff'),500);}}else{state.days.add(d);b.classList.remove('puff');}render();});for(const k of ['free','outside','weekly'])$(k).onclick=()=>{state[k]=!state[k];render()};$('reset').onclick=reset;$('close').onclick=()=>$('detail').close();$('detail').addEventListener('click',e=>{if(e.target===$('detail')){const r=$('detail').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('detail').close();}});render();
