@@ -123,3 +123,9 @@ dialog::backdrop{background:#18394466;backdrop-filter:blur(3px)}
 .cat-storie[aria-pressed=true]{background:#ffd98a}.cat-lab[aria-pressed=true]{background:#9fd4f2}.cat-show[aria-pressed=true]{background:#f7b9c6}.cat-musei[aria-pressed=true]{background:#c9e79a}
 @media(max-width:600px){.cat-row{grid-column:1/-1;grid-row:3;display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 0 0}.cat-row[hidden]{display:none}.cat-pill{font-size:13px;padding:4px 8px}}
 @media(prefers-reduced-motion:reduce){.c-cat b{transition:none}}
+
+/* Collegamento tra calendario e mappa dei posti */
+.back-link,.map-link{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:6px 14px;border:2px solid #3f86b0;border-radius:6px;background:#9fd4f2;color:#123047;font:700 15px/1.1 'Baloo 2',sans-serif;text-decoration:none;box-shadow:0 3px 4px #845c2418;transform:rotate(-2deg);transition:transform .2s}
+.back-link:hover,.map-link:hover{transform:rotate(0) translateY(-3px)}
+.map-link{margin-top:10px}
+@media(prefers-reduced-motion:reduce){.back-link,.map-link{transition:none}.back-link:hover,.map-link:hover{transform:none}}
