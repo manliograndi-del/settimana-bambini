@@ -1,0 +1,15 @@
+/* Pagina della mappa dei posti */
+.map-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.map-filters{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 14px}
+.map-filters .chip{transform:none}
+.map-filters .chip:hover{transform:translateY(-3px)}
+.map-filters .chip[aria-pressed=true]{background:var(--c);border-color:var(--d)}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--c);border:2px solid var(--d)}
+.map{height:70vh;min-height:380px;border:3px solid #fff1c9;border-radius:10px;box-shadow:3px 5px 0 #327b6e40,5px 9px 12px #294d341f;z-index:0}
+.leaflet-popup-content{font:600 14px/1.4 'Nunito',sans-serif;color:var(--ink);margin:12px 14px}
+.leaflet-popup-content h3{margin:0 0 4px;font:700 18px/1.2 'Baloo 2',sans-serif}
+.leaflet-popup-content .kind{margin:0 0 6px;font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.4px}
+.leaflet-popup-content p{margin:4px 0}
+.leaflet-popup-content .links{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px}
+.leaflet-popup-content a{color:#176450;font-weight:800}
+@media(max-width:600px){main{padding:18px 12px}.map-heading h1{font-size:26px}.map{height:62vh}.map-filters{gap:6px}.map-filters .chip{font-size:13px;padding:4px 8px}.back-link{font-size:13px}}
