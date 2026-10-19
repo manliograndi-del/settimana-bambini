@@ -1509,7 +1509,7 @@
     {
       "id": "un-giardino-di-storie-alla-ginzburg",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-un-giardino-di-storie-alla-ginzburg.webp",
       "title": "Un giardino di Storie alla Ginzburg",
       "category": "Lettura",
       "municipality": "Torino",
@@ -1545,7 +1545,7 @@
     {
       "id": "cuci-intreccia-ascolta-colora",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-cuci-intreccia-ascolta-colora.webp",
       "title": "Cuci intreccia ascolta colora",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -2374,7 +2374,7 @@
     {
       "id": "meraviglia-che-rumore-fa-il-blu",
       "organizationId": "org-34",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-meraviglia-che-rumore-fa-il-blu.webp",
       "title": "Meraviglia - Che rumore fa il blu?",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -4254,7 +4254,7 @@
     {
       "id": "l-ora-del-racconto-crescere-a-tavola",
       "organizationId": "org-biblioteca-archimede",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-l-ora-del-racconto-crescere-a-tavola.webp",
       "title": "L'ora del racconto - Crescere a tavola",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",

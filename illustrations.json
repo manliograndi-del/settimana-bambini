@@ -827,5 +827,77 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "un-giardino-di-storie-alla-ginzburg",
+    "title": "Un giardino di Storie alla Ginzburg",
+    "source": "https://bct.comune.torino.it/eventi-attivita/un-giardino-di-storie-alla-ginzburg-1",
+    "description": "Il mercoledì pomeriggio la biblioteca propone letture ad alta voce, piccoli laboratori e incontri per bambini piccoli e genitori. Partecipano bibliotecari, volontari ed educatori della cooperativa Il Margine.",
+    "asset": "illustrazione-un-giardino-di-storie-alla-ginzburg.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Little children and parents reading in a library decorated like a garden, paper flowers and leaves growing out of the bookshelves.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-un-giardino-di-storie-alla-ginzburg.webp",
+      "derivedFrom": "illustrazione-un-giardino-di-storie-alla-ginzburg.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "cuci-intreccia-ascolta-colora",
+    "title": "Cuci intreccia ascolta colora",
+    "source": "https://bct.comune.torino.it/eventi-attivita/cuci-intreccia-ascolta-colora",
+    "description": "Laboratorio creativo del giovedì che mescola libri, fili e stoffe. Bambini e genitori ascoltano storie e lavorano con le mani insieme alla Sartoria Popolare.",
+    "asset": "illustrazione-cuci-intreccia-ascolta-colora.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A parent and a child sewing and weaving with colourful threads and fabric scraps at a table, an open storybook and crayons nearby.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-cuci-intreccia-ascolta-colora.webp",
+      "derivedFrom": "illustrazione-cuci-intreccia-ascolta-colora.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "l-ora-del-racconto-crescere-a-tavola",
+    "title": "L'ora del racconto - Crescere a tavola",
+    "source": "https://www.bibliotecarchimede.it/lora-del-racconto-ottobre-2026/",
+    "description": "Laboratorio per genitori e bambini piccolissimi sui primi cibi e lo svezzamento. I bambini esplorano e toccano gli alimenti con i sensi.",
+    "asset": "illustrazione-l-ora-del-racconto-crescere-a-tavola.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Babies in high chairs touching and tasting soft colourful foods like banana, carrots and pasta, parents smiling.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-l-ora-del-racconto-crescere-a-tavola.webp",
+      "derivedFrom": "illustrazione-l-ora-del-racconto-crescere-a-tavola.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "meraviglia-che-rumore-fa-il-blu",
+    "title": "Meraviglia - Che rumore fa il blu?",
+    "source": "https://www.libreriatherese.it/event/meraviglia-che-rumore-fa-il-blu-3-6-anni/",
+    "description": "Dopo alcune letture piene di fantasia, i bambini costruiscono e decorano un piccolo catalogo delle cose impossibili. Si finisce immaginando cosa può diventare una macchia azzurra.",
+    "asset": "illustrazione-meraviglia-che-rumore-fa-il-blu.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Small children building a little book of impossible things: a flying fish, a singing cloud, blue sound waves coming out of a paintbrush.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-meraviglia-che-rumore-fa-il-blu.webp",
+      "derivedFrom": "illustrazione-meraviglia-che-rumore-fa-il-blu.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
