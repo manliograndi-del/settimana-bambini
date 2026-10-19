@@ -944,7 +944,8 @@
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-10-31"
       ],
       "timeUnknown": true,
       "description": "Un luna park temporaneo con giostre per famiglie e attrazioni più movimentate. Si può andare anche soltanto per le giostre: prezzi e limiti di accesso vanno controllati per ciascuna attrazione.",
@@ -952,9 +953,9 @@
       "startsAt": "2026-10-18",
       "illustration": "illustrazione-pellerina.webp",
       "lastReview": {
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "https://oktoberfest.torino.it/il-luna-park",
-        "scope": "Riletta la pagina originale: periodo continuo dal 17 ottobre al 1 novembre 2026. Inserite solo le date nella riserva fino al 30 ottobre. Orari delle singole giostre e tariffe non confermati; mantenuti come ignoti."
+        "scope": "Riletta la pagina originale: periodo dal 17 ottobre al 1 novembre 2026, lunedì–venerdì dalle 19, sabato e domenica dalle 12. Aggiunto il 31 ottobre; date successive escluse per ora. Una guida secondaria indica l’8 novembre come chiusura: non confermato dalla fonte originale, quindi non inserito."
       }
     },
     {
@@ -1091,12 +1092,14 @@
       "occurrences": [
         "2026-10-24T16:00:00+02:00",
         "2026-10-25T16:00:00+01:00",
-        "2026-10-30T16:00:00+01:00"
+        "2026-10-30T16:00:00+01:00",
+        "2026-10-31T16:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-24T16:00:00+02:00": "2026-10-24T22:00:00+02:00",
         "2026-10-25T16:00:00+01:00": "2026-10-25T22:00:00+01:00",
-        "2026-10-30T16:00:00+01:00": "2026-10-30T22:00:00+01:00"
+        "2026-10-30T16:00:00+01:00": "2026-10-30T22:00:00+01:00",
+        "2026-10-31T16:00:00+01:00": "2026-10-31T22:00:00+01:00"
       },
       "description": "Una serata di Halloween in famiglia tra allestimenti, cantastorie e animazione. Il programma comprende spettacoli e attività a tema: consultare il programma ufficiale per gli orari dei singoli appuntamenti.",
       "costLabel": "Promo online annunciata: 9,90 € acquistando entro il 22/10 · tariffa successiva da verificare",
@@ -1113,10 +1116,266 @@
       "startsAt": "2026-10-24T16:00:00+02:00",
       "illustration": "illustrazione-zoom-halloween.webp",
       "lastReview": {
-        "date": "2026-10-18",
+        "date": "2026-10-19",
         "source": "https://eventi.zoomtorino.it/halloween",
-        "scope": "Riletta la pagina Halloween 2026: serate 17, 24, 25, 30, 31 ottobre e 1 novembre; ingresso serale dalle 16, chiusura 22, ultimo ingresso 20:30. Inserite le tre repliche entro il 30 ottobre, conservando l’illustrazione. Promo condizionata all’acquisto entro il 22 ottobre; nessuna verifica di disponibilità in tempo reale."
+        "scope": "Riletta la pagina Halloween: serate Halloween Nights confermate anche 31 ottobre e 1 novembre, ingresso serale dalle 16, ultimo ingresso 20:30, chiusura 22. Aggiunta la replica del 31 ottobre con la stessa illustrazione. Promo 9,90 € legata all’acquisto online entro il 22/10; tariffa successiva non indicata."
       }
+    },
+    {
+      "id": "much-crimine-ognissanti",
+      "title": "Il museo del crimine",
+      "organizationId": "org-4",
+      "category": "Musei e scienza",
+      "municipality": "Settimo Torinese",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 144,
+      "ageLabel": "5–12 anni",
+      "occurrences": [
+        "2026-10-31T10:30:00+01:00"
+      ],
+      "startsAt": "2026-10-31T10:30:00+01:00",
+      "url": "https://www.mu-ch.it/evento/il-museo-del-crimine-31-ottobre-2026-much/",
+      "description": "I bambini indagano su una scena del crimine: confrontano impronte, analizzano sostanze misteriose e mettono alla prova gli indizi. Il laboratorio usa piccoli esperimenti di chimica e scienza forense per ricostruire il caso e cercare il colpevole.",
+      "venue": "MU-CH · via Leinì 84",
+      "costLabel": "Bambino 9 € + 0,20 € servizio (tariffa del 12 ottobre) · accompagnatore gratuito",
+      "costBand": "low",
+      "discoverySources": [
+        "https://www.mu-ch.it/"
+      ],
+      "verificationMethod": "Pagine originali MU-CH del 31 ottobre (e del 1 novembre) lette il 19 ottobre 2026: turno 10:30–11:30, 5–12 anni, 60 minuti. Prezzo non riportato nelle pagine: riprende la tariffa verificata il 12 ottobre per lo stesso laboratorio.",
+      "status": "published",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "booking": "Numero chiuso, prenotazione anticipata fortemente consigliata. Paga chi svolge il laboratorio; accompagnatori esclusi dal pagamento. Il biglietto non comprende il percorso espositivo del museo.",
+      "durationLabel": "60 minuti",
+      "deepSources": [
+        [
+          "Biglietti laboratorio e selezione data",
+          "https://biglietteria.my-ticket.it/biglietti?store=museochimica&cat=2913"
+        ]
+      ],
+      "researchNote": "Replica: illustrazione conservata. Un post social del museo cita anche un turno alle 16:30, non presente nelle pagine evento: non inserito.",
+      "relatedSources": [
+        {
+          "label": "Biglietti laboratorio e selezione data",
+          "url": "https://biglietteria.my-ticket.it/biglietti?store=museochimica&cat=2913"
+        }
+      ],
+      "illustration": "illustrations-a.webp",
+      "illustrationCell": 1,
+      "occurrenceEnds": {
+        "2026-10-31T10:30:00+01:00": "2026-10-31T11:30:00+01:00"
+      }
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [
+        "https://www.viaggiapiccoli.com/speciale-halloween-in-piemonte-eventi-e-feste-per-bambini/"
+      ],
+      "relatedSources": [],
+      "id": "monsters-got-talent",
+      "title": "Monster’s Got Talent. La Regina degli Spaventapasseri",
+      "organizationId": "org-9",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutti (indicazione dell’organizzatore)",
+      "occurrences": [
+        "2026-10-31T16:30:00+01:00",
+        "2026-10-31T20:45:00+01:00"
+      ],
+      "url": "https://casateatroragazzi.it/spettacoli/monsters-got-talent/",
+      "description": "Per Halloween la Troupe Acrobatica ArteMakìa porta in scena circo contemporaneo e teatro fisico. La Regina degli Spaventapasseri vuole abdicare e il contadino cerca un successore, coinvolgendo anche il pubblico tra corvi, zucche e trasformazioni. Un’ora prima: giochi, laboratori, photo-set e dolcetto-scherzetto.",
+      "venue": "Casa del Teatro Ragazzi e Giovani · Sala Grande · corso Galileo Ferraris 266",
+      "costLabel": "Under 14: 18 € · intero 22 € · ridotto 20 € (fuori abbonamento)",
+      "costBand": "mid",
+      "booking": "Spettacolo fuori abbonamento. Ridotto 20 € per soci CADM, over 65, abbonati 2026/27, convenzioni e allievi della scuola di teatro. Attività di accoglienza un’ora prima dello spettacolo.",
+      "priceSource": "https://casateatroragazzi.it/spettacoli/monsters-got-talent/",
+      "verificationMethod": "Pagina originale dello spettacolo letta il 19 ottobre 2026: date, orari, sala, età e tariffe. Durata non indicata.",
+      "startsAt": "2026-10-31T16:30:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [],
+      "relatedSources": [
+        {
+          "label": "Modulo di prenotazione",
+          "url": "https://forms.gle/uhv57bZPswgU8ECw5"
+        }
+      ],
+      "id": "mrsn-creature-notte",
+      "title": "Le creature della notte bussano alla porta",
+      "organizationId": "mrsn-new",
+      "category": "Musei e scienza",
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie · età minima non indicata",
+      "occurrences": [
+        "2026-10-31T20:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T20:30:00+01:00": "2026-10-31T22:00:00+01:00"
+      },
+      "url": "https://mrsntorino.it/le-creature-della-notte-bussano-alla-porta-apriamo-senza-paura/",
+      "description": "Nella notte di Halloween una visita guidata con attività nelle sale del museo segue le creature del mito attraverso i continenti, per scoprire quali animali reali stanno dietro alle leggende e andare oltre la superstizione.",
+      "venue": "MRSN · via Accademia Albertina 15",
+      "costLabel": "5 € a persona + biglietto d’ingresso al museo",
+      "costBand": "low",
+      "booking": "Prenotazione obbligatoria tramite modulo online; iscrizioni chiuse al raggiungimento dei posti. Tariffe d’ingresso del museo: vedere la pagina informazioni.",
+      "durationLabel": "1 ora e mezza",
+      "priceSource": "https://mrsntorino.it/it/info-utili/",
+      "verificationMethod": "Pagina originale e calendario eventi MRSN (voce 31_10_2026) letti il 19 ottobre 2026.",
+      "startsAt": "2026-10-31T20:30:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [],
+      "relatedSources": [],
+      "id": "ogr-mostri-codice",
+      "title": "Mostri in codice",
+      "organizationId": "ogr",
+      "category": "Laboratori",
+      "municipality": "Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 96,
+      "ageLabel": "4–8 anni",
+      "occurrences": [
+        "2026-10-31T15:00:00+01:00",
+        "2026-10-31T17:00:00+01:00"
+      ],
+      "url": "https://ogrtorino.it/events/mostri-in-codice",
+      "description": "Un laboratorio Kids4Future a tema Halloween: tra castelli infestati, zucche misteriose e fantasmi dispettosi, i bambini costruiscono un’avventura da brivido imparando a programmarla.",
+      "venue": "OGR Torino · Speakers’ Corner",
+      "costLabel": "Gratuito · prenotazione",
+      "costBand": "free",
+      "booking": "Gratuito con prenotazione (prenotazioni disponibili alla data del controllo). Durata non indicata.",
+      "verificationMethod": "Pagina originale OGR e calendario eventi letti il 19 ottobre 2026.",
+      "startsAt": "2026-10-31T15:00:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [],
+      "relatedSources": [],
+      "id": "ogr-mind-your-brain",
+      "title": "Mind Your Brain!",
+      "organizationId": "ogr",
+      "category": "Musei e scienza",
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Tutte le età (indicazione dell’organizzatore)",
+      "occurrences": [
+        "2026-10-31T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T10:00:00+01:00": "2026-10-31T20:00:00+01:00"
+      },
+      "url": "https://ogrtorino.it/events/mind-your-brain",
+      "description": "Una mostra interattiva del science centre finlandese Heureka sui segreti della mente: giochi, esperimenti e attività di gruppo su emozioni, sensi, sonno e sviluppo del cervello. All’ingresso si riceve un “cervello portatile” che accompagna il percorso.",
+      "venue": "OGR Torino · Binario 2",
+      "costLabel": "Gratis fino a 6 anni · intero 10 € · ridotto 5 €",
+      "costBand": "low",
+      "scheduleType": "limited_series",
+      "participationType": "drop_in",
+      "booking": "Mostra dal 31 ottobre al 29 novembre 2026. Lunedì, mercoledì e giovedì 9–18, venerdì 9–22, sabato e domenica 10–20, martedì chiuso. Ridotto 5 € per studenti fino a 25 anni, over 65, ARCI, FAI, TCI; gratuito Abbonamento Musei, ICOM e minori fino a 6 anni. Inserita per ora solo l’apertura del 31 ottobre.",
+      "verificationMethod": "Pagina originale OGR letta il 19 ottobre 2026: date, orari, tariffe e descrizione.",
+      "startsAt": "2026-10-31T10:00:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/reaction-show-2"
+      ],
+      "relatedSources": [
+        {
+          "label": "Biglietteria",
+          "url": "https://tickets.fatt.cloud/v2/biglietti?store=museochimica&cat=2914"
+        }
+      ],
+      "id": "much-reaction-show",
+      "title": "Reaction Show",
+      "organizationId": "org-4",
+      "category": "Musei e scienza",
+      "municipality": "Settimo Torinese",
+      "ageMinMonths": 60,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 5 anni",
+      "occurrences": [
+        "2026-10-31T15:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T15:00:00+01:00": "2026-10-31T16:00:00+01:00"
+      },
+      "url": "https://www.mu-ch.it/evento/reaction-show-31-ottobre-2026-much/",
+      "description": "Uno spettacolo scientifico in cui le reazioni chimiche si susseguono a ritmo serrato, dai cambi di colore alle ossidazioni: processi di solito chiusi in laboratorio diventano visibili e spettacolari per il pubblico.",
+      "venue": "MU-CH · via Leinì 84",
+      "costLabel": "5 € online (fonte secondaria) · da confermare in biglietteria",
+      "costBand": "low",
+      "durationLabel": "60 minuti",
+      "booking": "Prenotazione online dalla pagina MU-CH. Il prezzo non è nelle pagine evento: 5 € è indicato da TorinoBimbi.",
+      "verificationMethod": "Pagine originali MU-CH del 31 ottobre e del 1 novembre lette il 19 ottobre 2026.",
+      "startsAt": "2026-10-31T15:00:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
+    },
+    {
+      "status": "awaiting_illustration",
+      "verifiedAt": "2026-10-19",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "discoverySources": [],
+      "relatedSources": [],
+      "id": "bct-halloween-pavese",
+      "title": "Halloween in biblioteca",
+      "organizationId": "org-35",
+      "category": "Biblioteche e librerie",
+      "municipality": "Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambine e bambini · età non indicata",
+      "occurrences": [
+        "2026-10-31T10:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T10:30:00+01:00": "2026-10-31T11:30:00+01:00"
+      },
+      "url": "https://bct.comune.torino.it/eventi-attivita/halloween-in-biblioteca",
+      "description": "Letture ad alta voce “da brivido” per bambine e bambini coraggiosi, preparate dal personale della biblioteca per la mattina di Halloween.",
+      "venue": "Biblioteca civica Cesare Pavese · via Candiolo 79",
+      "costLabel": "Costo non indicato dalla fonte",
+      "costBand": "unknown",
+      "booking": "Prenotazione non indicata: per informazioni 011 01137080 o biblioteca.pavese@comune.torino.it.",
+      "verificationMethod": "Pagina originale dell’evento e pagina della sede BCT lette il 19 ottobre 2026.",
+      "startsAt": "2026-10-31T10:30:00+01:00",
+      "researchNote": "Verificata; da pubblicare quando sarà associata un’illustrazione originale."
     }
   ],
   "organizations": [
