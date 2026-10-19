@@ -8,7 +8,7 @@ Leggere [AGENTS.md](AGENTS.md) e [docs/PROGETTO.md](docs/PROGETTO.md) prima di l
 
 ## Uso e dati
 
-Oggi e i sei giorni successivi, nel fuso Europe/Rome. Filtri per giorni, fascia d’età sull’orologio (0–3, 3–6, 6–12, oltre 12; all’avvio tutte) e tre pulsanti sotto i giorni: Gratis, Fuori Torino, Ogni settimana (spenti all’avvio) e un menù «Tutte le categorie» a scelta multipla. Con meno di dieci risultati compaiono righe espandibili; altrimenti tessere illustrate. Le schede contengono fonti, costi e date di verifica. Età o prezzi ignoti non vengono inventati.
+Oggi e i sei giorni successivi, nel fuso Europe/Rome. Filtri per giorni, fascia d’età sull’orologio (0–3, 3–6, 6–12, oltre 12; all’avvio tutte) e pulsanti sotto i giorni: Gratis, Fuori Torino (spenti all’avvio) e «Tutte le categorie», che apre sotto quattro pulsanti a scelta multipla. Con meno di dieci risultati compaiono righe espandibili; altrimenti tessere illustrate. Le schede contengono fonti, costi e date di verifica. Età o prezzi ignoti non vengono inventati.
 
 catalog.json è la fonte strutturata; daily-catalog.js è generato. calendar.js contiene le regole temporali; playful.js e playful.css gestiscono l’interfaccia. I vecchi script non vengono più caricati.
 
