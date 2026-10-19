@@ -755,5 +755,77 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "spazio-mamme",
+    "title": "Spazio mamme",
+    "source": "https://www.comune.chivasso.to.it/it/events/spazio-mamme-2517223-2517225",
+    "description": "Mattinata in biblioteca dove le mamme con neonati possono fare una pausa e confrontarsi con altre mamme. Sono presenti professioniste esperte che accompagnano il gruppo.",
+    "asset": "illustrazione-spazio-mamme.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Mothers with babies resting on soft cushions in a library, a cup of tea, a friendly professional talking with them, a peaceful morning light.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×4; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-spazio-mamme.webp",
+      "derivedFrom": "illustrazione-spazio-mamme.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-villaggio-della-zucca",
+    "title": "Il Villaggio della Zucca",
+    "source": "https://ilvillaggiodellazucca.it",
+    "description": "Grande parco a tema con migliaia di zucche, un castello-labirinto e animali della fattoria. Si può dipingere una zucca; nel weekend ci sono giri sui pony, truccabimbi e trampolieri.",
+    "asset": "illustrazione-il-villaggio-della-zucca.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A huge pumpkin village with thousands of pumpkins, a castle maze made of hay bales, ponies and farm animals, children painting pumpkins.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×4; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-villaggio-della-zucca.webp",
+      "derivedFrom": "illustrazione-il-villaggio-della-zucca.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "la-mossa-del-lettore-scacchi-in-biblioteca",
+    "title": "La mossa del lettore - scacchi in biblioteca",
+    "source": "https://bct.comune.torino.it/eventi-attivita/la-mossa-del-lettore-2",
+    "description": "Pomeriggi e mattine per giocare a scacchi in biblioteca, sia per chi conosce già le regole sia per chi parte da zero. Li seguono i volontari del servizio civile.",
+    "asset": "illustrazione-la-mossa-del-lettore-scacchi-in-biblioteca.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children and a young volunteer playing chess at a wooden table in a library, big chess pieces, bookshelves behind, a child thinking with hand on chin.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×4; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-mossa-del-lettore-scacchi-in-biblioteca.webp",
+      "derivedFrom": "illustrazione-la-mossa-del-lettore-scacchi-in-biblioteca.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "mille-storie-in-biblioteca",
+    "title": "Mille storie in biblioteca",
+    "source": "https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-20",
+    "description": "Ogni mercoledì pomeriggio il personale della biblioteca e i volontari leggono storie ad alta voce per i bambini. Il 28 ottobre l'incontro è pensato per i più piccoli fino a 6 anni e si chiude con un laboratorio.",
+    "asset": "illustrazione-mille-storie-in-biblioteca.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A circle of children of different ages listening to a volunteer reading aloud in a library, books flying gently around like birds.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×4; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mille-storie-in-biblioteca.webp",
+      "derivedFrom": "illustrazione-mille-storie-in-biblioteca.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]

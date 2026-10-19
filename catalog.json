@@ -1397,7 +1397,7 @@
     {
       "id": "la-mossa-del-lettore-scacchi-in-biblioteca",
       "organizationId": "org-35",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-la-mossa-del-lettore-scacchi-in-biblioteca.webp",
       "title": "La mossa del lettore - scacchi in biblioteca",
       "category": "Gioco e parchi",
       "municipality": "Torino",
@@ -1437,7 +1437,7 @@
     {
       "id": "mille-storie-in-biblioteca",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-mille-storie-in-biblioteca.webp",
       "title": "Mille storie in biblioteca",
       "category": "Lettura",
       "municipality": "Torino",
@@ -2216,7 +2216,7 @@
     {
       "id": "spazio-mamme",
       "organizationId": "org-comune-di-chivasso",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-spazio-mamme.webp",
       "title": "Spazio mamme",
       "category": "Lettura",
       "municipality": "Chivasso",
@@ -3952,7 +3952,7 @@
     {
       "id": "il-villaggio-della-zucca",
       "organizationId": "org-il-villaggio-della-zucca",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-il-villaggio-della-zucca.webp",
       "title": "Il Villaggio della Zucca",
       "category": "Festa",
       "municipality": "Favria",
