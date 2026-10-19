@@ -25,7 +25,7 @@ main{max-width:1200px;margin:0 auto;padding:32px 28px 20px}
 .age-scale{position:absolute;inset:0}
 .age-mark{position:absolute;transform:translate(-50%,-50%);font:800 20px/1 'Baloo 2',sans-serif;white-space:nowrap;border-radius:50%;padding:3px;z-index:2;color:#246a75}
 .age-mark[data-age="0"]{color:#b06a1e}.age-mark[data-age="3"]{color:#a13f60}.age-mark[data-age="6"]{color:#336a95}.age-mark[data-age="12"]{color:#7360a5}.age-mark[data-age="13"]{color:#286b56}
-.age-mark.selected{background:#ffce63;color:var(--ink)}
+.age-mark.selected{color:var(--ink)}
 .dial-pointer{position:absolute;inset:0;transform:rotate(var(--angle,-135deg));pointer-events:none;transition:transform .07s ease-out;z-index:1}
 .dial-pointer:after{content:'';position:absolute;height:27%;top:23%;width:7px;left:calc(50% - 3.5px);border-radius:7px;background:#c94948}
 .dial-pointer:before{content:'';position:absolute;left:calc(50% - 5px);top:calc(50% - 5px);width:10px;height:10px;border-radius:50%;background:#c94948}
@@ -110,6 +110,6 @@ dialog::backdrop{background:#18394466;backdrop-filter:blur(3px)}
 @media(max-width:600px){.filters{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:auto auto auto;justify-content:center;gap:6px;padding:10px 0 0}.chip{font-size:13px;padding:4px 7px;gap:3px}}
 @media(max-width:360px){.chip{font-size:12px;padding:4px 5px}.chip i{display:none}}
 @media(prefers-reduced-motion:reduce){.chip{transition:none}.chip:hover{transform:none}}
-.dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from calc(var(--angle,0deg) - 30deg),#ffce63 0 60deg,transparent 60deg);-webkit-mask:radial-gradient(closest-side,transparent 46%,#000 47%);mask:radial-gradient(closest-side,transparent 46%,#000 47%);pointer-events:none}
+.dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from var(--arc-from,0deg),#ffce63 0 99.5deg,transparent 99.5deg);-webkit-mask:radial-gradient(closest-side,transparent 46%,#000 47%);mask:radial-gradient(closest-side,transparent 46%,#000 47%);pointer-events:none}
 .dial.unchosen .dial-arc{background:conic-gradient(from 190deg,#ffe08f 0 340deg,transparent 340deg)}
 .dial.unchosen .dial-pointer{opacity:0}
