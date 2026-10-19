@@ -113,3 +113,14 @@ dialog::backdrop{background:#18394466;backdrop-filter:blur(3px)}
 .dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from var(--arc-from,0deg),#ffce63 0 99.5deg,transparent 99.5deg);-webkit-mask:radial-gradient(closest-side,transparent 46%,#000 47%);mask:radial-gradient(closest-side,transparent 46%,#000 47%);pointer-events:none}
 .dial.unchosen .dial-arc{background:conic-gradient(from 190deg,#ffe08f 0 340deg,transparent 340deg)}
 .dial.unchosen .dial-pointer{opacity:0}
+.cat-wrap{position:relative}
+.cat-wrap .chip{transform:rotate(2deg)}
+.c-cat b{font-weight:800;font-size:12px}
+.c-cat.active{border-style:solid;background:#f7b9c6;border-color:#b94e59;color:#123047;box-shadow:0 4px 0 #0000001f,0 6px 8px #845c2430}
+.cat-panel{position:absolute;right:0;top:calc(100% + 8px);z-index:20;min-width:230px;padding:8px;background:#fffdf5;border:2px solid #b9b2a3;border-radius:10px 4px 10px 4px;box-shadow:0 8px 18px #845c2433;display:grid;gap:2px}
+.cat-panel[hidden]{display:none}
+.cat-panel label{display:flex;align-items:center;gap:10px;min-height:44px;padding:4px 8px;border-radius:6px;font:700 15px/1.1 'Baloo 2',sans-serif;color:#2f3d39;cursor:pointer}
+.cat-panel label:hover{background:#f4efe3}
+.cat-panel .cat-all{border-bottom:1px dashed #c9bfa8;border-radius:6px 6px 0 0}
+.cat-panel input{width:20px;height:20px;accent-color:#c94948;margin:0}
+@media(max-width:600px){.filters{grid-template-columns:repeat(3,auto)}.cat-wrap{grid-column:1/-1;justify-self:center}.cat-panel{right:50%;transform:translateX(50%)}}
