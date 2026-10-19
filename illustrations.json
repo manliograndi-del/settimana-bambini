@@ -1601,5 +1601,23 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "torneo-mario-kart",
+    "title": "Torneo Mario Kart",
+    "source": "https://www.bibliotecarchimede.it/torneo-mario-kart-24-ottobre/",
+    "description": "Torneo di videogiochi Mario Kart nell'area gaming della biblioteca. Si gioca in due gironi separati per età, uno per ragazzi dagli 11 ai 14 anni.",
+    "asset": "illustrazione-torneo-mario-kart.png",
+    "generatedOn": "2026-10-19",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Teenagers sitting on bean bags holding game controllers in front of a big screen showing a colourful cartoon kart race, cheering, in a library gaming corner (generic karts, no famous characters).",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 2×2; non fotografia né materiale ufficiale. Lo schermo richiama il videogioco: inclusa su decisione di Manlio (19 ottobre 2026).",
+    "optimizedAsset": {
+      "file": "illustrazione-torneo-mario-kart.webp",
+      "derivedFrom": "illustrazione-torneo-mario-kart.png",
+      "date": "2026-10-19",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]
