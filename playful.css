@@ -29,7 +29,7 @@ main{max-width:1200px;margin:0 auto;padding:32px 28px 20px}
 .dial-pointer{position:absolute;inset:0;transform:rotate(var(--angle,-135deg));pointer-events:none;transition:transform .07s ease-out;z-index:1}
 .dial-pointer:after{content:'';position:absolute;height:27%;top:23%;width:7px;left:calc(50% - 3.5px);border-radius:7px;background:#c94948}
 .dial-pointer:before{content:'';position:absolute;left:calc(50% - 5px);top:calc(50% - 5px);width:10px;height:10px;border-radius:50%;background:#c94948}
-.dial.unchosen .dial-pointer{opacity:.3}
+
 .days-area{flex:1;max-width:745px;min-width:0}
 .days{display:flex;gap:10px;justify-content:flex-end;align-items:center;padding:12px 4px}
 .day{position:relative;border:0;background:#eee7d8;color:#625d54;transform:rotate(var(--turn));border-radius:6px;box-shadow:0 4px 5px #845c2422;width:80px;min-width:0;flex:1;max-width:88px;min-height:110px;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:8px 2px;transition:transform .2s,background .2s,color .2s}
@@ -110,3 +110,6 @@ dialog::backdrop{background:#18394466;backdrop-filter:blur(3px)}
 @media(max-width:600px){.filters{grid-column:1/-1;grid-row:2;display:grid;grid-template-columns:auto auto auto;justify-content:center;gap:6px;padding:10px 0 0}.chip{font-size:13px;padding:4px 7px;gap:3px}}
 @media(max-width:360px){.chip{font-size:12px;padding:4px 5px}.chip i{display:none}}
 @media(prefers-reduced-motion:reduce){.chip{transition:none}.chip:hover{transform:none}}
+.dial-arc{position:absolute;inset:3%;border-radius:50%;background:conic-gradient(from calc(var(--angle,0deg) - 16deg),#ffce63 0 32deg,transparent 32deg);-webkit-mask:radial-gradient(closest-side,transparent 52%,#000 53%);mask:radial-gradient(closest-side,transparent 52%,#000 53%);pointer-events:none}
+.dial.unchosen .dial-arc{background:conic-gradient(from 166deg,#ffe08f 0 338deg,transparent 338deg)}
+.dial.unchosen .dial-pointer{opacity:0}
