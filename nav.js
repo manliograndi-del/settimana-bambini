@@ -84,9 +84,8 @@ function buildTree(){
     node.kids = [...new Set(pl.map(p=>p.k))].map((k,i)=>({id:s.id+'-'+i,t:k,g:GLOSS[(i*2+1)%9],icon:CAT[k]||'gioco',kind:'places',items:()=>pl.filter(p=>p.k===k),leaf:true}));
     root.kids.push(node);
   }
-  const voce = (v,icon) => ({id:'v-'+v.id,t:v.t,kind:'voce',icon,v});
-  const aiuti = {id:'aiuti',t:'Aiuti e servizi',nav:'Aiuti',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'aiuti',kids:[],items:()=>AIUTI.cats.flatMap(c=>c.voci),
-    txt:'Aiuti per le famiglie divisi per bisogno: prima i servizi di Torino, poi quelli della cintura, poi quelli della Regione e dello Stato.'};
+  const voce = (v,icon) => ({id:'v-'+v.id,t:v.t,kind:'voce',icon:v.id==='U01'?icon:'v-'+v.id,v});
+  const aiuti = {id:'aiuti',t:'Aiuti e servizi',nav:'Aiuti',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'aiuti',kids:[],items:()=>AIUTI.cats.flatMap(c=>c.voci)};
   aiuti.kids = AIUTI.cats.map((c,i)=>{ const icon=AIUTI_IC[c.id]||'aiuti';
     const n = {id:'aiuti-'+c.id,t:c.t,g:GLOSS[i%9],icon,kind:'aiuti',leaf:true,items:()=>c.voci};
     n.kids = c.voci.map(id=>voce(AIUTI.voci[id],icon)); return n; });
@@ -130,8 +129,8 @@ function render(anim){
       <button class="go-arrow" data-open="settimana">Tutti <i>${SVG.arrow}</i></button></div>${daysHTML()}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${homeHTML()}${note()}</div></main>`;
   } else {
-    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}${state.age?' per '+AGE.find(a=>a.id===state.age).l+' anni':''}`;
-    h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}<small>${sub}</small></h1></div>${urgHTML()}
+    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='aiuti' ? '' : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}${state.age?' per '+AGE.find(a=>a.id===state.age).l+' anni':''}`;
+    h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
       ${cur.txt?`<p class="intro">${esc(cur.txt)}</p>`:''}${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
@@ -174,7 +173,7 @@ function catsHTML(list){
     if(st==='a'){ const lg = n.kind==='places'?[...new Set(n.items().filter(p=>p.logo&&!p.dk).map(p=>p.logo))].slice(0,3):[];
       return `<button class="cA" data-open="${n.id}" style="--g:${n.g}"><span class="hd">${ic(n.icon)}<em>${c}</em></span><b>${esc(n.t)}</b><span class="lgs">${lg.length?lg.map(l=>`<img src="${l}" alt="">`).join(''):`<i>${esc(DESC[n.t]||c+' '+u)}</i>`}</span></button>`; }
     if(st==='b') return `<button class="cB" data-open="${n.id}" style="--g:${n.g}"><span class="ic">${ic(n.icon)}</span><span class="tx"><b>${esc(n.t)}</b>${DESC[n.t]?`<small>${esc(DESC[n.t])}</small>`:''}</span><em>${c}<span>${u}</span></em></button>`;
-    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span>${c} ${u}</span><span>→</span></small></button>`;
+    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span>${n.kind==='aiuti'?'':c+' '+u}</span><span>→</span></small></button>`;
   }).join('')}</div>`;
 }
 function weekHTML(){
@@ -196,8 +195,9 @@ function weekHTML(){
 let typeSel = null;
 function nodeHTML(n){
   let h = filtersHTML();
-  if(n.kind==='aiuti' && n.leaf) return h + `<h2>Le voci <small>${n.kids.length}</small></h2>${vociHTML(n.kids)}`;
+  if(n.kind==='aiuti' && n.leaf) return h + `<h2>Le voci</h2>${vociHTML(n.kids)}`;
   if(n.kids && n.kids.length) h += `<h2>Scegli ${n.kind==='aiuti'?'di che cosa avete bisogno':'una categoria'}</h2>${catsHTML(n.kids)}`;
+  if(n.id==='aiuti') h += urgHTML();
   if(n.leaf && n.kind==='places'){
     const it = n.items(), v = it.filter(plOK);
     const types = [...new Set(it.map(p=>p.ty).filter(Boolean))];
@@ -212,8 +212,8 @@ function nodeHTML(n){
   return h;
 }
 /* ---- aiuti: categorie, voci, aiuto urgente ---- */
-const urgHTML = () => (cur.kind==='aiuti'||cur.kind==='voce') && cur.id!=='v-U01' ? `<button class="urg" data-open="v-U01">${ic('a-urgente')}<b>Serve aiuto urgente?</b><span>112, pronto soccorso dei bambini, numeri per chi ha paura</span></button>` : '';
-const vociHTML = list => `<div class="voci">${list.map(n=>`<button class="vc" data-open="${n.id}"><b>${esc(n.t)}</b><small>${esc(n.v.sub)}</small><i>${SVG.arrow}</i></button>`).join('')}</div>`;
+const urgHTML = () => `<button class="urg" data-open="v-U01">${ic('a-urgente')}<b>Serve aiuto urgente?</b><span>112, pronto soccorso dei bambini, numeri per chi ha paura</span></button>`;
+const vociHTML = list => `<div class="grid">${list.map(n=>`<button class="card" data-open="${n.id}"><span class="pic"><img class="pimg" src="scene/${n.icon}.webp" alt=""></span><span class="t">${esc(n.t)}</span><span class="m">${esc(n.v.sub)}</span><span class="play">${SVG.play} Scopri</span></button>`).join('')}</div>`;
 function voceHTML(n){
   const v = n.v, rel = v.rel.filter(id=>id!=='U01'&&AIUTI.voci[id]).map(id=>index['v-'+id]);
   return `<article class="voce">${v.html}</article>${v.note?`<p class="vnote">${esc(v.note)}</p>`:''}${rel.length?`<h2>Guardate anche</h2>${vociHTML(rel)}`:''}`;
