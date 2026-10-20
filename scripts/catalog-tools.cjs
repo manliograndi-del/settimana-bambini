@@ -49,12 +49,14 @@ function build(root, {checkOnly=false, now=new Date()}={}) {
   if(!checkOnly) {
     const script='/* Catalogo pubblico. Generato da scripts/build.cjs. */\nconst DATA = '+JSON.stringify({verifiedEvents:data.events.filter(e=>e.status==='published'&&!e.isExample),organizations:data.organizations})+';\n';
     fs.writeFileSync(path.join(root,'daily-catalog.js'),script);
-    let html=fs.readFileSync(path.join(root,'index.html'),'utf8');
-    for(const name of ['daily-catalog.js','calendar.js','playful.js','playful.css']) {
-      const version=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,name))).digest('hex').slice(0,12);
-      html=html.replace(new RegExp(name.replace('.','\\.')+'(?:\\?v=[^"\\s]+)?','g'),name+'?v='+version);
+    for(const page of ['index.html','calendario.html']) {
+      let html=fs.readFileSync(path.join(root,page),'utf8');
+      for(const name of ['daily-catalog.js','calendar.js','playful.js','playful.css','luoghi.js','nav.js','nav.css']) {
+        const version=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,name))).digest('hex').slice(0,12);
+        html=html.replace(new RegExp('(["/])'+name.replace('.','\\.')+'(?:\\?v=[^"\\s]+)?','g'),'$1'+name+'?v='+version);
+      }
+      fs.writeFileSync(path.join(root,page),html);
     }
-    fs.writeFileSync(path.join(root,'index.html'),html);
   }
   return {...result,days,missingDays:days.filter(d=>!d.count).map(d=>d.date)};
 }

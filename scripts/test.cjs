@@ -26,4 +26,8 @@ const ctx=vm.createContext({});vm.runInContext(fs.readFileSync(path.join(root,'d
 assert.equal(vm.runInContext('DATA.verifiedEvents.length',ctx),data.events.filter(e=>e.status==='published'&&!e.isExample).length);
 assert.equal(coverage(data.events,new Date('2026-10-18T00:00:00+02:00')).length,13);
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');assert(!/src="(?:data|verified|revision|details|remaining)\.js/.test(html));
-console.log('OK: calendario, cambio ora, scadenze, errori catalogo e caricamento autonomo.');
+const navCtx=vm.createContext({});vm.runInContext(fs.readFileSync(path.join(root,'luoghi.js'),'utf8')+';this.L=LUOGHI',navCtx);
+for(const p of navCtx.L.places){assert(p.n&&p.s&&p.k,'posto incompleto');for(const k of ['logo','ente'])if(p[k])assert(fs.existsSync(path.join(root,p[k])),'logo mancante: '+p[k]);}
+assert(/src="nav\.js/.test(html)&&/src="luoghi\.js/.test(html),'la prima pagina deve caricare nav.js e luoghi.js');
+for(const m of fs.readFileSync(path.join(root,'nav.js'),'utf8').matchAll(/'([a-z0-9]+)'/g))void m;
+console.log('OK: calendario, cambio ora, scadenze, errori catalogo e caricamento autonomo, posti e loghi.');

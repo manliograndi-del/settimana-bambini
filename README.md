@@ -8,9 +8,11 @@ Leggere [AGENTS.md](AGENTS.md) e [docs/PROGETTO.md](docs/PROGETTO.md) prima di l
 
 ## Uso e dati
 
+La prima pagina (index.html, nav.js, nav.css) è una navigazione a cascata: Eventi della settimana, Dove andare, Corsi e sport, Negozi e feste, Aiuti e servizi. Si scende da sezione a categoria a scheda, con «Indietro» sempre visibile. Gli eventi vengono da daily-catalog.js; posti e servizi da luoghi.js (solo i posti controllati dalle ricerche di ottobre 2026), con i loghi in img/logos/ e i disegni in ico/ (piccoli) e scene/ (grandi). Il calendario con l’orologio delle età resta in calendario.html.
+
 Oggi e i sei giorni successivi, nel fuso Europe/Rome. Filtri per giorni, fascia d’età sull’orologio (0–3, 3–6, 6–12, oltre 12; all’avvio tutte) e pulsanti sotto i giorni: Gratis, Fuori Torino (spenti all’avvio) e «Tutte le categorie», che apre sotto quattro pulsanti a scelta multipla. Con meno di dieci risultati compaiono righe espandibili; altrimenti tessere illustrate. Le schede contengono fonti, costi e date di verifica. Età o prezzi ignoti non vengono inventati.
 
-catalog.json è la fonte strutturata; daily-catalog.js è generato. calendar.js contiene le regole temporali; playful.js e playful.css gestiscono l’interfaccia. I vecchi script non vengono più caricati.
+catalog.json è la fonte strutturata; daily-catalog.js è generato. calendar.js contiene le regole temporali; playful.js e playful.css gestiscono il calendario (calendario.html). I vecchi script non vengono più caricati.
 
 Lo scorrimento quotidiano non verifica nuove attività, cancellazioni o disponibilità. La ricerca editoriale prevista è settimanale, con una riserva di tredici giorni. Un giorno privo di schede non prova l’assenza di eventi nel territorio.
 
