@@ -64,7 +64,7 @@ const SEC = {
   'Negozi e feste':{id:'negozi',nav:'Negozi',g:'var(--c7)',nc:'#ffa04d',icon:'negozi',txt:'Giocattoli, vestiti, usato e posti per la festa di compleanno.',tip:'L’usato per bambini dura poco e costa poco: c’è una categoria apposta.'},
 };
 const CAT = {
-  'Musei e castelli':'castello','Parchi e giardini':'parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'ludoteche','Fattorie, natura e parchi avventura':'fattoria',
+  'Musei e castelli':'castello','Parchi e giardini':'giochi-parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'ludoteche','Fattorie, natura e parchi avventura':'fattoria',
   'Giochi al coperto e piscine':'giochi-coperto','Teatro, circo, musica, arte':'arte','Scienza, scacchi, lingue, coding':'scacchi','Ginnastica, arti marziali, arrampicata':'sport2',
   'Danza, equitazione, pattinaggio, squadra':'danza','Nuoto':'nuoto','Abbigliamento e usato':'vestiti','Giocattoli e librerie':'giocattoli','Feste di compleanno':'feste'};
 const GLOSS = ['var(--c1)','var(--c2)','var(--c3)','var(--c4)','var(--c5)','var(--c6)','var(--c7)','var(--c8)','var(--c9)'];
@@ -201,7 +201,7 @@ function nodeHTML(n){
     h += `<div style="height:14px"></div>`;
     const w = v.filter(p=>!typeSel||p.ty===typeSel).sort((a,b)=>(b.ev?1:0)-(a.ev?1:0)||(b.logo?1:0)-(a.logo?1:0)||a.n.localeCompare(b.n));
     const pc = section(n).g;
-    h += w.length ? `<div class="grid">${w.map(p=>`<button class="card" data-pl="${p.id}"><span class="pic ${p.logo?'haslogo':''} ${p.dk?'dark':''}" style="--pc:color-mix(in srgb,${pc},#fff 55%)">${p.logo?`<img class="lg" src="${p.logo}" alt="Logo di ${esc(p.n)}">`:`<img class="pimg" src="ico/${n.icon}.webp" alt="">`}${p.ente?`<img class="by" src="${p.ente}" alt="Gestito da un ente pubblico">`:''}<span class="age">${p.a0!=null?`${p.a0}–${p.a1??'+'}`:'tutti'}</span>${p.pr==='gratis'?'<span class="age free">gratis</span>':''}</span>
+    h += w.length ? `<div class="grid">${w.map(p=>`<button class="card" data-pl="${p.id}"><span class="pic ${p.logo&&!p.ll?'haslogo':''} ${p.dk?'dark':''}" style="--pc:color-mix(in srgb,${pc},#fff 55%)">${p.ll?`<img class="pimg mapt" src="img/mappe/t${p.id}.webp" alt="" loading="lazy"><i class="dot"></i><img class="mico" src="ico/giochi-parco.webp" alt="">${p.logo||p.ente?`<img class="by" src="${p.logo||p.ente}" alt="">`:''}`:p.logo?`<img class="lg" src="${p.logo}" alt="Logo di ${esc(p.n)}">`:`<img class="pimg" src="ico/${n.icon}.webp" alt="">`}${p.ente&&!p.ll?`<img class="by" src="${p.ente}" alt="Gestito da un ente pubblico">`:''}<span class="age">${p.a0!=null?`${p.a0}–${p.a1??'+'}`:'tutti'}</span>${p.pr==='gratis'?'<span class="age free">gratis</span>':''}</span>
       <span class="t">${esc(p.n)}</span><span class="m">${esc(p.ty||'')} · ${esc(p.com||'')}${p.ev?` · <b style="color:#b04a17">${p.ev.length} ${p.ev.length>1?'eventi':'evento'}</b>`:''}</span><span class="play">${SVG.play} Scopri</span></button>`).join('')}</div>`
       : `<div class="empty">Nessun posto con questi filtri. Provate a togliere un filtro.</div>`;
   }
@@ -231,7 +231,7 @@ function showEvent(id){
     <p><strong>${esc(e.age)} · ${esc(e.cost)}</strong></p>${e.booking?`<p>${esc(e.booking)}</p>`:''}<p>${link(e.url,'Sito di chi lo organizza')}</p><p class="src">${esc(e.org)}${e.checked?` · informazioni controllate il ${esc(e.checked.split('-').reverse().join('/'))}`:''}. Variazioni da controllare alla fonte.</p>
     ${pl?`<button class="go" data-pl="${pl.id}">Scopri questo posto: ${esc(pl.n)} →</button>`:''}`);
 }
-const mapHTML = p => `<div class="pmap"><img src="img/mappe/${p.id}.webp" alt="Mappa: ${esc(p.n)}" loading="lazy"><img class="pin" src="ico/parco.webp" alt=""><small>© OpenStreetMap</small></div><a class="howto" href="https://www.google.com/maps/dir/?api=1&destination=${p.ll[0]},${p.ll[1]}" target="_blank" rel="noopener noreferrer">Come arrivare</a>`;
+const mapHTML = p => `<div class="pmap"><img src="img/mappe/${p.id}.webp" alt="Mappa: ${esc(p.n)}" loading="lazy"><i class="dot"></i><img class="mico" src="ico/giochi-parco.webp" alt=""><small>© OpenStreetMap</small></div><a class="howto" href="https://www.google.com/maps/dir/?api=1&destination=${p.ll[0]},${p.ll[1]}" target="_blank" rel="noopener noreferrer">Come arrivare</a>`;
 function showPlace(id){
   const p = NAV.places[id];
   sheet(`${p.logo||p.ente?`<img src="${p.logo||p.ente}" alt="" style="max-height:70px;max-width:60%;display:block;margin:4px 0;padding:6px 8px;border-radius:8px;background:${p.dk?'#26201f':'#fff'}">`:''}<h3>${esc(p.n)}</h3><p><strong>${esc(p.ty||'')} · ${esc(p.com||'')}${p.a0!=null?` · ${p.a0}–${p.a1??'+'} anni`:''}${p.pr?` · ${esc(p.pr)}`:''}</strong></p>
