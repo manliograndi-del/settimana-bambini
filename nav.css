@@ -229,3 +229,9 @@ span.art{display:block;background-repeat:no-repeat}
 .vk{display:block;font:700 16px/1.2 var(--logo)}
 .vlink{display:inline;color:var(--c8);font-weight:800;text-decoration:underline;text-underline-offset:2px}
 .vnote{margin:10px 2px 0;font-weight:800;color:var(--muted);font-style:italic}
+
+/* ===== scritta animata 5per1000ci ===== */
+.intro5{position:fixed;inset:0;z-index:40;display:grid;place-items:center;pointer-events:none;overflow:hidden}
+.intro5 b{font:700 46px/1 var(--logo);white-space:nowrap;-webkit-text-stroke:2px var(--ink);paint-order:stroke fill;opacity:0;will-change:transform,opacity}
+.pill5{position:fixed;z-index:41;right:max(12px,env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));width:min(50vw,340px);padding:10px 6px;border-radius:16px;
+  background:#26201ff0;box-shadow:0 5px 0 #0006;font:700 22px/1 var(--logo);text-align:center;white-space:nowrap;opacity:0}
