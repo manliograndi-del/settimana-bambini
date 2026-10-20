@@ -83,11 +83,11 @@ function buildTree(){
     root.kids.push(node);
   }
   const voce = (v,icon) => ({id:'v-'+v.id,t:v.t,kind:'voce',icon:v.id==='U01'?icon:'v-'+v.id,v});
-  const aiuti = {id:'aiuti',t:'Aiuti e servizi',nav:'Aiuti',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'aiuti',kids:[],items:()=>AIUTI.cats.flatMap(c=>c.voci)};
+  const aiuti = {id:'aiuti',t:'Servizi',nav:'Servizi',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'aiuti',kids:[],items:()=>AIUTI.cats.flatMap(c=>c.voci)};
   aiuti.kids = AIUTI.cats.map((c,i)=>{ const icon=AIUTI_IC[c.id]||'aiuti';
     const n = {id:'aiuti-'+c.id,t:c.t,g:GLOSS[i%9],icon,kind:'aiuti',leaf:true,items:()=>c.voci};
     n.kids = c.voci.map(id=>voce(AIUTI.voci[id],icon)); return n; });
-  root.kids.push(aiuti);
+  root.kids.splice(1,0,aiuti);
   const urg = voce(AIUTI.voci.U01,'a-urgente'); urg.parent = aiuti;
   const index = {[urg.id]:urg}; (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(root,null);
   return {root,index};
@@ -154,7 +154,7 @@ function homeHTML(){
   return h;
 }
 
-const DESC = {'Dove andare':'Musei, parchi, biblioteche, fattorie','Corsi e sport':'Teatro, nuoto, musica, lingue, judo','Negozi e feste':'Giocattoli, vestiti, usato, compleanni','Aiuti e servizi':'Scuola, salute, bonus, famiglia, ragazzi',
+const DESC = {'Dove andare':'Musei, parchi, biblioteche, fattorie','Corsi e sport':'Teatro, nuoto, musica, lingue, judo','Negozi e feste':'Giocattoli, vestiti, usato, compleanni','Servizi':'Scuola, salute, bonus, famiglia, ragazzi',
   'Musei e castelli':'Musei per bambini, castelli e regge','Parchi e giardini':'Prati, giochi e alberi','Biblioteche':'Libri da leggere e prendere in prestito','Ludoteche ed eduteche':'Stanze piene di giochi, con educatori',
   'Fattorie, natura e parchi avventura':'Animali, orti, percorsi sugli alberi','Giochi al coperto e piscine':'Per i giorni di pioggia','Teatro, circo, musica, arte':'Palco, strumenti, colori',
   'Scienza, scacchi, lingue, coding':'Inglese, scacchi, programmazione','Ginnastica, arti marziali, arrampicata':'Muoversi, cadere bene, arrampicare','Danza, equitazione, pattinaggio, squadra':'Danza, cavalli, pattini, squadra',
