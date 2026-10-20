@@ -47,12 +47,10 @@ const PUMPKIN = '<svg viewBox="0 0 30 28" aria-hidden="true"><path d="M15 6c0-3 
 const ic = k => `<img class="pi" src="ico/${k}.webp" alt="">`;
 const scene = k => `<img class="scene" src="scene/${k}.webp" alt="">`;
 
-const AGE = [{id:'0-3',l:'0–3',a:0,b:3,c:'var(--l1)'},{id:'3-6',l:'3–6',a:3,b:6,c:'var(--l2)'},{id:'6-12',l:'6–12',a:6,b:12,c:'var(--l4)'},{id:'12+',l:'12+',a:12,b:99,c:'var(--l5)'}];
-const state = {age:null, free:false, day:null, cat:null, cs:'c'};
-const resetFilters = () => { state.age=null; state.free=false; };
-const fitAge = (a0,a1) => { if(!state.age) return true; const r=AGE.find(x=>x.id===state.age); if(a0==null&&a1==null) return true; return (a0??0) <= r.b && (a1??99) >= r.a; };
-const evOK = e => fitAge(e.a0!=null?e.a0/12:null, e.a1!=null?e.a1/12:null) && (!state.free||e.free);
-const plOK = p => fitAge(p.a0,p.a1) && (!state.free||p.pr==='gratis');
+const state = {free:false, day:null, cat:null, cs:'c'};
+const resetFilters = () => { state.free=false; };
+const evOK = e => !state.free||e.free;
+const plOK = p => !state.free||p.pr==='gratis';
 
 const EVCATS = [
   {id:'storie',t:'Storie e letture',s:'Storie',icon:'storie',g:'var(--c6)'},
@@ -120,7 +118,7 @@ function daysHTML(){
 }
 function filtersHTML(){
   if(cur.kind==='aiuti'||cur.kind==='voce') return '';
-  return `<div class="ages"><span class="lab">Età</span>${AGE.map(a=>`<button class="ag" data-age="${a.id}" aria-pressed="${state.age===a.id}" style="--ac:${a.c}">${a.l}</button>`).join('')}<button class="tg" data-free aria-pressed="${state.free}">Gratis</button></div>`;
+  return `<div class="ages"><button class="tg" data-free aria-pressed="${state.free}">Gratis</button></div>`;
 }
 function render(anim){
   let h = topHTML();
@@ -129,7 +127,7 @@ function render(anim){
       <button class="go-arrow" data-open="settimana">Tutti <i>${SVG.arrow}</i></button></div>${daysHTML()}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${homeHTML()}${note()}</div></main>`;
   } else {
-    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='aiuti' ? '' : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}${state.age?' per '+AGE.find(a=>a.id===state.age).l+' anni':''}`;
+    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='aiuti' ? '' : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}`;
     h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
       ${cur.txt?`<p class="intro">${esc(cur.txt)}</p>`:''}${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
@@ -257,7 +255,6 @@ document.addEventListener('click',ev=>{
   }
   else if(t.dataset.cat){ resetFilters(); state.cat = state.cat===t.dataset.cat?null:t.dataset.cat; render(); }
   else if(t.dataset.allev!==undefined){ resetFilters(); state.cat=null; state.day=null; render(); }
-  else if(t.dataset.age!==undefined){ state.age = state.age===t.dataset.age?null:t.dataset.age; render(); }
   else if(t.dataset.free!==undefined){ state.free=!state.free; render(); }
   else if(t.dataset.ty!==undefined){ typeSel=t.dataset.ty||null; render(); }
   else if(t.dataset.ev){ document.querySelector('.sheet')?.remove(); showEvent(t.dataset.ev); }
