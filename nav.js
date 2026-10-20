@@ -128,7 +128,7 @@ function render(anim){
   } else {
     const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : '';
     h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
-      ${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
+      ${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
   $('#app').innerHTML = h;
