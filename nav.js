@@ -64,7 +64,7 @@ const SEC = {
   'Negozi e feste':{id:'negozi',nav:'Negozi',g:'var(--c7)',nc:'#ffa04d',icon:'negozi',txt:'Giocattoli, vestiti, usato e posti per la festa di compleanno.',tip:'L’usato per bambini dura poco e costa poco: c’è una categoria apposta.'},
 };
 const CAT = {
-  'Musei e castelli':'castello','Parchi e giardini':'giochi-parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'ludoteche','Fattorie, natura e parchi avventura':'fattoria',
+  'Musei e castelli':'castello','Parchi con aree gioco':'giochi-parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'ludoteche','Fattorie, natura e parchi avventura':'fattoria',
   'Giochi al coperto e piscine':'giochi-coperto','Teatro, circo, musica, arte':'arte','Scienza, scacchi, lingue, coding':'scacchi','Ginnastica, arti marziali, arrampicata':'sport2',
   'Danza, equitazione, pattinaggio, squadra':'danza','Nuoto':'nuoto','Abbigliamento e usato':'vestiti','Giocattoli e librerie':'giocattoli','Feste di compleanno':'feste'};
 const GLOSS = ['var(--c1)','var(--c2)','var(--c3)','var(--c4)','var(--c5)','var(--c6)','var(--c7)','var(--c8)','var(--c9)'];
@@ -156,7 +156,7 @@ function homeHTML(){
 }
 
 const DESC = {'Dove andare':'Musei, parchi, biblioteche, fattorie','Corsi e sport':'Teatro, nuoto, musica, lingue, judo','Negozi e feste':'Giocattoli, vestiti, usato, compleanni','Servizi':'Scuola, salute, bonus, famiglia, ragazzi',
-  'Musei e castelli':'Musei per bambini, castelli e regge','Parchi e giardini':'Prati, giochi e alberi','Biblioteche':'Libri da leggere e prendere in prestito','Ludoteche ed eduteche':'Stanze piene di giochi, con educatori',
+  'Musei e castelli':'Musei per bambini, castelli e regge','Parchi con aree gioco':'Prati, giochi e alberi','Biblioteche':'Libri da leggere e prendere in prestito','Ludoteche ed eduteche':'Stanze piene di giochi, con educatori',
   'Fattorie, natura e parchi avventura':'Animali, orti, percorsi sugli alberi','Giochi al coperto e piscine':'Per i giorni di pioggia','Teatro, circo, musica, arte':'Palco, strumenti, colori',
   'Scienza, scacchi, lingue, coding':'Inglese, scacchi, programmazione','Ginnastica, arti marziali, arrampicata':'Muoversi, cadere bene, arrampicare','Danza, equitazione, pattinaggio, squadra':'Danza, cavalli, pattini, squadra',
   'Nuoto':'Corsi in piscina, dai neonati in su','Abbigliamento e usato':'Vestiti nuovi e di seconda mano','Giocattoli e librerie':'Giochi e libri per ragazzi','Feste di compleanno':'Sale e animatori per la festa'};
