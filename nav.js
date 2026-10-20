@@ -271,31 +271,30 @@ const start = index[location.hash.slice(1)]; if(start) cur=start;
 try{ history.replaceState({id:cur.id},''); }catch(e){}
 render(false);
 
-/* ---- scritta animata «5per1000ci»: entra enorme, scende in basso a destra e resta 5 secondi come bottone. Una volta al giorno, solo in prima pagina. ---- */
+/* ---- scritta animata «5per1000ci»: parte enorme e velocissima, si posa in basso a destra, sotto compare la pillola nera; resta 5 secondi. Una volta al giorno, solo in prima pagina. ---- */
 document.fonts.ready.then(function intro(){
   if(cur!==root) return;
   const today = romeDate(new Date());
   try{ if(localStorage.getItem('intro5x1000')===today) return; localStorage.setItem('intro5x1000',today); }catch(e){}
   const WORD = '5per1000ci', cols = ['#ff5a5f','#ffb000','#3fd17a','#2fa3ff','#c46bff','#ff7a1a','#2fd0c4'];
-  const paint = () => [...WORD].map((c,i)=>`<span style="color:${cols[i%7]}">${c}</span>`).join('');
-  const ov = document.createElement('div'); ov.className = 'intro5'; ov.innerHTML = `<b>${paint()}</b>`;
-  const pill = document.createElement('button'); pill.className = 'pill5'; pill.type = 'button'; pill.innerHTML = paint(); pill.setAttribute('aria-label',WORD);
-  document.body.append(ov, pill);
+  const ov = document.createElement('div'); ov.className = 'intro5';
+  ov.innerHTML = `<b>${[...WORD].map((c,i)=>`<span style="color:${cols[i%7]}">${c}</span>`).join('')}</b>`;
+  // la pillola sta sotto la scritta: tiene solo lo spazio del testo, il testo vero è quello che arriva volando
+  const pill = document.createElement('button'); pill.className = 'pill5'; pill.type = 'button'; pill.setAttribute('aria-label',WORD);
+  pill.innerHTML = `<span style="visibility:hidden">${WORD}</span>`;
+  document.body.append(pill, ov);
   const big = ov.firstChild, bw = big.scrollWidth, W = innerWidth, H = innerHeight;
   pill.style.fontSize = ((pill.clientWidth-28)/bw*46)+'px';
-  const done = () => { ov.remove(); pill.remove(); };
-  pill.addEventListener('click', done);
-  const show = pill.animate([{opacity:0,transform:'scale(.92)'},{opacity:1,transform:'scale(1)',offset:.06},{opacity:1,transform:'scale(1)',offset:.95},{opacity:0,transform:'scale(1)'}],
-    {duration:5600,delay:matchMedia('(prefers-reduced-motion: reduce)').matches?0:3850,easing:'ease-out',fill:'both'});
-  show.onfinish = done;
-  if(matchMedia('(prefers-reduced-motion: reduce)').matches){ ov.remove(); return; }
-  // partenza: una sola cifra, il primo «1», più grande dello schermo; arrivo: sopra il bottone
   const ch = bw/WORD.length, k = Math.max(W,H)*1.3/ch, pb = pill.getBoundingClientRect();
   const dx = pb.left+pb.width/2-W/2, dy = pb.top+pb.height/2-H/2, end = (pill.clientWidth-28)/bw;
+  const done = () => { ov.remove(); pill.remove(); };
+  pill.addEventListener('click', done);
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches, FLY = reduce ? 0 : 1300;
   big.animate([
-    {opacity:0,transform:`translate(${ch*.5*k}px,0) scale(${k})`},
-    {opacity:1,transform:`translate(${ch*.5*k}px,0) scale(${k})`,offset:.1},
-    {opacity:1,transform:`translate(${dx}px,${dy}px) scale(${end})`,offset:.92},
-    {opacity:0,transform:`translate(${dx}px,${dy}px) scale(${end})`}
-  ],{duration:4400,easing:'cubic-bezier(.55,0,.2,1)',fill:'forwards'});
+    {transform:`translate(${ch*.5*k}px,0) scale(${k})`},
+    {transform:`translate(${dx}px,${dy}px) scale(${end})`}
+  ],{duration:FLY,easing:'cubic-bezier(.2,.9,.25,1)',fill:'forwards'});
+  const fade = [{opacity:1},{opacity:1,offset:.95},{opacity:0}];
+  pill.animate([{opacity:0},{opacity:1,offset:.04},{opacity:1,offset:.95},{opacity:0}],{duration:5500,delay:FLY,fill:'both'}).onfinish = done;
+  big.animate(fade,{duration:5500,delay:FLY,fill:'forwards'});
 });
