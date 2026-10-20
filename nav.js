@@ -123,11 +123,11 @@ function filtersHTML(){
 function render(anim){
   let h = topHTML();
   if(cur===root){
-    h += `<section class="strip"><div class="in"><div class="strip-h"><h1 class="big-t">Questa settimana!<small>${NAV.events.length} eventi da ${dayName(WEEK[0],{weekday:'long'})} a ${dayName(WEEK[6],{weekday:'long'})}</small></h1>
+    h += `<section class="strip"><div class="in"><div class="strip-h"><h1 class="big-t">Questa settimana!<small>Da ${dayName(WEEK[0],{weekday:'long'})} a ${dayName(WEEK[6],{weekday:'long'})}</small></h1>
       <button class="go-arrow" data-open="settimana">Tutti <i>${SVG.arrow}</i></button></div>${daysHTML()}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${homeHTML()}${note()}</div></main>`;
   } else {
-    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='aiuti' ? '' : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}`;
+    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : '';
     h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
       ${cur.txt?`<p class="intro">${esc(cur.txt)}</p>`:''}${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
@@ -136,8 +136,7 @@ function render(anim){
 }
 const note = () => `<p class="note">Torino e dintorni. Date, orari e prezzi degli eventi sono controllati sui siti di chi li organizza: le fonti sono nelle schede. Orari e aperture dei posti possono cambiare, controllate sul loro sito prima di andare. Loghi dei rispettivi proprietari. <a href="calendario.html">Calendario della settimana con l’orologio delle età</a></p>`;
 function weekSub(){
-  const n = NAV.events.filter(evOK).filter(e=>!state.cat||e.c===state.cat).filter(e=>!state.day||e.occ.some(o=>o.startsWith(state.day))).length;
-  return `${n} eventi ${state.day ? 'di '+new Date(state.day+'T12:00').toLocaleDateString('it-IT',{weekday:'long',day:'numeric'}) : `dal ${dayName(WEEK[0],{day:'numeric',month:'long'})} al ${dayName(WEEK[6],{day:'numeric',month:'long'})}`}`;
+  return `${state.day ? ''+new Date(state.day+'T12:00').toLocaleDateString('it-IT',{weekday:'long',day:'numeric'}) : `Dal ${dayName(WEEK[0],{day:'numeric',month:'long'})} al ${dayName(WEEK[6],{day:'numeric',month:'long'})}`}`;
 }
 function evCard(e){
   return `<button class="card" data-ev="${e.id}"><span class="pic">${e.img?`${evArt(e,'ph')}`:''}<span class="age">${esc(shortAge(e))}</span>${e.free?'<span class="age free">gratis</span>':''}</span>
@@ -171,7 +170,7 @@ function catsHTML(list){
     if(st==='a'){ const lg = n.kind==='places'?[...new Set(n.items().filter(p=>p.logo&&!p.dk).map(p=>p.logo))].slice(0,3):[];
       return `<button class="cA" data-open="${n.id}" style="--g:${n.g}"><span class="hd">${ic(n.icon)}<em>${c}</em></span><b>${esc(n.t)}</b><span class="lgs">${lg.length?lg.map(l=>`<img src="${l}" alt="">`).join(''):`<i>${esc(DESC[n.t]||c+' '+u)}</i>`}</span></button>`; }
     if(st==='b') return `<button class="cB" data-open="${n.id}" style="--g:${n.g}"><span class="ic">${ic(n.icon)}</span><span class="tx"><b>${esc(n.t)}</b>${DESC[n.t]?`<small>${esc(DESC[n.t])}</small>`:''}</span><em>${c}<span>${u}</span></em></button>`;
-    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span>${n.kind==='aiuti'?'':c+' '+u}</span><span>→</span></small></button>`;
+    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span></span><span>→</span></small></button>`;
   }).join('')}</div>`;
 }
 function weekHTML(){
@@ -199,8 +198,7 @@ function nodeHTML(n){
   if(n.leaf && n.kind==='places'){
     const it = n.items(), v = it.filter(plOK);
     const types = [...new Set(it.map(p=>p.ty).filter(Boolean))];
-    h += `<h2>I posti <small>${v.length}</small></h2>`;
-    if(types.length>1) h += `<div class="types"><button class="tg" data-ty="" aria-pressed="${!typeSel}">tutti</button>${types.map(t=>`<button class="tg" data-ty="${esc(t)}" aria-pressed="${typeSel===t}">${esc(t)}</button>`).join('')}</div>`;
+    h += `<div style="height:14px"></div>`;
     const w = v.filter(p=>!typeSel||p.ty===typeSel).sort((a,b)=>(b.ev?1:0)-(a.ev?1:0)||(b.logo?1:0)-(a.logo?1:0)||a.n.localeCompare(b.n));
     const pc = section(n).g;
     h += w.length ? `<div class="grid">${w.map(p=>`<button class="card" data-pl="${p.id}"><span class="pic ${p.logo?'haslogo':''} ${p.dk?'dark':''}" style="--pc:color-mix(in srgb,${pc},#fff 55%)">${p.logo?`<img class="lg" src="${p.logo}" alt="Logo di ${esc(p.n)}">`:`<img class="pimg" src="ico/${n.icon}.webp" alt="">`}${p.ente?`<img class="by" src="${p.ente}" alt="Gestito da un ente pubblico">`:''}<span class="age">${p.a0!=null?`${p.a0}–${p.a1??'+'}`:'tutti'}</span>${p.pr==='gratis'?'<span class="age free">gratis</span>':''}</span>
