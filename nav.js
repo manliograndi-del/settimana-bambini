@@ -107,9 +107,8 @@ function topHTML(){
   const nav = root.kids.map(n=>`<button data-open="${n.id}" style="--nc:${n.nc}" aria-current="${sec===n}">${ic(n.icon)}<span>${n.nav}</span></button>`).join('');
   let h = `<header class="top"><div class="in">${logo}<nav class="nav" aria-label="Sezioni">${nav}</nav></div>`;
   if(cur!==root){
-    const p = pathOf(cur); const up = cur.parent;
-    h += `<div class="back"><div class="in"><button class="bk" data-go="${up.id}">${SVG.back} Indietro</button>
-      <span class="path">${p.slice(0,-1).map(n=>`<button data-go="${n.id}">${esc(n===root?'Prima pagina':n.t)}</button><i>›</i>`).join('')}<b>${esc(cur.t)}</b></span></div></div>`;
+    const p = pathOf(cur);
+    h += `<div class="back"><div class="in"><span class="path">${p.slice(0,-1).map(n=>`<button data-go="${n.id}">${esc(n===root?'Prima pagina':n.t)}</button><i>›</i>`).join('')}<b>${esc(cur.t)}</b></span></div></div>`;
   }
   return h + '</header>';
 }
@@ -129,7 +128,7 @@ function render(anim){
   } else {
     const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : '';
     h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
-      ${cur.txt?`<p class="intro">${esc(cur.txt)}</p>`:''}${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
+      ${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
   $('#app').innerHTML = h;
