@@ -231,10 +231,11 @@ function showEvent(id){
     <p><strong>${esc(e.age)} · ${esc(e.cost)}</strong></p>${e.booking?`<p>${esc(e.booking)}</p>`:''}<p>${link(e.url,'Sito di chi lo organizza')}</p><p class="src">${esc(e.org)}${e.checked?` · informazioni controllate il ${esc(e.checked.split('-').reverse().join('/'))}`:''}. Variazioni da controllare alla fonte.</p>
     ${pl?`<button class="go" data-pl="${pl.id}">Scopri questo posto: ${esc(pl.n)} →</button>`:''}`);
 }
+const mapHTML = p => `<div class="pmap"><img src="img/mappe/${p.id}.webp" alt="Mappa: ${esc(p.n)}" loading="lazy"><img class="pin" src="ico/parco.webp" alt=""><small>© OpenStreetMap</small></div><a class="howto" href="https://www.google.com/maps/dir/?api=1&destination=${p.ll[0]},${p.ll[1]}" target="_blank" rel="noopener noreferrer">Come arrivare</a>`;
 function showPlace(id){
   const p = NAV.places[id];
   sheet(`${p.logo||p.ente?`<img src="${p.logo||p.ente}" alt="" style="max-height:70px;max-width:60%;display:block;margin:4px 0;padding:6px 8px;border-radius:8px;background:${p.dk?'#26201f':'#fff'}">`:''}<h3>${esc(p.n)}</h3><p><strong>${esc(p.ty||'')} · ${esc(p.com||'')}${p.a0!=null?` · ${p.a0}–${p.a1??'+'} anni`:''}${p.pr?` · ${esc(p.pr)}`:''}</strong></p>
-    ${p.ind?`<p>${esc(p.ind)}</p>`:''}<p>${esc(p.d)}</p>${p.url?`<p>${link(p.url,'Sito del posto')}</p>`:''}
+    ${p.ind?`<p>${esc(p.ind)}</p>`:''}${p.ll?mapHTML(p):''}<p>${esc(p.d)}</p>${p.url?`<p>${link(p.url,'Sito del posto')}</p>`:''}
     ${p.ev?`<h2>Prossimi eventi qui</h2>${p.ev.map(id=>{const e=evById(id);return `<button class="go" data-ev="${e.id}">${esc(e.t)} · ${dayLabel(e.occ[0])}</button>`}).join('')}`:''}`);
 }
 
