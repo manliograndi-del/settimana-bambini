@@ -51,7 +51,7 @@ function build(root, {checkOnly=false, now=new Date()}={}) {
     fs.writeFileSync(path.join(root,'daily-catalog.js'),script);
     for(const page of ['index.html','calendario.html']) {
       let html=fs.readFileSync(path.join(root,page),'utf8');
-      for(const name of ['daily-catalog.js','calendar.js','playful.js','playful.css','luoghi.js','nav.js','nav.css']) {
+      for(const name of ['daily-catalog.js','calendar.js','playful.js','playful.css','luoghi.js','aiuti.js','nav.js','nav.css']) {
         const version=crypto.createHash('sha256').update(fs.readFileSync(path.join(root,name))).digest('hex').slice(0,12);
         html=html.replace(new RegExp('(["/])'+name.replace('.','\\.')+'(?:\\?v=[^"\\s]+)?','g'),'$1'+name+'?v='+version);
       }
