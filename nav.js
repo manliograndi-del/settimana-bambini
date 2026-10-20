@@ -169,7 +169,7 @@ function catsHTML(list){
     if(st==='a'){ const lg = n.kind==='places'?[...new Set(n.items().filter(p=>p.logo&&!p.dk).map(p=>p.logo))].slice(0,3):[];
       return `<button class="cA" data-open="${n.id}" style="--g:${n.g}"><span class="hd">${ic(n.icon)}<em>${c}</em></span><b>${esc(n.t)}</b><span class="lgs">${lg.length?lg.map(l=>`<img src="${l}" alt="">`).join(''):`<i>${esc(DESC[n.t]||c+' '+u)}</i>`}</span></button>`; }
     if(st==='b') return `<button class="cB" data-open="${n.id}" style="--g:${n.g}"><span class="ic">${ic(n.icon)}</span><span class="tx"><b>${esc(n.t)}</b>${DESC[n.t]?`<small>${esc(DESC[n.t])}</small>`:''}</span><em>${c}<span>${u}</span></em></button>`;
-    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span></span><span>→</span></small></button>`;
+    return `<button class="cC" data-open="${n.id}" style="--g:${n.g};--r:${RT[i%6]}">${ic(n.icon)}<b>${esc(n.t)}</b><small><span class="nm">${c}</span></small></button>`;
   }).join('')}</div>`;
 }
 function weekHTML(){

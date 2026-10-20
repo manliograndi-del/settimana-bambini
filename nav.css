@@ -239,3 +239,5 @@ span.art{display:block;background-repeat:no-repeat}
 .intro5 b{font:700 46px/1 var(--logo);white-space:nowrap;-webkit-text-stroke:2px var(--ink);paint-order:stroke fill;will-change:transform,opacity}
 .pill5{position:fixed;z-index:39;right:max(12px,env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));width:min(50vw,340px);padding:10px 6px;border-radius:16px;
   background:#26201ff0;box-shadow:0 5px 0 #0006;font:700 22px/1 var(--logo);text-align:center;white-space:nowrap;opacity:0}
+.cC small{align-items:center}
+.cC .nm{font:700 18px var(--logo);background:#fff;color:var(--g);border-radius:20px;padding:2px 12px;text-shadow:none}
