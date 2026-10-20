@@ -194,7 +194,7 @@ let typeSel = null;
 function nodeHTML(n){
   let h = filtersHTML();
   if(n.kind==='aiuti' && n.leaf) return h + `<div style="height:14px"></div>${vociHTML(n.kids)}`;
-  if(n.kids && n.kids.length) h += `${n.kind==='aiuti'?'<div style="height:14px"></div>':'<h2>Scegli una categoria</h2>'}${catsHTML(n.kids)}`;
+  if(n.kids && n.kids.length) h += `<div style="height:14px"></div>${catsHTML(n.kids)}`;
   if(n.id==='aiuti') h += urgHTML();
   if(n.leaf && n.kind==='places'){
     const it = n.items(), v = it.filter(plOK);
