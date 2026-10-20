@@ -121,9 +121,6 @@ h2 small{font:700 13px var(--body);color:var(--muted);margin-left:6px}
 
 /* età: quadrati neri con numeri colorati */
 .ages{display:flex;align-items:center;gap:6px;margin:12px 0 4px;flex-wrap:wrap}
-.ages .lab{font:700 14px/1 var(--logo);margin-right:2px}
-.ag{min-width:58px;background:#111;color:var(--ac);border-radius:9px;padding:6px 10px;font:700 18px/1 var(--logo);box-shadow:0 3px 0 #0005}
-.ag[aria-pressed=true]{background:var(--ac);color:#111;box-shadow:0 0 0 3px #fff,0 0 0 5px #111}
 .tg{border-radius:20px;padding:6px 12px;background:#fff;font:700 14px var(--logo);box-shadow:0 2px 0 var(--line)}
 .tg[aria-pressed=true]{background:var(--ink);color:#fff}
 
