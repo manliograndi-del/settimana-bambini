@@ -246,10 +246,9 @@ span.art{display:block;background-repeat:no-repeat}
 .wg:has(.day:only-child){--wn:1.1}
 .go-arrow.sm{height:34px;font-size:12px;padding-left:11px;gap:6px}.go-arrow.sm i{width:34px}.go-arrow.sm svg{width:16px;height:16px}
 .pmap{position:relative;margin:14px 4px 0;border:6px solid #fff;border-radius:10px;overflow:hidden;transform:rotate(-1.2deg);box-shadow:0 5px 12px #0004;aspect-ratio:16/9;background:#eee}
-.pmap img{display:block;width:100%;height:100%;object-fit:cover;filter:sepia(.35) saturate(1.4) hue-rotate(-8deg) brightness(1.04)}
+.pmap img{display:block;width:100%;height:100%;object-fit:cover}
 .dot{position:absolute;left:50%;top:50%;width:18px;height:18px;margin:-9px 0 0 -9px;border-radius:50%;background:#e5383b;border:3px solid #fff;box-shadow:0 0 0 2px #e5383b55,0 2px 4px #0006;z-index:1}
 .mico{position:absolute;right:calc(50% + 6px);bottom:calc(50% + 6px);width:56px;height:56px;border-radius:22%;border:3px solid #fff;box-shadow:0 4px 8px #0006;filter:none!important;object-fit:cover}
-.card .pic img.mapt{filter:sepia(.35) saturate(1.4) hue-rotate(-8deg) brightness(1.04)}
 .card .pic .mico{width:44px;height:44px;border-width:2px}
 .pmap small{position:absolute;right:6px;bottom:4px;font:10px sans-serif;background:#fffc;color:#333;padding:0 4px;border-radius:3px}
 .howto{display:inline-flex;margin:12px 0 4px;background:var(--teal);color:var(--ink);font:700 14px var(--logo);text-transform:uppercase;letter-spacing:.04em;padding:9px 16px;border-radius:30px;box-shadow:0 3px 0 #0003;text-decoration:none}
