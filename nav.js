@@ -1,6 +1,6 @@
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-/* La settimana dei bambini: navigazione a cascata. Eventi da daily-catalog.js (DATA), posti e servizi da luoghi.js (LUOGHI). */
+/* La settimana dei bambini: navigazione a cascata. Eventi da daily-catalog.js (DATA), posti da luoghi.js (LUOGHI), aiuti da aiuti.js (AIUTI). */
 const {romeDate, weekDates, occurrenceDate, upcoming} = Calendar;
 const WEEK = weekDates();
 const EV_CATS = [['storie',['Lettura']],['lab',['Laboratorio','Laboratori','Gioco e parchi','Sport','Associazioni e ludoteche']],['show',['Teatro','Circo','Spettacoli','Cinema','Musica','Festa','Comuni']],['musei',['Museo','Musei e scienza','Natura']]];
@@ -16,7 +16,7 @@ function buildEvents(){
       com:e.municipality,venue:e.venue,occ,url:e.url,org:orgs[e.organizationId]||'',d:e.description||'',cost:e.costLabel||'',booking:e.booking||'',checked:e.verifiedAt||''};
   }).filter(e=>e.occ.length);
 }
-const NAV = {events:buildEvents(), places:LUOGHI.places, serv:LUOGHI.serv};
+const NAV = {events:buildEvents(), places:LUOGHI.places};
 // collega ogni evento al posto che lo organizza o lo ospita (stesso nome e stesso comune)
 for(const e of NAV.events){
   const keys = [norm(e.org), norm((e.venue||'').split('·')[0])];
@@ -66,12 +66,11 @@ const SEC = {
   'Negozi e feste':{id:'negozi',nav:'Negozi',g:'var(--c7)',nc:'#ffa04d',icon:'negozi',txt:'Giocattoli, vestiti, usato e posti per la festa di compleanno.',tip:'L’usato per bambini dura poco e costa poco: c’è una categoria apposta.'},
 };
 const CAT = {
-  'Musei e castelli':'castello','Parchi e giardini':'parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'giochi','Fattorie, natura e parchi avventura':'fattoria',
-  'Giochi al coperto e piscine':'sport','Teatro, circo, musica, arte':'arte','Scienza, scacchi, lingue, coding':'scacchi','Ginnastica, arti marziali, arrampicata':'sport2',
-  'Danza, equitazione, pattinaggio, squadra':'danza','Nuoto':'sport','Abbigliamento e usato':'vestiti','Giocattoli e librerie':'giocattoli','Feste di compleanno':'feste'};
+  'Musei e castelli':'castello','Parchi e giardini':'parco','Biblioteche':'biblioteca','Ludoteche ed eduteche':'ludoteche','Fattorie, natura e parchi avventura':'fattoria',
+  'Giochi al coperto e piscine':'giochi-coperto','Teatro, circo, musica, arte':'arte','Scienza, scacchi, lingue, coding':'scacchi','Ginnastica, arti marziali, arrampicata':'sport2',
+  'Danza, equitazione, pattinaggio, squadra':'danza','Nuoto':'nuoto','Abbigliamento e usato':'vestiti','Giocattoli e librerie':'giocattoli','Feste di compleanno':'feste'};
 const GLOSS = ['var(--c1)','var(--c2)','var(--c3)','var(--c4)','var(--c5)','var(--c6)','var(--c7)','var(--c8)','var(--c9)'];
-const ENTE_IC = {'Comune di Torino':'comune2','ASL Città di Torino':'salute','Stato italiano':'bonus','Regione Piemonte':'regione','Città metropolitana di Torino':'comune','Ragazzi 11-18 (Torinogiovani)':'ragazzi','ONU e UNICEF a Torino':'pace','Unione europea':'ue'};
-const ENTE = {'Comune di Torino':'Comune di Torino','ASL Città di Torino':'Salute (ASL)','Stato italiano':'Bonus dello Stato','Regione Piemonte':'Regione Piemonte','Città metropolitana di Torino':'Città metropolitana','Ragazzi 11-18 (Torinogiovani)':'Ragazzi 11–18','ONU e UNICEF a Torino':'ONU e UNICEF','Unione europea':'Unione europea'};
+const AIUTI_IC = {scuola:'a-scuola',salute:'a-salute',disabilita:'a-disabilita',bonus:'a-bonus',famiglia:'a-famiglia',ragazzi:'a-ragazzi',quotidiani:'a-quotidiani'};
 const DAYS = WEEK.map(id=>{const d=new Date(id+'T12:00:00Z');return [d.toLocaleDateString('it-IT',{weekday:'short',timeZone:'UTC'}).replace('.','').toUpperCase(),String(d.getUTCDate()),id];});
 const dayName = (id,o) => new Date(id+'T12:00:00Z').toLocaleDateString('it-IT',{timeZone:'UTC',...o});
 const DC = ['#5ac6e8','#f2d14d','#4ccd73','#ff8b51','#c79bff','#9adf6c','#ff8fb0'];
@@ -85,11 +84,15 @@ function buildTree(){
     node.kids = [...new Set(pl.map(p=>p.k))].map((k,i)=>({id:s.id+'-'+i,t:k,g:GLOSS[(i*2+1)%9],icon:CAT[k]||'gioco',kind:'places',items:()=>pl.filter(p=>p.k===k),leaf:true}));
     root.kids.push(node);
   }
-  const aiuti = {id:'aiuti',t:'Aiuti e servizi',nav:'Aiuti',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'serv',items:()=>NAV.serv,kids:[],
-    txt:'Servizi pubblici per le famiglie: bonus, salute, scuola, consultori, sportelli per ragazzi. Tutti gratuiti o quasi.'};
-  aiuti.kids = Object.keys(ENTE).map((e,i)=>({id:'aiuti-'+i,t:ENTE[e],g:GLOSS[i%9],icon:ENTE_IC[e],kind:'serv',items:()=>NAV.serv.filter(s=>s.ente===e),leaf:true}));
+  const voce = (v,icon) => ({id:'v-'+v.id,t:v.t,kind:'voce',icon,v});
+  const aiuti = {id:'aiuti',t:'Aiuti e servizi',nav:'Aiuti',g:'var(--c8)',nc:'#c9a8ff',icon:'aiuti',kind:'aiuti',kids:[],items:()=>AIUTI.cats.flatMap(c=>c.voci),
+    txt:'Aiuti per le famiglie divisi per bisogno: prima i servizi di Torino, poi quelli della cintura, poi quelli della Regione e dello Stato.'};
+  aiuti.kids = AIUTI.cats.map((c,i)=>{ const icon=AIUTI_IC[c.id]||'aiuti';
+    const n = {id:'aiuti-'+c.id,t:c.t,g:GLOSS[i%9],icon,kind:'aiuti',leaf:true,items:()=>c.voci};
+    n.kids = c.voci.map(id=>voce(AIUTI.voci[id],icon)); return n; });
   root.kids.push(aiuti);
-  const index = {}; (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(root,null);
+  const urg = voce(AIUTI.voci.U01,'a-urgente'); urg.parent = aiuti;
+  const index = {[urg.id]:urg}; (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(root,null);
   return {root,index};
 }
 const {root,index} = buildTree();
@@ -97,7 +100,7 @@ let cur = root;
 const pathOf = n => { const p=[]; for(let x=n;x;x=x.parent) p.unshift(x); return p; };
 const section = n => pathOf(n)[1];
 const count = n => n.kind==='week'?n.items().filter(evOK).length : n.kind==='places'?n.items().filter(plOK).length : n.items().length;
-const unit = n => n.kind==='week'?'eventi':n.kind==='serv'?'servizi':'posti';
+const unit = n => n.kind==='week'?'eventi':n.kind==='aiuti'?'voci':'posti';
 
 /* ---- barra in alto: logo, sezioni, Indietro ---- */
 function topHTML(){
@@ -117,7 +120,7 @@ function daysHTML(){
   return `<div class="days ${state.day?'picked':''}">${DAYS.map((d,i)=>{const id=d[2];return `<button class="day" data-day="${id}" aria-pressed="${state.day===id}" style="--dc:${DC[i]}"><span>${d[0]}</span><b>${d[1]}</b></button>`}).join('')}</div>`;
 }
 function filtersHTML(){
-  if(cur.kind==='serv') return '';
+  if(cur.kind==='aiuti'||cur.kind==='voce') return '';
   return `<div class="ages"><span class="lab">Età</span>${AGE.map(a=>`<button class="ag" data-age="${a.id}" aria-pressed="${state.age===a.id}" style="--ac:${a.c}">${a.l}</button>`).join('')}<button class="tg" data-free aria-pressed="${state.free}">Gratis</button></div>`;
 }
 function render(anim){
@@ -127,10 +130,10 @@ function render(anim){
       <button class="go-arrow" data-open="settimana">Tutti <i>${SVG.arrow}</i></button></div>${daysHTML()}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${homeHTML()}${note()}</div></main>`;
   } else {
-    const sub = cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}${state.age?' per '+AGE.find(a=>a.id===state.age).l+' anni':''}`;
-    h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}<small>${sub}</small></h1></div>
+    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : `${count(cur)} ${unit(cur)}${state.age?' per '+AGE.find(a=>a.id===state.age).l+' anni':''}`;
+    h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}<small>${sub}</small></h1></div>${urgHTML()}
       ${cur.txt?`<p class="intro">${esc(cur.txt)}</p>`:''}${cur.tip?`<div class="tip"><b>Consiglio:</b> ${esc(cur.tip)}</div>`:''}${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
-    h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():nodeHTML(cur)}${note()}</div></main>`;
+    h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
   $('#app').innerHTML = h;
 }
@@ -156,16 +159,17 @@ function homeHTML(){
   return h;
 }
 
-const DESC = {'Dove andare':'Musei, parchi, biblioteche, fattorie','Corsi e sport':'Teatro, nuoto, musica, lingue, judo','Negozi e feste':'Giocattoli, vestiti, usato, compleanni','Aiuti e servizi':'Bonus, salute, scuola, sportelli',
+const DESC = {'Dove andare':'Musei, parchi, biblioteche, fattorie','Corsi e sport':'Teatro, nuoto, musica, lingue, judo','Negozi e feste':'Giocattoli, vestiti, usato, compleanni','Aiuti e servizi':'Scuola, salute, bonus, famiglia, ragazzi',
   'Musei e castelli':'Musei per bambini, castelli e regge','Parchi e giardini':'Prati, giochi e alberi','Biblioteche':'Libri da leggere e prendere in prestito','Ludoteche ed eduteche':'Stanze piene di giochi, con educatori',
   'Fattorie, natura e parchi avventura':'Animali, orti, percorsi sugli alberi','Giochi al coperto e piscine':'Per i giorni di pioggia','Teatro, circo, musica, arte':'Palco, strumenti, colori',
   'Scienza, scacchi, lingue, coding':'Inglese, scacchi, programmazione','Ginnastica, arti marziali, arrampicata':'Muoversi, cadere bene, arrampicare','Danza, equitazione, pattinaggio, squadra':'Danza, cavalli, pattini, squadra',
   'Nuoto':'Corsi in piscina, dai neonati in su','Abbigliamento e usato':'Vestiti nuovi e di seconda mano','Giocattoli e librerie':'Giochi e libri per ragazzi','Feste di compleanno':'Sale e animatori per la festa'};
+for(const c of AIUTI.cats) DESC[c.t]=c.d;
 const RT = ['-1.5deg','1.2deg','1deg','-1.2deg','-1deg','1.5deg'];
 function catsHTML(list){
   const st = state.cs;
   return `<div class="cg ${st}">${list.map((n,i)=>{
-    const c = n.kind==='serv'&&!n.leaf ? n.items().length : (n===root.kids[1]||n===root.kids[2]||n===root.kids[3]) ? n.items().length : count(n);
+    const c = (n===root.kids[1]||n===root.kids[2]||n===root.kids[3]) ? n.items().length : count(n);
     const u = unit(n);
     if(st==='a'){ const lg = n.kind==='places'?[...new Set(n.items().filter(p=>p.logo&&!p.dk).map(p=>p.logo))].slice(0,3):[];
       return `<button class="cA" data-open="${n.id}" style="--g:${n.g}"><span class="hd">${ic(n.icon)}<em>${c}</em></span><b>${esc(n.t)}</b><span class="lgs">${lg.length?lg.map(l=>`<img src="${l}" alt="">`).join(''):`<i>${esc(DESC[n.t]||c+' '+u)}</i>`}</span></button>`; }
@@ -192,7 +196,8 @@ function weekHTML(){
 let typeSel = null;
 function nodeHTML(n){
   let h = filtersHTML();
-  if(n.kids && n.kids.length) h += `<h2>Scegli ${n.kind==='serv'?'chi offre il servizio':'una categoria'}</h2>${catsHTML(n.kids)}`;
+  if(n.kind==='aiuti' && n.leaf) return h + `<h2>Le voci <small>${n.kids.length}</small></h2>${vociHTML(n.kids)}`;
+  if(n.kids && n.kids.length) h += `<h2>Scegli ${n.kind==='aiuti'?'di che cosa avete bisogno':'una categoria'}</h2>${catsHTML(n.kids)}`;
   if(n.leaf && n.kind==='places'){
     const it = n.items(), v = it.filter(plOK);
     const types = [...new Set(it.map(p=>p.ty).filter(Boolean))];
@@ -204,10 +209,14 @@ function nodeHTML(n){
       <span class="t">${esc(p.n)}</span><span class="m">${esc(p.ty||'')} · ${esc(p.com||'')}${p.ev?` · <b style="color:#b04a17">${p.ev.length} ${p.ev.length>1?'eventi':'evento'}</b>`:''}</span><span class="play">${SVG.play} Scopri</span></button>`).join('')}</div>`
       : `<div class="empty">Nessun posto con questi filtri. Provate a togliere un filtro.</div>`;
   }
-  if(n.leaf && n.kind==='serv'){
-    h += `<h2>I servizi <small>${n.items().length}</small></h2><div class="grid">${n.items().map(s=>`<button class="card" data-sv="${NAV.serv.indexOf(s)}"><span class="pic" style="--pc:#e6dcff;aspect-ratio:5/2"><img class="pimg" src="scene/${ENTE_IC[s.ente]}.webp" alt=""></span><span class="t">${esc(s.n)}</span><span class="play">${SVG.play} Scopri</span></button>`).join('')}</div>`;
-  }
   return h;
+}
+/* ---- aiuti: categorie, voci, aiuto urgente ---- */
+const urgHTML = () => (cur.kind==='aiuti'||cur.kind==='voce') && cur.id!=='v-U01' ? `<button class="urg" data-open="v-U01">${ic('a-urgente')}<b>Serve aiuto urgente?</b><span>112, pronto soccorso dei bambini, numeri per chi ha paura</span></button>` : '';
+const vociHTML = list => `<div class="voci">${list.map(n=>`<button class="vc" data-open="${n.id}"><b>${esc(n.t)}</b><small>${esc(n.v.sub)}</small><i>${SVG.arrow}</i></button>`).join('')}</div>`;
+function voceHTML(n){
+  const v = n.v, rel = v.rel.filter(id=>id!=='U01'&&AIUTI.voci[id]).map(id=>index['v-'+id]);
+  return `<article class="voce">${v.html}</article>${v.note?`<p class="vnote">${esc(v.note)}</p>`:''}${rel.length?`<h2>Guardate anche</h2>${vociHTML(rel)}`:''}`;
 }
 function dayLabel(o){ if(!o) return ''; const d=new Date(o.slice(0,10)+'T12:00'); const t=o.slice(11,16); return d.toLocaleDateString('it-IT',{weekday:'short',day:'numeric'})+(t?' · '+t:''); }
 
@@ -232,10 +241,6 @@ function showPlace(id){
     ${p.ind?`<p>${esc(p.ind)}</p>`:''}<p>${esc(p.d)}</p>${p.url?`<p>${link(p.url,'Sito del posto')}</p>`:''}
     ${p.ev?`<h2>Prossimi eventi qui</h2>${p.ev.map(id=>{const e=evById(id);return `<button class="go" data-ev="${e.id}">${esc(e.t)} · ${dayLabel(e.occ[0])}</button>`}).join('')}`:''}`);
 }
-function showServ(i){
-  const s = NAV.serv[i];
-  sheet(`<h3>${esc(s.n)}</h3><p><strong>${esc(ENTE[s.ente]||s.ente)}</strong></p><p>${esc(s.d)}</p>${s.url?`<p>${link(s.url,'Pagina ufficiale')}</p>`:''}`);
-}
 
 function go(n, push=true, keepDay=false){
   typeSel = null; resetFilters(); state.cat = null; if(!keepDay) state.day = null;
@@ -257,7 +262,7 @@ document.addEventListener('click',ev=>{
   else if(t.dataset.ty!==undefined){ typeSel=t.dataset.ty||null; render(); }
   else if(t.dataset.ev){ document.querySelector('.sheet')?.remove(); showEvent(t.dataset.ev); }
   else if(t.dataset.pl){ document.querySelector('.sheet')?.remove(); showPlace(+t.dataset.pl); }
-  else if(t.dataset.sv){ showServ(+t.dataset.sv); }
+  else if(t.dataset.voce){ const n=index['v-'+t.dataset.voce]; if(n) go(n); }
 });
 addEventListener('popstate',e=>{ document.querySelector('.sheet')?.remove(); state.day=e.state?.day||null; go(index[e.state?.id]||root,false,true); });
 addEventListener('keydown',e=>{ if(e.key==='Escape') document.querySelector('.sheet')?.remove(); });
