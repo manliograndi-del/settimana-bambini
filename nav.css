@@ -240,4 +240,4 @@ span.art{display:block;background-repeat:no-repeat}
 .pill5{position:fixed;z-index:39;right:max(12px,env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));width:min(50vw,340px);padding:10px 6px;border-radius:16px;
   background:#26201ff0;box-shadow:0 5px 0 #0006;font:700 22px/1 var(--logo);text-align:center;white-space:nowrap;opacity:0}
 .cC small{align-items:center}
-.cC .nm{font:700 21px/1.1 var(--logo);text-shadow:0 1px 0 #0003}
+.cC .nm{font:700 16px/1.1 var(--logo);text-shadow:0 1px 0 #0003}
