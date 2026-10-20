@@ -241,3 +241,7 @@ span.art{display:block;background-repeat:no-repeat}
   background:#26201ff0;box-shadow:0 5px 0 #0006;font:700 22px/1 var(--logo);text-align:center;white-space:nowrap;opacity:0}
 .cC small{align-items:center}
 .cC .nm{font:700 16px/1.1 var(--logo);text-shadow:0 1px 0 #0003}
+.wg{flex:var(--wn,2.15);display:flex;gap:5px;position:relative;background:#fff;border-radius:12px;padding:16px 4px 4px;margin-top:-16px}
+.wg:before{content:'WEEKEND';position:absolute;top:2px;left:0;right:0;text-align:center;font:700 10px var(--logo);letter-spacing:.12em;color:#111}
+.wg:has(.day:only-child){--wn:1.1}
+.go-arrow.sm{height:34px;font-size:12px;padding-left:11px;gap:6px}.go-arrow.sm i{width:34px}.go-arrow.sm svg{width:16px;height:16px}

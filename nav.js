@@ -113,7 +113,12 @@ function topHTML(){
   return h + '</header>';
 }
 function daysHTML(){
-  return `<div class="days ${state.day?'picked':''}">${DAYS.map((d,i)=>{const id=d[2];return `<button class="day" data-day="${id}" aria-pressed="${state.day===id}" style="--dc:${DC[i]}"><span>${d[0]}</span><b>${d[1]}</b></button>`}).join('')}</div>`;
+  const we = id => [0,6].includes(new Date(id+'T12:00').getDay());
+  let h = '', g = '';
+  DAYS.forEach((d,i)=>{ const id=d[2], b=`<button class="day" data-day="${id}" aria-pressed="${state.day===id}" style="--dc:${DC[i]}"><span>${d[0]}</span><b>${d[1]}</b></button>`;
+    if(we(id)) g += b; else { if(g){ h += `<div class="wg">${g}</div>`; g=''; } h += b; } });
+  if(g) h += `<div class="wg">${g}</div>`;
+  return `<div class="days ${state.day?'picked':''}">${h}</div>`;
 }
 function filtersHTML(){
   if(cur.kind==='aiuti'||cur.kind==='voce') return '';
@@ -122,21 +127,17 @@ function filtersHTML(){
 function render(anim){
   let h = topHTML();
   if(cur===root){
-    h += `<section class="strip"><div class="in"><div class="strip-h"><h1 class="big-t">Questa settimana!<small>Da ${dayName(WEEK[0],{weekday:'long'})} a ${dayName(WEEK[6],{weekday:'long'})}</small></h1>
-      <button class="go-arrow" data-open="settimana">Tutti <i>${SVG.arrow}</i></button></div>${daysHTML()}</div></section>`;
+    h += `<section class="strip"><div class="in"><div style="height:18px"></div>${daysHTML()}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${homeHTML()}${note()}</div></main>`;
   } else {
-    const sub = cur.kind==='voce' ? esc(cur.v.sub) : cur.kind==='week' ? weekSub() : '';
+    const sub = cur.kind==='voce' ? esc(cur.v.sub) : '';
     h += `<section class="strip"><div class="in">${scene(cur.icon)}<div class="head" style="--g:${cur.g}"><span class="hi">${ic(cur.icon)}</span><h1 class="big-t">${esc(cur.t)}${sub?`<small>${sub}</small>`:''}</h1></div>
-      ${cur.kind==='week'?'<div style="height:10px"></div>'+daysHTML():''}</div></section>`;
+      ${cur.kind==='week'?'<div style="height:22px"></div>'+daysHTML():''}</div></section>`;
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
   $('#app').innerHTML = h;
 }
 const note = () => `<p class="note">Torino e dintorni. Date, orari e prezzi degli eventi sono controllati sui siti di chi li organizza: le fonti sono nelle schede. Orari e aperture dei posti possono cambiare, controllate sul loro sito prima di andare. Loghi dei rispettivi proprietari. <a href="calendario.html">Calendario della settimana con l’orologio delle età</a></p>`;
-function weekSub(){
-  return `${state.day ? ''+new Date(state.day+'T12:00').toLocaleDateString('it-IT',{weekday:'long',day:'numeric'}) : `Dal ${dayName(WEEK[0],{day:'numeric',month:'long'})} al ${dayName(WEEK[6],{day:'numeric',month:'long'})}`}`;
-}
 function evCard(e){
   return `<button class="card" data-ev="${e.id}"><span class="pic">${e.img?`${evArt(e,'ph')}`:''}<span class="age">${esc(shortAge(e))}</span>${e.free?'<span class="age free">gratis</span>':''}</span>
     <span class="t">${esc(e.t)}</span><span class="m">${esc(dayLabel(state.day?e.occ.find(o=>o.startsWith(state.day)):e.occ[0]))} · ${esc(e.com)}</span><span class="play">${SVG.play} Scopri</span></button>`;
@@ -174,7 +175,7 @@ function catsHTML(list){
 }
 function weekHTML(){
   let h = `<div class="grow ${state.cat?'picked':''}">${EVCATS.map(c=>`<button class="glossy" data-cat="${c.id}" aria-pressed="${state.cat===c.id}" style="--g:${c.g}">${ic(c.icon)}<span>${c.s}</span></button>`).join('')}</div>`;
-  if(state.cat||state.day) h += `<div class="allrow"><button class="go-arrow" data-allev>Tutti <i>${SVG.arrow}</i></button></div>`;
+  if(state.day) h += `<div class="allrow"><button class="go-arrow sm" data-allev>Tutti <i>${SVG.arrow}</i></button></div>`;
   if(state.cat) h += filtersHTML();
   const v = NAV.events.filter(e=>!state.cat||e.c===state.cat).filter(evOK);
   let any = false;
