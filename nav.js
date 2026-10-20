@@ -118,7 +118,7 @@ function daysHTML(){
 }
 function filtersHTML(){
   if(cur.kind==='aiuti'||cur.kind==='voce') return '';
-  return `<div class="ages"><button class="tg" data-free aria-pressed="${state.free}">Gratis</button></div>`;
+  return '';
 }
 function render(anim){
   let h = topHTML();
