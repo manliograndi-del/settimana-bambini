@@ -1735,22 +1735,54 @@
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?target=96&tipologia=All&page=1"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Aperto al pubblico, non riservato alle scuole. Costo e prenotazione non indicati.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Aperto al pubblico, non riservato alle scuole. Costo e prenotazione non indicati. Ricontrollata il 21 ottobre 2026: la data del 26/10 è un’altra sosta, ora scheda a parte.",
       "status": "published",
       "verifiedAt": "2026-10-19",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
-      "scheduleType": "limited_series",
+      "scheduleType": "single",
       "occurrences": [
-        "2026-10-25T11:00:00+01:00",
+        "2026-10-25T11:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-25T11:00:00+01:00": "2026-10-25T12:00:00+01:00"
+      },
+      "startsAt": "2026-10-25T11:00:00+01:00"
+    },
+    {
+      "id": "scuola-con-la-c-letture-al-bibliobus-scialoja",
+      "organizationId": "org-35",
+      "illustration": "illustrazione-scuola-con-la-c-letture-al-bibliobus.webp",
+      "title": "Scuola con la c - letture al Bibliobus",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Bibliobus 2, sosta via Scialoja 8, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni con le famiglie",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://bct.comune.torino.it/eventi-attivita/scuola-con-la-c-0",
+      "description": "Letture ad alta voce sul bibliobus dedicate all'inizio della scuola: il primo giorno alla materna, l'arrivo alla primaria e il ritorno dai compagni dopo le vacanze.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/eventi-attivita?target=96&tipologia=All&page=1"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 21 ottobre 2026. Note: Aperto al pubblico, non riservato alle scuole. Costo e prenotazione non indicati.",
+      "status": "published",
+      "verifiedAt": "2026-10-21",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "scheduleType": "single",
+      "occurrences": [
         "2026-10-26T16:45:00+01:00"
       ],
       "occurrenceEnds": {
-        "2026-10-25T11:00:00+01:00": "2026-10-25T12:00:00+01:00",
         "2026-10-26T16:45:00+01:00": "2026-10-26T17:45:00+01:00"
       },
-      "startsAt": "2026-10-25T11:00:00+01:00"
+      "startsAt": "2026-10-26T16:45:00+01:00"
     },
     {
       "id": "brevi-storie-a-due-e-quattro-zampe",
