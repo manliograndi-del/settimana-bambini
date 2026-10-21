@@ -4375,6 +4375,78 @@
         "2026-10-29T17:00:00+01:00"
       ],
       "startsAt": "2026-10-29T17:00:00+01:00"
+    },
+    {
+      "id": "mrsn-visita-guidata-25-ottobre",
+      "organizationId": "mrsn-new",
+      "illustration": "icona-museo.webp",
+      "title": "Visita guidata al Museo di Scienze Naturali",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Museo Regionale di Scienze Naturali · via Accademia Albertina 15, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutti",
+      "costLabel": "5 € a persona più il biglietto del museo",
+      "costBand": "low",
+      "booking": "Obbligatoria con il modulo online sulla pagina del museo, fino a esaurimento posti",
+      "url": "https://mrsntorino.it/visita-guidata-25-10-2026/",
+      "description": "Un’ora con una guida nelle sale del museo: dal Museo storico di Zoologia all’Arca e alla Sala delle Meraviglie, piene di animali di ogni tipo.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/visita-guidata-nelle-sale"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 21 ottobre 2026. Note: Tre turni da un’ora; età non indicata dal museo.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-21",
+      "occurrences": [
+        "2026-10-25T14:00:00+01:00",
+        "2026-10-25T15:15:00+01:00",
+        "2026-10-25T16:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-25T14:00:00+01:00": "2026-10-25T15:00:00+01:00",
+        "2026-10-25T15:15:00+01:00": "2026-10-25T16:15:00+01:00",
+        "2026-10-25T16:30:00+01:00": "2026-10-25T17:30:00+01:00"
+      },
+      "startsAt": "2026-10-25T14:00:00+01:00",
+      "scheduleType": "limited_series"
+    },
+    {
+      "id": "chicco-di-grano-arte-ragazzi",
+      "organizationId": "org-chicco-di-grano",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Dall’atmosfera alla forma: esperienze d’arte per ragazzi",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Associazione Chicco di Grano · via Brissogne 39, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Ragazzi (età non indicata)",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata: chiedere a segreteria@chiccodigrano.it",
+      "url": "https://chiccodigrano.it/eventi/",
+      "description": "Un pomeriggio di pittura con Alessandra Sardella. Si parte dai colori e dalle atmosfere per arrivare a dare forma alle immagini.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/pittura-per-ragazzi-dallatmosfera-alla-forma"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 21 ottobre 2026. Note: L’organizzatore conferma data, ora e luogo ma non età e costo; TorinoBimbi indica dai 10 anni, gratuito, con prenotazione.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-21",
+      "occurrences": [
+        "2026-10-23T17:00:00+02:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-23T17:00:00+02:00": "2026-10-23T19:00:00+02:00"
+      },
+      "startsAt": "2026-10-23T17:00:00+02:00",
+      "scheduleType": "single"
     }
   ],
   "organizations": [
@@ -5904,6 +5976,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con la ricerca del 19 ottobre 2026."
+    },
+    {
+      "id": "org-chicco-di-grano",
+      "name": "Associazione Chicco di Grano",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://chiccodigrano.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-21",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 21 ottobre 2026."
     }
   ]
 }
