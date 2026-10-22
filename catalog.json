@@ -4447,6 +4447,77 @@
       },
       "startsAt": "2026-10-23T17:00:00+02:00",
       "scheduleType": "single"
+    },
+    {
+      "id": "officine-s-laboratorio-halloween",
+      "organizationId": "org-officine-s",
+      "illustration": "icona-festa.webp",
+      "title": "Laboratorio artistico di Halloween",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Officine S · corso Mortara 24, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 131,
+      "ageLabel": "4–10 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non necessaria",
+      "url": "https://officine-s.it/25-ottobre-laboratorio-artistico-di-halloween",
+      "description": "Un pomeriggio a tema Halloween: i bambini costruiscono un fantasma o un pipistrello, poi musica, giochi e trucca-bimbi.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/laboratorio-artistico-di-halloween"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 22 ottobre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-22",
+      "occurrences": [
+        "2026-10-25T15:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-25T15:30:00+01:00": "2026-10-25T18:30:00+01:00"
+      },
+      "startsAt": "2026-10-25T15:30:00+01:00",
+      "scheduleType": "single"
+    },
+    {
+      "id": "almese-villa-romana-visita-25-ottobre",
+      "organizationId": "org-arca-almese",
+      "illustration": "icona-museo.webp",
+      "title": "Visita guidata alla Villa romana di Almese",
+      "category": "Museo",
+      "municipality": "Almese",
+      "venue": "Villa romana di Almese · via Tetti Montabone, Almese",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutti",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non richiesta; informazioni 342 0601365",
+      "url": "https://www.vallesusa-tesori.it/media/news/attachments/guida_free_2026-27_web.pdf",
+      "description": "Una visita con le guide tra i resti di una grande villa romana ai piedi del Musinè. È l’ultima apertura della stagione.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/tutta-la-famiglia",
+        "https://cultura.gov.it/luogo/villa-romana-di-almese"
+      ],
+      "verificationMethod": "Guida ufficiale 2026-27 di Valle di Susa Tesori letta il 22 ottobre 2026. Note: Gratuità e niente prenotazione indicate in generale per la stagione; non pensata apposta per bambini ma adatta alle famiglie.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-22",
+      "occurrences": [
+        "2026-10-25T14:30:00+01:00",
+        "2026-10-25T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-25T14:30:00+01:00": "2026-10-25T16:00:00+01:00",
+        "2026-10-25T16:00:00+01:00": "2026-10-25T17:30:00+01:00"
+      },
+      "startsAt": "2026-10-25T14:30:00+01:00",
+      "scheduleType": "limited_series"
     }
   ],
   "organizations": [
@@ -5989,6 +6060,32 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il controllo del 21 ottobre 2026."
+    },
+    {
+      "id": "org-officine-s",
+      "name": "Officine S",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://officine-s.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-22",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del weekend del 22 ottobre 2026."
+    },
+    {
+      "id": "org-arca-almese",
+      "name": "Associazione Ar.c.A. Almese (Valle di Susa Tesori)",
+      "category": "Museo",
+      "municipality": "Almese",
+      "url": "https://www.vallesusa-tesori.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-22",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del weekend del 22 ottobre 2026."
     }
   ]
 }
