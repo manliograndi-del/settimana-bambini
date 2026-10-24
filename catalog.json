@@ -4518,6 +4518,115 @@
       },
       "startsAt": "2026-10-25T14:30:00+01:00",
       "scheduleType": "limited_series"
+    },
+    {
+      "id": "polo-900-archetti-24-ottobre",
+      "organizationId": "org-polo-del-900",
+      "illustration": "icona-musica.webp",
+      "title": "Archetti del Polo – laboratorio musicale",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Polo del ’900, Spazio Incontri · via del Carmine 14, Torino",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 95,
+      "ageLabel": "2–7 anni",
+      "costLabel": "5 € a bambino, genitori gratis",
+      "costBand": "low",
+      "booking": "Obbligatoria online, un modulo per ogni turno",
+      "url": "https://polodel900.it/eventi/archetti-del-polo-20/",
+      "description": "Musica per i più piccoli con canto, percussioni con il corpo e violini di cartone, per scoprire come suona un’orchestra d’archi.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/gli-archetti-del-polo-per-bambini-dai-2-7-anni"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 24 ottobre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-24",
+      "occurrences": [
+        "2026-10-24T16:30:00+02:00",
+        "2026-10-24T17:30:00+02:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-24T16:30:00+02:00": "2026-10-24T17:20:00+02:00",
+        "2026-10-24T17:30:00+02:00": "2026-10-24T18:30:00+02:00"
+      },
+      "startsAt": "2026-10-24T16:30:00+02:00",
+      "scheduleType": "limited_series"
+    },
+    {
+      "id": "impulsi-45-nord-ozobot",
+      "organizationId": "org-45-nord",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Impulsi – laboratori con i robot Ozobot",
+      "category": "Laboratorio",
+      "municipality": "Moncalieri",
+      "venue": "45° Nord Entertainment Center · via Fortunato Postiglione 1, Moncalieri",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie (età non indicata)",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata per i laboratori",
+      "url": "https://www.kiwisrl.it/impulsi",
+      "description": "Un weekend di scienza e tecnologia al 45° Nord: i bambini provano a programmare i robottini Ozobot. Ci sono anche i murales da visitare e un muro dove lasciare i propri pensieri.",
+      "discoverySources": [
+        "https://www.guidabimbi.com/zipline-funny-boat-45-nord-di-moncalieri/",
+        "https://www.45nord.com/eventi/news/impulsi"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 24 ottobre 2026. Note: Laboratori Ozobot 16–18; attività della giornata 14–19.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-24",
+      "occurrences": [
+        "2026-10-24T16:00:00+02:00",
+        "2026-10-25T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-24T16:00:00+02:00": "2026-10-24T18:00:00+02:00",
+        "2026-10-25T16:00:00+01:00": "2026-10-25T18:00:00+01:00"
+      },
+      "startsAt": "2026-10-24T16:00:00+02:00",
+      "scheduleType": "limited_series"
+    },
+    {
+      "id": "gioca-alla-fiaba-pinocchio",
+      "organizationId": "org-9",
+      "illustration": "icona-teatro.webp",
+      "title": "Gioca alla fiaba – Il viaggio di Pinocchio",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "All’aperto, ogni giorno in un posto diverso: 25/10 Parco del Valentino, 27/10 Giardini del Fante, 28/10 Giardini Cavour, 29/10 Piazza Risorgimento, 30/10 Parco Braccini",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambini e famiglie (età non indicata)",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non indicata",
+      "url": "https://casateatroragazzi.it/gioca-alla-fiaba/",
+      "description": "Per i 200 anni di Collodi, attori e musicisti portano Pinocchio nei parchi della città. A ogni tappa il burattino incontra personaggi diversi: Geppetto, Mangiafuoco, il Gatto e la Volpe.",
+      "discoverySources": [
+        "https://www.viaggiapiccoli.com/cosa-fare-torino-weekend-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 24 ottobre 2026. Note: Date e luoghi confermati; orari non indicati. Con il maltempo il programma può cambiare.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-24",
+      "timeUnknown": true,
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-25",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "startsAt": "2026-10-25"
     }
   ],
   "organizations": [
@@ -6086,6 +6195,32 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il controllo del weekend del 22 ottobre 2026."
+    },
+    {
+      "id": "org-polo-del-900",
+      "name": "Polo del ’900",
+      "category": "Musica",
+      "municipality": "Torino",
+      "url": "https://polodel900.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-24",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 24 ottobre 2026."
+    },
+    {
+      "id": "org-45-nord",
+      "name": "45° Nord Entertainment Center",
+      "category": "Laboratorio",
+      "municipality": "Moncalieri",
+      "url": "https://www.45nord.com/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-24",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 24 ottobre 2026."
     }
   ]
 }
