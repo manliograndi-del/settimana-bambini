@@ -45,6 +45,8 @@ const clean=line=>{
   const parts=line.split(/(?<=[.!?](?:\*\*)?)\s+(?=[A-Z*«ÈÀ])/);
   return parts.filter(p=>!INTERNAL.test(p.replace(/https?:\/\/\S+/g,''))).join(' ');
 };
+// riga con la sola etichetta («**Contatti:**») rimasta vuota dopo la pulizia: non va sul sito; un nome in grassetto da solo sì
+const emptyLabel=x=>/^\*\*[^*]*\*\*:?\s*$/.test(x.trim())&&/:\s*(\*\*)?:?\s*$/.test(x.trim());
 function md(txt){
   const L=txt.split('\n'); let h='', i=0;
   while(i<L.length){
@@ -58,11 +60,11 @@ function md(txt){
     if(/^\s*-\s/.test(l)){
       h+='<ul>'; while(i<L.length&&/^\s*-\s|^\s{2,}\S/.test(L[i])){ let it=L[i].replace(/^\s*-\s/,''); i++;
         while(i<L.length&&/^\s{2,}\S/.test(L[i])&&!/^\s*-\s/.test(L[i])){ it+='<br>'+L[i].trim(); i++; }
-        const c=it.split('<br>').map(clean).filter(Boolean); if(c.length&&c[0].replace(/\*\*[^*]*\*\*:?\s*/,'').trim()) h+='<li>'+c.map(x=>inline(x).replace(/^Link: /,'')).join('<br>')+'</li>'; }
+        const c=it.split('<br>').map(clean).filter(Boolean); if(c.length&&!emptyLabel(c[0])) h+='<li>'+c.map(x=>inline(x).replace(/^Link: /,'')).join('<br>')+'</li>'; }
       h+='</ul>'; continue;
     }
     if(l.trim()){ let para=l; i++; while(i<L.length&&L[i].trim()&&!/^\||^\s*-\s/.test(L[i])){ para+=' '+L[i]; i++; }
-      const c=clean(para); if(c&&c.replace(/\*\*[^*]*\*\*:?\s*/,'').trim()) h+='<p>'+inline(c)+'</p>'; continue; }
+      const c=clean(para); if(c&&!emptyLabel(c)) h+='<p>'+inline(c)+'</p>'; continue; }
     i++;
   }
   return h.replace(/<ul><\/ul>/g,'');
