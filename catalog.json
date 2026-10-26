@@ -3147,7 +3147,7 @@
       "discoverySources": [],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Notizia del 28/9/2026: 'ogni domenica fino a fine novembre'; nel periodo 25/10 e 1/11. Museo aperto la domenica 10–13 e 15–18. Indirizzo non riportato nella notizia.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-26",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -3156,7 +3156,9 @@
         "2026-10-25T10:00:00+01:00",
         "2026-10-25T15:00:00+01:00",
         "2026-11-01T10:00:00+01:00",
-        "2026-11-01T15:00:00+01:00"
+        "2026-11-01T15:00:00+01:00",
+        "2026-11-08T10:00:00+01:00",
+        "2026-11-08T15:00:00+01:00"
       ],
       "startsAt": "2026-10-25T10:00:00+01:00"
     },
@@ -3414,7 +3416,7 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Visita programmata nei weekend e festivi fino al 15/11, non un evento speciale. Parte solo con almeno 8 partecipanti. Le fonti si contraddicono: la pagina tariffe dice 'prenotazione sempre obbligatoria', quella dell'orario autunnale la chiede solo nei feriali. Chiuso martedì e mercoledì. Ora di fine stimata dalla durata (circa 2 ore).",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-26",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -3427,7 +3429,11 @@
         "2026-10-31T10:30:00+01:00",
         "2026-10-31T14:30:00+01:00",
         "2026-11-01T10:30:00+01:00",
-        "2026-11-01T14:30:00+01:00"
+        "2026-11-01T14:30:00+01:00",
+        "2026-11-07T10:30:00+01:00",
+        "2026-11-07T14:30:00+01:00",
+        "2026-11-08T10:30:00+01:00",
+        "2026-11-08T14:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-24T10:30:00+02:00": "2026-10-24T12:30:00+02:00",
@@ -3791,14 +3797,15 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Gratis con Abbonamento Musei/Junior. Prezzo del biglietto mostra non indicato.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-26",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-25T10:30:00+01:00",
-        "2026-11-01T10:30:00+01:00"
+        "2026-11-01T10:30:00+01:00",
+        "2026-11-08T10:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-25T10:30:00+01:00": "2026-10-25T12:00:00+01:00",
@@ -3962,7 +3969,7 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Il sito dice 'tutti i weekend di ottobre e il primo novembre'; orari confermati solo per il 24/10. Orari di 25/10, 31/10 e 1/11 non visibili.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-26",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -3971,13 +3978,17 @@
         "2026-10-24T09:45:00+02:00",
         "2026-10-24T11:00:00+02:00",
         "2026-10-24T14:00:00+02:00",
-        "2026-10-24T15:15:00+02:00"
+        "2026-10-24T15:15:00+02:00",
+        "2026-10-30T16:00:00+01:00",
+        "2026-10-31T09:45:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-24T09:45:00+02:00": "2026-10-24T11:15:00+02:00",
         "2026-10-24T11:00:00+02:00": "2026-10-24T12:30:00+02:00",
         "2026-10-24T14:00:00+02:00": "2026-10-24T15:30:00+02:00",
-        "2026-10-24T15:15:00+02:00": "2026-10-24T16:45:00+02:00"
+        "2026-10-24T15:15:00+02:00": "2026-10-24T16:45:00+02:00",
+        "2026-10-30T16:00:00+01:00": "2026-10-30T17:30:00+01:00",
+        "2026-10-31T09:45:00+01:00": "2026-10-31T16:45:00+01:00"
       },
       "startsAt": "2026-10-24T09:45:00+02:00"
     },
@@ -4627,6 +4638,914 @@
         "2026-10-30"
       ],
       "startsAt": "2026-10-25"
+    },
+    {
+      "id": "halloween-spooky-lab-laboratori-in-inglese",
+      "organizationId": "org-kids-us-torino-casale-e-kids-us-rivoli",
+      "illustration": "icona-festa.webp",
+      "title": "Halloween Spooky Lab – laboratori in inglese",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "The Place, terzo piano di Green Pea · via Ermanno Fenoglietti 20, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 155,
+      "ageLabel": "3–12 anni",
+      "costLabel": "20 € a bambino; 35 € per due fratelli",
+      "costBand": "mid",
+      "booking": "Obbligatoria: acquisto del biglietto online sul sito To Be Experience, scegliendo il turno",
+      "url": "https://tobexperience.it/evento/halloween-spooky-lab",
+      "description": "Un pomeriggio di Halloween tutto in inglese: i bambini girano fra tre attività, una storia animata, un laboratorio di cucina con merenda 'mostruosa' e un lavoretto da portare a casa. Non serve sapere l'inglese; il costume è gradito.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/halloween-spooky-lab-laboratori-in-inglese-per-bambini"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: L'età minima 3 anni viene da TorinoBimbi; la pagina ufficiale dice 'fino a 12 anni'. Sulla pagina ufficiale compare anche la scritta 'Evento concluso': forse posti esauriti, da verificare.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T15:00:00+01:00",
+        "2026-10-31T17:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T15:00:00+01:00": "2026-10-31T16:30:00+01:00",
+        "2026-10-31T17:00:00+01:00": "2026-10-31T18:30:00+01:00"
+      },
+      "startsAt": "2026-10-31T15:00:00+01:00"
+    },
+    {
+      "id": "giallo-al-museo-halloween",
+      "organizationId": "org-museo-accorsi-ometto",
+      "illustration": "icona-festa.webp",
+      "title": "Giallo al Museo – Halloween",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Museo Accorsi-Ometto · via Po 55, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 131,
+      "ageLabel": "6–10 anni",
+      "costLabel": "Bambini 6 €; adulti 8 € (gratis con Abbonamento Musei); famiglia 2 adulti + 1 bambino 18 €",
+      "costBand": "low",
+      "booking": "Obbligatoria: info@fondazioneaccorsi-ometto.it oppure 011 837688 int. 3",
+      "url": "https://www.fondazioneaccorsi-ometto.it/2026/09/08/in-famiglia-al-museo-accorsi-ometto-2/",
+      "description": "I bambini diventano detective e risolvono indovinelli e indizi 'spaventosi' per svelare un mistero fra le sale del museo. Segue un laboratorio pratico.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/giallo-al-museo-halloween"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Età non indicata dal museo: 6-10 anni è l'etichetta di TorinoBimbi. Ora di fine non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-10-31T15:30:00+01:00"
+      ],
+      "startsAt": "2026-10-31T15:30:00+01:00"
+    },
+    {
+      "id": "accademia-degli-esploratori-halloween-nel-bosco",
+      "organizationId": "helix-new",
+      "illustration": "icona-festa.webp",
+      "title": "Accademia degli Esploratori – Halloween nel bosco",
+      "category": "Natura",
+      "municipality": "Mattie",
+      "venue": "Lago Piccolo · Mattie (TO)",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 143,
+      "ageLabel": "6–11 anni",
+      "costLabel": "Non indicato dall’organizzatore",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: nelboscoconhelix@gmail.com o 379 247 3813; posti limitati",
+      "url": "https://www.nelboscoconhelix.com/calendario-accademia-degli-esploratori-scopri-tutte-le-date-per-non-perderle/",
+      "description": "Passeggiata serale nel bosco con le frontaline, a tema Halloween, per bambini della scuola primaria. Fa parte dell'Accademia degli Esploratori ma si può prenotare come uscita singola.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/accademia-degli-esploratori-halloween-nel-bosco-mattie"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Il calendario dell'organizzatore conferma data, ora (16:30-18:30) e luogo ma non il prezzo; 25 € e la prenotazione della singola uscita vengono da TorinoBimbi. Età 6-11 dalla pagina generale dell'Accademia.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-10-31T16:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T16:30:00+01:00": "2026-10-31T18:30:00+01:00"
+      },
+      "startsAt": "2026-10-31T16:30:00+01:00"
+    },
+    {
+      "id": "laboratorio-di-halloween-al-ch4",
+      "organizationId": "org-ch4-sporting-club",
+      "illustration": "icona-festa.webp",
+      "title": "Laboratorio di Halloween al CH4",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "CH4 Sporting Club · via Trofarello 10, Torino",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 71,
+      "ageLabel": "2–5 anni (mattina 2-4, pomeriggio 3-5)",
+      "costLabel": "15 €; 12 € per i tesserati",
+      "costBand": "mid",
+      "booking": "Modalità non indicata: chiedere a info@ch4sportingclub.it o 011 678366",
+      "url": "https://ch4sportingclub.it/news/laboratorio-di-halloween/",
+      "description": "Laboratorio a tema per i più piccoli con pozioni sensoriali nella 'Bottega degli Stregoni', lavoretti mostruosi, giochi di gruppo e un giro di dolcetto o scherzetto nel quartiere. Merenda per tutti; costume gradito.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/laboratorio-di-halloween-10"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Turno del mattino per 2-4 anni, del pomeriggio per 3-5 anni. L'anno non è scritto sulla pagina, ma la news collegata parla di sabato 31 ottobre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T10:30:00+01:00",
+        "2026-10-31T17:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T10:30:00+01:00": "2026-10-31T12:30:00+01:00",
+        "2026-10-31T17:00:00+01:00": "2026-10-31T19:00:00+01:00"
+      },
+      "startsAt": "2026-10-31T10:30:00+01:00"
+    },
+    {
+      "id": "halloween-al-baby-gym-torino",
+      "organizationId": "org-49",
+      "illustration": "icona-festa.webp",
+      "title": "Halloween al Baby Gym (Torino)",
+      "category": "Festa",
+      "municipality": "Torino",
+      "venue": "Baby Gym · via Vespucci 36, Torino",
+      "ageMinMonths": 18,
+      "ageMaxMonths": 95,
+      "ageLabel": "18 mesi–7 anni (10:00 e 11:30: 18 mesi-3 anni; 16:00: 5-7 anni; 18:00: 3-5 anni)",
+      "costLabel": "20 €",
+      "costBand": "mid",
+      "booking": "Obbligatoria secondo TorinoBimbi: 011 503484, 347 3038255, babygym.to@gmail.com",
+      "url": "https://www.babygym-to.com/evento/halloween/",
+      "description": "Festa di Halloween in palestra con giochi a tema, percorsi, acrobazie e musica, guidata dagli istruttori Baby Gym. Turni diversi per età; non sono ammessi trucchi sul viso né costumi che impediscono i movimenti.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/festa-halloween-al-baby-gym-un-divertimento-da-brivido"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Le 'Halloween al Baby Gym' del 26-30/10 su TorinoBimbi sono lezioni di prova dei corsi: escluse.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-01T10:00:00+01:00",
+        "2026-11-01T11:30:00+01:00",
+        "2026-11-01T16:00:00+01:00",
+        "2026-11-01T18:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-01T10:00:00+01:00": "2026-11-01T11:00:00+01:00",
+        "2026-11-01T11:30:00+01:00": "2026-11-01T12:30:00+01:00",
+        "2026-11-01T16:00:00+01:00": "2026-11-01T17:30:00+01:00",
+        "2026-11-01T18:00:00+01:00": "2026-11-01T19:30:00+01:00"
+      },
+      "startsAt": "2026-11-01T10:00:00+01:00"
+    },
+    {
+      "id": "halloween-al-baby-gym-rivoli",
+      "organizationId": "org-49",
+      "illustration": "icona-festa.webp",
+      "title": "Halloween al Baby Gym (Rivoli)",
+      "category": "Festa",
+      "municipality": "Rivoli",
+      "venue": "Baby Gym Rivoli · via Adda 1/c, Rivoli",
+      "ageMinMonths": 18,
+      "ageMaxMonths": 95,
+      "ageLabel": "18 mesi–7 anni (mattina 18 mesi-3 anni; 16:00: 5-7 anni; 18:00: 3-5 anni)",
+      "costLabel": "20 €",
+      "costBand": "mid",
+      "booking": "Contattare la sede: 349 5800593, babygymrivoli@gmail.com",
+      "url": "https://www.babygym-to.com/evento/halloween-2/",
+      "description": "Stessa festa di Halloween della sede di Torino, nella palestra di Rivoli: giochi a tema, percorsi, acrobazie e musica con gli istruttori, a turni per età.",
+      "discoverySources": [
+        "https://www.babygym-to.com/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Trovata sul sito dell'organizzatore aprendo la festa segnalata da TorinoBimbi (che elenca solo la sede di Torino). Il secondo turno del mattino è scritto '10:30-12:30', che si sovrappone al primo: forse un errore per 11:30-12:30.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-01T10:00:00+01:00",
+        "2026-11-01T10:30:00+01:00",
+        "2026-11-01T16:00:00+01:00",
+        "2026-11-01T18:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-01T10:00:00+01:00": "2026-11-01T11:00:00+01:00",
+        "2026-11-01T10:30:00+01:00": "2026-11-01T12:30:00+01:00",
+        "2026-11-01T16:00:00+01:00": "2026-11-01T17:30:00+01:00",
+        "2026-11-01T18:00:00+01:00": "2026-11-01T19:30:00+01:00"
+      },
+      "startsAt": "2026-11-01T10:00:00+01:00"
+    },
+    {
+      "id": "circo-in-pillole-folle",
+      "organizationId": "org-flic-scuola-di-circo-con-accademia-dei-f",
+      "illustration": "icona-circo.webp",
+      "title": "Circo in Pillole – Folle",
+      "category": "Circo",
+      "municipality": "Torino",
+      "venue": "Spazio FLIC (Bunker) · via Niccolò Paganini 0/200, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 155,
+      "ageLabel": "Per tutte le età",
+      "costLabel": "Offerta libera facoltativa",
+      "costBand": "free",
+      "booking": "Non prevista: biglietti da ritirare la sera dello spettacolo da un'ora prima, fino a esaurimento posti",
+      "url": "https://flicscuolacirco.it/news/circo-in-pillole-22/",
+      "description": "Spettacolo di circo, danza e voce degli allievi del secondo anno della scuola FLIC, diretto da Erika Bettin. Si chiede chi sia davvero 'folle': chi rischia di cadere o chi guarda da sotto.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/circo-in-pillole-folle"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La FLIC dice 'adatto a tutte le età'; è uno spettacolo serale (20:00). Mentelocale indica per gli spettacoli serali POP UP! un biglietto di 10 €, ma la pagina FLIC di questo spettacolo dice offerta libera.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-05T20:00:00+01:00"
+      ],
+      "startsAt": "2026-11-05T20:00:00+01:00"
+    },
+    {
+      "id": "noi-essere-selvatici-pav-kids",
+      "organizationId": "org-7",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Noi, essere selvatici – PAV Kids",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "PAV Parco Arte Vivente · Torino (indirizzo non indicato nella pagina)",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 131,
+      "ageLabel": "4–10 anni",
+      "costLabel": "7 € a bambino; 4 € genitore o accompagnatore",
+      "costBand": "low",
+      "booking": "Obbligatoria: 011 3182235, info@parcoartevivente.it o modulo online",
+      "url": "https://parcoartevivente.it/pav-kids/",
+      "description": "Esplorazione del parco con binocoli e lenti, poi foglie, cortecce, rametti e bacche diventano un erbario personale. Dopo il laboratorio si può restare per un picnic sul prato.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/agenda/noi-essere-selvatici-pav-kids"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La pagina PAV Kids non ha un link della singola attività.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T11:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T11:00:00+01:00": "2026-11-08T12:30:00+01:00"
+      },
+      "startsAt": "2026-11-08T11:00:00+01:00"
+    },
+    {
+      "id": "impulsi-caccia-al-tesoro-di-halloween-e-laborato",
+      "organizationId": "org-45-nord",
+      "illustration": "icona-festa.webp",
+      "title": "Impulsi – caccia al tesoro di Halloween e laboratori al 45° Nord",
+      "category": "Festa",
+      "municipality": "Moncalieri",
+      "venue": "45° Nord Entertainment Center · via Fortunato Postiglione 1, Moncalieri",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "Talk gratuiti con prenotazione; costo delle attività per bambini non indicato",
+      "costBand": "unknown",
+      "booking": "Obbligatoria solo per i talk, con il modulo su kiwisrl.it/impulsi; per le attività per bambini non indicata",
+      "url": "https://www.kiwisrl.it/impulsi",
+      "description": "Ultimo weekend della rassegna Impulsi al centro commerciale 45° Nord, dedicato a musica e arte. Per le famiglie ci sono la caccia al tesoro (sabato a tema Halloween, dalle 16 alle 18), laboratori creativi di disegno, shopper da colorare e visite ai murales.",
+      "discoverySources": [
+        "https://www.guidabimbi.com/zipline-funny-boat-45-nord-di-moncalieri/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Caccia al tesoro 16:00-18:00 entrambi i giorni. Il weekend precedente (24-25/10) era già stato segnalato (controllo del 24/10, fuori da questo periodo). Età e costi delle attività non indicati.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T14:00:00+01:00",
+        "2026-11-01T14:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T14:00:00+01:00": "2026-10-31T19:00:00+01:00",
+        "2026-11-01T14:00:00+01:00": "2026-11-01T19:00:00+01:00"
+      },
+      "startsAt": "2026-10-31T14:00:00+01:00"
+    },
+    {
+      "id": "paratissima-kids-laboratori-e-visite-per-bambini",
+      "organizationId": "org-paratissima",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Paratissima Kids – laboratori e visite per bambini",
+      "category": "Laboratorio",
+      "municipality": "Moncalieri",
+      "venue": "Real Collegio Carlo Alberto · via Real Collegio 30, Moncalieri",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 155,
+      "ageLabel": "3–12 anni (laboratori per fasce 3-6, 6-10, 7-12)",
+      "costLabel": "Laboratori 10 € (Mosaici tessili 15 €), visita guidata 8 €; adulto accompagnatore ingresso ridotto 10 €",
+      "costBand": "mid",
+      "booking": "Consigliata online su ticket.paratissima.it/kids-2026/; anche all'ArtShop se ci sono posti",
+      "url": "https://www.paratissima.it/paratissima-kids-2026/",
+      "description": "Durante la fiera d'arte Paratissima, un programma di laboratori creativi e visite guidate per bambini divisi per età. Si fanno ritratti fantastici, mosaici di stoffa, mostri, scatole-mondo e piccoli teatri. Sotto i 6 anni serve un adulto per tutta l'attività.",
+      "discoverySources": [
+        "https://www.giovanigenitori.it/calendario-eventi/paratissima-a-d-2026/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Molti turni da 1h15 (visite 1h): sabato dal primo alle 10:15 all'ultimo alle 18:15, domenica dalle 10:15 all'ultimo alle 17:45; 'end' calcolato sulla durata dell'ultimo turno. Programma completo con turni nella pagina ufficiale.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T10:15:00+01:00",
+        "2026-11-01T10:15:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T10:15:00+01:00": "2026-10-31T19:30:00+01:00",
+        "2026-11-01T10:15:00+01:00": "2026-11-01T19:00:00+01:00"
+      },
+      "startsAt": "2026-10-31T10:15:00+01:00"
+    },
+    {
+      "id": "artissima-junior-tomorrow-piece-by-piece",
+      "organizationId": "org-artissima",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Artissima Junior – Tomorrow, Piece by Piece",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Oval – Lingotto Fiere · via Giacomo Mattè Trucco 70, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 143,
+      "ageLabel": "6–11 anni",
+      "costLabel": "Non indicato dall’organizzatore (biglietto della fiera)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria secondo Giovani Genitori; la pagina dell'organizzatore non dà modalità",
+      "url": "https://www.artissima.art/artissima-junior-2026/",
+      "description": "Spazio per bambini dentro la fiera d'arte contemporanea Artissima. Guidati dall'artista Francis Offman, i bambini lavorano in squadre e costruiscono insieme una grande opera con pittura e materiali di recupero.",
+      "discoverySources": [
+        "https://www.giovanigenitori.it/calendario-eventi/artissima-junior-a-d-2026/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Dati deboli: la pagina ufficiale dà solo le date della fiera (30/10-1/11) e l'età 6-11, senza orari, costi né prenotazione. Orari della fiera (da WebSearch): 30 e 31/10 12-20, 1/11 11-19; Giovani Genitori indica inizio alle 12:00. Valutare se pubblicare.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "timeUnknown": true,
+      "startsAt": "2026-10-30"
+    },
+    {
+      "id": "l-accademia-delle-masche-halloween-al-castello",
+      "organizationId": "cosso-new",
+      "illustration": "icona-festa.webp",
+      "title": "L'accademia delle masche – Halloween al Castello",
+      "category": "Natura",
+      "municipality": "San Secondo di Pinerolo",
+      "venue": "Castello di Miradolo e Parco · via Cardonata 2, San Secondo di Pinerolo",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 143,
+      "ageLabel": "6–11 anni con i genitori",
+      "costLabel": "7 € a partecipante (attività e ingresso); merenda delle streghe facoltativa 3 €",
+      "costBand": "low",
+      "booking": "Obbligatoria, posti limitati: biglietto online, oppure 0121 502761, prenotazioni@fondazionecosso.it",
+      "url": "https://www.fondazionecosso.com/evento/laccademia-delle-masche/",
+      "description": "Attività di Halloween sul folklore piemontese per bambini e genitori. Si cercano nel parco del castello figure misteriose, incantesimi e contro-incantesimi, e ognuno costruisce il suo 'Libro del comando'. Alla fine c'è la merenda delle streghe.",
+      "discoverySources": [
+        "https://www.familygo.eu/vacanze-con-bambini/eventi/torino/castello-di-miradolo-foliage-attivita-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Durata non indicata. Segnalato anche da Viaggiapiccoli (speciale Halloween).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T10:30:00+01:00",
+        "2026-10-31T15:00:00+01:00"
+      ],
+      "startsAt": "2026-10-31T10:30:00+01:00"
+    },
+    {
+      "id": "la-lanterna-stregata-halloween-al-castello",
+      "organizationId": "cosso-new",
+      "illustration": "icona-festa.webp",
+      "title": "La lanterna stregata – Halloween al Castello",
+      "category": "Laboratorio",
+      "municipality": "San Secondo di Pinerolo",
+      "venue": "Castello di Miradolo · via Cardonata 2, San Secondo di Pinerolo",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 71,
+      "ageLabel": "2–5 anni",
+      "costLabel": "7 € (attività e ingresso)",
+      "costBand": "low",
+      "booking": "Obbligatoria, posti limitati: biglietto online, oppure 0121 502761, prenotazioni@fondazionecosso.it",
+      "url": "https://www.fondazionecosso.com/evento/la-lanterna-stregata/",
+      "description": "Visita al castello per i più piccoli, guardando porte, finestre, balconi e archi con racconti a tema. Poi un laboratorio in cui si disegna e ritaglia un villaggio di casette su cartoncino nero, con le finestre illuminate dalla propria lanterna.",
+      "discoverySources": [
+        "https://www.familygo.eu/vacanze-con-bambini/eventi/torino/castello-di-miradolo-foliage-attivita-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La pagina ufficiale indica 2-5 anni; FamilyGO dice 3-5. Durata non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-01T10:30:00+01:00",
+        "2026-11-01T15:00:00+01:00"
+      ],
+      "startsAt": "2026-11-01T10:30:00+01:00"
+    },
+    {
+      "id": "dream-lab-la-scatola-dei-sogni",
+      "organizationId": "org-5",
+      "illustration": "icona-museo.webp",
+      "title": "Dream.lab – La scatola dei sogni",
+      "category": "Museo",
+      "municipality": "Rivoli",
+      "venue": "Castello di Rivoli · piazza Mafalda di Savoia, Rivoli",
+      "ageMinMonths": 0,
+      "ageMaxMonths": null,
+      "ageLabel": "Ore 10 speciale 0-3 anni; ore 15:30 dai 3 anni",
+      "costLabel": "4,50 € a persona; gratis con Abbonamento Musei / Musei Junior, Passaporto Culturale e il sabato per i cittadini di Rivoli",
+      "costBand": "low",
+      "booking": "Dipartimento Educazione: 011 9565213, educa@castellodirivoli.org",
+      "url": "https://www.castellodirivoli.org/articolo/famiglie-dream-lab-la-scatola-dei-sogni/",
+      "description": "Weekend d'arte per famiglie dentro l'opera dell'artista Rivane Neuenschwander dedicata ai sogni. Grandi e bambini entrano in uno spazio immersivo pieno di creature fantastiche e partecipano all'opera. Al mattino c'è un turno speciale per i bambini fino a 3 anni.",
+      "discoverySources": [
+        "https://www.familygo.eu/vacanze-con-bambini/eventi/torino/torino-eventi-per-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La pagina riporta solo sabato 7 novembre nel periodo (poi 21 novembre). Durata non indicata. Probabilmente coperto anche dalla fonte org-5.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T10:00:00+01:00",
+        "2026-11-07T15:30:00+01:00"
+      ],
+      "startsAt": "2026-11-07T10:00:00+01:00"
+    },
+    {
+      "id": "il-corpo-e-l-invisibile-attivita-per-famiglie-al",
+      "organizationId": "org-gam-torino",
+      "illustration": "icona-museo.webp",
+      "title": "Il corpo e l'invisibile – attività per famiglie alla GAM",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "GAM – Galleria Civica d'Arte Moderna e Contemporanea · via Magenta 31, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 143,
+      "ageLabel": "6–11 anni",
+      "costLabel": "Attività 10 € (ridotto 8 €) più biglietto del museo",
+      "costBand": "mid",
+      "booking": "Online sulla biglietteria Fondazione Torino Musei / CoopCulture; ftm.prenotazioni@coopculture.it, 011 19560449",
+      "url": "https://www.coopculture.it/it/prodotti/il-corpo-e-linvisibile/",
+      "description": "Visita-laboratorio di un'ora e mezza alla GAM per bambini dai 6 agli 11 anni con i loro genitori. Si osservano le opere partendo dal corpo e da ciò che non si vede.",
+      "discoverySources": [
+        "https://www.gamtorino.it/it/education/famiglie-1"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: I biglietti per minori e per chi ha diritto a gratuità vanno presi alla cassa del museo. Descrizione del contenuto ricavata dal titolo: la scheda non spiega l'attività nel dettaglio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T15:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T15:30:00+01:00": "2026-11-08T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-08T15:30:00+01:00"
+    },
+    {
+      "id": "abat-jour-la-notte-cambia-forma-alle-cose",
+      "organizationId": "org-8",
+      "illustration": "icona-laboratorio.webp",
+      "title": "ABAT-JOUR – La notte cambia forma alle cose",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "MAO Museo d'Arte Orientale · via San Domenico 11, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie (bambini con adulti)",
+      "costLabel": "7 € a bambino; adulti con biglietto ridotto della mostra o gratis con Abbonamento Musei",
+      "costBand": "low",
+      "booking": "Obbligatoria: maodidattica@fondazionetorinomusei.it",
+      "url": "https://www.maotorino.it/it/evento/abat-jour-la-notte-cambia-forma-alle-cose/",
+      "description": "Un laboratorio per famiglie nella mostra di Song Dong: ognuno riceve un quaderno di carta che diventa una lampada. Si disegnano gli oggetti della mostra immaginando come cambiano di notte e con i disegni si decorano le lanterne. Alla fine si spengono le luci e si raccontano storie al buio.",
+      "discoverySources": [
+        "https://www.maotorino.it/it/education/famiglie/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La pagina non indica l'età né l'ora di fine.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T16:00:00+01:00"
+      ],
+      "startsAt": "2026-11-08T16:00:00+01:00"
+    },
+    {
+      "id": "piccoli-esploratori-al-museo-egizio-tour-per-fam",
+      "organizationId": "org-somewhere",
+      "illustration": "icona-museo.webp",
+      "title": "Piccoli esploratori al Museo Egizio – tour per famiglie",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Museo Egizio · Torino (ritrovo secondo Viaggiapiccoli: piazza Carignano, davanti al monumento; la pagina dell'organizzatore non lo indica)",
+      "ageMinMonths": 96,
+      "ageMaxMonths": null,
+      "ageLabel": "Consigliato dagli 8 anni",
+      "costLabel": "Adulti 28 €, bambini fino a 12 anni 15 €",
+      "costBand": "high",
+      "booking": "Obbligatoria online sul sito Somewhere; booking@somewhere.it, 011 668 05 80",
+      "url": "https://www.somewhere.it/prodotto/piccoli-esploratori",
+      "description": "Visita guidata per famiglie al Museo Egizio, pensata per far scoprire ai bambini la civiltà egizia come piccoli esploratori. Si entra saltando la coda e il giro dura circa due ore.",
+      "discoverySources": [
+        "https://www.viaggiapiccoli.com/?p=86618"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Tour di un'agenzia privata con calendario: l'8/11 risultano 7 posti liberi. Il calendario mostra anche domenica 1/11 ma senza disponibilità indicata, quindi non inserita. Niente zaini grandi, deposito bagagli chiuso per lavori.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T16:00:00+01:00": "2026-11-08T18:00:00+01:00"
+      },
+      "startsAt": "2026-11-08T16:00:00+01:00"
+    },
+    {
+      "id": "gianduja-nel-castello-dei-fantasmi-con-festa-di",
+      "organizationId": "org-10",
+      "illustration": "icona-festa.webp",
+      "title": "Gianduja nel castello dei fantasmi (con festa di Halloween il 31/10)",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Casa Gianduja · via Luigi Pettinati 10, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per bambini (età non indicata)",
+      "costLabel": "Intero 12 €, ridotto 8 €, Abbonamento Musei 6 € (comprende laboratorio 15-17 e visita al museo)",
+      "costBand": "mid",
+      "booking": "Info e prenotazioni: 338 7561498 / 334 2617947, prenotazioni@casagianduja.it; biglietti anche su Vivaticket",
+      "url": "https://marionettegrilli.it/casagianduja/Stagione20262027.pdf",
+      "description": "Spettacolo di burattini con Gianduja alle prese con un castello pieno di fantasmi. Sabato 31 ottobre c'è anche una festa di Halloween con animazione. Il biglietto comprende il laboratorio del pomeriggio e la visita al museo delle marionette.",
+      "discoverySources": [
+        "https://marionettegrilli.it/casagianduja/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Dal PDF della stagione 'Giorni di Festa 2026/2027': 31/10 'Festa di Halloween con animazione e spettacolo Gianduja nel castello dei fantasmi', 1/11 'Gianduja nel castello dei fantasmi, spettacolo con burattini'. Orario generale 'inizio spettacoli h 17.00'; laboratorio dalle 15 alle 17 solo sabato e domenica. La domenica alle 16:15 c'è anche 'Vi presento un libro che...' (presentazione di libri prima dello spettacolo). Età non indicata. Vivaticket non leggibile.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T17:00:00+01:00",
+        "2026-11-01T17:00:00+01:00"
+      ],
+      "startsAt": "2026-10-31T17:00:00+01:00"
+    },
+    {
+      "id": "pinocchio-spettacolo-con-marionette",
+      "organizationId": "org-10",
+      "illustration": "icona-teatro.webp",
+      "title": "Pinocchio – spettacolo con marionette",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Casa Gianduja · via Luigi Pettinati 10, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per bambini (età non indicata)",
+      "costLabel": "Intero 12 €, ridotto 8 €, Abbonamento Musei 6 € (comprende laboratorio 15-17 e visita al museo)",
+      "costBand": "mid",
+      "booking": "Info e prenotazioni: 338 7561498 / 334 2617947, prenotazioni@casagianduja.it; biglietti anche su Vivaticket",
+      "url": "https://marionettegrilli.it/casagianduja/Stagione20262027.pdf",
+      "description": "La storia di Pinocchio raccontata con le marionette storiche della famiglia Grilli, in una nuova produzione. Prima dello spettacolo c'è un laboratorio per bambini e si può visitare il museo.",
+      "discoverySources": [
+        "https://marionettegrilli.it/casagianduja/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Il PDF indica 'dal 7 al 29 novembre' senza elencare i giorni; 7/11 è sabato e 29/11 domenica, e la stagione è di fine settimana: inserite le date di sabato 7 e domenica 8. Da confermare se ci sono repliche anche in altri giorni. Orario generale 17:00.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T17:00:00+01:00",
+        "2026-11-08T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-07T17:00:00+01:00"
+    },
+    {
+      "id": "letture-ad-alta-voce",
+      "organizationId": "mauto-new",
+      "illustration": "icona-lettura.webp",
+      "title": "Letture ad alta voce",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "MAUTO · corso Unità d'Italia 40, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 131,
+      "ageLabel": "6–10 anni",
+      "costLabel": "Non chiaro: la biglietteria mostra 'Visita guidata 7 €' e un totale di 15 €; ingresso al museo incluso per i bambini, gli adulti accompagnatori pagano il biglietto del museo",
+      "costBand": "unknown",
+      "booking": "Online su ticket.museoauto.com (scelta di data e ora)",
+      "url": "https://ticket.museoauto.com/eventi/letture-ad-alta-voce-2/",
+      "description": "Una storia letta ad alta voce porta i bambini nel mondo del teatro. Con giochi e movimento esplorano personaggi ed emozioni in modo libero e creativo. Si consigliano calze antiscivolo.",
+      "discoverySources": [
+        "https://ticket.museoauto.com/categoria/attivita-per-famiglie/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Data e ora (sabato 7/11 ore 16:00) lette nell'elenco della categoria 'Attività per famiglie' della biglietteria ufficiale; la scheda singola non mostra la data. Durata non indicata. Gli adulti accompagnatori partecipano gratis all'attività ma devono comprare il biglietto del museo.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T16:00:00+01:00"
+      ],
+      "startsAt": "2026-11-07T16:00:00+01:00"
+    },
+    {
+      "id": "halloween-in-miniera-caccia-al-tesoro-a-scoprimi",
+      "organizationId": "org-ecomuseo-regionale-delle-miniere-e-della",
+      "illustration": "icona-festa.webp",
+      "title": "Halloween in miniera – caccia al tesoro a ScopriMiniera",
+      "category": "Natura",
+      "municipality": "Prali",
+      "venue": "ScopriMiniera · Loc. Paola, Prali",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per famiglie (età non indicata)",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: 0121 806987 o info@ecomuseominiere.it",
+      "url": "https://www.ecomuseominiere.it/eventi/halloween-in-miniera-caccia-al-tesoro-a-scopriminiera/",
+      "description": "Per Halloween la visita alla miniera diventa una caccia al tesoro tra gallerie e binari, con pipistrelli e sorprese. Chi completa la missione riceve un piccolo regalo. Adatta a famiglie e gruppi.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: 10:00-16:30 è la fascia della giornata indicata in calendario, non la durata dell'attività. Non è detto se sia compresa nella normale visita ScopriMiniera (stessi giorni del già pubblicato scopriminiera-visita-guidata-in-miniera): possibile sovrapposizione, valutare se unire. Prezzo ed età non indicati (ScopriMiniera normalmente dai 3 anni).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-10-31T10:00:00+01:00",
+        "2026-11-01T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-10-31T10:00:00+01:00": "2026-10-31T16:30:00+01:00",
+        "2026-11-01T10:00:00+01:00": "2026-11-01T16:30:00+01:00"
+      },
+      "startsAt": "2026-10-31T10:00:00+01:00"
+    },
+    {
+      "id": "le-luci-di-san-martino-storie-di-bosco-e-lantern",
+      "organizationId": "org-40",
+      "illustration": "icona-natura.webp",
+      "title": "Le Luci di San Martino – storie di bosco e lanterne magiche",
+      "category": "Natura",
+      "municipality": "Venaria Reale",
+      "venue": "Parco La Mandria · Cascina Brero, via Scodeggio 197/A, Venaria Reale",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie con bambini (età non indicata)",
+      "costLabel": "15 € a persona",
+      "costBand": "mid",
+      "booking": "Obbligatoria tramite il link Arnica sulla scheda; info Punto informativo La Mandria 011 4320977 (chiuso lunedì), info@parcomandria.it",
+      "url": "https://www.parchireali.it/events/le-luci-di-san-martino-2/",
+      "description": "Passeggiata nel parco con una guida naturalistica per scoprire come piante e animali del bosco si preparano all'inverno. Alla fine si costruiscono lanterne di carta per San Martino. Serve un abbigliamento caldo e scarpe comode.",
+      "discoverySources": [
+        "https://www.arnicatorino.it/le-luci-di-san-martino-2/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Vale un timbro del 'Passaporto del Bosco' (4 timbri = ingresso omaggio al percorso sensoriale). Età non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T16:00:00+01:00": "2026-11-07T18:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T16:00:00+01:00"
+    },
+    {
+      "id": "storie-tra-le-piume",
+      "organizationId": "ogr",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie tra le piume",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "OGR Torino, Speakers' Corner · corso Castelfidardo 22, Torino",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 83,
+      "ageLabel": "2–6 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Prenotazione sul sito ogrtorino.it (attività Kids4Future gratuite previa prenotazione)",
+      "url": "https://ogrtorino.it/events/storie-tra-le-piume",
+      "description": "Lettura animata di storie di animali che parlano di libertà, coraggio, diversità e amicizia. Le storie sono accompagnate dalla musica della fisarmonica. A cura di Michela Di Martino con Niccolò Bosio.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La pagina OGR non si apre con WebFetch (solo titolo): confermato con il riassunto WebSearch della stessa pagina ufficiale (data, ora, luogo, età, gratuità). Durata non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-08T16:30:00+01:00"
+    },
+    {
+      "id": "storie-di-carta-e-di-rospi-attivita-per-famiglie",
+      "organizationId": "org-gam-torino",
+      "illustration": "icona-museo.webp",
+      "title": "Storie di carta e di rospi – attività per famiglie alla GAM",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "GAM – Galleria Civica d'Arte Moderna e Contemporanea · via Magenta 31, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie (età non indicata)",
+      "costLabel": "Attività 10 €; ingresso al museo a parte (ridotto per gli adulti, gratuito per i bambini)",
+      "costBand": "mid",
+      "booking": "Online con il tasto Prenota su CoopCulture; info ftm.prenotazioni@coopculture.it, 011 19560449 (10-17, festivi esclusi)",
+      "url": "https://www.coopculture.it/it/prodotti/storie-di-carta-e-di-rospi/",
+      "description": "Attività di un'ora per famiglie nelle sale della GAM, tra storie e carta. È legata al progetto che si chiude con un'asta benefica il 12 dicembre.",
+      "discoverySources": [
+        "https://www.gamtorino.it/it/education/famiglie-1"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La scheda non indica l'anno in modo esplicito vicino alla data, ma è nel calendario attuale CoopCulture (asta 12/12/2026). Età e contenuto preciso non descritti.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T10:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T10:30:00+01:00": "2026-11-08T11:30:00+01:00"
+      },
+      "startsAt": "2026-11-08T10:30:00+01:00"
+    },
+    {
+      "id": "halloween-in-piazza-livio-bianco-e-in-cascina",
+      "organizationId": "org-cascina-roccafranca",
+      "illustration": "icona-festa.webp",
+      "title": "Halloween in Piazza Livio Bianco e in Cascina",
+      "category": "Festa",
+      "municipality": "Torino",
+      "venue": "Oasi Mirafiorita, Piazza Livio Bianco, Torino (pomeriggio) · Cascina Roccafranca, via Rubino 45, Torino (film serale)",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per grandi e piccini",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://www.cascinaroccafranca.it/30-10-halloween-in-piazza-livio-bianco-e-in-cascina/",
+      "description": "Un pomeriggio di Halloween all'Oasi Mirafiorita con giochi, laboratori «mostruosi» e letture paurose. Dalle 17:30 in piazza ci sono le castagne preparate dai volontari e gioco libero in giardino. Alle 21 la festa finisce in Cascina con il film Edward mani di forbice.",
+      "discoverySources": [
+        "https://www.cascinaroccafranca.it/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Nel testo della scheda c'è scritto «venerdì 30 novembre», ma il titolo (30/10) e il giorno della settimana indicano venerdì 30 ottobre. La pagina «Ottobre in cascina» annuncia anche un «Halloween in Cascina» sabato 31, senza dettagli («stay tuned»). Prezzo e prenotazione non indicati: probabilmente gratuito, ma non è scritto. Contatti: 011 01136250.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-10-30T16:30:00+01:00"
+      ],
+      "startsAt": "2026-10-30T16:30:00+01:00"
+    },
+    {
+      "id": "sabato-bricks4kidz-laboratorio-lego-per-genitori",
+      "organizationId": "org-15",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Sabato Bricks4Kidz – laboratorio LEGO per genitori e figli",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Casa del Quartiere Barrito · Via Tepice 23/C, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 167,
+      "ageLabel": "5–13 anni con un genitore",
+      "costLabel": "30 € (1 adulto + 1 bambino); 40 € pacchetto famiglia (fino a 2 adulti e 3 bambini)",
+      "costBand": "high",
+      "booking": "Obbligatoria: iscrizione online su bricks4kidz.it (link 'ISCRIVITI ORA!' dalla pagina del Barrito); info torino@bricks4kidz.com, 348 1001614",
+      "url": "https://www.barrito.to.it/laboratori-genitori-figli-di-bricks4kidz/",
+      "description": "Un sabato mattina in cui genitori e figli costruiscono insieme, con i mattoncini LEGO, modelli con motore o piccoli robot legati al tema della giornata. È un modo giocoso per avvicinarsi a scienza e tecnologia lavorando in coppia.",
+      "discoverySources": [
+        "https://www.barrito.to.it/leggi-le-ultime-novita-dal-barrito/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: Fa parte di una serie di 7 sabati (7/11, 12/12, 9/1, 20/2, 20/3, 17/4, 15/5) ma ci si può iscrivere al singolo incontro. La pagina non indica l'anno nel testo (post pubblicato il 23/09/2026) né il tema del 7/11. Non fa parte dei Sabati Giocondi gratuiti.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T10:00:00+01:00": "2026-11-07T12:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T10:00:00+01:00"
+    },
+    {
+      "id": "pomeriggio-magico-con-mago-tric-e-trac-vitamina",
+      "organizationId": "org-biblioteca-comunale-movimente",
+      "illustration": "icona-teatro.webp",
+      "title": "Pomeriggio magico con Mago Tric e Trac (Vitamina C... come Cultura)",
+      "category": "Teatro",
+      "municipality": "Montanaro",
+      "venue": "Montanaro · luogo di ritrovo comunicato all'iscrizione",
+      "ageMinMonths": 0,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Obbligatoria: amisuradifamiglianpl@gmail.com",
+      "url": "https://www.comune.chivasso.to.it/it/events/vitamina-c-come-cultura-a-verrua-savoia-2513872",
+      "description": "Uno spettacolo di magia con il Mago Tric e Trac pensato per bambini e famiglie. Fa parte della rassegna Vitamina C... come Cultura, che porta appuntamenti gratuiti nei comuni intorno a Chivasso.",
+      "discoverySources": [
+        "https://www.comune.chivasso.to.it/it/events?page=2"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 ottobre 2026. Note: La scheda indica come sede la Biblioteca MOviMEnte di Chivasso, ma il testo dice che l'evento si svolge a Montanaro con luogo comunicato all'iscrizione. La rassegna si dichiara 'da 0 a 99 anni'.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T16:00:00+01:00": "2026-11-07T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T16:00:00+01:00"
     }
   ],
   "organizations": [
@@ -6221,6 +7140,123 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il controllo del 24 ottobre 2026."
+    },
+    {
+      "id": "org-kids-us-torino-casale-e-kids-us-rivoli",
+      "name": "Kids&Us Torino Casale e Kids&Us Rivoli",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://tobexperience.it/evento/halloween-spooky-lab",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-museo-accorsi-ometto",
+      "name": "Museo Accorsi-Ometto",
+      "category": "Museo",
+      "municipality": "Torino",
+      "url": "https://www.fondazioneaccorsi-ometto.it/2026/09/08/in-famiglia-al-museo-accorsi-ometto-2/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-ch4-sporting-club",
+      "name": "CH4 Sporting Club",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://ch4sportingclub.it/news/laboratorio-di-halloween/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-flic-scuola-di-circo-con-accademia-dei-f",
+      "name": "FLIC Scuola di Circo con Accademia dei Folli",
+      "category": "Circo",
+      "municipality": "Torino",
+      "url": "https://flicscuolacirco.it/news/circo-in-pillole-22/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-paratissima",
+      "name": "Paratissima",
+      "category": "Laboratorio",
+      "municipality": "Moncalieri",
+      "url": "https://www.paratissima.it/paratissima-kids-2026/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-artissima",
+      "name": "Artissima",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://www.artissima.art/artissima-junior-2026/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-somewhere",
+      "name": "Somewhere",
+      "category": "Museo",
+      "municipality": "Torino",
+      "url": "https://www.somewhere.it/prodotto/piccoli-esploratori",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-cascina-roccafranca",
+      "name": "Cascina Roccafranca",
+      "category": "Festa",
+      "municipality": "Torino",
+      "url": "https://www.cascinaroccafranca.it/30-10-halloween-in-piazza-livio-bianco-e-in-cascina/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-biblioteca-comunale-movimente",
+      "name": "Biblioteca comunale MOviMEnte",
+      "category": "Teatro",
+      "municipality": "Montanaro",
+      "url": "https://www.comune.chivasso.to.it/it/events/vitamina-c-come-cultura-a-verrua-savoia-2513872",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
     }
   ]
 }
