@@ -3131,5 +3131,293 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "elogio-alla-noia-circo-contemporaneo",
+    "title": "Elogio alla noia – circo contemporaneo",
+    "source": "https://www.diyticket.it/events/Teatro/34087/elogio-alla-noia",
+    "description": "Spettacolo di circo contemporaneo poetico e ironico, ambientato in una villa misteriosa dove la noia diventa un'arte. Dura un'ora ed è consigliato dai 6 anni.",
+    "asset": "illustrazione-elogio-alla-noia-circo-contemporaneo.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A poetic circus scene inside a mysterious old villa living room: a bored acrobat balancing upside down on an armchair, a juggler with teacups, a performer hanging from a chandelier, all with funny sleepy faces, under a circus tent roof.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-elogio-alla-noia-circo-contemporaneo.webp",
+      "derivedFrom": "illustrazione-elogio-alla-noia-circo-contemporaneo.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "piccolo-chimico-laboratorio-scientifico",
+    "title": "Piccolo Chimico – laboratorio scientifico",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+    "description": "Laboratorio di un'ora in cui ogni bambino riceve un kit per fare reazioni chimiche, da quelle che cambiano colore a quelle esplosive.",
+    "asset": "illustrazione-piccolo-chimico-laboratorio-scientifico.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in white lab coats and safety goggles pouring liquids into test tubes that change colour, one beaker fizzing with foam, a friendly scientist helping.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-piccolo-chimico-laboratorio-scientifico.webp",
+      "derivedFrom": "illustrazione-piccolo-chimico-laboratorio-scientifico.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-da-raccontare-geisser",
+    "title": "Storie da raccontare",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture ad alta voce per i più piccoli il sabato mattina, con il personale della biblioteca e i volontari del Servizio Civile.",
+    "asset": "illustrazione-storie-da-raccontare-geisser.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: On a Saturday morning, toddlers and babies on a soft rug in a library inside a park, a librarian showing a big picture book, autumn trees visible through the big window.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-da-raccontare-geisser.webp",
+      "derivedFrom": "illustrazione-storie-da-raccontare-geisser.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "giornata-gentilezza-nutrirsi-di-cultura-guidetti",
+    "title": "Giornata della Gentilezza – letture Nutrirsi di Cultura",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture ad alta voce sul tema della gentilezza e della cura, per la Giornata della Gentilezza. Presentazione del progetto Nutrirsi di Cultura 0-6.",
+    "asset": "illustrazione-giornata-gentilezza-nutrirsi-di-cultura-guidetti.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A reader with a picture book among small children and parents, children hugging, sharing a cookie and giving each other paper hearts, a kind bear character coming out of the book.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-giornata-gentilezza-nutrirsi-di-cultura-guidetti.webp",
+      "derivedFrom": "illustrazione-giornata-gentilezza-nutrirsi-di-cultura-guidetti.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "mercoledi-da-fiaba-negarville",
+    "title": "Mercoledì da fiaba – Storie della fattoria",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture ad alta voce per tutta la famiglia, interpretate da Ilenia Speranza.",
+    "asset": "illustrazione-mercoledi-da-fiaba-negarville.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A woman reading aloud with expressive gestures to families, farm animals (a cow, a pig, hens and a sheep) peeking out of the pages of the open book.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mercoledi-da-fiaba-negarville.webp",
+      "derivedFrom": "illustrazione-mercoledi-da-fiaba-negarville.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "piccoli-racconti-0-3-utoya",
+    "title": "Piccoli racconti 0/3",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Attività con le storie per i più piccoli, ogni secondo mercoledì del mese, a cura di Maria Carbone.",
+    "asset": "illustrazione-piccoli-racconti-0-3-utoya.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Babies and toddlers on their parents' laps in a circle, a storyteller showing a soft cloth book and a small hand puppet, colourful soft blocks on the floor.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-piccoli-racconti-0-3-utoya.webp",
+      "derivedFrom": "illustrazione-piccoli-racconti-0-3-utoya.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "viaggiando-tra-le-storie-carluccio",
+    "title": "Viaggiando tra le storie",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture di albi illustrati per bambini da 3 a 6 anni, a cura delle volontarie LaAV.",
+    "asset": "illustrazione-viaggiando-tra-le-storie-carluccio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children aged 3 to 6 sitting inside a big paper boat made of book pages, sailing on a sea of open picture books, a volunteer reading at the bow.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-viaggiando-tra-le-storie-carluccio.webp",
+      "derivedFrom": "illustrazione-viaggiando-tra-le-storie-carluccio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-di-latte-letture-con-il-cane-guidetti",
+    "title": "Storie di latte e letture con un amico a quattro zampe",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture ad alta voce in compagnia di un cane, con il metodo Luckyleo.",
+    "asset": "illustrazione-storie-di-latte-letture-con-il-cane-guidetti.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A calm, friendly golden dog lying on a rug in a library while children take turns reading picture books to it, a glass of milk and cookies nearby.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-di-latte-letture-con-il-cane-guidetti.webp",
+      "derivedFrom": "illustrazione-storie-di-latte-letture-con-il-cane-guidetti.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "scappa-che-ti-mangio-letture-con-teatrulla",
+    "title": "Scappa che ti mangio! – letture con Teatrulla",
+    "source": "https://www.bibliotecarchimede.it/lora-del-racconto-novembre-2026/",
+    "description": "Il sabato mattina gli attori di Teatrulla leggono storie di personaggi che sfuggono al pericolo con astuzia e furbizia. Fa parte dell'Ora del racconto della biblioteca.",
+    "asset": "illustrazione-scappa-che-ti-mangio-letture-con-teatrulla.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Two actors reading a story with big gestures in a small round library amphitheatre, a clever little mouse and a rabbit running away from a funny big-mouthed wolf coming out of the book, children giggling.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-scappa-che-ti-mangio-letture-con-teatrulla.webp",
+      "derivedFrom": "illustrazione-scappa-che-ti-mangio-letture-con-teatrulla.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "what-do-animals-say-laboratorio-lego-education",
+    "title": "What do animals say? – laboratorio LEGO Education",
+    "source": "https://www.bibliotecarchimede.it/what-do-the-animals-say/",
+    "description": "Laboratorio che unisce robotica educativa e storie in inglese: i bambini costruiscono con i LEGO gli animali della fattoria e programmano api robot per farle muovere.",
+    "asset": "illustrazione-what-do-animals-say-laboratorio-lego-education.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children building farm animals (cow, horse, sheep) with colourful plastic bricks on a table, and small robot bees moving across a mat with a painted flower meadow.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-what-do-animals-say-laboratorio-lego-education.webp",
+      "derivedFrom": "illustrazione-what-do-animals-say-laboratorio-lego-education.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi",
+    "title": "Cupcakes Toy Story 5 – laboratorio La mamma dei biscotti",
+    "source": "https://www.binariagruppoabele.org/events/mammabiscottinatale/",
+    "description": "Laboratorio di pasticceria per bambini: si preparano e decorano cupcake a tema Toy Story. I più piccoli partecipano con un adulto.",
+    "asset": "illustrazione-cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in aprons decorating cupcakes with icing shaped like little toys: a cowboy hat, a rocket, a toy dinosaur and a piggy bank, a smiling pastry chef helping. No real cartoon characters.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi.webp",
+      "derivedFrom": "illustrazione-cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "lillo-il-lupo-passi-nella-notte",
+    "title": "Lillo il Lupo – Passi nella notte",
+    "source": "https://www.parchireali.it/events/lillo-il-lupo-passi-nella-notte/",
+    "description": "Passeggiata notturna nel bosco con una guida naturalistica per scoprire come vivono e comunicano i lupi. I bambini allenano udito e olfatto per riconoscere suoni e odori della notte.",
+    "asset": "illustrazione-lillo-il-lupo-passi-nella-notte.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Families walking in a forest at night with lanterns behind a nature guide, children cupping their ears to listen, a gentle grey wolf watching from the trees under a big moon.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lillo-il-lupo-passi-nella-notte.webp",
+      "derivedFrom": "illustrazione-lillo-il-lupo-passi-nella-notte.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "fuoco-e-fulmini-laboratorio-scientifico",
+    "title": "Fuoco e Fulmini – laboratorio scientifico",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+    "description": "Laboratorio di un'ora sulle reazioni che producono calore, comprese quelle innescate dai fulmini.",
+    "asset": "illustrazione-fuoco-e-fulmini-laboratorio-scientifico.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children in safety goggles watching a small safe flame experiment and a glowing plasma ball with purple lightning, a scientist explaining, a painted thunderstorm on the wall.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-fuoco-e-fulmini-laboratorio-scientifico.webp",
+      "derivedFrom": "illustrazione-fuoco-e-fulmini-laboratorio-scientifico.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "tarari-tarerera-lettura-mao-carluccio",
+    "title": "Tararì tarerà – lettura e laboratorio con il MAO",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Lettura ad alta voce del libro di Emanuela Bussolati, poi un piccolo laboratorio a cura del Museo d'Arte Orientale. Progetto Nutrirsi di Cultura 0-6.",
+    "asset": "illustrazione-tarari-tarerera-lettura-mao-carluccio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers and parents in a library listening to a reader, funny little invented creatures dancing out of the open book, then a small craft table with paper and colours inspired by Asian art patterns.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tarari-tarerera-lettura-mao-carluccio.webp",
+      "derivedFrom": "illustrazione-tarari-tarerera-lettura-mao-carluccio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "giochiamo-con-la-musica-pavese",
+    "title": "Giochiamo con la musica",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Incontri per bambini e genitori per scoprire i suoni giocando, a cura del personale della biblioteca.",
+    "asset": "illustrazione-giochiamo-con-la-musica-pavese.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Small children and parents sitting in a circle playing simple instruments: tambourines, maracas, a small xylophone and drums, music notes floating in the air.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-giochiamo-con-la-musica-pavese.webp",
+      "derivedFrom": "illustrazione-giochiamo-con-la-musica-pavese.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-in-viaggio-inglese-guidetti",
+    "title": "Storie in viaggio – racconti in inglese",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Racconti in lingua inglese per bambini e famiglie, a cura di Francesca Riva e della biblioteca.",
+    "asset": "illustrazione-storie-in-viaggio-inglese-guidetti.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A storyteller holding a picture book in front of families, a red double-decker bus, a suitcase and a hot air balloon coming out of the pages. No text or letters.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Copilot, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-in-viaggio-inglese-guidetti.webp",
+      "derivedFrom": "illustrazione-storie-in-viaggio-inglese-guidetti.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]

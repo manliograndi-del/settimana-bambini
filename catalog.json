@@ -5807,7 +5807,7 @@
     {
       "id": "elogio-alla-noia-circo-contemporaneo",
       "organizationId": "org-magdaclan-circo",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-elogio-alla-noia-circo-contemporaneo.webp",
       "title": "Elogio alla noia – circo contemporaneo",
       "category": "Circo",
       "municipality": "Torino",
@@ -6010,7 +6010,7 @@
     {
       "id": "scappa-che-ti-mangio-letture-con-teatrulla",
       "organizationId": "org-biblioteca-archimede",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-scappa-che-ti-mangio-letture-con-teatrulla.webp",
       "title": "Scappa che ti mangio! – letture con Teatrulla",
       "category": "Lettura",
       "municipality": "Settimo Torinese",
@@ -6041,7 +6041,7 @@
     {
       "id": "what-do-animals-say-laboratorio-lego-education",
       "organizationId": "org-biblioteca-archimede",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-what-do-animals-say-laboratorio-lego-education.webp",
       "title": "What do animals say? – laboratorio LEGO Education",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -6073,7 +6073,7 @@
     {
       "id": "cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi.webp",
       "title": "Cupcakes Toy Story 5 – laboratorio La mamma dei biscotti",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -6102,7 +6102,7 @@
     {
       "id": "lillo-il-lupo-passi-nella-notte",
       "organizationId": "org-40",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-lillo-il-lupo-passi-nella-notte.webp",
       "title": "Lillo il Lupo – Passi nella notte",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -6163,7 +6163,7 @@
     {
       "id": "piccolo-chimico-laboratorio-scientifico",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-piccolo-chimico-laboratorio-scientifico.webp",
       "title": "Piccolo Chimico – laboratorio scientifico",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -6195,7 +6195,7 @@
     {
       "id": "fuoco-e-fulmini-laboratorio-scientifico",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-fuoco-e-fulmini-laboratorio-scientifico.webp",
       "title": "Fuoco e Fulmini – laboratorio scientifico",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -6381,7 +6381,7 @@
     {
       "id": "giornata-gentilezza-nutrirsi-di-cultura-guidetti",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-giornata-gentilezza-nutrirsi-di-cultura-guidetti.webp",
       "title": "Giornata della Gentilezza – letture Nutrirsi di Cultura",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6443,7 +6443,7 @@
     {
       "id": "tarari-tarerera-lettura-mao-carluccio",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-tarari-tarerera-lettura-mao-carluccio.webp",
       "title": "Tararì tarerà – lettura e laboratorio con il MAO",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6598,7 +6598,7 @@
     {
       "id": "storie-da-raccontare-geisser",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-da-raccontare-geisser.webp",
       "title": "Storie da raccontare",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6694,7 +6694,7 @@
     {
       "id": "giochiamo-con-la-musica-pavese",
       "organizationId": "org-35",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-giochiamo-con-la-musica-pavese.webp",
       "title": "Giochiamo con la musica",
       "category": "Musica",
       "municipality": "Torino",
@@ -6788,7 +6788,7 @@
     {
       "id": "storie-di-latte-letture-con-il-cane-guidetti",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-di-latte-letture-con-il-cane-guidetti.webp",
       "title": "Storie di latte e letture con un amico a quattro zampe",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6819,7 +6819,7 @@
     {
       "id": "storie-in-viaggio-inglese-guidetti",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-in-viaggio-inglese-guidetti.webp",
       "title": "Storie in viaggio – racconti in inglese",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6914,7 +6914,7 @@
     {
       "id": "viaggiando-tra-le-storie-carluccio",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-viaggiando-tra-le-storie-carluccio.webp",
       "title": "Viaggiando tra le storie",
       "category": "Lettura",
       "municipality": "Torino",
@@ -7007,7 +7007,7 @@
     {
       "id": "mercoledi-da-fiaba-negarville",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-mercoledi-da-fiaba-negarville.webp",
       "title": "Mercoledì da fiaba – Storie della fattoria",
       "category": "Lettura",
       "municipality": "Torino",
@@ -7038,7 +7038,7 @@
     {
       "id": "piccoli-racconti-0-3-utoya",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-piccoli-racconti-0-3-utoya.webp",
       "title": "Piccoli racconti 0/3",
       "category": "Lettura",
       "municipality": "Torino",
