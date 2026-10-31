@@ -4642,7 +4642,7 @@
     {
       "id": "halloween-spooky-lab-laboratori-in-inglese",
       "organizationId": "org-kids-us-torino-casale-e-kids-us-rivoli",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-halloween-spooky-lab-laboratori-in-inglese.webp",
       "title": "Halloween Spooky Lab – laboratori in inglese",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -4678,7 +4678,7 @@
     {
       "id": "giallo-al-museo-halloween",
       "organizationId": "org-museo-accorsi-ometto",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-giallo-al-museo-halloween.webp",
       "title": "Giallo al Museo – Halloween",
       "category": "Museo",
       "municipality": "Torino",
@@ -4709,7 +4709,7 @@
     {
       "id": "accademia-degli-esploratori-halloween-nel-bosco",
       "organizationId": "helix-new",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-accademia-degli-esploratori-halloween-nel-bosco.webp",
       "title": "Accademia degli Esploratori – Halloween nel bosco",
       "category": "Natura",
       "municipality": "Mattie",
@@ -4859,7 +4859,7 @@
     {
       "id": "circo-in-pillole-folle",
       "organizationId": "org-flic-scuola-di-circo-con-accademia-dei-f",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-circo-in-pillole-folle.webp",
       "title": "Circo in Pillole – Folle",
       "category": "Circo",
       "municipality": "Torino",
@@ -4890,7 +4890,7 @@
     {
       "id": "noi-essere-selvatici-pav-kids",
       "organizationId": "org-7",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-noi-essere-selvatici-pav-kids.webp",
       "title": "Noi, essere selvatici – PAV Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -5094,7 +5094,7 @@
     {
       "id": "dream-lab-la-scatola-dei-sogni",
       "organizationId": "org-5",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-dream-lab-la-scatola-dei-sogni.webp",
       "title": "Dream.lab – La scatola dei sogni",
       "category": "Museo",
       "municipality": "Rivoli",
@@ -5126,7 +5126,7 @@
     {
       "id": "il-corpo-e-l-invisibile-attivita-per-famiglie-al",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-il-corpo-e-l-invisibile-attivita-per-famiglie-al.webp",
       "title": "Il corpo e l'invisibile – attività per famiglie alla GAM",
       "category": "Museo",
       "municipality": "Torino",
@@ -5160,7 +5160,7 @@
     {
       "id": "abat-jour-la-notte-cambia-forma-alle-cose",
       "organizationId": "org-8",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-abat-jour-la-notte-cambia-forma-alle-cose.webp",
       "title": "ABAT-JOUR – La notte cambia forma alle cose",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -5191,7 +5191,7 @@
     {
       "id": "piccoli-esploratori-al-museo-egizio-tour-per-fam",
       "organizationId": "org-somewhere",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-piccoli-esploratori-al-museo-egizio-tour-per-fam.webp",
       "title": "Piccoli esploratori al Museo Egizio – tour per famiglie",
       "category": "Museo",
       "municipality": "Torino",
@@ -5257,7 +5257,7 @@
     {
       "id": "pinocchio-spettacolo-con-marionette",
       "organizationId": "org-10",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-pinocchio-spettacolo-con-marionette.webp",
       "title": "Pinocchio – spettacolo con marionette",
       "category": "Teatro",
       "municipality": "Torino",
@@ -5289,7 +5289,7 @@
     {
       "id": "letture-ad-alta-voce",
       "organizationId": "mauto-new",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-letture-ad-alta-voce.webp",
       "title": "Letture ad alta voce",
       "category": "Lettura",
       "municipality": "Torino",
@@ -5354,7 +5354,7 @@
     {
       "id": "le-luci-di-san-martino-storie-di-bosco-e-lantern",
       "organizationId": "org-40",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-le-luci-di-san-martino-storie-di-bosco-e-lantern.webp",
       "title": "Le Luci di San Martino – storie di bosco e lanterne magiche",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -5388,7 +5388,7 @@
     {
       "id": "storie-tra-le-piume",
       "organizationId": "ogr",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-tra-le-piume.webp",
       "title": "Storie tra le piume",
       "category": "Lettura",
       "municipality": "Torino",
@@ -5417,7 +5417,7 @@
     {
       "id": "storie-di-carta-e-di-rospi-attivita-per-famiglie",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-storie-di-carta-e-di-rospi-attivita-per-famiglie.webp",
       "title": "Storie di carta e di rospi – attività per famiglie alla GAM",
       "category": "Museo",
       "municipality": "Torino",
@@ -5482,7 +5482,7 @@
     {
       "id": "sabato-bricks4kidz-laboratorio-lego-per-genitori",
       "organizationId": "org-15",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-sabato-bricks4kidz-laboratorio-lego-per-genitori.webp",
       "title": "Sabato Bricks4Kidz – laboratorio LEGO per genitori e figli",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -5516,7 +5516,7 @@
     {
       "id": "pomeriggio-magico-con-mago-tric-e-trac-vitamina",
       "organizationId": "org-biblioteca-comunale-movimente",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-pomeriggio-magico-con-mago-tric-e-trac-vitamina.webp",
       "title": "Pomeriggio magico con Mago Tric e Trac (Vitamina C... come Cultura)",
       "category": "Teatro",
       "municipality": "Montanaro",
