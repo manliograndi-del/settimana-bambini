@@ -1368,19 +1368,19 @@
       "title": "Coccole e libri",
       "category": "Lettura",
       "municipality": "Torino",
-      "venue": "Biblioteca civica Francesco Cognasso · indirizzo non indicato nella scheda",
+      "venue": "Biblioteca civica Francesco Cognasso · corso Cincinnato 115, Torino",
       "ageMinMonths": 0,
       "ageMaxMonths": 12,
       "ageLabel": "0–1 anno (e mamme in gravidanza)",
       "costLabel": "Non indicato",
       "costBand": "unknown",
-      "booking": "Richiesta: e-mail lablettu@comune.torino.it, tel. 011 01138590",
+      "booking": "Obbligatoria: lablettu@comune.torino.it",
       "url": "https://bct.comune.torino.it/eventi-attivita/coccole-e-libri-2",
       "description": "Incontro del lunedì mattina per future mamme e famiglie con bambini nel primo anno di vita. Si chiacchiera con esperte sui primi mesi e si ascoltano insieme storie, filastrocche e ninne nanne.",
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Appuntamento settimanale da ottobre a giugno; costo non indicato (probabilmente gratuito, non confermato). Età massima indicata come 1 anno.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: A cura del Laboratorio di lettura Pinocchio. Ogni lunedì un tema diverso.",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1391,7 +1391,10 @@
         "2026-10-19T10:00:00+02:00",
         "2026-10-26T10:00:00+01:00",
         "2026-11-02T10:00:00+01:00",
-        "2026-11-09T10:00:00+01:00"
+        "2026-11-09T10:00:00+01:00",
+        "2026-11-16T10:00:00+01:00",
+        "2026-11-23T10:00:00+01:00",
+        "2026-11-30T10:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-19T10:00:00+02:00": "2026-10-19T12:00:00+02:00",
@@ -1454,19 +1457,19 @@
       "title": "Mille storie in biblioteca",
       "category": "Lettura",
       "municipality": "Torino",
-      "venue": "Biblioteca civica Don Lorenzo Milani · indirizzo non indicato nella scheda",
+      "venue": "Biblioteca civica Don Lorenzo Milani · via dei Pioppi 43, Torino",
       "ageMinMonths": 0,
-      "ageMaxMonths": null,
-      "ageLabel": "Bambini di tutte le età (il 28 ottobre 0–6 anni)",
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
       "costLabel": "Non indicato",
       "costBand": "unknown",
-      "booking": "Non indicata",
+      "booking": "Info: 011 01132619",
       "url": "https://bct.comune.torino.it/eventi-attivita/mille-storie-in-biblioteca-20",
       "description": "Ogni mercoledì pomeriggio il personale della biblioteca e i volontari leggono storie ad alta voce per i bambini. Il 28 ottobre l'incontro è pensato per i più piccoli fino a 6 anni e si chiude con un laboratorio.",
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Prenotazione non indicata (info 011 01132619, biblioteca.donmilani@comune.torino.it). Fascia d'età precisa indicata solo per il 28 ottobre (0–6 anni).",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1477,7 +1480,9 @@
         "2026-10-21T17:00:00+02:00",
         "2026-10-28T17:00:00+01:00",
         "2026-11-04T17:00:00+01:00",
-        "2026-11-11T17:00:00+01:00"
+        "2026-11-11T17:00:00+01:00",
+        "2026-11-18T17:00:00+01:00",
+        "2026-11-25T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T17:00:00+02:00": "2026-10-21T18:00:00+02:00",
@@ -1492,19 +1497,19 @@
       "title": "Storie piccine",
       "category": "Lettura",
       "municipality": "Torino",
-      "venue": "Biblioteca civica Francesco Cognasso · indirizzo non indicato nella scheda",
+      "venue": "Biblioteca civica Francesco Cognasso · corso Cincinnato 115, Torino",
       "ageMinMonths": 12,
       "ageMaxMonths": 83,
       "ageLabel": "1–6 anni con le famiglie",
       "costLabel": "Non indicato",
       "costBand": "unknown",
-      "booking": "Consigliata: e-mail lablettu@comune.torino.it, tel. 011 01138590/1",
+      "booking": "Obbligatoria: lablettu@comune.torino.it",
       "url": "https://bct.comune.torino.it/eventi-attivita/storie-piccine-4",
       "description": "Pomeriggio di letture ad alta voce per bambini piccoli insieme ai genitori. Alla fine si possono scegliere libri della biblioteca da portare a casa.",
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Costo non indicato.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1515,7 +1520,9 @@
         "2026-10-21T16:30:00+02:00",
         "2026-10-28T16:30:00+01:00",
         "2026-11-04T16:30:00+01:00",
-        "2026-11-11T16:30:00+01:00"
+        "2026-11-11T16:30:00+01:00",
+        "2026-11-18T16:30:00+01:00",
+        "2026-11-25T16:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T16:30:00+02:00": "2026-10-21T18:30:00+02:00",
@@ -1530,7 +1537,7 @@
       "title": "Un giardino di Storie alla Ginzburg",
       "category": "Lettura",
       "municipality": "Torino",
-      "venue": "Biblioteca civica Natalia Ginzburg · indirizzo non indicato nella scheda",
+      "venue": "Biblioteca civica Natalia Ginzburg · via Cesare Lombroso 16, Torino",
       "ageMinMonths": null,
       "ageMaxMonths": null,
       "ageLabel": "I più piccoli con le famiglie (età non specificata)",
@@ -1542,7 +1549,7 @@
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Fascia d'età non specificata; costo non indicato.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: 18/11 consegna della Notte dei Pupazzi; 25/11 «Pinocchio», teatrino di Marco Grilli (Fondazione Marionette Grilli).",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1553,7 +1560,9 @@
         "2026-10-21T17:00:00+02:00",
         "2026-10-28T17:00:00+01:00",
         "2026-11-04T17:00:00+01:00",
-        "2026-11-11T17:00:00+01:00"
+        "2026-11-11T17:00:00+01:00",
+        "2026-11-18T17:00:00+01:00",
+        "2026-11-25T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T17:00:00+02:00": "2026-10-21T18:00:00+02:00",
@@ -1568,7 +1577,7 @@
       "title": "Cuci intreccia ascolta colora",
       "category": "Laboratorio",
       "municipality": "Torino",
-      "venue": "Biblioteca di via Negarville · via Negarville (civico non indicato)",
+      "venue": "Punto di servizio bibliotecario via Negarville · via Celeste Negarville 30/8, Torino",
       "ageMinMonths": 72,
       "ageMaxMonths": null,
       "ageLabel": "Famiglie e bambini dai 6 anni",
@@ -1580,7 +1589,7 @@
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Serie settimanale dal 15 ottobre al 17 dicembre nella categoria Corsi e laboratori; la scheda non dice se serve iscrizione all'intero ciclo. Prenotazione non indicata (info 011 01139780, puntobibliotecario.negarville@comune.torino.it).",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: Corretto: si tiene il GIOVEDÌ (prima avevamo il mercoledì).",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1590,14 +1599,14 @@
       "occurrences": [
         "2026-10-22T16:30:00+02:00",
         "2026-10-29T16:30:00+01:00",
-        "2026-11-04T16:30:00+01:00",
-        "2026-11-11T16:30:00+01:00"
+        "2026-11-05T16:30:00+01:00",
+        "2026-11-12T16:30:00+01:00",
+        "2026-11-19T16:30:00+01:00",
+        "2026-11-26T16:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-22T16:30:00+02:00": "2026-10-22T18:00:00+02:00",
-        "2026-10-29T16:30:00+01:00": "2026-10-29T18:00:00+01:00",
-        "2026-11-04T16:30:00+01:00": "2026-11-04T18:00:00+01:00",
-        "2026-11-11T16:30:00+01:00": "2026-11-11T18:00:00+01:00"
+        "2026-10-29T16:30:00+01:00": "2026-10-29T18:00:00+01:00"
       },
       "startsAt": "2026-10-22T16:30:00+02:00"
     },
@@ -1608,10 +1617,10 @@
       "title": "Un bel posticino",
       "category": "Lettura",
       "municipality": "Torino",
-      "venue": "Biblioteca civica Italo Calvino · indirizzo non indicato nella scheda",
+      "venue": "Biblioteca civica Italo Calvino · lungo Dora Agrigento 94, Torino",
       "ageMinMonths": 0,
-      "ageMaxMonths": 71,
-      "ageLabel": "Fino a 5 anni con le famiglie",
+      "ageMaxMonths": 83,
+      "ageLabel": "Fino a 6 anni con le famiglie",
       "costLabel": "Non indicato",
       "costBand": "unknown",
       "booking": "Non indicata",
@@ -1620,7 +1629,7 @@
       "discoverySources": [
         "https://bct.comune.torino.it/eventi-attivita?cerca=&sede=&dal=&al=&target=96&tipologia=All"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Prenotazione e costo non indicati (info 011 01120740/41, biblioteca.calvino@comune.torino.it).",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
       "status": "published",
       "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
@@ -1631,7 +1640,9 @@
         "2026-10-22T17:00:00+02:00",
         "2026-10-29T17:00:00+01:00",
         "2026-11-05T17:00:00+01:00",
-        "2026-11-12T17:00:00+01:00"
+        "2026-11-12T17:00:00+01:00",
+        "2026-11-19T17:00:00+01:00",
+        "2026-11-26T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-22T17:00:00+02:00": "2026-10-22T18:00:00+02:00",
@@ -5604,7 +5615,7 @@
       "discoverySources": [
         "https://www.torinobimbi.it/3-6-anni"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Scheda delle Biblioteche civiche letta il 31 ottobre 2026 dal browser di Manlio: ogni lunedì 17-18, dal 2 novembre al 21 dicembre 2026 (non il 7 dicembre), 3-10 anni.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: Ogni lunedì 17-18; scheda: https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -5613,7 +5624,10 @@
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-02T17:00:00+01:00",
-        "2026-11-09T17:00:00+01:00"
+        "2026-11-09T17:00:00+01:00",
+        "2026-11-16T17:00:00+01:00",
+        "2026-11-23T17:00:00+01:00",
+        "2026-11-30T17:00:00+01:00"
       ],
       "startsAt": "2026-11-02T17:00:00+01:00"
     },
@@ -6364,6 +6378,725 @@
         "2026-11-15T11:00:00+01:00"
       ],
       "startsAt": "2026-11-15T11:00:00+01:00"
+    },
+    {
+      "id": "giornata-gentilezza-nutrirsi-di-cultura-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Giornata della Gentilezza – letture Nutrirsi di Cultura",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture ad alta voce sul tema della gentilezza e della cura, per la Giornata della Gentilezza. Presentazione del progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-11T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-11T17:00:00+01:00"
+    },
+    {
+      "id": "nutrirsi-di-cultura-al-mao-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-museo.webp",
+      "title": "Nutrirsi di Cultura al MAO – lettura, visita e laboratorio",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "MAO Museo d'Arte Orientale · via San Domenico 11, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria fino a esaurimento posti (max 20): 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Lettura ad alta voce a cura della biblioteca Guidetti Serra, poi visita guidata e laboratorio al Museo d'Arte Orientale.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-28T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-28T10:30:00+01:00"
+    },
+    {
+      "id": "tarari-tarerera-lettura-mao-carluccio",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Tararì tarerà – lettura e laboratorio con il MAO",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Luigi Carluccio · via Monte Ortigara 95, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: biblioteca.carluccio@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Lettura ad alta voce del libro di Emanuela Bussolati, poi un piccolo laboratorio a cura del Museo d'Arte Orientale. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "visita-e-laboratorio-al-mao-con-la-carluccio",
+      "organizationId": "org-35",
+      "illustration": "icona-museo.webp",
+      "title": "Visita e laboratorio al MAO per famiglie",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "MAO Museo d'Arte Orientale · via San Domenico 11, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria fino a esaurimento posti: biblioteca.carluccio@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Visita guidata e laboratorio al Museo d'Arte Orientale per le famiglie, con la biblioteca Carluccio. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-21T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-21T10:30:00+01:00"
+    },
+    {
+      "id": "a-me-gli-occhi-palazzo-madama",
+      "organizationId": "org-35",
+      "illustration": "icona-museo.webp",
+      "title": "A me gli occhi – letture e laboratorio a Palazzo Madama",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Palazzo Madama · piazza Castello, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: madamadidattica@fondazionetorinomusei.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture condivise e laboratorio a Palazzo Madama, con la biblioteca Cognasso e il Laboratorio di lettura Pinocchio. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-19T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-19T10:30:00+01:00"
+    },
+    {
+      "id": "a-me-gli-occhi-gam-don-milani",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "A me gli occhi – letture e laboratorio con la GAM",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Don Lorenzo Milani · via dei Pioppi 43, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: biblioteca.donmilani@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture condivise e laboratorio a cura della GAM nella biblioteca Don Milani. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-04T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-04T17:00:00+01:00"
+    },
+    {
+      "id": "autunno-piovono-storie-cognasso",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Autunno… piovono storie!",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Francesco Cognasso · corso Cincinnato 115, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 107,
+      "ageLabel": "3–8 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01138526",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture condivise e un laboratorio sull'autunno, con il personale della biblioteca e la volontaria del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-28T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-28T10:30:00+01:00"
+    },
+    {
+      "id": "storie-da-raccontare-geisser",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie da raccontare",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Alberto Geisser · corso Casale 5 (Parco Michelotti), Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01137570",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture ad alta voce per i più piccoli il sabato mattina, con il personale della biblioteca e i volontari del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T10:30:00+01:00",
+        "2026-11-14T10:30:00+01:00",
+        "2026-11-28T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-07T10:30:00+01:00"
+    },
+    {
+      "id": "la-magia-della-lettura-ad-alta-voce-geisser",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "La magia della lettura ad alta voce",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Alberto Geisser · corso Casale 5 (Parco Michelotti), Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01137570",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture di albi scelti per bambini fino a 6 anni, a cura delle volontarie del Circolo LaAV Torino.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-18T17:00:00+01:00",
+        "2026-11-21T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-18T17:00:00+01:00"
+    },
+    {
+      "id": "il-tuo-posto-del-cuore-geisser",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Il tuo posto del cuore – laboratorio per famiglie",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Alberto Geisser · corso Casale 5 (Parco Michelotti), Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambini e famiglie (età non indicata)",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01137570",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Ognuno disegna il suo «posto del cuore», il luogo dove si sente bene. Tutti i disegni formano una grande mappa di una città ideale. A cura di Print Club Torino.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-19T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-19T17:00:00+01:00"
+    },
+    {
+      "id": "giochiamo-con-la-musica-pavese",
+      "organizationId": "org-35",
+      "illustration": "icona-musica.webp",
+      "title": "Giochiamo con la musica",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Cesare Pavese · via Candiolo 79, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni con un genitore",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: 011 01137080",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Incontri per bambini e genitori per scoprire i suoni giocando, a cura del personale della biblioteca.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00",
+        "2026-11-28T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "cedrino-presentazione-calvino",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Cedrino – lettura e laboratorio",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Italo Calvino · lungo Dora Agrigento 94, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": 119,
+      "ageLabel": "Fino a 10 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01120740",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Presentazione del libro illustrato di Simona Massera su amicizia, coraggio e fiducia in se stessi, con lettura e laboratorio.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-21T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-21T10:30:00+01:00"
+    },
+    {
+      "id": "bufo-il-gufo-calvino",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Bufo il gufo e il bambino misterioso",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Italo Calvino · lungo Dora Agrigento 94, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 119,
+      "ageLabel": "6–10 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01120740",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Presentazione del libro di Diletta Di Rocco: la storia del gufo Bufo, con un laboratorio abbinato.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-28T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-28T10:30:00+01:00"
+    },
+    {
+      "id": "storie-di-latte-letture-con-il-cane-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie di latte e letture con un amico a quattro zampe",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età non indicata",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria (max 12 partecipanti): 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture ad alta voce in compagnia di un cane, con il metodo Luckyleo.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-13T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-13T10:30:00+01:00"
+    },
+    {
+      "id": "storie-in-viaggio-inglese-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie in viaggio – racconti in inglese",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambini e famiglie (età non indicata)",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Racconti in lingua inglese per bambini e famiglie, a cura di Francesca Riva e della biblioteca.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T11:00:00+01:00"
+      ],
+      "startsAt": "2026-11-14T11:00:00+01:00"
+    },
+    {
+      "id": "notte-dei-pupazzi-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Notte dei pupazzi",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambini e famiglie (età non indicata)",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Martedì i bambini lasciano il loro pupazzo in biblioteca. Mercoledì lo riprendono e ascoltano, con letture animate e musica, il racconto della notte passata dai pupazzi.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-24T17:00:00+01:00",
+        "2026-11-25T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-24T17:00:00+01:00"
+    },
+    {
+      "id": "storie-a-sorpresa-carluccio",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie a sorpresa",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Luigi Carluccio · via Monte Ortigara 95, Torino",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 83,
+      "ageLabel": "2–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01126720",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Storie e filastrocche lette dai volontari del Servizio Civile. Ogni mercoledì dal 18 novembre.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-18T17:00:00+01:00",
+        "2026-11-25T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-18T17:00:00+01:00"
+    },
+    {
+      "id": "viaggiando-tra-le-storie-carluccio",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Viaggiando tra le storie",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Luigi Carluccio · via Monte Ortigara 95, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01126720",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture di albi illustrati per bambini da 3 a 6 anni, a cura delle volontarie LaAV.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-12T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-12T17:00:00+01:00"
+    },
+    {
+      "id": "sabato-quante-storie-carluccio",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Sabato quante storie!",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Luigi Carluccio · via Monte Ortigara 95, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01126720",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Storie e filastrocche il sabato mattina con la famiglia, a cura delle volontarie LaAV.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "crear-leggendo-carluccio",
+      "organizationId": "org-35",
+      "illustration": "illustrazione-crear-leggendo.webp",
+      "title": "Crear leggendo",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Luigi Carluccio · via Monte Ortigara 95, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 119,
+      "ageLabel": "5–10 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: 011 01126720 o biblioteca.carluccio@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture e un laboratorio creativo a tema, a cura di Roberta Di Martino con i volontari del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-21T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-21T10:30:00+01:00"
+    },
+    {
+      "id": "mercoledi-da-fiaba-negarville",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Mercoledì da fiaba – Storie della fattoria",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario via Negarville · via Celeste Negarville 30/8, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 4 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01139780",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture ad alta voce per tutta la famiglia, interpretate da Ilenia Speranza.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-11T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-11T16:30:00+01:00"
+    },
+    {
+      "id": "piccoli-racconti-0-3-utoya",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Piccoli racconti 0/3",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario I ragazzi e le ragazze di Utøya · via Zumaglia 39, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 47,
+      "ageLabel": "0–3 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info e prenotazioni: 011 01128485",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Attività con le storie per i più piccoli, ogni secondo mercoledì del mese, a cura di Maria Carbone.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-11T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-11T16:30:00+01:00"
+    },
+    {
+      "id": "in-biblioteca-si-legge-e-poi-utoya",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "In biblioteca si legge… e poi",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario I ragazzi e le ragazze di Utøya · via Zumaglia 39, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 143,
+      "ageLabel": "5–11 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info e prenotazioni: 011 01128485",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "description": "Letture ad alta voce e un laboratorio creativo a tema, a cura di Roberta Di Martino e della volontaria del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-26T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-26T17:00:00+01:00"
     }
   ],
   "organizations": [
