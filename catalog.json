@@ -7097,6 +7097,64 @@
         "2026-11-26T17:00:00+01:00"
       ],
       "startsAt": "2026-11-26T17:00:00+01:00"
+    },
+    {
+      "municipality": "Torino",
+      "discoverySources": [],
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "id": "incursione-ai-bagni-pubblici-magdaclan",
+      "organizationId": "org-magdaclan",
+      "illustration": "icona-circo.webp",
+      "title": "Incursione ai Bagni Pubblici – circo",
+      "category": "Circo",
+      "venue": "Bagni Pubblici di via Agliè · via Agliè 9, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutte le età",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non indicata; info 011 5533938, bagnipubblici@coopliberitutti.it",
+      "url": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+      "description": "Gli allievi della scuola di circo FLIC e MagdaClan portano un breve spettacolo di circo ai Bagni Pubblici di Barriera di Milano. Dura circa un'ora e mezza.",
+      "verificationMethod": "Sito dell’organizzatore non leggibile o senza calendario (31 ottobre 2026): data, ora e prezzo dalla scheda TorinoBimbi (solo per scoperta, nessun link a TorinoBimbi). Il sito di MagdaClan arriva vuoto al lettore automatico.",
+      "occurrences": [
+        "2026-11-06T17:30:00+01:00"
+      ],
+      "startsAt": "2026-11-06T17:30:00+01:00"
+    },
+    {
+      "municipality": "Torino",
+      "discoverySources": [],
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "id": "storie-a-merenda-spazio-pro",
+      "organizationId": "org-star-cultura",
+      "illustration": "icona-lettura.webp",
+      "title": "Storie a Merenda",
+      "category": "Lettura",
+      "venue": "Spazio Pro – Teatro Provvidenza · via Asinari di Bernezzo 34, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 119,
+      "ageLabel": "0–10 anni (un venerdì al mese per 0–3)",
+      "costLabel": "2 € a ingresso (3 ingressi 5 €)",
+      "costBand": "low",
+      "booking": "Non serve; info storie@culturastar.it, WhatsApp 346 0719857",
+      "url": "https://www.culturastar.it/",
+      "description": "Racconti a merenda il venerdì pomeriggio, divisi per fasce d'età. Durano circa 50 minuti.",
+      "verificationMethod": "Sito dell’organizzatore non leggibile o senza calendario (31 ottobre 2026): data, ora e prezzo dalla scheda TorinoBimbi (solo per scoperta, nessun link a TorinoBimbi). culturastar.it si apre ma non ha il calendario.",
+      "occurrences": [
+        "2026-11-06T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-06T17:00:00+01:00"
     }
   ],
   "organizations": [
@@ -8899,6 +8957,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-star-cultura",
+      "name": "S.T.A.R. – Storie Territori Arte Relazioni",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "url": "https://www.culturastar.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta 31/10/2026."
     }
   ]
 }
