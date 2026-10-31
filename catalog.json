@@ -114,7 +114,9 @@
       "ageMaxMonths": null,
       "ageLabel": "Dai 5 anni",
       "occurrences": [
-        "2026-10-18T15:00:00+02:00"
+        "2026-10-18T15:00:00+02:00",
+        "2026-11-07T15:00:00+01:00",
+        "2026-11-08T15:00:00+01:00"
       ],
       "startsAt": "2026-10-18T15:00:00+02:00",
       "url": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
@@ -127,7 +129,7 @@
       ],
       "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Seguito PRENOTA ONLINE dalla scheda dello show; letti prezzo, durata e regole per gli accompagnatori.",
       "status": "published",
-      "verifiedAt": "2026-10-12",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -153,7 +155,8 @@
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
       },
       "illustration": "illustrations-a.webp",
-      "illustrationCell": 2
+      "illustrationCell": 2,
+      "scheduleType": "limited_series"
     },
     {
       "id": "ogr-fantasia",
@@ -1379,14 +1382,16 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Appuntamento settimanale da ottobre a giugno; costo non indicato (probabilmente gratuito, non confermato). Età massima indicata come 1 anno.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-19T10:00:00+02:00",
-        "2026-10-26T10:00:00+01:00"
+        "2026-10-26T10:00:00+01:00",
+        "2026-11-02T10:00:00+01:00",
+        "2026-11-09T10:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-19T10:00:00+02:00": "2026-10-19T12:00:00+02:00",
@@ -1415,7 +1420,7 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Prenotazione non indicata (info: 011 01137570, biblioteca.geisser@comune.torino.it). Serie ricorrente il mercoledì e il sabato, non descritta come corso a iscrizione. Aperto a tutte le età dai 6 anni.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -1424,13 +1429,21 @@
         "2026-10-21T15:00:00+02:00",
         "2026-10-24T10:00:00+02:00",
         "2026-10-28T15:00:00+01:00",
-        "2026-10-31T10:00:00+01:00"
+        "2026-10-31T10:00:00+01:00",
+        "2026-11-04T15:00:00+01:00",
+        "2026-11-07T10:00:00+01:00",
+        "2026-11-11T15:00:00+01:00",
+        "2026-11-14T10:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T15:00:00+02:00": "2026-10-21T17:00:00+02:00",
         "2026-10-24T10:00:00+02:00": "2026-10-24T12:00:00+02:00",
         "2026-10-28T15:00:00+01:00": "2026-10-28T17:00:00+01:00",
-        "2026-10-31T10:00:00+01:00": "2026-10-31T12:00:00+01:00"
+        "2026-10-31T10:00:00+01:00": "2026-10-31T12:00:00+01:00",
+        "2026-11-04T15:00:00+01:00": "2026-11-04T17:00:00+01:00",
+        "2026-11-07T10:00:00+01:00": "2026-11-07T12:00:00+01:00",
+        "2026-11-11T15:00:00+01:00": "2026-11-11T17:00:00+01:00",
+        "2026-11-14T10:00:00+01:00": "2026-11-14T12:00:00+01:00"
       },
       "startsAt": "2026-10-21T15:00:00+02:00"
     },
@@ -1455,14 +1468,16 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Prenotazione non indicata (info 011 01132619, biblioteca.donmilani@comune.torino.it). Fascia d'età precisa indicata solo per il 28 ottobre (0–6 anni).",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-21T17:00:00+02:00",
-        "2026-10-28T17:00:00+01:00"
+        "2026-10-28T17:00:00+01:00",
+        "2026-11-04T17:00:00+01:00",
+        "2026-11-11T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T17:00:00+02:00": "2026-10-21T18:00:00+02:00",
@@ -1491,14 +1506,16 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Costo non indicato.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-21T16:30:00+02:00",
-        "2026-10-28T16:30:00+01:00"
+        "2026-10-28T16:30:00+01:00",
+        "2026-11-04T16:30:00+01:00",
+        "2026-11-11T16:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T16:30:00+02:00": "2026-10-21T18:30:00+02:00",
@@ -1527,14 +1544,16 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Fascia d'età non specificata; costo non indicato.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-21T17:00:00+02:00",
-        "2026-10-28T17:00:00+01:00"
+        "2026-10-28T17:00:00+01:00",
+        "2026-11-04T17:00:00+01:00",
+        "2026-11-11T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-21T17:00:00+02:00": "2026-10-21T18:00:00+02:00",
@@ -1563,18 +1582,22 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Serie settimanale dal 15 ottobre al 17 dicembre nella categoria Corsi e laboratori; la scheda non dice se serve iscrizione all'intero ciclo. Prenotazione non indicata (info 011 01139780, puntobibliotecario.negarville@comune.torino.it).",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-22T16:30:00+02:00",
-        "2026-10-29T16:30:00+01:00"
+        "2026-10-29T16:30:00+01:00",
+        "2026-11-04T16:30:00+01:00",
+        "2026-11-11T16:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-22T16:30:00+02:00": "2026-10-22T18:00:00+02:00",
-        "2026-10-29T16:30:00+01:00": "2026-10-29T18:00:00+01:00"
+        "2026-10-29T16:30:00+01:00": "2026-10-29T18:00:00+01:00",
+        "2026-11-04T16:30:00+01:00": "2026-11-04T18:00:00+01:00",
+        "2026-11-11T16:30:00+01:00": "2026-11-11T18:00:00+01:00"
       },
       "startsAt": "2026-10-22T16:30:00+02:00"
     },
@@ -1599,18 +1622,22 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Prenotazione e costo non indicati (info 011 01120740/41, biblioteca.calvino@comune.torino.it).",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-22T17:00:00+02:00",
-        "2026-10-29T17:00:00+01:00"
+        "2026-10-29T17:00:00+01:00",
+        "2026-11-05T17:00:00+01:00",
+        "2026-11-12T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-22T17:00:00+02:00": "2026-10-22T18:00:00+02:00",
-        "2026-10-29T17:00:00+01:00": "2026-10-29T18:00:00+01:00"
+        "2026-10-29T17:00:00+01:00": "2026-10-29T18:00:00+01:00",
+        "2026-11-05T17:00:00+01:00": "2026-11-05T18:00:00+01:00",
+        "2026-11-12T17:00:00+01:00": "2026-11-12T18:00:00+01:00"
       },
       "startsAt": "2026-10-22T17:00:00+02:00"
     },
@@ -2849,14 +2876,16 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Età massima non indicata. Prezzo dalla pagina Biglietti.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-24T15:00:00+02:00",
-        "2026-10-25T15:00:00+01:00"
+        "2026-10-25T15:00:00+01:00",
+        "2026-11-14T15:00:00+01:00",
+        "2026-11-15T15:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-24T15:00:00+02:00": "2026-10-24T16:00:00+02:00",
@@ -3147,7 +3176,7 @@
       "discoverySources": [],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Notizia del 28/9/2026: 'ogni domenica fino a fine novembre'; nel periodo 25/10 e 1/11. Museo aperto la domenica 10–13 e 15–18. Indirizzo non riportato nella notizia.",
       "status": "published",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -3158,7 +3187,10 @@
         "2026-11-01T10:00:00+01:00",
         "2026-11-01T15:00:00+01:00",
         "2026-11-08T10:00:00+01:00",
-        "2026-11-08T15:00:00+01:00"
+        "2026-11-08T14:30:00+01:00",
+        "2026-11-08T15:00:00+01:00",
+        "2026-11-15T10:00:00+01:00",
+        "2026-11-15T14:30:00+01:00"
       ],
       "startsAt": "2026-10-25T10:00:00+01:00"
     },
@@ -3312,16 +3344,18 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Orario serale fino alle 23. La pagina lo indica adatto a tutte le età, senza fascia precisa. Replica successiva il 13/11 (fuori periodo).",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
-      "scheduleType": "single",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-10-30T21:00:00+01:00"
+        "2026-10-30T21:00:00+01:00",
+        "2026-11-13T21:00:00+01:00"
       ],
       "occurrenceEnds": {
-        "2026-10-30T21:00:00+01:00": "2026-10-30T23:00:00+01:00"
+        "2026-10-30T21:00:00+01:00": "2026-10-30T23:00:00+01:00",
+        "2026-11-13T21:00:00+01:00": "2026-11-13T23:00:00+01:00"
       },
       "startsAt": "2026-10-30T21:00:00+01:00"
     },
@@ -3416,7 +3450,7 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Visita programmata nei weekend e festivi fino al 15/11, non un evento speciale. Parte solo con almeno 8 partecipanti. Le fonti si contraddicono: la pagina tariffe dice 'prenotazione sempre obbligatoria', quella dell'orario autunnale la chiede solo nei feriali. Chiuso martedì e mercoledì. Ora di fine stimata dalla durata (circa 2 ore).",
       "status": "published",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -3433,7 +3467,11 @@
         "2026-11-07T10:30:00+01:00",
         "2026-11-07T14:30:00+01:00",
         "2026-11-08T10:30:00+01:00",
-        "2026-11-08T14:30:00+01:00"
+        "2026-11-08T14:30:00+01:00",
+        "2026-11-14T10:30:00+01:00",
+        "2026-11-14T14:30:00+01:00",
+        "2026-11-15T10:30:00+01:00",
+        "2026-11-15T14:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-24T10:30:00+02:00": "2026-10-24T12:30:00+02:00",
@@ -3797,7 +3835,7 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Gratis con Abbonamento Musei/Junior. Prezzo del biglietto mostra non indicato.",
       "status": "published",
-      "verifiedAt": "2026-10-26",
+      "verifiedAt": "2026-10-31",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -5546,6 +5584,784 @@
         "2026-11-07T16:00:00+01:00": "2026-11-07T17:00:00+01:00"
       },
       "startsAt": "2026-11-07T16:00:00+01:00"
+    },
+    {
+      "id": "lunedi-da-favola",
+      "organizationId": "org-biblioteca-civica-primo-levi",
+      "illustration": "icona-lettura.webp",
+      "title": "Lunedì da favola",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Primo Levi · via Ruggero Leoncavallo 17, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 131,
+      "ageLabel": "3–10 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Obbligatoria: 011 01131262 o biblioteca.levi@comune.torino.it",
+      "url": "https://www.torinobimbi.it/agenda/favole-del-lunedi",
+      "description": "Letture di fiabe e libri per bambini e famiglie, ogni lunedì pomeriggio. Leggono i volontari del Servizio Civile insieme al personale della biblioteca.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/3-6-anni"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (sito BCT bloccato). Ogni lunedì fino al 21 dicembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-02T17:00:00+01:00",
+        "2026-11-09T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-02T17:00:00+01:00"
+    },
+    {
+      "id": "primi-passi-per-genitori-e-bebe",
+      "organizationId": "org-ludoteca-serendipity",
+      "illustration": "icona-gioco.webp",
+      "title": "Primi passi per genitori e bebè",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "venue": "Ludoteca Serendipity · corso Orbassano 264, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 12,
+      "ageLabel": "0–12 mesi con un adulto",
+      "costLabel": "Gratuito (contributo annuale volontario di 5,75 € per l'assicurazione)",
+      "costBand": "free",
+      "booking": "Consigliata, posti limitati: spazioprimipassi@gmail.com o 328 277 4332",
+      "url": "https://www.torinobimbi.it/agenda/primi-passi-per-genitori-e-bebe",
+      "description": "Spazio per i bebè fino a un anno con mamma, papà o chi li accudisce. I piccoli esplorano materiali pensati per loro, mentre i grandi si incontrano e parlano con educatrici esperte.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/genitori"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (servizio del Comune di Torino, sito bloccato). Martedì, giovedì e venerdì mattina fino a giugno 2027.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-03T09:30:00+01:00",
+        "2026-11-05T09:30:00+01:00",
+        "2026-11-06T09:30:00+01:00",
+        "2026-11-10T09:30:00+01:00",
+        "2026-11-12T09:30:00+01:00",
+        "2026-11-13T09:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-03T09:30:00+01:00": "2026-11-03T12:30:00+01:00",
+        "2026-11-05T09:30:00+01:00": "2026-11-05T12:30:00+01:00",
+        "2026-11-06T09:30:00+01:00": "2026-11-06T12:30:00+01:00",
+        "2026-11-10T09:30:00+01:00": "2026-11-10T12:30:00+01:00",
+        "2026-11-12T09:30:00+01:00": "2026-11-12T12:30:00+01:00",
+        "2026-11-13T09:30:00+01:00": "2026-11-13T12:30:00+01:00"
+      },
+      "startsAt": "2026-11-03T09:30:00+01:00"
+    },
+    {
+      "id": "i-libri-del-mercoledi",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "I libri del mercoledì",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Casa della Salute dei bambini e dei ragazzi · via Gorizia 112/a, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 71,
+      "ageLabel": "3–5 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non serve: accesso libero",
+      "url": "https://www.torinobimbi.it/agenda/laboratorio-di-lettura-per-bambini",
+      "description": "Laboratorio di lettura per bambini da 3 a 5 anni, ogni mercoledì pomeriggio. Si tiene alla Casa della Salute dei bambini e dei ragazzi, a cura delle Biblioteche civiche.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/3-6-anni"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (sito BCT bloccato). Ogni mercoledì fino al 9 giugno 2027. Ora di fine non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-04T16:30:00+01:00",
+        "2026-11-11T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-04T16:30:00+01:00"
+    },
+    {
+      "id": "gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m",
+      "organizationId": "org-citta-di-torino-con-fondazione-trg",
+      "illustration": "icona-teatro.webp",
+      "title": "Gioca alla fiaba – Pinocchio incontra Geppetto e Mangiafuoco",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Giardini di via Scipio Slataper · via Scipio Slataper, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 131,
+      "ageLabel": "3–10 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non indicata; info Casa del Teatro 389 2064590",
+      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-geppetto-e-mangiafuoco-2",
+      "description": "Teatro all'aperto con gioco e musica dal vivo dedicato a Pinocchio, per bambini e famiglie. In questa tappa Pinocchio incontra Geppetto e Mangiafuoco. Fa parte delle iniziative per i 200 anni dalla nascita di Collodi.",
+      "discoverySources": [
+        "https://www.viaggiapiccoli.com/?p=86618"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi: Comune di Torino bloccato e casateatroragazzi.it vuoto; date e luoghi confermati anche da Mentelocale (https://www.mentelocale.it/torino/144506-gioca-alla-fiaba-il-viaggio-di-pinocchio-a-torino-si-celebra-il-bicentenario-della-nascita-di-carlo-collodi.htm). Con maltempo si sposta in uno spazio coperto. Viaggiapiccoli dice orari «da comunicare».",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-04T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-04T17:00:00+01:00"
+    },
+    {
+      "id": "gioca-alla-fiaba-pinocchio-incontra-il-gatto-la",
+      "organizationId": "org-citta-di-torino-con-fondazione-trg",
+      "illustration": "icona-teatro.webp",
+      "title": "Gioca alla fiaba – Pinocchio incontra il Gatto, la Volpe e la Fata",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Parco Ruffini · viale Luigi Hugues, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 131,
+      "ageLabel": "3–10 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non indicata; info Casa del Teatro 389 2064590",
+      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-il-gatto-la-volpe-e-la-fata-2",
+      "description": "Ultima tappa del primo ciclo di teatro partecipato su Pinocchio, con gioco e musica dal vivo. Bambini e famiglie incontrano il Gatto, la Volpe e la Fata nel parco.",
+      "discoverySources": [
+        "https://www.viaggiapiccoli.com/?p=86618"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (Comune bloccato, casateatroragazzi.it vuoto); data e luogo anche su Mentelocale. Con maltempo si sposta al coperto.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-05T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-05T17:00:00+01:00"
+    },
+    {
+      "id": "lo-spazio-ai-bambini-planetario-e-laboratorio",
+      "organizationId": "org-infini-to",
+      "illustration": "icona-museo.webp",
+      "title": "Lo Spazio ai bambini – planetario e laboratorio",
+      "category": "Museo",
+      "municipality": "Pino Torinese",
+      "venue": "Infini.To – Museo dell'astronomia e dello spazio · via Osservatorio 8, Pino Torinese",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 143,
+      "ageLabel": "6–11 anni",
+      "costLabel": "Ingresso 13 €, ridotto 11 € (secondo TorinoBimbi); laboratorio a pagamento per il bambino, gratis per l'adulto",
+      "costBand": "mid",
+      "booking": "Online sulla biglietteria del planetario (Ticketlandia); il laboratorio si aggiunge solo agli ingressi delle 14:30 o 16:00",
+      "url": "https://planetarioditorino.it/home/bambini-laboratori-spettacoli-exhibit/lo-spazio-ai-bambini",
+      "description": "Pomeriggio per famiglie al museo dello spazio, con un cartone scientifico nel planetario digitale. I bambini fanno un laboratorio di circa un'ora per imparare a osservare il cielo.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/tutta-la-famiglia"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Date e orari confermati sulla pagina ufficiale. TorinoBimbi e GiovaniGenitori titolano il laboratorio «Il cannocchiale di Galileo», ma la pagina ufficiale lo mette il 5-6 dicembre: titolo del laboratorio di novembre non chiaro (forse «Missione Sistema Solare»). Prezzi non indicati sulla pagina ufficiale.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T14:30:00+01:00",
+        "2026-11-07T16:00:00+01:00",
+        "2026-11-08T14:30:00+01:00",
+        "2026-11-08T16:00:00+01:00"
+      ],
+      "startsAt": "2026-11-07T14:30:00+01:00"
+    },
+    {
+      "id": "elogio-alla-noia-circo-contemporaneo",
+      "organizationId": "org-magdaclan-circo",
+      "illustration": "icona-circo.webp",
+      "title": "Elogio alla noia – circo contemporaneo",
+      "category": "Circo",
+      "municipality": "Torino",
+      "venue": "Tendone MagdaClan al Bunker · via Niccolò Paganini 0/200, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 155,
+      "ageLabel": "dai 6 anni",
+      "costLabel": "Intero 15 €, bambini 6–12 anni 10 € (più diritti di prevendita)",
+      "costBand": "mid",
+      "booking": "Biglietti online su diyticket.it o sul posto",
+      "url": "https://www.diyticket.it/events/Teatro/34087/elogio-alla-noia",
+      "description": "Spettacolo di circo contemporaneo poetico e ironico, ambientato in una villa misteriosa dove la noia diventa un'arte. Dura un'ora ed è consigliato dai 6 anni.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/tutta-la-famiglia"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato sulla biglietteria ufficiale. Sera: adatto a famiglie con bambini dai 6 anni.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T21:00:00+01:00",
+        "2026-11-08T18:00:00+01:00",
+        "2026-11-13T21:00:00+01:00",
+        "2026-11-14T21:00:00+01:00",
+        "2026-11-15T18:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T21:00:00+01:00": "2026-11-07T22:00:00+01:00",
+        "2026-11-08T18:00:00+01:00": "2026-11-08T19:00:00+01:00",
+        "2026-11-13T21:00:00+01:00": "2026-11-13T22:00:00+01:00",
+        "2026-11-14T21:00:00+01:00": "2026-11-14T22:00:00+01:00",
+        "2026-11-15T18:00:00+01:00": "2026-11-15T19:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T21:00:00+01:00"
+    },
+    {
+      "id": "sabati-giocondi-yayoi-kusama-la-regina-delle-zuc",
+      "organizationId": "barrito-new",
+      "illustration": "illustrazione-sabati-giocondi-cantiere-in-miniatura.webp",
+      "title": "Sabati Giocondi – Yayoi Kusama, la regina delle zucche",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Casa del Quartiere Barrito · via Tepice 23/C, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3–6 anni",
+      "costLabel": "Ingresso libero, offerta libera per le attività",
+      "costBand": "free",
+      "booking": "Obbligatoria su Eventbrite (Casa del quartiere Barrito)",
+      "url": "https://www.barrito.to.it/i-sabati-giocondi-novembre-2026/",
+      "description": "Laboratorio creativo del sabato pomeriggio ispirato all'artista Yayoi Kusama e alle sue zucche a pois. Lo cura Andrea Guerzoni.",
+      "discoverySources": [
+        "https://www.torinobimbi.it/weekend"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Data, ora e prenotazione confermate sul sito del Barrito; età 3–6 solo da TorinoBimbi. Altri Sabati Giocondi: 14/11 16:30 «In viaggio con i pinguini», 21/11 17:00 «Normale sarai tu» (Faber Teater), 28/11 16:30 «Che cos'è un bambino?».",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-07T16:30:00+01:00"
+    },
+    {
+      "id": "piccole-domeniche-fantastici-personaggi",
+      "organizationId": "org-6",
+      "illustration": "illustrazione-piccole-domeniche-sulle-tracce-di.webp",
+      "title": "Piccole domeniche – Fantastici personaggi",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Pinacoteca Agnelli · via Nizza 230, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 47,
+      "ageLabel": "0–3 anni con la famiglia",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Su pinacoteca-agnelli.it (pulsante Prenota della scheda Abbonamento Musei) o 011 0925024",
+      "url": "https://abbonamentomusei.it/en/evento/piccole-domeniche-3/",
+      "description": "Racconti e giochi sensoriali per i più piccoli davanti ai quadri di Alberto Savinio, tra realtà e fantasia. L'attività dura un'ora ed è pensata per bambini fino a 3 anni con i genitori.",
+      "discoverySources": [
+        "https://www.familygo.eu/vacanze-con-bambini/eventi/torino/torino-eventi-per-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Sito della Pinacoteca illeggibile (JavaScript): confermato sulla scheda Abbonamento Musei, come da registro. Prezzo non indicato. Altre date: 15/11 «Pezzi di noi», 22/11, 29/11.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T11:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T11:00:00+01:00": "2026-11-08T12:00:00+01:00"
+      },
+      "startsAt": "2026-11-08T11:00:00+01:00"
+    },
+    {
+      "id": "family-afternoons-ritratti-di-famiglie",
+      "organizationId": "org-6",
+      "illustration": "illustrazione-family-afternoons-all-opera.webp",
+      "title": "Family Afternoons – Ritratti di famiglie",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Pinacoteca Agnelli · via Nizza 230, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 155,
+      "ageLabel": "dai 4 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Su pinacoteca-agnelli.it (pulsante Prenota della scheda Abbonamento Musei)",
+      "url": "https://abbonamentomusei.it/en/evento/family-afternoons/",
+      "description": "Laboratorio per famiglie sui legami e le relazioni, ispirato ai quadri e agli scritti di Savinio. Bambini e adulti lavorano insieme per un'ora.",
+      "discoverySources": [
+        "https://www.familygo.eu/vacanze-con-bambini/eventi/torino/torino-eventi-per-bambini/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato sulla scheda Abbonamento Musei (sito Pinacoteca illeggibile). Prezzo non indicato. 15/11 16:00 «Mettiamoci comodi».",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T16:00:00+01:00": "2026-11-08T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-08T16:00:00+01:00"
+    },
+    {
+      "id": "a-spasso-tra-le-fiabe-cenerentola-l-ora-del-racc",
+      "organizationId": "org-biblioteca-archimede",
+      "illustration": "illustrazione-l-ora-del-racconto-letture-per-famiglie.webp",
+      "title": "A spasso tra le fiabe: Cenerentola – L'ora del racconto",
+      "category": "Lettura",
+      "municipality": "Settimo Torinese",
+      "venue": "Biblioteca Archimede, anfiteatro Sala 0-15 · piazza Campidoglio 50, Settimo Torinese",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "dai 3 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Obbligatoria tramite modulo online (forms.gle/ov1jzrTrnxcqt1eD9)",
+      "url": "https://www.bibliotecarchimede.it/lora-del-racconto-novembre-2026/",
+      "description": "Lettura della fiaba di Cenerentola in biblioteca, seguita da un piccolo laboratorio: con sagome e semplici tecniche di cucito i bambini costruiscono una marionetta a bastone. Per famiglie con bambini dai 3 anni.",
+      "discoverySources": [
+        "https://www.cultura0-6.it/lora-del-racconto-2026/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Costo non indicato (attività di biblioteca, probabilmente gratuita ma non scritto); età massima non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-05T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-05T17:00:00+01:00"
+    },
+    {
+      "id": "l-ora-del-piccolo-racconto",
+      "organizationId": "org-biblioteca-archimede",
+      "illustration": "illustrazione-l-ora-del-racconto-letture-per-famiglie.webp",
+      "title": "L'ora del piccolo racconto",
+      "category": "Lettura",
+      "municipality": "Settimo Torinese",
+      "venue": "Biblioteca Archimede, anfiteatro Sala 0-15 · piazza Campidoglio 50, Settimo Torinese",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 35,
+      "ageLabel": "0–2 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://www.bibliotecarchimede.it/lora-del-racconto-novembre-2026/",
+      "description": "Letture ad alta voce pensate per i più piccoli, da 0 a 2 anni, insieme ai loro genitori. Un momento tranquillo in biblioteca per scoprire i primi libri.",
+      "discoverySources": [
+        "https://www.cultura0-6.it/lora-del-racconto-2026/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Prenotazione e costo non indicati. Fuori periodo (12/11), dalla stessa pagina.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-12T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-12T17:00:00+01:00"
+    },
+    {
+      "id": "scappa-che-ti-mangio-letture-con-teatrulla",
+      "organizationId": "org-biblioteca-archimede",
+      "illustration": "icona-lettura.webp",
+      "title": "Scappa che ti mangio! – letture con Teatrulla",
+      "category": "Lettura",
+      "municipality": "Settimo Torinese",
+      "venue": "Biblioteca Archimede, anfiteatro Sala 0-15 · piazza Campidoglio 50, Settimo Torinese",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "età non indicata (rassegna Cultura 0-6)",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://www.bibliotecarchimede.it/lora-del-racconto-novembre-2026/",
+      "description": "Il sabato mattina gli attori di Teatrulla leggono storie di personaggi che sfuggono al pericolo con astuzia e furbizia. Fa parte dell'Ora del racconto della biblioteca.",
+      "discoverySources": [
+        "https://www.cultura0-6.it/lora-del-racconto-2026/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Età, costo e prenotazione non indicati; la rassegna è nella categoria Cultura 0-6. Fuori periodo (14/11), dalla stessa pagina.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00"
+      ],
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "what-do-animals-say-laboratorio-lego-education",
+      "organizationId": "org-biblioteca-archimede",
+      "illustration": "icona-laboratorio.webp",
+      "title": "What do animals say? – laboratorio LEGO Education",
+      "category": "Laboratorio",
+      "municipality": "Settimo Torinese",
+      "venue": "Biblioteca Archimede · piazza Campidoglio 50, Settimo Torinese",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 107,
+      "ageLabel": "6–8 anni",
+      "costLabel": "7 € a partecipante",
+      "costBand": "low",
+      "booking": "Obbligatoria via email a leis.archimede@fondazione-ecm.it",
+      "url": "https://www.bibliotecarchimede.it/what-do-the-animals-say/",
+      "description": "Laboratorio che unisce robotica educativa e storie in inglese: i bambini costruiscono con i LEGO gli animali della fattoria e programmano api robot per farle muovere.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Fuori periodo (14/11), trovato sulla stessa pagina eventi.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T15:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-14T15:30:00+01:00": "2026-11-14T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-14T15:30:00+01:00"
+    },
+    {
+      "id": "cupcakes-toy-story-5-laboratorio-la-mamma-dei-bi",
+      "organizationId": "org-36",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Cupcakes Toy Story 5 – laboratorio La mamma dei biscotti",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Binaria · via Sestriere 34, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 155,
+      "ageLabel": "5–12 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Via email a lamammadeibiscotti@gmail.com (il link della pagina punta a un indirizzo diverso)",
+      "url": "https://www.binariagruppoabele.org/events/mammabiscottinatale/",
+      "description": "Laboratorio di pasticceria per bambini: si preparano e decorano cupcake a tema Toy Story. I più piccoli partecipano con un adulto.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Prezzo non indicato. Fuori periodo (14/11). Seguono altri laboratori il 28/11, 5/12 e 12/12.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T11:00:00+01:00"
+      ],
+      "startsAt": "2026-11-14T11:00:00+01:00"
+    },
+    {
+      "id": "lillo-il-lupo-passi-nella-notte",
+      "organizationId": "org-40",
+      "illustration": "icona-natura.webp",
+      "title": "Lillo il Lupo – Passi nella notte",
+      "category": "Natura",
+      "municipality": "Venaria Reale",
+      "venue": "Cascina Brero, Parco La Mandria · via Scodeggio 197/A, Venaria Reale",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "famiglie con bambini",
+      "costLabel": "15 € a persona",
+      "costBand": "mid",
+      "booking": "Obbligatoria tramite link sul sito (Arnica)",
+      "url": "https://www.parchireali.it/events/lillo-il-lupo-passi-nella-notte/",
+      "description": "Passeggiata notturna nel bosco con una guida naturalistica per scoprire come vivono e comunicano i lupi. I bambini allenano udito e olfatto per riconoscere suoni e odori della notte.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Età non indicata. Fuori periodo (14/11).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T20:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-14T20:00:00+01:00": "2026-11-14T22:00:00+01:00"
+      },
+      "startsAt": "2026-11-14T20:00:00+01:00"
+    },
+    {
+      "id": "un-nido-tra-le-mani-attivita-per-famiglie-alla-g",
+      "organizationId": "org-gam-torino",
+      "illustration": "icona-museo.webp",
+      "title": "Un nido tra le mani – attività per famiglie alla GAM",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "GAM – Galleria Civica d'Arte Moderna e Contemporanea · via Magenta 31, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 71,
+      "ageLabel": "3–5 anni",
+      "costLabel": "10 € (più ingresso mostra per gli adulti)",
+      "costBand": "mid",
+      "booking": "Obbligatoria: CoopCulture 011 19560449, ftm.prenotazioni@coopculture.it",
+      "url": "https://www.coopculture.it/it/prodotti/un-nido-tra-le-mani/",
+      "description": "Breve visita alla mostra di Marisa Merz e poi laboratorio: con fili, carta, argilla ed elementi naturali i bambini costruiscono un piccolo rifugio. Dura circa un'ora e mezza.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Indirizzo della GAM non riportato sulla scheda (via Magenta 31 è la sede nota). Fuori periodo (15/11).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-15T15:30:00+01:00"
+      ],
+      "startsAt": "2026-11-15T15:30:00+01:00"
+    },
+    {
+      "id": "piccolo-chimico-laboratorio-scientifico",
+      "organizationId": "org-4",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Piccolo Chimico – laboratorio scientifico",
+      "category": "Laboratorio",
+      "municipality": "Settimo Torinese",
+      "venue": "Museo della Chimica MU-CH · via Leinì 84, Settimo Torinese",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 155,
+      "ageLabel": "5–12 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Biglietteria online del museo, biglietteria@mu-ch.it, +39 011 802 8759",
+      "url": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+      "description": "Laboratorio di un'ora in cui ogni bambino riceve un kit per fare reazioni chimiche, da quelle che cambiano colore a quelle esplosive.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Il programma dice che i laboratori sono 'generalmente' alle 10:30 e alle 16:30: orari da ricontrollare in biglietteria (non leggibile). Prezzo non indicato. Indirizzo non riportato nella pagina.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T10:30:00+01:00",
+        "2026-11-07T16:30:00+01:00",
+        "2026-11-08T10:30:00+01:00",
+        "2026-11-08T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-07T10:30:00+01:00"
+    },
+    {
+      "id": "fuoco-e-fulmini-laboratorio-scientifico",
+      "organizationId": "org-4",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Fuoco e Fulmini – laboratorio scientifico",
+      "category": "Laboratorio",
+      "municipality": "Settimo Torinese",
+      "venue": "Museo della Chimica MU-CH · via Leinì 84, Settimo Torinese",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 155,
+      "ageLabel": "5–12 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Biglietteria online del museo, biglietteria@mu-ch.it, +39 011 802 8759",
+      "url": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+      "description": "Laboratorio di un'ora sulle reazioni che producono calore, comprese quelle innescate dai fulmini.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Il programma dice che i laboratori sono 'generalmente' alle 10:30 e alle 16:30: orari da ricontrollare in biglietteria (non leggibile). Prezzo non indicato. Indirizzo non riportato nella pagina. Fuori periodo (14-15/11).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00",
+        "2026-11-14T16:30:00+01:00",
+        "2026-11-15T10:30:00+01:00",
+        "2026-11-15T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "piccole-domeniche-pezzi-di-noi",
+      "organizationId": "org-6",
+      "illustration": "illustrazione-piccole-domeniche-sulle-tracce-di.webp",
+      "title": "Piccole domeniche – Pezzi di noi",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Pinacoteca Agnelli · via Nizza 230, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 47,
+      "ageLabel": "0–3 anni",
+      "costLabel": "Prezzo non indicato",
+      "costBand": "unknown",
+      "booking": "Prenotazione dal sito della Pinacoteca; info 011 0925010 / 011 0925024",
+      "url": "https://abbonamentomusei.it/en/evento/piccole-domeniche-3/",
+      "description": "Incontro per i più piccoli con letture e attività tattili a partire da opere di Savinio, Modigliani e Renoir.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Fuori dal periodo principale (settimana 9–15/11), visto sulla stessa pagina.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-15T11:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-15T11:00:00+01:00": "2026-11-15T12:00:00+01:00"
+      },
+      "startsAt": "2026-11-15T11:00:00+01:00"
+    },
+    {
+      "id": "family-afternoons-mettiamoci-comodi",
+      "organizationId": "org-6",
+      "illustration": "illustrazione-family-afternoons-all-opera.webp",
+      "title": "Family Afternoons – Mettiamoci comodi",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Pinacoteca Agnelli · via Nizza 230, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": null,
+      "ageLabel": "dai 4 anni",
+      "costLabel": "Prezzo non indicato",
+      "costBand": "unknown",
+      "booking": "Prenotazione dal sito della Pinacoteca; info 011 0925010 / 011 0925024",
+      "url": "https://abbonamentomusei.it/en/evento/family-afternoons/",
+      "description": "Laboratorio per famiglie in cui i mobili diventano personaggi, guardando le opere di Savinio e Matisse.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Settimana 9–15/11, vista sulla stessa pagina. Titolo italiano tradotto dalla versione inglese della scheda («Let's make ourselves comfortable»): verificare.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-15T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-15T16:00:00+01:00": "2026-11-15T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-15T16:00:00+01:00"
+    },
+    {
+      "id": "con-i-nonni-al-museo-un-gioco-o-un-monumento",
+      "organizationId": "org-6",
+      "illustration": "illustrazione-con-i-nonni-al-museo.webp",
+      "title": "Con i nonni al museo – Un gioco o un monumento?",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Pinacoteca Agnelli · via Nizza 230, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": null,
+      "ageLabel": "dai 4 anni, con un nonno",
+      "costLabel": "Prezzo non indicato",
+      "costBand": "unknown",
+      "booking": "Prenotazione via email o dal sito della Pinacoteca",
+      "url": "https://abbonamentomusei.it/en/evento/con-i-nonni-al-museo/",
+      "description": "Nipoti e nonni esplorano insieme le strutture colorate di Savinio e costruiscono mondi immaginari.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Settimana 9–15/11, vista sulla stessa pagina. Titolo italiano tradotto dalla scheda inglese («A toy or a monument?»): verificare.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-14T10:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-14T10:30:00+01:00": "2026-11-14T12:00:00+01:00"
+      },
+      "startsAt": "2026-11-14T10:30:00+01:00"
+    },
+    {
+      "id": "mangiafuoco-pinocchio-e",
+      "organizationId": "org-la-bottega-teatrale",
+      "illustration": "icona-teatro.webp",
+      "title": "Mangiafuoco, Pinocchio e…",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Teatro Educatorio della Provvidenza · corso Govone 16, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "per tutti",
+      "costLabel": "Adulti 8 €, bambini e ragazzi 6 €, sotto i 3 anni gratis",
+      "costBand": "low",
+      "booking": "Telefonica: 347 7627706 (Giuseppe) o 346 3524547 (Salvo), o email dal sito",
+      "url": "https://www.labottegateatrale.it/calendario-spettacoli-le-figure-dellinverno-2026-2027.html",
+      "description": "Spettacolo di teatro di figura sulla storia di Pinocchio e del burattinaio Mangiafuoco, per tutta la famiglia.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Settimana 9–15/11, visto sulla stessa pagina. Età 'per tutti'; ageMinMonths 36 messo solo perché sotto i 3 anni l'ingresso è gratuito: valutare null. Replica del 16/11 ore 10 solo scuole (esclusa).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-15T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-15T17:00:00+01:00"
+    },
+    {
+      "id": "minestra-di-strega-teatro-baracca-a-colazione",
+      "organizationId": "org-ghiss-bross",
+      "illustration": "icona-festa.webp",
+      "title": "Minestra di strega – Teatro Baracca a colazione",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "CPG Torino · strada delle Cacce 36, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "per grandi e piccini",
+      "costLabel": "Offerta libera",
+      "costBand": "free",
+      "booking": "Prenotazione su Eventbrite (link «Prenota qui» nella pagina)",
+      "url": "https://www.cpgtorino.it/minestra-di-strega-dei-ghiss-bross/",
+      "description": "Lettura animata con la Strega Disgusta, che chiede aiuto ai vicini per trovare gli ingredienti della sua zuppa. Prima dello spettacolo, dalle 10:30, colazione.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Settimana 9–15/11. Età non indicata.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-10-31",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-15T11:00:00+01:00"
+      ],
+      "startsAt": "2026-11-15T11:00:00+01:00"
     }
   ],
   "organizations": [
@@ -7257,6 +8073,97 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con la ricerca del 26 ottobre 2026."
+    },
+    {
+      "id": "org-biblioteca-civica-primo-levi",
+      "name": "Biblioteca civica Primo Levi",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "url": "https://www.torinobimbi.it/agenda/favole-del-lunedi",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-ludoteca-serendipity",
+      "name": "Ludoteca Serendipity",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "url": "https://www.torinobimbi.it/agenda/primi-passi-per-genitori-e-bebe",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-citta-di-torino-con-fondazione-trg",
+      "name": "Città di Torino con Fondazione TRG",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-geppetto-e-mangiafuoco-2",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-infini-to",
+      "name": "Infini.To",
+      "category": "Museo",
+      "municipality": "Pino Torinese",
+      "url": "https://planetarioditorino.it/home/bambini-laboratori-spettacoli-exhibit/lo-spazio-ai-bambini",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-magdaclan-circo",
+      "name": "MagdaClan Circo",
+      "category": "Circo",
+      "municipality": "Torino",
+      "url": "https://www.diyticket.it/events/Teatro/34087/elogio-alla-noia",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-la-bottega-teatrale",
+      "name": "La Bottega Teatrale",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "url": "https://www.labottegateatrale.it/calendario-spettacoli-le-figure-dellinverno-2026-2027.html",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
+    },
+    {
+      "id": "org-ghiss-bross",
+      "name": "Ghiss Bross",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "url": "https://www.cpgtorino.it/minestra-di-strega-dei-ghiss-bross/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-10-31",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 31 ottobre 2026."
     }
   ]
 }
