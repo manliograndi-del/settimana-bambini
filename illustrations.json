@@ -2717,5 +2717,419 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "lunedi-da-favola",
+    "title": "Lunedì da favola",
+    "source": "https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0",
+    "description": "Letture di fiabe e libri per bambini e famiglie, ogni lunedì pomeriggio. Leggono i volontari del Servizio Civile insieme al personale della biblioteca.",
+    "asset": "illustrazione-lunedi-da-favola.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Young volunteers and a librarian reading a big fairy-tale book to children and parents sitting on colourful cushions in a cosy library corner, a castle and a dragon rising like a dream from the open pages.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lunedi-da-favola.webp",
+      "derivedFrom": "illustrazione-lunedi-da-favola.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m",
+    "title": "Gioca alla fiaba – Pinocchio incontra Geppetto e Mangiafuoco",
+    "source": "https://casateatroragazzi.it/gioca-alla-fiaba/",
+    "description": "Teatro all'aperto con gioco e musica dal vivo dedicato a Pinocchio, per bambini e famiglie. In questa tappa Pinocchio incontra Geppetto e Mangiafuoco. Fa parte delle iniziative per i 200 anni dalla nascita di Collodi.",
+    "asset": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Outdoor play in a city garden: actors dressed as an old carpenter and a big bearded puppet master with a red cloak, a wooden puppet boy with a long nose, children joining the game while a musician plays an accordion. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m.webp",
+      "derivedFrom": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "a-me-gli-occhi-gam-don-milani",
+    "title": "A me gli occhi – letture e laboratorio con la GAM",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture condivise e laboratorio a cura della GAM nella biblioteca Don Milani. Progetto Nutrirsi di Cultura 0-6.",
+    "asset": "illustrazione-a-me-gli-occhi-gam-don-milani.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers and parents in a library looking at a big picture book with huge eyes on the cover, then gluing colourful paper eyes and shapes onto cardboard faces on a low table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-a-me-gli-occhi-gam-don-milani.webp",
+      "derivedFrom": "illustrazione-a-me-gli-occhi-gam-don-milani.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "gioca-alla-fiaba-pinocchio-incontra-il-gatto-la",
+    "title": "Gioca alla fiaba – Pinocchio incontra il Gatto, la Volpe e la Fata",
+    "source": "https://casateatroragazzi.it/gioca-alla-fiaba/",
+    "description": "Ultima tappa del primo ciclo di teatro partecipato su Pinocchio, con gioco e musica dal vivo. Bambini e famiglie incontrano il Gatto, la Volpe e la Fata nel parco.",
+    "asset": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-il-gatto-la.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: In an autumn park, actors dressed as a sly cat and a fox with sunglasses and a kind fairy with turquoise hair play with children around a wooden puppet boy, a musician with a guitar nearby. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-il-gatto-la.webp",
+      "derivedFrom": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-il-gatto-la.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "incursione-ai-bagni-pubblici-magdaclan",
+    "title": "Incursione ai Bagni Pubblici – circo",
+    "source": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+    "description": "Gli allievi della scuola di circo FLIC e MagdaClan portano un breve spettacolo di circo ai Bagni Pubblici di Barriera di Milano. Dura circa un'ora e mezza.",
+    "asset": "illustrazione-incursione-ai-bagni-pubblici-magdaclan.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Young circus artists performing in the courtyard of an old public bathhouse with arched windows: acrobats on a pole, a juggler with clubs, a girl on stilts, neighbours and children clapping.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-incursione-ai-bagni-pubblici-magdaclan.webp",
+      "derivedFrom": "illustrazione-incursione-ai-bagni-pubblici-magdaclan.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-a-merenda-spazio-pro",
+    "title": "Storie a Merenda",
+    "source": "https://www.culturastar.it/",
+    "description": "Racconti a merenda il venerdì pomeriggio, divisi per fasce d'età. Durano circa 50 minuti.",
+    "asset": "illustrazione-storie-a-merenda-spazio-pro.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children sitting on a small theatre stage eating an afternoon snack of bread, fruit and juice while a storyteller reads from an open book, a teddy bear listening too.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-a-merenda-spazio-pro.webp",
+      "derivedFrom": "illustrazione-storie-a-merenda-spazio-pro.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "much-cucine",
+    "title": "Cucine esplosive",
+    "source": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
+    "description": "Uno show scientifico con un cuoco inesperto alle prese con ricette imprevedibili: gli ingredienti della cucina diventano protagonisti di reazioni chimiche ed esplosioni dimostrative. Si assiste allo spettacolo; non è il laboratorio individuale del Museo del Crimine.",
+    "asset": "illustrazione-much-cucine.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A clumsy cheerful cook in a white hat in a science-show kitchen, pots bubbling with colourful foam, a pan puffing a harmless cloud of smoke, children in the audience laughing with surprise.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-much-cucine.webp",
+      "derivedFrom": "illustrazione-much-cucine.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "lo-spazio-ai-bambini-planetario-e-laboratorio",
+    "title": "Lo Spazio ai bambini – planetario e laboratorio",
+    "source": "https://planetarioditorino.it/home/bambini-laboratori-spettacoli-exhibit/lo-spazio-ai-bambini",
+    "description": "Pomeriggio per famiglie al museo dello spazio, con un cartone scientifico nel planetario digitale. I bambini fanno un laboratorio di circa un'ora per imparare a osservare il cielo.",
+    "asset": "illustrazione-lo-spazio-ai-bambini-planetario-e-laboratorio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children and parents lying back under a planetarium dome full of stars, planets and a comet, then children with paper star maps and a small telescope at a table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lo-spazio-ai-bambini-planetario-e-laboratorio.webp",
+      "derivedFrom": "illustrazione-lo-spazio-ai-bambini-planetario-e-laboratorio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "sabato-quante-storie-carluccio",
+    "title": "Sabato quante storie!",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Storie e filastrocche il sabato mattina con la famiglia, a cura delle volontarie LaAV.",
+    "asset": "illustrazione-sabato-quante-storie-carluccio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: On a Saturday morning, families sitting together on a big rug while two volunteers read stories and nursery rhymes, a stack of colourful picture books, children clapping along.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sabato-quante-storie-carluccio.webp",
+      "derivedFrom": "illustrazione-sabato-quante-storie-carluccio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "un-nido-tra-le-mani-attivita-per-famiglie-alla-g",
+    "title": "Un nido tra le mani – attività per famiglie alla GAM",
+    "source": "https://www.coopculture.it/it/prodotti/un-nido-tra-le-mani/",
+    "description": "Breve visita alla mostra di Marisa Merz e poi laboratorio: con fili, carta, argilla ed elementi naturali i bambini costruiscono un piccolo rifugio. Dura circa un'ora e mezza.",
+    "asset": "illustrazione-un-nido-tra-le-mani-attivita-per-famiglie-alla-g.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Small children and parents in a bright art museum making little nests and shelters with soft threads, paper, clay, twigs and leaves, a delicate woven art piece hanging behind them.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-un-nido-tra-le-mani-attivita-per-famiglie-alla-g.webp",
+      "derivedFrom": "illustrazione-un-nido-tra-le-mani-attivita-per-famiglie-alla-g.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "mangiafuoco-pinocchio-e",
+    "title": "Mangiafuoco, Pinocchio e…",
+    "source": "https://www.labottegateatrale.it/calendario-spettacoli-le-figure-dellinverno-2026-2027.html",
+    "description": "Spettacolo di teatro di figura sulla storia di Pinocchio e del burattinaio Mangiafuoco, per tutta la famiglia.",
+    "asset": "illustrazione-mangiafuoco-pinocchio-e.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A puppet theatre stage with red curtains: a huge bearded puppet master with a black beard sneezing kindly, a small wooden puppet boy with a long nose and other wooden puppets, families watching. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mangiafuoco-pinocchio-e.webp",
+      "derivedFrom": "illustrazione-mangiafuoco-pinocchio-e.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "minestra-di-strega-teatro-baracca-a-colazione",
+    "title": "Minestra di strega – Teatro Baracca a colazione",
+    "source": "https://www.cpgtorino.it/minestra-di-strega-dei-ghiss-bross/",
+    "description": "Lettura animata con la Strega Disgusta, che chiede aiuto ai vicini per trovare gli ingredienti della sua zuppa. Prima dello spettacolo, dalle 10:30, colazione.",
+    "asset": "illustrazione-minestra-di-strega-teatro-baracca-a-colazione.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A funny clumsy witch with a crooked hat stirring a big cauldron of soup, neighbours bringing her vegetables and odd ingredients, children in the front row having breakfast with milk and croissants.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-minestra-di-strega-teatro-baracca-a-colazione.webp",
+      "derivedFrom": "illustrazione-minestra-di-strega-teatro-baracca-a-colazione.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "la-magia-della-lettura-ad-alta-voce-geisser",
+    "title": "La magia della lettura ad alta voce",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture di albi scelti per bambini fino a 6 anni, a cura delle volontarie del Circolo LaAV Torino.",
+    "asset": "illustrazione-la-magia-della-lettura-ad-alta-voce-geisser.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A volunteer reading a picture book to small children, golden sparkles and little stars flowing out of the book like magic dust over the children's heads.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-magia-della-lettura-ad-alta-voce-geisser.webp",
+      "derivedFrom": "illustrazione-la-magia-della-lettura-ad-alta-voce-geisser.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "storie-a-sorpresa-carluccio",
+    "title": "Storie a sorpresa",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Storie e filastrocche lette dai volontari del Servizio Civile. Ogni mercoledì dal 18 novembre.",
+    "asset": "illustrazione-storie-a-sorpresa-carluccio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A young reader opening a big gift box from which picture books and a jack-in-the-box come out, small children sitting around with surprised happy faces.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-a-sorpresa-carluccio.webp",
+      "derivedFrom": "illustrazione-storie-a-sorpresa-carluccio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "a-me-gli-occhi-palazzo-madama",
+    "title": "A me gli occhi – letture e laboratorio a Palazzo Madama",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture condivise e laboratorio a Palazzo Madama, con la biblioteca Cognasso e il Laboratorio di lettura Pinocchio. Progetto Nutrirsi di Cultura 0-6.",
+    "asset": "illustrazione-a-me-gli-occhi-palazzo-madama.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Toddlers and parents in a grand palace hall with a painted ceiling and an old portrait, children looking through paper binoculars and a reader showing a big picture book.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-a-me-gli-occhi-palazzo-madama.webp",
+      "derivedFrom": "illustrazione-a-me-gli-occhi-palazzo-madama.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "il-tuo-posto-del-cuore-geisser",
+    "title": "Il tuo posto del cuore – laboratorio per famiglie",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Ognuno disegna il suo «posto del cuore», il luogo dove si sente bene. Tutti i disegni formano una grande mappa di una città ideale. A cura di Print Club Torino.",
+    "asset": "illustrazione-il-tuo-posto-del-cuore-geisser.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children and parents drawing and printing their favourite places (a tree house, a garden, a beach, a cosy bed) on paper squares, then joining them on the floor into a big colourful map of a dream town.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-tuo-posto-del-cuore-geisser.webp",
+      "derivedFrom": "illustrazione-il-tuo-posto-del-cuore-geisser.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "visita-e-laboratorio-al-mao-con-la-carluccio",
+    "title": "Visita e laboratorio al MAO per famiglie",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Visita guidata e laboratorio al Museo d'Arte Orientale per le famiglie, con la biblioteca Carluccio. Progetto Nutrirsi di Cultura 0-6.",
+    "asset": "illustrazione-visita-e-laboratorio-al-mao-con-la-carluccio.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Families with small children visiting an Asian art museum with a large calm golden statue, painted screens and porcelain vases, then children painting with brushes on paper fans.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-visita-e-laboratorio-al-mao-con-la-carluccio.webp",
+      "derivedFrom": "illustrazione-visita-e-laboratorio-al-mao-con-la-carluccio.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "cedrino-presentazione-calvino",
+    "title": "Cedrino – lettura e laboratorio",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Presentazione del libro illustrato di Simona Massera su amicizia, coraggio e fiducia in se stessi, con lettura e laboratorio.",
+    "asset": "illustrazione-cedrino-presentazione-calvino.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A brave little green character the size of a citrus fruit walking through a big garden with a friend ladybird, children around a reading table drawing him.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-cedrino-presentazione-calvino.webp",
+      "derivedFrom": "illustrazione-cedrino-presentazione-calvino.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "notte-dei-pupazzi-guidetti",
+    "title": "Notte dei pupazzi",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Martedì i bambini lasciano il loro pupazzo in biblioteca. Mercoledì lo riprendono e ascoltano, con letture animate e musica, il racconto della notte passata dai pupazzi.",
+    "asset": "illustrazione-notte-dei-pupazzi-guidetti.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: At night in an empty library, teddy bears and soft toys awake reading books with a tiny torch, having a pillow fight and sleeping on the shelves, moonlight through the window.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-notte-dei-pupazzi-guidetti.webp",
+      "derivedFrom": "illustrazione-notte-dei-pupazzi-guidetti.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "in-biblioteca-si-legge-e-poi-utoya",
+    "title": "In biblioteca si legge… e poi",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture ad alta voce e un laboratorio creativo a tema, a cura di Roberta Di Martino e della volontaria del Servizio Civile.",
+    "asset": "illustrazione-in-biblioteca-si-legge-e-poi-utoya.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Children aged 5 to 11 listening to a story in a library, then at a creative table cutting, gluing and colouring characters from the story with scissors and paper.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-in-biblioteca-si-legge-e-poi-utoya.webp",
+      "derivedFrom": "illustrazione-in-biblioteca-si-legge-e-poi-utoya.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "nutrirsi-di-cultura-al-mao-guidetti",
+    "title": "Nutrirsi di Cultura al MAO – lettura, visita e laboratorio",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Lettura ad alta voce a cura della biblioteca Guidetti Serra, poi visita guidata e laboratorio al Museo d'Arte Orientale.",
+    "asset": "illustrazione-nutrirsi-di-cultura-al-mao-guidetti.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Small children and parents listening to a story in an Asian art museum room, a little paper dragon and paper lanterns, then making paper animals at a low table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-nutrirsi-di-cultura-al-mao-guidetti.webp",
+      "derivedFrom": "illustrazione-nutrirsi-di-cultura-al-mao-guidetti.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "autunno-piovono-storie-cognasso",
+    "title": "Autunno… piovono storie!",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Letture condivise e un laboratorio sull'autunno, con il personale della biblioteca e la volontaria del Servizio Civile.",
+    "asset": "illustrazione-autunno-piovono-storie-cognasso.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: Little books falling from the sky like autumn leaves and raindrops, children with umbrellas and rain boots catching them, then a craft table with leaves and colours.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-autunno-piovono-storie-cognasso.webp",
+      "derivedFrom": "illustrazione-autunno-piovono-storie-cognasso.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
+  },
+  {
+    "eventId": "bufo-il-gufo-calvino",
+    "title": "Bufo il gufo e il bambino misterioso",
+    "source": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+    "description": "Presentazione del libro di Diletta Di Rocco: la storia del gufo Bufo, con un laboratorio abbinato.",
+    "asset": "illustrazione-bufo-il-gufo-calvino.png",
+    "generatedOn": "2026-10-31",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, warm palette, no text. Scene: A big round friendly owl on a branch at night meeting a mysterious child in a hooded cape, moonlit forest, then children making paper owls.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Gemini, fornita da Manlio); ritaglio quadrato da un foglio 4×2; non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-bufo-il-gufo-calvino.webp",
+      "derivedFrom": "illustrazione-bufo-il-gufo-calvino.png",
+      "date": "2026-10-31",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
+    }
   }
 ]

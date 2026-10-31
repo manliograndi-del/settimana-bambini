@@ -154,8 +154,7 @@
         "source": "https://www.mu-ch.it/evento/cucine-esplosive-17-ottobre-2026-much/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 2,
+      "illustration": "illustrazione-much-cucine.webp",
       "scheduleType": "limited_series"
     },
     {
@@ -5599,7 +5598,7 @@
     {
       "id": "lunedi-da-favola",
       "organizationId": "org-biblioteca-civica-primo-levi",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-lunedi-da-favola.webp",
       "title": "Lunedì da favola",
       "category": "Lettura",
       "municipality": "Torino",
@@ -5712,7 +5711,7 @@
     {
       "id": "gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m",
       "organizationId": "org-citta-di-torino-con-fondazione-trg",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m.webp",
       "title": "Gioca alla fiaba – Pinocchio incontra Geppetto e Mangiafuoco",
       "category": "Teatro",
       "municipality": "Torino",
@@ -5743,7 +5742,7 @@
     {
       "id": "gioca-alla-fiaba-pinocchio-incontra-il-gatto-la",
       "organizationId": "org-citta-di-torino-con-fondazione-trg",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-gioca-alla-fiaba-pinocchio-incontra-il-gatto-la.webp",
       "title": "Gioca alla fiaba – Pinocchio incontra il Gatto, la Volpe e la Fata",
       "category": "Teatro",
       "municipality": "Torino",
@@ -5774,7 +5773,7 @@
     {
       "id": "lo-spazio-ai-bambini-planetario-e-laboratorio",
       "organizationId": "org-infini-to",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-lo-spazio-ai-bambini-planetario-e-laboratorio.webp",
       "title": "Lo Spazio ai bambini – planetario e laboratorio",
       "category": "Museo",
       "municipality": "Pino Torinese",
@@ -6135,7 +6134,7 @@
     {
       "id": "un-nido-tra-le-mani-attivita-per-famiglie-alla-g",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-un-nido-tra-le-mani-attivita-per-famiglie-alla-g.webp",
       "title": "Un nido tra le mani – attività per famiglie alla GAM",
       "category": "Museo",
       "municipality": "Torino",
@@ -6324,7 +6323,7 @@
     {
       "id": "mangiafuoco-pinocchio-e",
       "organizationId": "org-la-bottega-teatrale",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-mangiafuoco-pinocchio-e.webp",
       "title": "Mangiafuoco, Pinocchio e…",
       "category": "Teatro",
       "municipality": "Torino",
@@ -6353,7 +6352,7 @@
     {
       "id": "minestra-di-strega-teatro-baracca-a-colazione",
       "organizationId": "org-ghiss-bross",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-minestra-di-strega-teatro-baracca-a-colazione.webp",
       "title": "Minestra di strega – Teatro Baracca a colazione",
       "category": "Teatro",
       "municipality": "Torino",
@@ -6413,7 +6412,7 @@
     {
       "id": "nutrirsi-di-cultura-al-mao-guidetti",
       "organizationId": "org-35",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-nutrirsi-di-cultura-al-mao-guidetti.webp",
       "title": "Nutrirsi di Cultura al MAO – lettura, visita e laboratorio",
       "category": "Museo",
       "municipality": "Torino",
@@ -6475,7 +6474,7 @@
     {
       "id": "visita-e-laboratorio-al-mao-con-la-carluccio",
       "organizationId": "org-35",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-visita-e-laboratorio-al-mao-con-la-carluccio.webp",
       "title": "Visita e laboratorio al MAO per famiglie",
       "category": "Museo",
       "municipality": "Torino",
@@ -6506,7 +6505,7 @@
     {
       "id": "a-me-gli-occhi-palazzo-madama",
       "organizationId": "org-35",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-a-me-gli-occhi-palazzo-madama.webp",
       "title": "A me gli occhi – letture e laboratorio a Palazzo Madama",
       "category": "Museo",
       "municipality": "Torino",
@@ -6537,7 +6536,7 @@
     {
       "id": "a-me-gli-occhi-gam-don-milani",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-a-me-gli-occhi-gam-don-milani.webp",
       "title": "A me gli occhi – letture e laboratorio con la GAM",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -6568,7 +6567,7 @@
     {
       "id": "autunno-piovono-storie-cognasso",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-autunno-piovono-storie-cognasso.webp",
       "title": "Autunno… piovono storie!",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6632,7 +6631,7 @@
     {
       "id": "la-magia-della-lettura-ad-alta-voce-geisser",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-la-magia-della-lettura-ad-alta-voce-geisser.webp",
       "title": "La magia della lettura ad alta voce",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6664,7 +6663,7 @@
     {
       "id": "il-tuo-posto-del-cuore-geisser",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-il-tuo-posto-del-cuore-geisser.webp",
       "title": "Il tuo posto del cuore – laboratorio per famiglie",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -6727,7 +6726,7 @@
     {
       "id": "cedrino-presentazione-calvino",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-cedrino-presentazione-calvino.webp",
       "title": "Cedrino – lettura e laboratorio",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6758,7 +6757,7 @@
     {
       "id": "bufo-il-gufo-calvino",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-bufo-il-gufo-calvino.webp",
       "title": "Bufo il gufo e il bambino misterioso",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6851,7 +6850,7 @@
     {
       "id": "notte-dei-pupazzi-guidetti",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-notte-dei-pupazzi-guidetti.webp",
       "title": "Notte dei pupazzi",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6883,7 +6882,7 @@
     {
       "id": "storie-a-sorpresa-carluccio",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-a-sorpresa-carluccio.webp",
       "title": "Storie a sorpresa",
       "category": "Lettura",
       "municipality": "Torino",
@@ -6946,7 +6945,7 @@
     {
       "id": "sabato-quante-storie-carluccio",
       "organizationId": "org-35",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-sabato-quante-storie-carluccio.webp",
       "title": "Sabato quante storie!",
       "category": "Lettura",
       "municipality": "Torino",
@@ -7070,7 +7069,7 @@
     {
       "id": "in-biblioteca-si-legge-e-poi-utoya",
       "organizationId": "org-35",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-in-biblioteca-si-legge-e-poi-utoya.webp",
       "title": "In biblioteca si legge… e poi",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -7109,7 +7108,7 @@
       "scheduleType": "single",
       "id": "incursione-ai-bagni-pubblici-magdaclan",
       "organizationId": "org-magdaclan",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-incursione-ai-bagni-pubblici-magdaclan.webp",
       "title": "Incursione ai Bagni Pubblici – circo",
       "category": "Circo",
       "venue": "Bagni Pubblici di via Agliè · via Agliè 9, Torino",
@@ -7138,7 +7137,7 @@
       "scheduleType": "single",
       "id": "storie-a-merenda-spazio-pro",
       "organizationId": "org-star-cultura",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-a-merenda-spazio-pro.webp",
       "title": "Storie a Merenda",
       "category": "Lettura",
       "venue": "Spazio Pro – Teatro Provvidenza · via Asinari di Bernezzo 34, Torino",
