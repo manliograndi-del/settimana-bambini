@@ -5598,13 +5598,13 @@
       "ageLabel": "3–10 anni",
       "costLabel": "Gratuito",
       "costBand": "free",
-      "booking": "Obbligatoria: 011 01131262 o biblioteca.levi@comune.torino.it",
-      "url": "https://www.torinobimbi.it/agenda/favole-del-lunedi",
+      "booking": "Prenotazione: biblioteca.levi@comune.torino.it o 011 01131262",
+      "url": "https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0",
       "description": "Letture di fiabe e libri per bambini e famiglie, ogni lunedì pomeriggio. Leggono i volontari del Servizio Civile insieme al personale della biblioteca.",
       "discoverySources": [
         "https://www.torinobimbi.it/3-6-anni"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (sito BCT bloccato). Ogni lunedì fino al 21 dicembre 2026.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Scheda delle Biblioteche civiche letta il 31 ottobre 2026 dal browser di Manlio: ogni lunedì 17-18, dal 2 novembre al 21 dicembre 2026 (non il 7 dicembre), 3-10 anni.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -5631,16 +5631,16 @@
       "costLabel": "Gratuito (contributo annuale volontario di 5,75 € per l'assicurazione)",
       "costBand": "free",
       "booking": "Consigliata, posti limitati: spazioprimipassi@gmail.com o 328 277 4332",
-      "url": "https://www.torinobimbi.it/agenda/primi-passi-per-genitori-e-bebe",
+      "url": "",
       "description": "Spazio per i bebè fino a un anno con mamma, papà o chi li accudisce. I piccoli esplorano materiali pensati per loro, mentre i grandi si incontrano e parlano con educatrici esperte.",
       "discoverySources": [
         "https://www.torinobimbi.it/genitori"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (servizio del Comune di Torino, sito bloccato). Martedì, giovedì e venerdì mattina fino a giugno 2027.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Sito dell'organizzatore non trovato (31 ottobre 2026): dati da TorinoBimbi, link tolto su richiesta di Manlio; contatti nella prenotazione. Martedì, giovedì e venerdì mattina fino a giugno 2027.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
-      "status": "published",
+      "status": "withdrawn",
       "verifiedAt": "2026-10-31",
       "scheduleType": "limited_series",
       "occurrences": [
@@ -5659,7 +5659,8 @@
         "2026-11-12T09:30:00+01:00": "2026-11-12T12:30:00+01:00",
         "2026-11-13T09:30:00+01:00": "2026-11-13T12:30:00+01:00"
       },
-      "startsAt": "2026-11-03T09:30:00+01:00"
+      "startsAt": "2026-11-03T09:30:00+01:00",
+      "withdrawnReason": "Tolto il 31 ottobre 2026: l'unica pagina con i dati era TorinoBimbi e Manlio non vuole link a TorinoBimbi. Rimettere quando si trova la pagina dell'organizzatore."
     },
     {
       "id": "i-libri-del-mercoledi",
@@ -5674,24 +5675,25 @@
       "ageLabel": "3–5 anni",
       "costLabel": "Gratuito",
       "costBand": "free",
-      "booking": "Non serve: accesso libero",
-      "url": "https://www.torinobimbi.it/agenda/laboratorio-di-lettura-per-bambini",
+      "booking": "Accesso libero; info Biblioteche civiche torinesi",
+      "url": "",
       "description": "Laboratorio di lettura per bambini da 3 a 5 anni, ogni mercoledì pomeriggio. Si tiene alla Casa della Salute dei bambini e dei ragazzi, a cura delle Biblioteche civiche.",
       "discoverySources": [
         "https://www.torinobimbi.it/3-6-anni"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (sito BCT bloccato). Ogni mercoledì fino al 9 giugno 2027. Ora di fine non indicata.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Sito dell'organizzatore non trovato (31 ottobre 2026): dati da TorinoBimbi, link tolto su richiesta di Manlio; contatti nella prenotazione. Ogni mercoledì fino al 9 giugno 2027. Ora di fine non indicata.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
-      "status": "published",
+      "status": "withdrawn",
       "verifiedAt": "2026-10-31",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-04T16:30:00+01:00",
         "2026-11-11T16:30:00+01:00"
       ],
-      "startsAt": "2026-11-04T16:30:00+01:00"
+      "startsAt": "2026-11-04T16:30:00+01:00",
+      "withdrawnReason": "Tolto il 31 ottobre 2026: l'unica pagina con i dati era TorinoBimbi e Manlio non vuole link a TorinoBimbi. Rimettere quando si trova la pagina dell'organizzatore."
     },
     {
       "id": "gioca-alla-fiaba-pinocchio-incontra-geppetto-e-m",
@@ -5707,12 +5709,12 @@
       "costLabel": "Gratuito",
       "costBand": "free",
       "booking": "Non indicata; info Casa del Teatro 389 2064590",
-      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-geppetto-e-mangiafuoco-2",
+      "url": "https://casateatroragazzi.it/gioca-alla-fiaba/",
       "description": "Teatro all'aperto con gioco e musica dal vivo dedicato a Pinocchio, per bambini e famiglie. In questa tappa Pinocchio incontra Geppetto e Mangiafuoco. Fa parte delle iniziative per i 200 anni dalla nascita di Collodi.",
       "discoverySources": [
         "https://www.viaggiapiccoli.com/?p=86618"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi: Comune di Torino bloccato e casateatroragazzi.it vuoto; date e luoghi confermati anche da Mentelocale (https://www.mentelocale.it/torino/144506-gioca-alla-fiaba-il-viaggio-di-pinocchio-a-torino-si-celebra-il-bicentenario-della-nascita-di-carlo-collodi.htm). Con maltempo si sposta in uno spazio coperto. Viaggiapiccoli dice orari «da comunicare».",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Calendario della Casa del Teatro (Fondazione TRG) letto il 31 ottobre 2026 dal browser di Manlio: data e luogo confermati; l'ora (17:00) viene da TorinoBimbi. Con maltempo il programma può cambiare.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -5738,12 +5740,12 @@
       "costLabel": "Gratuito",
       "costBand": "free",
       "booking": "Non indicata; info Casa del Teatro 389 2064590",
-      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-il-gatto-la-volpe-e-la-fata-2",
+      "url": "https://casateatroragazzi.it/gioca-alla-fiaba/",
       "description": "Ultima tappa del primo ciclo di teatro partecipato su Pinocchio, con gioco e musica dal vivo. Bambini e famiglie incontrano il Gatto, la Volpe e la Fata nel parco.",
       "discoverySources": [
         "https://www.viaggiapiccoli.com/?p=86618"
       ],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Confermato solo da scheda TorinoBimbi (Comune bloccato, casateatroragazzi.it vuoto); data e luogo anche su Mentelocale. Con maltempo si sposta al coperto.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 31 ottobre 2026. Note: Calendario della Casa del Teatro (Fondazione TRG) letto il 31 ottobre 2026 dal browser di Manlio: data e luogo confermati; l'ora (17:00) viene da TorinoBimbi. Con maltempo il programma può cambiare.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -8079,7 +8081,7 @@
       "name": "Biblioteca civica Primo Levi",
       "category": "Lettura",
       "municipality": "Torino",
-      "url": "https://www.torinobimbi.it/agenda/favole-del-lunedi",
+      "url": "https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0",
       "sourceType": "originale",
       "verificationStatus": "canale_consultato",
       "lastCheckedAt": "2026-10-31",
@@ -8092,7 +8094,7 @@
       "name": "Ludoteca Serendipity",
       "category": "Gioco e parchi",
       "municipality": "Torino",
-      "url": "https://www.torinobimbi.it/agenda/primi-passi-per-genitori-e-bebe",
+      "url": "",
       "sourceType": "originale",
       "verificationStatus": "canale_consultato",
       "lastCheckedAt": "2026-10-31",
@@ -8105,7 +8107,7 @@
       "name": "Città di Torino con Fondazione TRG",
       "category": "Teatro",
       "municipality": "Torino",
-      "url": "https://www.torinobimbi.it/agenda/gioca-alla-fiaba-il-viaggio-di-pinocchio-pinocchio-incontra-geppetto-e-mangiafuoco-2",
+      "url": "https://casateatroragazzi.it/gioca-alla-fiaba/",
       "sourceType": "originale",
       "verificationStatus": "canale_consultato",
       "lastCheckedAt": "2026-10-31",
