@@ -4,9 +4,9 @@ Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 
 ## In breve
 
-- **Eventi pubblicati finora:** 199 (dal 18 ottobre al 30 novembre 2026; 93 sono ancora da venire). Altri 4 sono stati ritirati.
-- **Organizzatori da cui abbiamo preso almeno un evento:** 66.
-- **Fonti in tutto nel registro:** 129 (14 aggregatori, 70 fonti attive, 45 fonti tranquille), più 1 PDF mensile e 1 newsletter.
+- **Eventi pubblicati finora:** 201 (dal 18 ottobre al 30 novembre 2026; 95 sono ancora da venire). Altri 4 sono stati ritirati.
+- **Organizzatori da cui abbiamo preso almeno un evento:** 67.
+- **Fonti in tutto nel registro:** 136 (14 aggregatori, 71 fonti attive, 51 fonti tranquille), più 1 PDF mensile e 1 newsletter.
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -56,6 +56,7 @@ Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 | **Programma Pagliacce Festival** | PDF sul sito [pagliacce.it](https://www.pagliacce.it/festival-pagliacce/) | 2 (contati nei festival) | Solo nei giorni del festival (ottobre). |
 | **Programma ZOOM Halloween** | PDF su [eventi.zoomtorino.it](https://eventi.zoomtorino.it/halloween) | 1 (contato nei festival) | Solo nel periodo di Halloween. |
 | **Nutrirsi di cultura 0-6** | [cultura0-6.it](https://cultura0-6.it/) | 3 eventi scoperti qui | Portale del progetto 0-6 anni (musei e biblioteche); gli eventi si confermano sulla pagina del museo o della biblioteca. |
+| **Newsletter settimanale di TorinoBimbi** (da valutare) | Arriva il giovedì o il venerdì a chi si iscrive su torinobimbi.it | — | Idea dal documento di Manlio del 1/11/2026: se Manlio si iscrive, il controllo del giovedì potrebbe leggerla dalla Gmail. Vale solo per scoprire, come il sito. |
 | **Abbonamento Musei** | [abbonamentomusei.it](https://abbonamentomusei.it/) | 3 scoperti + 8 date della Pinacoteca Agnelli | Schede ufficiali con date e orari; utili quando il sito del museo non si legge (Pinacoteca Agnelli). |
 
 ## 4. Aggregatori (solo per scoprire)
@@ -80,7 +81,7 @@ Su questi siti si **scopre** l'evento, poi lo si conferma sul sito dell'organizz
 
 Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tranquilla (turno A/B)** = si legge a settimane alterne. «Non nel registro» = organizzatore trovato una volta tramite un altro sito: va aggiunto al registro se torna.
 
-### Biblioteche e librerie (69 eventi)
+### Biblioteche e librerie (71 eventi)
 
 | Fonte | Sito | Eventi presi | Come la leggiamo | Note per chi cerca |
 |---|---|---:|---|---|
@@ -90,11 +91,17 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Comune di Chivasso: biblioteca e rassegna «Vitamina C… come Cultura» | [comune.chivasso.to.it](https://www.comune.chivasso.to.it/it/eventi/64428/vitamina-c-come-cultura-a-verrua-savoia-2513866-2513868-2513869-2513871) | 4 | attiva | Comune di Chivasso: Biblioteca Civica e comunicati; non confondere attività per adulti e bambini. |
 | Biblioteca civica Arduino / Comune di Moncalieri | [comune.moncalieri.to.it](https://www.comune.moncalieri.to.it/) | 3 | attiva | Comune di Moncalieri: schede dei Martedì dei ragazzi e sezione Eventi; Biblioteca Arduino. |
 | Biblioteca di Avigliana | [avigliananotizie.it](https://avigliananotizie.it/ottobre-in-biblioteca/) | 3 | attiva | Ottobre in biblioteca: programma di Avigliana, controllare singole date e destinatari. |
+| Circolo dei lettori | [torino.circololettori.it](https://torino.circololettori.it/attivita/bambini-26/) | 2 | attiva | Via Bogino 9, Torino. Laboratori per bambini il sabato 16-17:30 (10 €, prenotazione 011 8904401). Leggere la pagina dei laboratori e il calendario /eventi/; la pagina /spazio-ai-bambini/ è vecchia. Sito leggibile. |
 | Libreria Therese | [libreriatherese.it](https://libreriatherese.it/) | 2 | attiva | Therese: Sono solo storie e iscrizioni ai laboratori bambini. |
 | Biblioteca Barbara Allason (Pecetto Torinese) | [comune.pecetto.to.it](https://www.comune.pecetto.to.it/) | 1 | attiva | Biblioteca comunale Barbara Allason, Pecetto Torinese: letture per bambini (31/10 e 7/11 viste su TorinoBimbi, non confermate sul sito). |
 | Biblioteca Tancredi Milone (Venaria Reale) | [bibliotecavenariareale.it](https://www.bibliotecavenariareale.it/category/eventi/) | 1 | attiva | Biblioteca Tancredi Milone: Eventi/News e singole schede; selezionare fascia d'età. |
 | Biblioteca G. E. Mottini · Comune di Caluso | [comune.caluso.to.it](https://comune.caluso.to.it/novita/laboratori-per-bambini-in-biblioteca-2/) | 0 | tranquilla (turno B) | Comune di Caluso: leggere anche Novità/Avvisi, programma e allegati. |
+| Bodoni / Spazio B (via Carlo Alberto) | — | 0 | tranquilla (turno A) | Libreria per ragazzi con laboratori e letture. Cercare la pagina eventi ufficiale (una sola ricerca); se ha solo social, segnarlo. |
+| Fogola Junior (libreria) | — | 0 | tranquilla (turno A) | Libreria per ragazzi con laboratori e letture. Cercare la pagina eventi ufficiale (una sola ricerca); se ha solo social, segnarlo. |
+| La Farfalla di Snipe (libreria) | — | 0 | tranquilla (turno A) | Libreria per ragazzi con laboratori e letture. Cercare la pagina eventi ufficiale (una sola ricerca); se ha solo social, segnarlo. |
+| Libreria Bufò (giochi e family store) | — | 0 | tranquilla (turno A) | Libreria per ragazzi con laboratori e letture. Cercare la pagina eventi ufficiale (una sola ricerca); se ha solo social, segnarlo. |
 | Libreria Capitan Tomìn, via Casalis 44/B, Torino | [libreriacapitantomin.it](https://www.libreriacapitantomin.it/) | 0 | attiva | Libreria Capitan Tomìn, via Casalis 44/B, Torino: incontri e letture per bambini. |
+| Libreria Pantaleon | — | 0 | tranquilla (turno A) | Libreria per ragazzi con laboratori e letture. Cercare la pagina eventi ufficiale (una sola ricerca); se ha solo social, segnarlo. |
 | Trebisonda | — | 0 | tranquilla (turno B) | Trebisonda: Eventi e 3BISBimbi; distinguere corsi e incontri per adulti. |
 
 ### Teatro, circo e musica (29 eventi)
@@ -214,6 +221,7 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Il Villaggio della Zucca | [ilvillaggiodellazucca.it](https://ilvillaggiodellazucca.it) | 1 | non nel registro |  |
 | Paratissima Kids | [paratissima.it](https://www.paratissima.it/paratissima-kids-2026/) | 1 | attiva | Paratissima Kids: laboratori e visite per bambini durante Paratissima (fine ottobre-novembre). |
 | ZOOM Torino (Cumiana) | [eventi.zoomtorino.it](https://eventi.zoomtorino.it/halloween) | 1 | attiva | ZOOM: pagina Halloween e programma PDF 2026; attività diurne e serali distinte, biglietteria da verificare. |
+| Sottodiciotto Film Festival (AIACE) | [sottodiciottofilmfestival.it](https://www.sottodiciottofilmfestival.it/) | 0 | tranquilla (turno A) | Festival di cinema per e dei ragazzi, di solito a dicembre. Leggere solo vicino alle date; prendere solo le proiezioni aperte alle famiglie, non le giornate per le scuole. |
 | Teatro a Pedali | [teatroapedali.it](https://www.teatroapedali.it/edizione-2026/) | 0 | tranquilla (turno A) | Teatro a Pedali: edizione 2026; verificare sede e periodo, non la vecchia edizione 2023. |
 
 ### Comuni, giornali locali e altro (0 eventi)
@@ -251,6 +259,7 @@ Regola generale: se la pagina dell'organizzatore non si apre, si può confermare
 - **TorinoSette** (La Stampa): pochi eventi per bambini, quasi tutti già presenti, a pagamento. Non è fonte settimanale.
 - **Mentelocale Torino**: quasi niente per bambini.
 - **Giornali locali** La Valsusa, L'Eco del Chisone, Il Risveglio, Giornale La Voce: provati il 19/10/2026, niente per bambini o non leggibili. Restano nel registro come tranquilli.
+- **Riviste, inserti ed editori per ragazzi** (Internazionale Kids, Popotus, La Rivista dei Ragazzi, Lo Spunk, Elledici, Notes, EDT-Giralangolo, Piemonte Parchi, catalogo «Crescere in Città» per le scuole): letti nel documento di Manlio del 1/11/2026, non pubblicano eventi con data per le famiglie. Dallo stesso documento sono invece entrati come fonti il Circolo dei lettori, cinque librerie per ragazzi e il Sottodiciotto Film Festival.
 - **Kid Pass**: nessun evento in zona finora (resta come aggregatore).
 
 ## 8. Dove stanno i file
