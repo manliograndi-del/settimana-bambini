@@ -6,7 +6,7 @@ Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 
 - **Eventi pubblicati finora:** 199 (dal 18 ottobre al 30 novembre 2026; 93 sono ancora da venire). Altri 4 sono stati ritirati.
 - **Organizzatori da cui abbiamo preso almeno un evento:** 66.
-- **Fonti in tutto nel registro:** 128 (14 aggregatori, 70 fonti attive, 44 fonti tranquille), più 1 PDF mensile e 1 newsletter.
+- **Fonti in tutto nel registro:** 129 (14 aggregatori, 70 fonti attive, 45 fonti tranquille), più 1 PDF mensile e 1 newsletter.
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -55,8 +55,8 @@ Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 | **Programma Genitori&Figli del Gruppo Abele** | [PDF settembre–dicembre 2026](https://www.gruppoabele.org/documenti/schede/gef_settembre_2026_card.pdf) | 0 | Quasi tutti laboratori settimanali (esclusi); trovato un solo Family Lab. |
 | **Programma Pagliacce Festival** | PDF sul sito [pagliacce.it](https://www.pagliacce.it/festival-pagliacce/) | 2 (contati nei festival) | Solo nei giorni del festival (ottobre). |
 | **Programma ZOOM Halloween** | PDF su [eventi.zoomtorino.it](https://eventi.zoomtorino.it/halloween) | 1 (contato nei festival) | Solo nel periodo di Halloween. |
-| **Nutrirsi di cultura 0-6** | [cultura0-6.it](https://www.cultura0-6.it/lora-del-racconto-2026/) | 3 eventi scoperti qui | Portale del progetto 0-6 anni (musei e biblioteche); gli eventi si confermano sulla pagina del museo o della biblioteca. |
-| **Abbonamento Musei** | [abbonamentomusei.it](https://abbonamentomusei.it/) | 3 scoperti + 8 eventi della Pinacoteca Agnelli presi dalle sue schede | Schede ufficiali con date e orari; utili quando il sito del museo non si legge (Pinacoteca Agnelli). |
+| **Nutrirsi di cultura 0-6** | [cultura0-6.it](https://cultura0-6.it/) | 3 eventi scoperti qui | Portale del progetto 0-6 anni (musei e biblioteche); gli eventi si confermano sulla pagina del museo o della biblioteca. |
+| **Abbonamento Musei** | [abbonamentomusei.it](https://abbonamentomusei.it/) | 3 scoperti + 8 date della Pinacoteca Agnelli | Schede ufficiali con date e orari; utili quando il sito del museo non si legge (Pinacoteca Agnelli). |
 
 ## 4. Aggregatori (solo per scoprire)
 
@@ -119,6 +119,7 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Gravity The Show | [gravityshow.it](https://gravityshow.it/) | 0 | tranquilla (turno A) | Gravity: tappa locale e singole repliche in biglietteria; serie temporanea. |
 | Mulino ad Arte | — | 0 | tranquilla (turno A) | Mulino ad Arte: stagioni 2026-2027 e biglietterie; controllare comune, escludendo Bene Vagienna dal perimetro locale. |
 | Teatro Cardinal Massaia | [teatrocardinalmassaia.com](https://teatrocardinalmassaia.com/stagione/) | 0 | tranquilla (turno B) | Teatro Cardinal Massaia: recuperato dominio .com, sezione Stagione; controllare destinatari dei singoli spettacoli. |
+| Teatro Erba (Torino Spettacoli) | [teatroerba.it](https://www.teatroerba.it/) | 0 | tranquilla (turno A) | Corso Moncalieri 241, Torino. Stagione soprattutto per adulti (prosa, commedie), con qualche spettacolo per famiglie (es. sotto Natale). Leggere la stagione 2026-2027 e prendere solo gli spettacoli per famiglie/bambini. |
 | Teatro Regio | [teatroregio.torino.it](https://www.teatroregio.torino.it/calendario) | 0 | tranquilla (turno B) | Teatro Regio: In famiglia e calendario corrente; non usare la vecchia pagina Tutti dal Barbiere 2023. |
 
 ### Musei, scienza e arte (57 eventi)
@@ -184,7 +185,7 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Le Serre di Grugliasco | — | 0 | tranquilla (turno A) | Le Serre di Grugliasco: calendario Eventi/News e organizzatore del singolo appuntamento. |
 | Ludoteca Serendipity (Comune di Torino) | — | 0 | attiva | Corso Orbassano 264. «Primi passi per genitori e bebè» e altre attività genitore + bambino. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
 | Più SpazioQuattro | [piuspazioquattro.it](https://www.piuspazioquattro.it/famiglie-e-bambini/) | 0 | tranquilla (turno A) | Più SpazioQuattro: Famiglie e bambini e notizie; ora Casa diffusa, controllare la sede di ogni evento. |
-| Officine CAOS (Vallette) | [officinecaos.net](https://www.officinecaos.net/) | 0 | tranquilla (turno B) | Officine CAOS/Vallette: attività e appuntamenti della Casa; distinguere corsi e pubblico generale. |
+| Vallette | [officinecaos.net](https://www.officinecaos.net/) | 0 | tranquilla (turno B) | Officine CAOS/Vallette: attività e appuntamenti della Casa; distinguere corsi e pubblico generale. |
 
 ### Laboratori, sport e feste (8 eventi)
 
@@ -236,6 +237,7 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 |---|---|---|
 | Biblioteche civiche torinesi (bct.comune.torino.it) e Comune di Torino (comune.torino.it) | Dal 23–24 ottobre 2026 rispondono **503** ai computer cloud; dal Chrome di Manlio si aprono bene | Riprovare una volta per giro; usare il PDF mensile e la newsletter; in ultima istanza la scheda TorinoBimbi con la nota. |
 | Casa del Teatro Ragazzi (casateatroragazzi.it), fondazionetrg.it, magdaclan.com | Arrivano **vuote** al lettore automatico, nel browser si aprono | Per MagdaClan usare la biglietteria diyticket.it; per la Casa del Teatro la biglietteria o il riassunto della ricerca Google della stessa pagina. |
+| Teatro Erba (teatroerba.it, torinospettacoli.it) | Il 1/11/2026 rispondevano 503 al cloud | Riprovare una volta; poi le schede di turismotorino.org o la biglietteria. |
 | Pinacoteca Agnelli | Sito fatto in JavaScript, schede vuote | Date dalle schede di Abbonamento Musei. |
 | Spazio ZeroSei, FaGioco Magico | Calendario in JavaScript o Google Calendar incorporato | Spesso non confermabili: lasciare fuori se non c'è altra pagina. |
 | Officine S, Bagni di via Agliè, Gang del Pensiero | Solo Facebook/Instagram, o sito fermo | I social non si leggono: segnalarlo e lasciare fuori se manca una pagina ufficiale. |
