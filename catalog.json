@@ -7154,6 +7154,74 @@
         "2026-11-06T17:00:00+01:00"
       ],
       "startsAt": "2026-11-06T17:00:00+01:00"
+    },
+    {
+      "organizationId": "org-circolo-lettori",
+      "illustration": "icona-laboratorio.webp",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Circolo dei lettori · via Bogino 9, Torino",
+      "ageMaxMonths": 119,
+      "costLabel": "10 € a laboratorio",
+      "costBand": "low",
+      "booking": "Obbligatoria: tel. 011 8904401 o info@circololettori.it",
+      "discoverySources": [
+        "https://torino.circololettori.it/attivita/bambini-26/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 1 novembre 2026 (elenco dei laboratori e calendario eventi).",
+      "status": "published",
+      "verifiedAt": "2026-11-01",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "scheduleType": "single",
+      "id": "circolo-lettori-monellerie-di-collodi",
+      "title": "Le monellerie di Collodi. Confessioni di un burattino e del suo babbo",
+      "ageMinMonths": 60,
+      "ageLabel": "5–9 anni",
+      "url": "https://torino.circololettori.it/le-monellerie-di-collodi-confessioni-di-un-burattino-e-del-suo-babbo/",
+      "description": "Con Claudia Bellin i bambini scoprono le monellerie di Pinocchio: prima un piccolo spettacolo con i burattini, poi un laboratorio in cui costruiscono il loro personaggio.",
+      "occurrences": [
+        "2026-11-07T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T16:00:00+01:00": "2026-11-07T17:30:00+01:00"
+      },
+      "startsAt": "2026-11-07T16:00:00+01:00"
+    },
+    {
+      "organizationId": "org-circolo-lettori",
+      "illustration": "icona-laboratorio.webp",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Circolo dei lettori · via Bogino 9, Torino",
+      "ageMaxMonths": 131,
+      "costLabel": "10 € a laboratorio",
+      "costBand": "low",
+      "booking": "Obbligatoria: tel. 011 8904401 o info@circololettori.it",
+      "discoverySources": [
+        "https://torino.circololettori.it/attivita/bambini-26/"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 1 novembre 2026 (elenco dei laboratori e calendario eventi).",
+      "status": "published",
+      "verifiedAt": "2026-11-01",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "scheduleType": "single",
+      "id": "circolo-lettori-occhio-a-pinocchio",
+      "title": "Occhio a Pinocchio",
+      "ageMinMonths": 96,
+      "ageLabel": "8–10 anni",
+      "url": "https://torino.circololettori.it/occhio-a-pinocchio/",
+      "description": "Laboratorio con Dario Benedetto: la storia di Pinocchio prende forma con il DAS e la creta, e si parla insieme del significato delle bugie.",
+      "occurrences": [
+        "2026-11-21T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-21T16:00:00+01:00": "2026-11-21T17:30:00+01:00"
+      },
+      "startsAt": "2026-11-21T16:00:00+01:00"
     }
   ],
   "organizations": [
@@ -8969,6 +9037,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta 31/10/2026."
+    },
+    {
+      "id": "org-circolo-lettori",
+      "name": "Circolo dei lettori",
+      "category": "Biblioteche e librerie",
+      "municipality": "Torino",
+      "url": "https://torino.circololettori.it/attivita/bambini-26/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-01",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunto il 1 novembre 2026 (segnalato in un documento di Manlio): laboratori per bambini il sabato 16-17:30."
     }
   ]
 }
