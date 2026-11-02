@@ -1,12 +1,12 @@
 # Fonti degli eventi per bambini
 
-Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
+Aggiornato: **2 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
 
 ## In breve
 
 - **Eventi pubblicati finora:** 201 (dal 18 ottobre al 30 novembre 2026; 95 sono ancora da venire). Altri 4 sono stati ritirati.
 - **Organizzatori da cui abbiamo preso almeno un evento:** 67.
-- **Fonti in tutto nel registro:** 136 (14 aggregatori, 71 fonti attive, 51 fonti tranquille), più 1 PDF mensile e 1 newsletter.
+- **Fonti in tutto nel registro:** 137 (14 aggregatori, 72 fonti attive, 51 fonti tranquille), più 1 PDF mensile e 1 newsletter.
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -180,7 +180,8 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Fonte | Sito | Eventi presi | Come la leggiamo | Note per chi cerca |
 |---|---|---:|---|---|
 | Barrito (Casa del Quartiere) | [barrito.to.it](https://www.barrito.to.it/) | 4 | attiva | Programma mensile Sabati Giocondi; leggere ogni data e prenotazione. |
-| Cascina Roccafranca | [cascinaroccafranca.it](https://www.cascinaroccafranca.it/30-10-halloween-in-piazza-livio-bianco-e-in-cascina/) | 1 | attiva | Cascina Roccafranca: eventi e proposte bambini; non includere corsi continuativi. |
+| Cascina Roccafranca | [cascinaroccafranca.it/blog](https://www.cascinaroccafranca.it/blog/) | 1 | attiva | Via Rubino 45. Leggere le notizie più recenti e il post mensile «… in cascina»; la pagina /eventi/ è vecchia. Pubblicano spesso prima su [Facebook](https://www.facebook.com/cascinaroccafranca/) («Nuova settimana in Cascina») e [Instagram](https://www.instagram.com/cascinaroccafranca/). Non includere corsi continuativi. |
+| La Rocca Incantata (Spazio Gioco di Cascina Roccafranca) | [cerca sul sito della Cascina](https://www.cascinaroccafranca.it/?s=rocca+incantata) | 0 | attiva | Spazio gioco 13–36 mesi della Coop. Educazione Progetto. Il servizio di ogni giorno non va in Eventi; vanno solo le iniziative aperte con data e ora (letture, laboratori, feste). Contatto laroccaincantata@educazioneprogetto.it. Aggiunta 2/11/2026 su segnalazione di Manlio. |
 | Spazio ZeroSei | [spaziozerosei.it](https://spaziozerosei.it/calendario-eventi/) | 1 | attiva, tranquilla (turno B) | Spazio ZeroSei: calendario eventi e schede; controllare prenotazioni e fasce in mesi. |
 | Bagni di via Agliè | — | 0 | tranquilla (turno A) | Bagni di via Agliè: scheda della Rete con canali social ufficiali; agenda corrente non leggibile sul profilo della Rete, controllo sociale necessario a ogni giro. |
 | Cartiera – Punto prestito e lettura | [cartiera.to.it](https://www.cartiera.to.it) | 0 | attiva | Via Fossano 8, Torino. Laboratori di cucina «L'officina del gusto» (sabati alterni), feste di Halloween e altre feste. Se il sito non ha il calendario, la scheda TorinoBimbi rimanda a info@cartiera.to.it. |
