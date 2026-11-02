@@ -1,12 +1,12 @@
 # Fonti degli eventi per bambini
 
-Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
+Aggiornato: **2 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
 
 ## In breve
 
 - **Eventi pubblicati finora:** 201 (dal 18 ottobre al 30 novembre 2026; 95 sono ancora da venire). Altri 4 sono stati ritirati.
 - **Organizzatori da cui abbiamo preso almeno un evento:** 67.
-- **Fonti in tutto nel registro:** 136 (14 aggregatori, 71 fonti attive, 51 fonti tranquille), più 1 PDF mensile e 1 newsletter.
+- **Fonti in tutto nel registro:** 160 (14 aggregatori, 75 fonti attive, 71 fonti tranquille), più 1 PDF mensile e 1 newsletter.
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -57,6 +57,7 @@ Aggiornato: **1 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 | **Programma ZOOM Halloween** | PDF su [eventi.zoomtorino.it](https://eventi.zoomtorino.it/halloween) | 1 (contato nei festival) | Solo nel periodo di Halloween. |
 | **Nutrirsi di cultura 0-6** | [cultura0-6.it](https://cultura0-6.it/) | 3 eventi scoperti qui | Portale del progetto 0-6 anni (musei e biblioteche); gli eventi si confermano sulla pagina del museo o della biblioteca. |
 | **Newsletter settimanale di TorinoBimbi** (da valutare) | Arriva il giovedì o il venerdì a chi si iscrive su torinobimbi.it | — | Idea dal documento di Manlio del 1/11/2026: se Manlio si iscrive, il controllo del giovedì potrebbe leggerla dalla Gmail. Vale solo per scoprire, come il sito. |
+| **Catalogo «Crescere in Città»** del Comune (ITER) | [crescere-in-citta.comune.torino.it](https://crescere-in-citta.comune.torino.it/home/catalogo) | — | 654 proposte per scuole di 184 enti, senza date. Non è una fonte di eventi ma un elenco di organizzatori: letto il 2/11/2026 dal Chrome di Manlio, 23 enti nuovi aggiunti al registro. Elenco completo diviso per tipo: `/mnt/project-files/fonti/crescere-in-citta-enti.md`. |
 | **Abbonamento Musei** | [abbonamentomusei.it](https://abbonamentomusei.it/) | 3 scoperti + 8 date della Pinacoteca Agnelli | Schede ufficiali con date e orari; utili quando il sito del museo non si legge (Pinacoteca Agnelli). |
 
 ## 4. Aggregatori (solo per scoprire)
@@ -125,6 +126,7 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Casa Fools | [casafools.it](https://www.casafools.it/domeniche-spettacolari/) | 0 | tranquilla (turno B) | Casa Fools: Domeniche spettacolari; non riusare automaticamente date del festival passato. |
 | Gravity The Show | [gravityshow.it](https://gravityshow.it/) | 0 | tranquilla (turno A) | Gravity: tappa locale e singole repliche in biglietteria; serie temporanea. |
 | Mulino ad Arte | — | 0 | tranquilla (turno A) | Mulino ad Arte: stagioni 2026-2027 e biglietterie; controllare comune, escludendo Bene Vagienna dal perimetro locale. |
+| Teatro Astra – Fondazione TPE | [fondazionetpe.it](https://www.fondazionetpe.it/) | 0 | tranquilla (turno A) | Via Rosolino Pilo 6, Torino. Cercare solo spettacoli per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Teatro Cardinal Massaia | [teatrocardinalmassaia.com](https://teatrocardinalmassaia.com/stagione/) | 0 | tranquilla (turno B) | Teatro Cardinal Massaia: recuperato dominio .com, sezione Stagione; controllare destinatari dei singoli spettacoli. |
 | Teatro Erba (Torino Spettacoli) | [teatroerba.it](https://www.teatroerba.it/) | 0 | tranquilla (turno A) | Corso Moncalieri 241, Torino. Stagione soprattutto per adulti (prosa, commedie), con qualche spettacolo per famiglie (es. sotto Natale). Leggere la stagione 2026-2027 e prendere solo gli spettacoli per famiglie/bambini. |
 | Teatro Regio | [teatroregio.torino.it](https://www.teatroregio.torino.it/calendario) | 0 | tranquilla (turno B) | Teatro Regio: In famiglia e calendario corrente; non usare la vecchia pagina Tutti dal Barbiere 2023. |
@@ -154,11 +156,23 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Palazzina di Caccia di Stupinigi (Ordine Mauriziano) | [ordinemauriziano.it](https://www.ordinemauriziano.it/palazzina-stupinigi/eventi/una-giornata-con-la-regina/) | 1 | attiva | Stupinigi: sito Fondazione Ordine Mauriziano, Eventi e singole proposte famiglie. |
 | PAV – Parco Arte Vivente | [parcoartevivente.it](https://parcoartevivente.it/pav-kids/) | 1 | tranquilla (turno B) | Calendario PAV Kids 2026 letto: 11 ottobre poi 8 novembre (domeniche 11-12:30, 4-10 anni, 7 € bambino + 4 € adulto). Letta anche la home e /attivita/weekend/. |
 | Somewhere (tour per famiglie) | [somewhere.it](https://www.somewhere.it/) | 1 | attiva | Somewhere: tour guidati a pagamento per famiglie (Museo Egizio, Torino Magica) con calendario e posti liberi. |
+| CAMERA – Centro Italiano per la Fotografia | [camera.to](https://camera.to/) | 0 | tranquilla (turno B) | Via delle Rosine 18, Torino. Percorsi anche per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| Centro Storico Fiat | [centrostoricofiat.com](https://www.centrostoricofiat.com/) | 0 | tranquilla (turno A) | Via Chiabrera 20, Torino (gestito con il MAUTO). Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| Juventus Museum | [juventus.com](https://www.juventus.com/it/museum) | 0 | tranquilla (turno B) | Allianz Stadium, Torino. Attività per bambini con data. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| MAU – Museo di Arte Urbana | [culturalway.it](https://www.culturalway.it/) | 0 | tranquilla (turno B) | Borgo Campidoglio, Torino. Visite guidate anche per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| MUFANT – Museo del fantastico e della fantascienza | [mufant.it](https://www.mufant.it/) | 0 | attiva | Via Reiss Romoli 49 bis, Torino. Visite con laboratorio anche per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famig… |
+| Musei dell'Università (Anatomia, Frutta, Lombroso) | [museoanatomia.unito.it](https://www.museoanatomia.unito.it/) | 0 | tranquilla (turno A) | Corso Massimo d'Azeglio 52, Torino. Anche museolombroso.unito.it. Aperture e visite per famiglie. |
+| Museo Archivio Reale Mutua | [museorealemutua.org](https://www.museorealemutua.org/) | 0 | tranquilla (turno A) | Via Garibaldi 22, Torino. Attività anche per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Museo del Risorgimento | — | 0 | tranquilla (turno B) | Museo del Risorgimento: eventi e visite per famiglie; servizi permanenti distinti dagli appuntamenti. |
+| Museo del Risparmio | [museodelrisparmio.it](https://www.museodelrisparmio.it/) | 0 | tranquilla (turno A) | Via San Francesco d'Assisi 8/A, Torino. Laboratori famiglie nel weekend. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie… |
+| Museo Diffuso della Resistenza | [museodiffusotorino.it](https://www.museodiffusotorino.it/) | 0 | tranquilla (turno B) | Corso Valdocco 4/A, Torino. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Museo Egizio | [museoegizio.it](https://museoegizio.it/esplora/visite/) | 0 | tranquilla (turno B) | Museo Egizio: Tour/Visite e Appuntamenti; Kids&Family è anche un progetto digitale, non confonderlo con le visite in presenza. |
 | Museo Lavazza – laboratori famiglie | [ticketlandia.com](https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza) | 0 | attiva | Laboratori per famiglie la domenica (anche 0-3 anni), via Bologna 32, Torino. Prenotazione su Ticketlandia. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
 | Museo Nazionale del Cinema | [museocinema.it](https://www.museocinema.it/it/visite-guidate) | 0 | tranquilla (turno B) | Museo del Cinema: calendario Attività per tutti e Famiglie; distinguere visite su richiesta. |
+| Palazzo Madama – Museo Civico d'Arte Antica | [palazzomadamatorino.it](https://www.palazzomadamatorino.it/) | 0 | attiva | Piazza Castello, Torino (Fondazione Torino Musei, come GAM e MAO): attività famiglie con data. |
 | Parco del Lago Pistono | [archeolagopistono.it](https://www.archeolagopistono.it/news/) | 0 | attiva | Parco del Lago Pistono: News e aperture del mese. Ottobre 2026 indica 11 e 25: nessuna replica dedotta per il 18. |
+| Villa della Regina e Palazzo Carignano (Musei nazionali del Piemonte) | [museipiemonte.cultura.gov.it](https://museipiemonte.cultura.gov.it/) | 0 | tranquilla (turno A) | Due sedi statali a Torino: eventi e domeniche per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| Xkè? Il Laboratorio della Curiosità | [laboratoriocuriosita.it](https://www.laboratoriocuriosita.it/) | 0 | tranquilla (turno B) | Laboratori scientifici; controllare se ci sono aperture per famiglie con data. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle fa… |
 
 ### Natura, parchi e fattorie (16 eventi)
 
@@ -171,24 +185,31 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Giardino di Rosero (Pino Torinese) | [giardinodirosero.understory.io](https://giardinodirosero.understory.io) | 1 | attiva | Il Giardino di Rosero, Pino Torinese: Campo di Zucche (ottobre-1 novembre) con turni prenotabili. |
 | Parco Avventura Tre Querce | [ticket.p3q.it](https://ticket.p3q.it/) | 1 | non nel registro |  |
 | Camminare Lentamente (Chieri) | — | 0 | attiva | Feste e passeggiate per piccolissimi al Parco Tepice del Pellegrino, Chieri. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
+| Cascina Falchera (fattoria urbana ITER) | [cascinafalchera.it](https://www.cascinafalchera.it/) | 0 | attiva | Strada di Cuorgnè 109, Torino. Fattoria urbana del Comune: aperture e feste per famiglie. |
 | Fattoria Sociale Paideia | — | 0 | tranquilla (turno B) | Fattoria Sociale Paideia: Eventi, distinta da Centro Paideia e festival. |
 | Gran Paradiso | [pngp.it](https://www.pngp.it/iniziative) | 0 | tranquilla (turno B) | Gran Paradiso: iniziative del parco; controllare lato piemontese, età, difficoltà e iscrizione. Le pagine estive restano storiche. |
+| Grow Up – Alpaca del Monviso (Cascina Cassotti Balbo) | [alpacadelmonviso.it](https://www.alpacadelmonviso.it/) | 0 | tranquilla (turno B) | Strada Castello di Mirafiori 22, Torino. Fattoria didattica: visite e passeggiate con gli alpaca; prendere solo appuntamenti speciali con data (le visite sempre prenotabili non sono eventi). |
+| La rete della vita (Parco del Nobile) | — | 0 | tranquilla (turno A) | Strada del Nobile 36, Torino. Cooperativa, sito da trovare. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Ludocascina La Ciliegia e il Gioanin | — | 0 | attiva | Valle San Pietro, Pecetto Torinese. Giornate in fattoria per famiglie. Contatto info@laciliegiaeilgioanin.it. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
+| Orti Generali (Mirafiori Sud) | [ortigenerali.it](https://www.ortigenerali.it/) | 0 | tranquilla (turno A) | Strada Castello di Mirafiori 38/15, Torino. Feste e laboratori per famiglie. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle fami… |
 
 ### Case del quartiere, ludoteche e famiglie (6 eventi)
 
 | Fonte | Sito | Eventi presi | Come la leggiamo | Note per chi cerca |
 |---|---|---:|---|---|
 | Barrito (Casa del Quartiere) | [barrito.to.it](https://www.barrito.to.it/) | 4 | attiva | Programma mensile Sabati Giocondi; leggere ogni data e prenotazione. |
-| Cascina Roccafranca | [cascinaroccafranca.it](https://www.cascinaroccafranca.it/30-10-halloween-in-piazza-livio-bianco-e-in-cascina/) | 1 | attiva | Cascina Roccafranca: eventi e proposte bambini; non includere corsi continuativi. |
+| Cascina Roccafranca | [cascinaroccafranca.it/blog](https://www.cascinaroccafranca.it/blog/) | 1 | attiva | Via Rubino 45. Leggere le notizie più recenti e il post mensile «… in cascina»; la pagina /eventi/ è vecchia. Pubblicano spesso prima su [Facebook](https://www.facebook.com/cascinaroccafranca/) («Nuova settimana in Cascina») e [Instagram](https://www.instagram.com/cascinaroccafranca/). Non includere corsi continuativi. |
 | Spazio ZeroSei | [spaziozerosei.it](https://spaziozerosei.it/calendario-eventi/) | 1 | attiva, tranquilla (turno B) | Spazio ZeroSei: calendario eventi e schede; controllare prenotazioni e fasce in mesi. |
 | Bagni di via Agliè | — | 0 | tranquilla (turno A) | Bagni di via Agliè: scheda della Rete con canali social ufficiali; agenda corrente non leggibile sul profilo della Rete, controllo sociale necessario a ogni giro. |
 | Cartiera – Punto prestito e lettura | [cartiera.to.it](https://www.cartiera.to.it) | 0 | attiva | Via Fossano 8, Torino. Laboratori di cucina «L'officina del gusto» (sabati alterni), feste di Halloween e altre feste. Se il sito non ha il calendario, la scheda TorinoBimbi rimanda a info@cartiera.to.it. |
 | Casa del Quartiere di San Salvario | [casadelquartiere.it](https://www.casadelquartiere.it/) | 0 | tranquilla (turno A) | Casa San Salvario: notizie ed eventi, distinguere corsi e gestori delle singole attività. |
 | Casa nel Parco | [casanelparco.it](https://www.casanelparco.it/category/eventi/) | 0 | tranquilla (turno B) | Casa nel Parco: notizie e calendario, solo attività rivolte ai bambini. |
 | Cecchi Point | [cecchipoint.it](https://www.cecchipoint.it/eventi/) | 0 | tranquilla (turno B) | Cecchi Point: Eventi e notizie, programma Pagliacce corrente; non duplicare la rassegna. |
+| Centri ITER del Comune (ReMida, Il Trillo, Centro Cultura Ludica, Scuola Centro Civico, Crescere Leggendo, Eduteche) | — | 0 | tranquilla (turno A) | Fanno anche attività per famiglie (es. Musichiamo 0-36 mesi al Trillo, via Modena 35). Pagine su comune.torino.it: 503 dal cloud, leggere dal Chrome di Manlio. |
+| Centro Paideia | [centropaideia.org](https://centropaideia.org/) | 0 | tranquilla (turno B) | Via Moncalvo 1, Torino. Attività per bambini e famiglie (anche con disabilità). Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle f… |
 | Centro per le Relazioni e le Famiglie (Comune di Torino) | — | 0 | attiva | Attività genitore + bambino con data (es. «Io e papà», Eduteca Agorà via Fossano 8). Solo quelle con il bambino presente; gli incontri solo per adulti sono esclusi. |
 | La Leche League Torino | [lllitalia.org](https://www.lllitalia.org) | 0 | attiva | Incontri gratuiti di sostegno all'allattamento con i bimbi (es. Cascina Roccafranca). Vanno in Eventi come 0-1 anni solo se data e luogo sono confermati. |
+| La Rocca Incantata (Spazio Gioco di Cascina Roccafranca) | [cerca sul sito della Cascina](https://www.cascinaroccafranca.it/?s=rocca+incantata) | 0 | attiva | Spazio gioco 13–36 mesi della Coop. Educazione Progetto. Il servizio di ogni giorno non va in Eventi; vanno solo le iniziative aperte con data e ora (letture, laboratori, feste). Contatto laroccaincantata@educazioneprogetto.it. Aggiunta 2/11/2026 su segnalazione di Manlio. |
 | Le Serre di Grugliasco | — | 0 | tranquilla (turno A) | Le Serre di Grugliasco: calendario Eventi/News e organizzatore del singolo appuntamento. |
 | Ludoteca Serendipity (Comune di Torino) | — | 0 | attiva | Corso Orbassano 264. «Primi passi per genitori e bebè» e altre attività genitore + bambino. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
 | Più SpazioQuattro | [piuspazioquattro.it](https://www.piuspazioquattro.it/famiglie-e-bambini/) | 0 | tranquilla (turno A) | Più SpazioQuattro: Famiglie e bambini e notizie; ora Casa diffusa, controllare la sede di ogni evento. |
@@ -206,7 +227,11 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | Officine S | [officine-s.it](https://officine-s.it/) | 1 | attiva | Corso Mortara 24, Torino. Laboratori e pomeriggi di gioco gratuiti. Ha solo Facebook/Instagram: se non c'è una pagina ufficiale leggibile, segnalarlo. |
 | A.C. Open Space / Oasi Dream Zone | [oasidreamzone.it](https://www.oasidreamzone.it) | 0 | attiva | Corso Savona 111, Moncalieri. Feste a tema per bambini (Halloween, Día de los muertos). Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
 | Archimente (San Didero/Susa) | — | 0 | attiva | Archimente (San Didero/Susa): Circo in famiglia 8/11 visto su TorinoBimbi, pagina ufficiale non trovata. |
+| Centrale del Latte di Torino | — | 0 | tranquilla (turno B) | Via Filadelfia 220, Torino. Visite e iniziative per bambini; sito da trovare. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle fam… |
+| Centro Ippico Meisino | — | 0 | tranquilla (turno B) | Strada del Meisino 91, Torino. Sito da trovare (una ricerca). Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Club Green Park, Rivoli | [clubgreenpark.it](https://www.clubgreenpark.it/) | 0 | attiva | Club Green Park, Rivoli: feste per bambini; la pagina di Halloween 2026 non indicava l’anno (escluso il 26/10). |
+| Essereumani | [essereumani.org](https://www.essereumani.org/) | 0 | tranquilla (turno B) | Via Borsellino 3, Torino. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
+| Gli Artimani | [gliartimani.com](https://www.gliartimani.com/) | 0 | tranquilla (turno A) | Laboratori creativi per bambini. Trovata nel catalogo «Crescere in Città» 2026/27 (letto il 2/11/2026): fa proposte per le scuole, cercare solo gli appuntamenti con data aperti alle famiglie. |
 | Kreative Club, via Arvier, Torino | [kreativeclub.it](https://www.kreativeclub.it/) | 0 | attiva | Kreative Club, via Arvier, Torino: feste e laboratori con data. |
 | La Mamma dei Biscotti | — | 0 | attiva | Laboratori di biscotti in più sedi (Binaria, Bunbury via Frinco 26). Contatto lamammadeibiscotti@gmail.com. Aggiunta 21/10/2026: trovata su TorinoBimbi (Tutta la famiglia/Genitori), mai letta prima. |
 
