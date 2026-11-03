@@ -299,7 +299,9 @@
       "ageLabel": "0–24 mesi",
       "occurrences": [
         "2026-10-18T10:00:00+02:00",
-        "2026-10-18T11:30:00+02:00"
+        "2026-10-18T11:30:00+02:00",
+        "2026-11-08T10:00:00+01:00",
+        "2026-11-08T11:30:00+01:00"
       ],
       "startsAt": "2026-10-18T10:00:00+02:00",
       "url": "https://unionemusicale.it/concerto/ateliebebe-18102026/",
@@ -310,7 +312,7 @@
       "discoverySources": [],
       "verificationMethod": "Pagina originale letta direttamente; approfondimento del 12 ottobre 2026: Aperto il popup “Scopri tutte le tariffe”. Corretta la precedente sede Teatro Vittoria. Vendita non ancora iniziata alla data del controllo.",
       "status": "published",
-      "verifiedAt": "2026-10-12",
+      "verifiedAt": "2026-11-03",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
@@ -336,7 +338,8 @@
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
       "illustration": "illustrations-a.webp",
-      "illustrationCell": 7
+      "illustrationCell": 7,
+      "scheduleType": "limited_series"
     },
     {
       "id": "rosaluna",
@@ -7222,6 +7225,128 @@
         "2026-11-21T16:00:00+01:00": "2026-11-21T17:30:00+01:00"
       },
       "startsAt": "2026-11-21T16:00:00+01:00"
+    },
+    {
+      "id": "il-mio-erbario-tascabile",
+      "organizationId": "org-fattoria-sociale-paideia",
+      "illustration": "icona-natura.webp",
+      "title": "Il mio erbario tascabile",
+      "category": "Natura",
+      "municipality": "Baldissero Torinese",
+      "venue": "Fattoria Sociale Paideia · strada Pino Torinese 15/1, Baldissero Torinese",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 131,
+      "ageLabel": "3–10 anni con un genitore",
+      "costLabel": "20 € un adulto con un bambino; 8 € a persona dal terzo familiare; gratis sotto i 3 anni e bambini con disabilità (accompagnatore 10 €)",
+      "costBand": "mid",
+      "booking": "Obbligatoria: tel. 342 9229423 o didattica@fondazionesocialepaideia.it",
+      "url": "https://www.fattoriasocialepaideia.it/eventi/",
+      "description": "Una mattina in fattoria alla ricerca delle foglie d'autunno. I bambini imparano a osservarle e riconoscerle e le conservano in un piccolo erbario tutto loro. Con il biglietto si può restare in fattoria tutto il giorno (aperta dalle 10 alle 17).",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 3 novembre 2026. Note: Data, prezzo e descrizione confermati dal programma PDF dell'organizzatore (https://www.fattoriasocialepaideia.it/eventi/scarica-eventi/). Il PDF non indica l'ora né quale delle due sedi (Baldissero o Caramagna CN): ora 10:00 e sede di Baldissero vengono da TorinoBimbi; le 10 coincidono con l'apertura della fattoria. Fasce d'età da TorinoBimbi (3-6, 6-10, famiglia). Si svolge anche con la pioggia.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-03",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T10:00:00+01:00"
+      ],
+      "startsAt": "2026-11-08T10:00:00+01:00"
+    },
+    {
+      "id": "contakids-laboratorio-di-circo-per-genitori-e-ba",
+      "organizationId": "org-magdaclan",
+      "illustration": "icona-circo.webp",
+      "title": "Contakids – laboratorio di circo per genitori e bambini",
+      "category": "Circo",
+      "municipality": "Torino",
+      "venue": "Bunker · via Niccolò Paganini 0/200, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 95,
+      "ageLabel": "3–7 anni con un adulto",
+      "costLabel": "20 € a coppia adulto + bambino",
+      "costBand": "mid",
+      "booking": "Prenotazione: info@magdaclan.com o 331 138 8336",
+      "url": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+      "description": "Un'ora di gioco e circo da fare in coppia, un bambino e un adulto insieme. Si scoprono equilibri, prese e movimenti da fare l'uno con l'altro.",
+      "discoverySources": [],
+      "verificationMethod": "Sito dell’organizzatore non leggibile dal lettore automatico (3 novembre 2026): data, ora e prezzo dalla scheda TorinoBimbi (solo per scoperta, nessun link a TorinoBimbi).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-03",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T10:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T10:30:00+01:00": "2026-11-08T11:30:00+01:00"
+      },
+      "startsAt": "2026-11-08T10:30:00+01:00"
+    },
+    {
+      "id": "apice-circo-prova-aperta-di-gabriel-di-baia",
+      "organizationId": "org-magdaclan",
+      "illustration": "icona-circo.webp",
+      "title": "Apice – circo, prova aperta di Gabriel Di Baia",
+      "category": "Circo",
+      "municipality": "Torino",
+      "venue": "Bunker · via Niccolò Paganini 0/200, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutti (consigliato da 6 anni)",
+      "costLabel": "Offerta libera",
+      "costBand": "free",
+      "booking": "Non indicata; contatti info@magdaclan.com, 331 138 8336",
+      "url": "https://magdaclan.com/data-spettacolo/magdaclan_torino_bunker_2026/",
+      "description": "Un artista di circo mostra il suo nuovo spettacolo ancora in costruzione. Acrobazie a terra, filo teso e rola bola raccontano una mente che ha paura del caos.",
+      "discoverySources": [],
+      "verificationMethod": "Sito dell’organizzatore non leggibile dal lettore automatico (3 novembre 2026): data, ora e prezzo dalla scheda TorinoBimbi (solo per scoperta, nessun link a TorinoBimbi).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-03",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-06T21:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-06T21:00:00+01:00": "2026-11-06T22:00:00+01:00"
+      },
+      "startsAt": "2026-11-06T21:00:00+01:00"
+    },
+    {
+      "id": "huntrix-festa-k-pop-demon-hunters",
+      "organizationId": "org-oasi-dream-zone",
+      "illustration": "icona-festa.webp",
+      "title": "HUNTRIX – festa K-Pop Demon Hunters",
+      "category": "Festa",
+      "municipality": "Moncalieri",
+      "venue": "OASI Dream Zone · corso Savona 111, Moncalieri",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 131,
+      "ageLabel": "Da 3 anni",
+      "costLabel": "20 € un figlio; 30 € due figli",
+      "costBand": "mid",
+      "booking": "Prenotazione: info@oasidreamzone.it o 389 2067904",
+      "url": "https://www.oasidreamzone.it/",
+      "description": "Una serata di festa a tema K-Pop Demon Hunters per bambini dai 3 anni, con musica e giochi ispirati al cartone.",
+      "discoverySources": [],
+      "verificationMethod": "Sito dell’organizzatore non leggibile dal lettore automatico (3 novembre 2026): data, ora e prezzo dalla scheda TorinoBimbi (solo per scoperta, nessun link a TorinoBimbi).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-03",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-06T19:00:00+01:00"
+      ],
+      "startsAt": "2026-11-06T19:00:00+01:00"
     }
   ],
   "organizations": [
@@ -9050,6 +9175,32 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunto il 1 novembre 2026 (segnalato in un documento di Manlio): laboratori per bambini il sabato 16-17:30."
+    },
+    {
+      "id": "org-fattoria-sociale-paideia",
+      "name": "Fattoria Sociale Paideia",
+      "category": "Natura",
+      "municipality": "Baldissero Torinese",
+      "url": "https://www.fattoriasocialepaideia.it/eventi/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-03",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 3 novembre 2026."
+    },
+    {
+      "id": "org-oasi-dream-zone",
+      "name": "OASI Dream Zone",
+      "category": "Festa",
+      "municipality": "Moncalieri",
+      "url": "https://www.oasidreamzone.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-03",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 3 novembre 2026."
     }
   ]
 }
