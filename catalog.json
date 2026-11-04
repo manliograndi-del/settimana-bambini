@@ -7347,6 +7347,38 @@
         "2026-11-06T19:00:00+01:00"
       ],
       "startsAt": "2026-11-06T19:00:00+01:00"
+    },
+    {
+      "id": "un-natale-tutto-nostro-lettura-e-laboratorio-con",
+      "organizationId": "org-46",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Un Natale tutto nostro – lettura e laboratorio con l'argilla",
+      "category": "Laboratorio",
+      "municipality": "Cambiano",
+      "venue": "Munlab Ecomuseo dell'Argilla · via Camporelle 50, Cambiano (TO)",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie con bambini",
+      "costLabel": "22 € bambino + un accompagnatore; 9 € ogni fratello in più; 11 € ogni adulto in più",
+      "costBand": "high",
+      "booking": "Obbligatoria online: https://munlab.assopro.app/eventi/un-natale-tutto-nostro-di-richard-curtis (info@munlabtorino.it, WhatsApp 349 1396240)",
+      "url": "https://www.munlabtorino.it/2026/10/28/mundays-e-laboratori-di-autunno/",
+      "description": "Primo appuntamento dei pomeriggi di Natale al Munlab: si ascolta la fiaba «Un Natale tutto nostro» di Richard Curtis e poi bambini e genitori modellano insieme un alberello di Natale in argilla.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 4 novembre 2026. Note: La pagina del Munlab dice solo «famiglie», senza età; TorinoBimbi lo indica per 6-10 anni, oltre i 10 e tutta la famiglia. Prezzo, orario e prenotazione dalla pagina Munlab. Il 15/11 e il 29/11 ci sono altre due letture-laboratorio (fuori periodo).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-04",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T15:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T15:00:00+01:00": "2026-11-08T16:30:00+01:00"
+      },
+      "startsAt": "2026-11-08T15:00:00+01:00"
     }
   ],
   "organizations": [
