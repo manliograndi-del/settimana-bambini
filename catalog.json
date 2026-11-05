@@ -7379,6 +7379,38 @@
         "2026-11-08T15:00:00+01:00": "2026-11-08T16:30:00+01:00"
       },
       "startsAt": "2026-11-08T15:00:00+01:00"
+    },
+    {
+      "id": "lupo-lupaccio-chi-e-il-piu-bello-del-bosco",
+      "organizationId": "org-citta-del-sole",
+      "illustration": "icona-teatro.webp",
+      "title": "Lupo Lupaccio: chi è il più bello del bosco?",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Città del Sole · via Nizza 97/b, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni",
+      "costLabel": "5 €",
+      "costBand": "low",
+      "booking": "Prenotazione: tel. o WhatsApp 351 7087571, tel. 011 6691224, to.nizza@cittadelsole.com",
+      "url": "https://www.cittadelsole.it/ita/evento/torino-via-nizza-9",
+      "description": "Nel negozio di giocattoli Città del Sole va in scena una storia tratta dal libro «Sono io il più bello». Un lupo vanitoso chiede ai personaggi delle fiabe chi è il più bello, finché un piccolo drago coraggioso gli insegna la gentilezza.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 5 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-05",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T16:00:00+01:00": "2026-11-07T17:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T16:00:00+01:00"
     }
   ],
   "organizations": [
@@ -9233,6 +9265,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con la ricerca del 3 novembre 2026."
+    },
+    {
+      "id": "org-citta-del-sole",
+      "name": "Città del Sole",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "url": "https://www.cittadelsole.it/ita/evento/torino-via-nizza-9",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-05",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca del 5 novembre 2026."
     }
   ]
 }
