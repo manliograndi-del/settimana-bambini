@@ -7612,6 +7612,89 @@
         "2026-11-08T14:40:00+01:00": "2026-11-08T17:30:00+01:00"
       },
       "startsAt": "2026-11-08T14:40:00+01:00"
+    },
+    {
+      "id": "natale-e-reale-stupinigi-2026",
+      "organizationId": "org-natale-reale",
+      "illustration": "icona-festa.webp",
+      "title": "Natale è Reale – il Villaggio di Babbo Natale a Stupinigi",
+      "category": "Festa",
+      "municipality": "Nichelino",
+      "venue": "Palazzina di Caccia di Stupinigi · piazza Principe Amedeo 7, Nichelino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "Villaggio: 7,50 € dai 3 anni, gratis sotto i 3 · con spettacolo 19,50 €",
+      "costBand": "low",
+      "booking": "Non obbligatoria. Biglietti online consigliati per scegliere l'orario di ingresso (LiveTicket: https://www.liveticket.it/natalereale) oppure in cassa dalle 10. Ultimo ingresso 18:30 (domenica 29/11: 20:00).",
+      "url": "https://www.natalereale.it/",
+      "description": "Alla Palazzina di Caccia di Stupinigi c'è il villaggio degli elfi con la casa e l'ufficio postale di Babbo Natale, dove i bambini fanno la foto e lasciano la letterina. Ci sono giochi in legno, laboratori, le scuderie delle renne e un mercatino. Con il biglietto «Show» si vede anche lo spettacolo cantato e ballato «Un Natale da Befane» (40 minuti, dai 3 anni).",
+      "discoverySources": [
+        "https://turismotorino.org/en/visit/events/christmas-is-royal-2026"
+      ],
+      "verificationMethod": "Pagine originali dell’organizzatore lette il 6 novembre 2026 (home, biglietti, spettacolo, domande frequenti).",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-28T10:00:00+01:00",
+        "2026-11-29T13:00:00+01:00",
+        "2026-12-05T10:00:00+01:00",
+        "2026-12-06T10:00:00+01:00",
+        "2026-12-07T10:00:00+01:00",
+        "2026-12-08T10:00:00+01:00",
+        "2026-12-12T10:00:00+01:00",
+        "2026-12-13T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-28T10:00:00+01:00": "2026-11-28T19:30:00+01:00",
+        "2026-11-29T13:00:00+01:00": "2026-11-29T21:00:00+01:00",
+        "2026-12-05T10:00:00+01:00": "2026-12-05T19:30:00+01:00",
+        "2026-12-06T10:00:00+01:00": "2026-12-06T19:30:00+01:00",
+        "2026-12-07T10:00:00+01:00": "2026-12-07T19:30:00+01:00",
+        "2026-12-08T10:00:00+01:00": "2026-12-08T19:30:00+01:00",
+        "2026-12-12T10:00:00+01:00": "2026-12-12T19:30:00+01:00",
+        "2026-12-13T10:00:00+01:00": "2026-12-13T19:30:00+01:00"
+      },
+      "startsAt": "2026-11-28T10:00:00+01:00",
+      "researchNote": "Domenica 29/11 apre 13-21 per la maratona; spettacolo alle 11, 15 e 16:30 (il 29/11 alle 15, 16:30 e 18:15). Prezzi Tour Esplora/Meraviglia con museo diversi per età: vedi /biglietti/."
+    },
+    {
+      "id": "canto-di-natale-concordia-2026",
+      "organizationId": "org-teatro-della-concordia",
+      "illustration": "icona-teatro.webp",
+      "title": "Canto di Natale – Favole a Merenda",
+      "category": "Teatro",
+      "municipality": "Venaria Reale",
+      "venue": "Teatro della Concordia · corso Puccini, Venaria Reale",
+      "ageMinMonths": null,
+      "ageMaxMonths": 131,
+      "ageLabel": "bambini e famiglie (età non indicata)",
+      "costLabel": "Adulti 12 €, bambini fino a 10 anni 8 €",
+      "costBand": "low",
+      "booking": "Biglietti su Vivaticket (https://www.vivaticket.com/it/ticket/canto-di-natale/309753) · info 011 424 1124",
+      "url": "https://www.teatrodellaconcordia.it/programma-prossimi-eventi/",
+      "description": "La storia del vecchio brontolone che la notte di Natale cambia idea, raccontata con pupazzi, maschere e topolini. Uno spettacolo della rassegna domenicale Favole a Merenda, pensato per i bambini e le loro famiglie.",
+      "discoverySources": [
+        "https://turismotorino.org/en/visit/events/canto-di-natale-teatro-della-concordia"
+      ],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026; trama dalla scheda ufficiale di Turismo Torino.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-06T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-06T16:00:00+01:00": "2026-12-06T17:00:00+01:00"
+      },
+      "startsAt": "2026-12-06T16:00:00+01:00"
     }
   ],
   "organizations": [
@@ -9518,6 +9601,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il controllo del 6 novembre 2026."
+    },
+    {
+      "id": "org-natale-reale",
+      "name": "Natale è Reale (Editori Il Risveglio e 100per100 aps)",
+      "category": "Festival ed eventi di stagione",
+      "municipality": "Nichelino",
+      "url": "https://www.natalereale.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-06",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con la ricerca degli organizzatori di Natale del 6 novembre 2026 (scoperta su Turismo Torino)."
     }
   ]
 }
