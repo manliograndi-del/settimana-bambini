@@ -3749,14 +3749,18 @@
       "discoverySources": [],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Trovato sul calendario MUSLI durante la verifica dell'evento del 25/10.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-11-06",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-24T16:30:00+02:00",
-        "2026-10-31T16:30:00+01:00"
+        "2026-10-31T16:30:00+01:00",
+        "2026-11-07T16:30:00+01:00",
+        "2026-11-14T16:30:00+01:00",
+        "2026-11-21T16:30:00+01:00",
+        "2026-11-28T16:30:00+01:00"
       ],
       "startsAt": "2026-10-24T16:30:00+02:00"
     },
@@ -3885,18 +3889,24 @@
       ],
       "verificationMethod": "Pagina originale dell’organizzatore letta il 19 ottobre 2026. Note: Gratis con Abbonamento Musei/Junior.",
       "status": "published",
-      "verifiedAt": "2026-10-19",
+      "verifiedAt": "2026-11-06",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-10-25T15:30:00+01:00",
-        "2026-11-01T15:30:00+01:00"
+        "2026-11-01T15:30:00+01:00",
+        "2026-11-08T15:30:00+01:00",
+        "2026-11-15T15:30:00+01:00",
+        "2026-11-22T15:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-10-25T15:30:00+01:00": "2026-10-25T17:00:00+01:00",
-        "2026-11-01T15:30:00+01:00": "2026-11-01T17:00:00+01:00"
+        "2026-11-01T15:30:00+01:00": "2026-11-01T17:00:00+01:00",
+        "2026-11-08T15:30:00+01:00": "2026-11-08T17:00:00+01:00",
+        "2026-11-15T15:30:00+01:00": "2026-11-15T17:00:00+01:00",
+        "2026-11-22T15:30:00+01:00": "2026-11-22T17:00:00+01:00"
       },
       "startsAt": "2026-10-25T15:30:00+01:00"
     },
@@ -7411,6 +7421,197 @@
         "2026-11-07T16:00:00+01:00": "2026-11-07T17:00:00+01:00"
       },
       "startsAt": "2026-11-07T16:00:00+01:00"
+    },
+    {
+      "id": "rime-di-mare-pecetto",
+      "organizationId": "org-biblioteca-civica-barbara-allason-comune",
+      "illustration": "icona-lettura.webp",
+      "title": "Rime di mare: parole pescate, storie salate",
+      "category": "Lettura",
+      "municipality": "Pecetto Torinese",
+      "venue": "Biblioteca civica Barbara Allason · Pecetto Torinese",
+      "ageMinMonths": 48,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 4 anni",
+      "costLabel": "Gratis",
+      "costBand": "free",
+      "booking": "Non necessaria (info 011 8609996, biblioteca@comune.pecetto.to.it)",
+      "url": "https://www.comune.pecetto.to.it/it-it/novita/avvisi/2026/cultura/rime-di-mare-in-biblioteca-406908-1-3982817efd6bd50c73f64934360e7d66",
+      "description": "Valeria De Cubellis racconta filastrocche e storie di mare con il kamishibai, il teatrino giapponese di carta. I bambini aiutano anche a inventare nuove rime.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-12T17:00:00+01:00"
+      ],
+      "startsAt": "2026-11-12T17:00:00+01:00"
+    },
+    {
+      "id": "carta-pieghe-e-meraviglia-pop-up",
+      "organizationId": "org-fondazione-tancredi-di-barolo-musli",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Carta, pieghe e meraviglia – laboratorio sui libri pop-up",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "MUSLI – Museo della Scuola e del Libro per l’Infanzia · via Corte d’Appello 20, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 143,
+      "ageLabel": "5-11 anni",
+      "costLabel": "5 € a bambino; accompagnatori con biglietto ridotto",
+      "costBand": "low",
+      "booking": "didattica@fondazionetancredidibarolo.com o 388 4746437",
+      "url": "https://www.fondazionetancredidibarolo.com/project/eventi_novembre-2026/",
+      "description": "Un laboratorio per famiglie tra i libri animati del Pop-App Museum. I bambini scoprono pieghe e meccanismi semplici e costruiscono un piccolo lavoro di carta che si muove.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-08T16:30:00+01:00",
+        "2026-11-15T16:30:00+01:00",
+        "2026-11-22T16:30:00+01:00",
+        "2026-11-29T16:30:00+01:00"
+      ],
+      "startsAt": "2026-11-08T16:30:00+01:00"
+    },
+    {
+      "id": "cranio-creations-un-mondo-di-giochi",
+      "organizationId": "org-citta-del-sole",
+      "illustration": "icona-gioco.webp",
+      "title": "Cranio Creations – Un mondo di giochi da scoprire",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "venue": "Città del Sole · via Nizza 97/b, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 6 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Info: tel. 011 6691224, WhatsApp 351 7087571, to.nizza@cittadelsole.com",
+      "url": "https://www.cittadelsole.it/ita/evento/torino-via-nizza-9",
+      "description": "Una giornata di giochi da tavolo nel negozio, con un animatore che spiega le regole. Bambini e genitori possono fare partite di prova insieme.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-07T10:30:00+01:00",
+        "2026-11-07T15:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T10:30:00+01:00": "2026-11-07T13:00:00+01:00",
+        "2026-11-07T15:00:00+01:00": "2026-11-07T18:30:00+01:00"
+      },
+      "startsAt": "2026-11-07T10:30:00+01:00"
+    },
+    {
+      "id": "hackerare-monopoly-la-citta-in-gioco",
+      "organizationId": "org-urban-desires",
+      "illustration": "icona-gioco.webp",
+      "title": "Hackerare Monopoly: la città in gioco",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "venue": "Castello del Valentino, Salone d’Onore · viale Pier Andrea Mattioli 39, Torino",
+      "ageMinMonths": 120,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 10 anni",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Obbligatoria su Eventbrite",
+      "url": "https://www.eventbrite.it/e/urban-desires-hackerare-monopoly-la-citta-in-gioco-tickets-2003006718013",
+      "description": "Un Monopoly con regole cambiate per parlare di case, affitti e città. Dopo una breve introduzione si gioca ai tavoli, senza bisogno di conoscere il gioco.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T10:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T10:30:00+01:00": "2026-11-07T13:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T10:30:00+01:00"
+    },
+    {
+      "id": "officina-del-gusto-cartiera",
+      "organizationId": "org-cartiera",
+      "illustration": "icona-laboratorio.webp",
+      "title": "L’Officina del gusto – laboratorio di cucina per bambini",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Cartiera · via Fossano 8, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età non indicata",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Obbligatoria entro le 18 del venerdì: info@cartiera.to.it o WhatsApp 329 467 4357",
+      "url": "https://www.cartiera.to.it/",
+      "description": "Un laboratorio di cucina in cui i bambini preparano qualcosa con le proprie mani. Si tiene a Cartiera, lo spazio di quartiere in via Fossano.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-07T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-07T10:00:00+01:00": "2026-11-07T12:00:00+01:00"
+      },
+      "startsAt": "2026-11-07T10:00:00+01:00"
+    },
+    {
+      "id": "augustina-bambini-augusta-bunker",
+      "organizationId": "org-augusta-fiera-vino",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Augustina – letture e laboratori per bambini",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Bunker · via Niccolò Paganini 0/200, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Età non indicata",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://augustafieravino.com/page/augustina",
+      "description": "Uno spazio per bambini dentro la fiera Augusta, con letture e un laboratorio ispirato a una favola di Fedro. C’è anche un progetto con la rivista per ragazzi Nillson, in cui i bambini fanno la redazione.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 6 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-06",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-08T14:40:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-08T14:40:00+01:00": "2026-11-08T17:30:00+01:00"
+      },
+      "startsAt": "2026-11-08T14:40:00+01:00"
     }
   ],
   "organizations": [
@@ -9278,6 +9479,45 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con la ricerca del 5 novembre 2026."
+    },
+    {
+      "id": "org-urban-desires",
+      "name": "Urban Desires (DIST Università di Torino e Collettivo Zeroscena)",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "url": "https://www.eventbrite.it/e/urban-desires-hackerare-monopoly-la-citta-in-gioco-tickets-2003006718013",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-06",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 6 novembre 2026."
+    },
+    {
+      "id": "org-cartiera",
+      "name": "Cartiera",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://www.cartiera.to.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-06",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 6 novembre 2026."
+    },
+    {
+      "id": "org-augusta-fiera-vino",
+      "name": "Augusta – fiera del vino",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://augustafieravino.com/page/augustina",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-06",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il controllo del 6 novembre 2026."
     }
   ]
 }
