@@ -1,12 +1,12 @@
 # Fonti degli eventi per bambini
 
-Aggiornato: **2 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
+Aggiornato: **6 novembre 2026**. È l'elenco unico di tutti i posti dove cerchiamo gli eventi per bambini e famiglie della Città metropolitana di Torino, con le regole per cercare e per aggiungere fonti nuove.
 
 ## In breve
 
 - **Eventi pubblicati finora:** 201 (dal 18 ottobre al 30 novembre 2026; 95 sono ancora da venire). Altri 4 sono stati ritirati.
 - **Organizzatori da cui abbiamo preso almeno un evento:** 67.
-- **Fonti in tutto nel registro:** 160 (14 aggregatori, 75 fonti attive, 71 fonti tranquille), più 1 PDF mensile e 1 newsletter.
+- **Fonti in tutto nel registro:** 172 (16 aggregatori, 76 fonti attive, 79 fonti tranquille, 1 organizzatore), più 1 PDF mensile e 1 newsletter. Il 6/11/2026 sono entrate 11 fonti di Natale (vedi «Fonti di Natale» nella sezione 5).
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -248,6 +248,26 @@ Qui si conferma ogni evento. **Attiva** = si legge a ogni giro del lunedì. **Tr
 | ZOOM Torino (Cumiana) | [eventi.zoomtorino.it](https://eventi.zoomtorino.it/halloween) | 1 | attiva | ZOOM: pagina Halloween e programma PDF 2026; attività diurne e serali distinte, biglietteria da verificare. |
 | Sottodiciotto Film Festival (AIACE) | [sottodiciottofilmfestival.it](https://www.sottodiciottofilmfestival.it/) | 0 | tranquilla (turno A) | Festival di cinema per e dei ragazzi, di solito a dicembre. Leggere solo vicino alle date; prendere solo le proiezioni aperte alle famiglie, non le giornate per le scuole. |
 | Teatro a Pedali | [teatroapedali.it](https://www.teatroapedali.it/edizione-2026/) | 0 | tranquilla (turno A) | Teatro a Pedali: edizione 2026; verificare sede e periodo, non la vecchia edizione 2023. |
+
+### Fonti di Natale (aggiunte il 6/11/2026)
+
+Si leggono **solo da metà novembre al 6 gennaio**. Molti programmi 2026 escono a fine novembre: il 6/11 c'erano già date solo per Natale è Reale, Canto di Natale (Concordia), Prossima destinazione: Natale! (Settimo) e la Magia del Natale di Susa.
+
+| Fonte | Sito | Come la leggiamo | Note per chi cerca |
+|---|---|---|---|
+| Turismo Torino – Natale e Capodanno | [turismotorino.org](https://turismotorino.org/it/visita/eventi/grandi-eventi/natale-e-capodanno-a-torino-e-provincia) | aggregatore | Ente turistico ufficiale: ogni scheda ha date, orari, prezzo e sito dell'organizzatore. Solo per scoprire, link all'organizzatore. Anche agenda con filtro Family e pagina presepi. |
+| Eventi e Sagre – Natale e mercatini (TO) | [eventiesagre.it](https://www.eventiesagre.it/cerca/Mercatini/Natale/mesi/Piemonte/TO/cit/rilib) | aggregatore | Tanti mercatini, presepi e Babbo Natale per comune; molte schede vecchie, guardare l'anno. Solo cose con attività per bambini e orari. |
+| Natale è Reale (Stupinigi) | [natalereale.it](https://www.natalereale.it/) | attiva | Villaggio degli elfi e casa di Babbo Natale alla Palazzina di Caccia. 2026: 28-29/11 e 5-6-7-8-12-13/12, **già pubblicato**. |
+| FAI – Castello e Parco di Masino | [fondoambiente.it](https://fondoambiente.it/vivi-natale-nei-beni-del-fai/castello-e-parco-di-masino/) | tranquilla (turno A) | Caravino. Percorsi per famiglie e laboratori sotto Natale (anche a Pasqua). 2026 non ancora uscito. |
+| La Suoneria / Cirko Vertigo (Settimo) | [suoneriasettimo.it](https://www.suoneriasettimo.it/) | tranquilla (turno B) | Teatro Garybaldi. Sito 503 al cloud il 6/11. Da pubblicare appena si legge: «Prossima destinazione: Natale!» 6/12 ore 15:30 e 17:00. |
+| Mercato Centrale Torino | [mercatocentrale.it](https://www.mercatocentrale.it/torino/eventi/) | tranquilla (turno A) | Laboratori e feste per famiglie a dicembre (2025: 4-26/12). Pagina eventi caricata con JavaScript: vuota al cloud. |
+| Pro Susa – Magia del Natale | [associazioneprosusa.it](https://www.associazioneprosusa.it/) | tranquilla (turno B) | 8/12/2026 nel centro di Susa; pubblicare solo se escono attività per bambini con orario. |
+| Comune di Pinerolo – La Magia del Natale | [comune.pinerolo.to.it](https://www.comune.pinerolo.to.it/) | tranquilla (turno B) | Posta di Babbo Natale, Pista degli Elfi. Sito 503 al cloud. |
+| Comune di Chieri – Che Natale! | [comune.chieri.to.it](https://www.comune.chieri.to.it/it/eventi) | tranquilla (turno A) | Programma di Natale con attività per bambini (2025: 29/11-6/1). |
+| Comune di Ivrea – Natale a Ivrea | [comune.ivrea.to.it](https://www.comune.ivrea.to.it/) | tranquilla (turno B) | Sito 403 al cloud; pista: Turismo Torino. |
+| Comune di Nichelino | [comune.nichelino.to.it](https://comune.nichelino.to.it/vivere-il-comune/eventi/) | tranquilla (turno A) | Natale in città e presepe vivente per le vie. |
+
+Aggiunte alle note di fonti che c'erano già: Comune di Rivoli (Villaggio di Babbo Natale, dall'8/12 circa al 6/1), Comune di Vinovo (Regno di Babbo Natale al Castello Della Rovere; trovato l'indirizzo della pagina eventi), Casa del Teatro Ragazzi (elenco degli spettacoli di dicembre da confermare), Teatro Erba / Torino Spettacoli (musical di Natale al Teatro Alfieri), Teatro della Concordia (Canto di Natale 6/12, già pubblicato). Il Luna Park di Natale al Parco Dora (15/11/2026-15/1/2027) non va tra gli eventi: è sempre aperto, senza un orario di spettacolo.
 
 ### Comuni, giornali locali e altro (0 eventi)
 
