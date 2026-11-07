@@ -49,8 +49,7 @@
         "source": "https://casateatroragazzi.it/spettacoli/le-avventure-di-cipidillo-storia-di-un-grillo/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 0
+      "illustration": "illustrazione-foglio-a-00.webp"
     },
     {
       "id": "much-crimine",
@@ -101,8 +100,7 @@
         "source": "https://www.mu-ch.it/evento/il-museo-del-crimine-17-ottobre-2026-much/",
         "scope": "Riletta la pagina evento: confermate data e presentazione. Le tariffe e le altre repliche conservano la precedente verifica."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 1
+      "illustration": "illustrazione-foglio-a-01.webp"
     },
     {
       "id": "much-cucine",
@@ -188,8 +186,7 @@
       "researchNote": "Calendario e descrizione originali OGR riletti: 21 ottobre 2026 ore 20:30; 4–10 anni; gratuito; email del pulsante verificata.",
       "deepCheckedAt": "2026-10-15",
       "relatedSources": [],
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 3,
+      "illustration": "illustrazione-foglio-a-03.webp",
       "withdrawnReason": "Attività online, non in un luogo del territorio (controllo del 19 ottobre 2026)."
     },
     {
@@ -238,8 +235,7 @@
         "source": "https://ogrtorino.it/events/in-viaggio-verso-il-mondo-perduto",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 5
+      "illustration": "illustrazione-foglio-a-05.webp"
     },
     {
       "id": "ogr-pizza",
@@ -287,8 +283,7 @@
         "source": "https://ogrtorino.it/events/pizza-pazza-chez-operti",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 6
+      "illustration": "illustrazione-foglio-a-06.webp"
     },
     {
       "id": "ateliebebe",
@@ -339,8 +334,7 @@
         "source": "https://unionemusicale.it/concerto/ateliebebe-18102026/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 7,
+      "illustration": "illustrazione-foglio-a-07.webp",
       "scheduleType": "limited_series"
     },
     {
@@ -405,8 +399,7 @@
         "source": "https://www.comune.settimo-torinese.to.it/it/eventi/57411/rosaluna-e-i-lupi-728766-728768",
         "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 8
+      "illustration": "illustrazione-foglio-a-08.webp"
     },
     {
       "id": "lingotto-nuvole",
@@ -457,8 +450,7 @@
       "occurrenceEnds": {
         "2026-10-18T11:00:00+02:00": "2026-10-18T12:00:00+02:00"
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 11
+      "illustration": "illustrazione-foglio-a-11.webp"
     },
     {
       "id": "luogo-luogo",
@@ -509,8 +501,7 @@
       "occurrenceEnds": {
         "2026-10-18T16:00:00+02:00": "2026-10-18T17:30:00+02:00"
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 12
+      "illustration": "illustrazione-foglio-a-12.webp"
     },
     {
       "id": "miradolo-spazio",
@@ -570,8 +561,7 @@
         "source": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-13/",
         "scope": "Pagina originale aperta nel browser e contenuto riletto; nessuna nuova verifica di disponibilità residua."
       },
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 15
+      "illustration": "illustrazione-foglio-a-15.webp"
     },
     {
       "id": "gisella",
@@ -608,8 +598,7 @@
       "occurrenceEnds": {
         "2026-10-20T17:00:00+02:00": "2026-10-20T18:00:00+02:00"
       },
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 0
+      "illustration": "illustrazione-foglio-b-00.webp"
     },
     {
       "id": "helix-esploratori",
@@ -649,8 +638,7 @@
       "occurrenceEnds": {
         "2026-10-18T15:00:00+02:00": "2026-10-18T17:30:00+02:00"
       },
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 1
+      "illustration": "illustrazione-foglio-b-01.webp"
     },
     {
       "id": "san-giorgio",
@@ -688,8 +676,7 @@
         "source": "https://www.casa-bit.it/10-rassegna-del-piccolo-teatro-di-casa-bit/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 2
+      "illustration": "illustrazione-foglio-b-02.webp"
     },
     {
       "id": "mrsn-visite",
@@ -740,8 +727,7 @@
         "source": "https://mrsntorino.it/it/eventi/visita-guidata-18-10-2026/",
         "scope": "Riletta la pagina originale dell’appuntamento; date e dettagli pubblicati coerenti. Disponibilità residua dei posti non verificata."
       },
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 3
+      "illustration": "illustrazione-foglio-b-03.webp"
     },
     {
       "id": "pugnetto",
@@ -793,8 +779,7 @@
           "url": "https://turismotorino.org/it/visita/eventi/visite-alle-grotte-di-pugnetto-2026"
         }
       ],
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 7
+      "illustration": "illustrazione-foglio-b-07.webp"
     },
     {
       "id": "cartoon-party",
@@ -833,8 +818,7 @@
       "occurrenceEnds": {
         "2026-10-18T16:00:00+02:00": "2026-10-18T17:00:00+02:00"
       },
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 9
+      "illustration": "illustrazione-foglio-b-09.webp"
     },
     {
       "id": "graphic-visite",
@@ -876,8 +860,7 @@
           "url": "https://www.graphicdays.it/2026/biglietti/"
         }
       ],
-      "illustration": "illustrations-b.webp",
-      "illustrationCell": 15
+      "illustration": "illustrazione-foglio-b-15.webp"
     },
     {
       "municipality": "Torino",
@@ -1157,8 +1140,7 @@
       "startsAt": "2026-10-24T10:30:00+02:00",
       "id": "much-crimine-ognissanti",
       "organizationId": "org-4",
-      "illustration": "illustrations-a.webp",
-      "illustrationCell": 1
+      "illustration": "illustrazione-foglio-a-01.webp"
     },
     {
       "title": "Monster’s Got Talent. La Regina degli Spaventapasseri",
