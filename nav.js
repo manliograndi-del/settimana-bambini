@@ -6,17 +6,17 @@ const WEEK = weekDates();
 const EV_CATS = [['storie',['Lettura']],['lab',['Laboratorio','Laboratori','Gioco e parchi','Sport','Associazioni e ludoteche']],['show',['Teatro','Circo','Spettacoli','Cinema','Musica','Festa','Comuni']],['musei',['Museo','Musei e scienza','Natura']]];
 const romeTime = v => new Intl.DateTimeFormat('it-IT',{timeZone:'Europe/Rome',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(v));
 const norm = s => String(s||'').normalize('NFKD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
-function buildEvents(){
+function buildEvents(all){
   const orgs = Object.fromEntries(DATA.organizations.map(o=>[o.id,o.name]));
   return DATA.verifiedEvents.filter(e=>e.status==='published'&&!e.isExample).map(e=>{
-    const occ = e.occurrences.filter(o=>WEEK.includes(occurrenceDate(o))&&upcoming(o,e)).sort()
+    const occ = e.occurrences.filter(o=>(all||WEEK.includes(occurrenceDate(o)))&&upcoming(o,e)).sort()
       .map(o=>o.length===10||e.timeUnknown ? occurrenceDate(o) : occurrenceDate(o)+'T'+romeTime(o));
     const c = (EV_CATS.find(([,from])=>from.includes(e.category))||['lab'])[0];
     return {id:e.id,t:e.title,c,img:e.illustration,cell:e.illustrationCell,age:e.ageLabel,a0:e.ageMinMonths,a1:e.ageMaxMonths,free:e.costBand==='free',
-      com:e.municipality,venue:e.venue,occ,url:e.url,org:orgs[e.organizationId]||'',d:e.description||'',cost:e.costLabel||'',booking:e.booking||'',checked:e.verifiedAt||''};
+      com:e.municipality,venue:e.venue,occ,url:e.url,oid:e.organizationId,org:orgs[e.organizationId]||'',d:e.description||'',cost:e.costLabel||'',booking:e.booking||'',checked:e.verifiedAt||''};
   }).filter(e=>e.occ.length);
 }
-const NAV = {events:buildEvents(), places:LUOGHI.places};
+const NAV = {events:buildEvents(), later:buildEvents(true), places:LUOGHI.places};
 // collega ogni evento al posto che lo organizza o lo ospita (stesso nome e stesso comune)
 for(const e of NAV.events){
   const keys = [norm(e.org), norm((e.venue||'').split('·')[0])];
@@ -73,6 +73,18 @@ const DAYS = WEEK.map(id=>{const d=new Date(id+'T12:00:00Z');return [d.toLocaleD
 const dayName = (id,o) => new Date(id+'T12:00:00Z').toLocaleDateString('it-IT',{timeZone:'UTC',...o});
 const DC = ['#5ac6e8','#f2d14d','#4ccd73','#ff8b51','#c79bff','#9adf6c','#ff8fb0'];
 
+/* Organizzatori (pagina di prova, non nel menu: index.html#organizzatori). Prima chi ha appuntamenti in arrivo, poi tutti gli altri. */
+const ORG_IC = {'Biblioteche e librerie':'biblioteca','Lettura':'biblioteca','Musei e scienza':'museo','Museo':'museo','Teatro':'spettacoli','Circo':'spettacoli','Musica':'spettacoli','Spettacoli e attività per famiglie':'spettacoli','Natura':'parco','Gioco e parchi':'giochi-parco','Comuni':'comune','Case del Quartiere':'ludoteche','Associazioni e ludoteche':'ludoteche','Festa':'feste','Festival ed eventi di stagione':'feste'};
+function orgsNode(){
+  const kids = DATA.organizations.filter(o=>o.category!=='Canali di scoperta').map(o=>{
+    const ev = NAV.later.filter(e=>e.oid===o.id).sort((a,b)=>a.occ[0]<b.occ[0]?-1:1);
+    const k = norm(o.name);
+    const p = NAV.places.find(p=>{ const pn=norm(p.n); return p.logo && pn.length>=6 && (pn===k||(k.length>8&&(k.includes(pn)||pn.includes(k)))); });
+    return {id:'o-'+o.id,t:o.name,kind:'org',leaf:true,g:'var(--c4)',icon:ORG_IC[o.category]||'lab',logo:p?.logo,dk:p?.dk,url:o.url,items:()=>ev};
+  }).sort((a,b)=>b.items().length-a.items().length||a.t.localeCompare(b.t,'it'));
+  kids.forEach((n,i)=>n.g=GLOSS[(i*2+1)%9]);
+  return {id:'organizzatori',t:'Organizzatori',g:'var(--c4)',icon:'eventi',kind:'orgs',kids,items:()=>kids};
+}
 function buildTree(){
   const root = {id:'home',t:'Prima pagina',kids:[]};
   root.kids.push({id:'settimana',t:'Questa settimana!',nav:'Eventi',g:'var(--c4)',nc:'#ffd23f',icon:'eventi',kind:'week',items:()=>NAV.events,kids:[]});
@@ -89,7 +101,9 @@ function buildTree(){
     n.kids = c.voci.map(id=>voce(AIUTI.voci[id],icon)); return n; });
   root.kids.splice(1,0,aiuti);
   const urg = voce(AIUTI.voci.U01,'a-urgente'); urg.parent = aiuti;
-  const index = {[urg.id]:urg}; (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(root,null);
+  const orgs = orgsNode(); orgs.parent = root;
+  const index = {[urg.id]:urg};
+  (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(orgs,root); (function walk(n,parent){n.parent=parent;index[n.id]=n;(n.kids||[]).forEach(k=>walk(k,n));})(root,null);
   return {root,index};
 }
 const {root,index} = buildTree();
@@ -190,7 +204,20 @@ function weekHTML(){
   return h + (any?'':`<div class="empty" style="margin-top:14px">Nessun evento con questi filtri. Provate a togliere un filtro.</div>`);
 }
 let typeSel = null;
+const longDay = o => { const d=new Date(o.slice(0,10)+'T12:00'); const t=o.slice(11,16); return d.toLocaleDateString('it-IT',{weekday:'short',day:'numeric',month:'short'})+(t?' · '+t:''); };
+function orgsHTML(n){
+  return `<div style="height:14px"></div><div class="cg c">${n.kids.map((k,i)=>`<button class="cC" data-open="${k.id}" style="--g:${k.g};--r:${RT[i%6]}">${k.logo?`<span class="olg ${k.dk?'dark':''}"><img src="${k.logo}" alt=""></span>`:ic(k.icon)}<b>${esc(k.t)}</b><small><span class="nm">${k.items().length}</span></small></button>`).join('')}</div>`;
+}
+function orgHTML(n){
+  const ev = n.items();
+  let h = `<div style="height:14px"></div>`;
+  if(ev.length) h += `<div class="grid">${ev.map(e=>evCard(e).replace(/<span class="m">.*?<\/span>/,`<span class="m">${esc(longDay(e.occ[0]))} · ${esc(e.com)}</span>`)).join('')}</div>`;
+  if(n.url) h += `<p style="margin-top:16px">${link(n.url,'Sito di chi lo organizza')}</p>`;
+  return h;
+}
 function nodeHTML(n){
+  if(n.kind==='orgs') return orgsHTML(n);
+  if(n.kind==='org') return orgHTML(n);
   let h = filtersHTML();
   if(n.kind==='aiuti' && n.leaf) return h + `<div style="height:14px"></div>${vociHTML(n.kids)}`;
   if(n.kids && n.kids.length) h += `<div style="height:14px"></div>${catsHTML(n.kids)}`;
@@ -223,7 +250,7 @@ function sheet(html){
   document.body.appendChild(d); d.querySelector('.close').focus();
 }
 const link = (url,label) => { try{ if(!['https:','http:'].includes(new URL(url).protocol)) return ''; }catch(e){ return ''; } return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`; };
-const evById = id => NAV.events.find(e=>e.id===id);
+const evById = id => NAV.events.find(e=>e.id===id) || NAV.later.find(e=>e.id===id);
 function showEvent(id){
   const e = evById(id); const pl = e.place!=null ? NAV.places[e.place] : null;
   sheet(`${evArt(e,'hero')}<h3>${esc(e.t)}</h3>
