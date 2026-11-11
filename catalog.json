@@ -9949,6 +9949,36 @@
         "2026-12-20T17:00:00+01:00"
       ],
       "startsAt": "2026-12-20T17:00:00+01:00"
+    },
+    {
+      "id": "otto-strudel-casa-bit",
+      "organizationId": "bit-new",
+      "illustration": "icona-teatro.webp",
+      "title": "Otto Strudel – La cucina tutta da ridere",
+      "category": "Teatro",
+      "municipality": "Torino",
+      "venue": "Piccolo Teatro di Casa Bit · via San Donato 92, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 155,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "8 € a persona (7 € soci, sconto famiglia da 4 persone); gratis sotto i 3 anni",
+      "costBand": "low",
+      "booking": "Consigliata: segreteria.casabit@gmail.com o WhatsApp 328 4640092",
+      "url": "https://www.casa-bit.it/10-rassegna-del-piccolo-teatro-di-casa-bit-2/",
+      "description": "Un cuoco tedesco convinto di essere il migliore chef del mondo combina disastri comici col suo carretto, tra pupazzi, magia, circo e musica. Spettacolo della 10ª rassegna del Piccolo Teatro di Casa Bit.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 11 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-11",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-15T11:00:00+01:00",
+        "2026-11-15T16:00:00+01:00"
+      ],
+      "startsAt": "2026-11-15T11:00:00+01:00"
     }
   ],
   "organizations": [
