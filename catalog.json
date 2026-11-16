@@ -7234,7 +7234,7 @@
     },
     {
       "organizationId": "org-circolo-lettori",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-circolo-lettori-occhio-a-pinocchio.webp",
       "category": "Laboratorio",
       "municipality": "Torino",
       "venue": "Circolo dei lettori · via Bogino 9, Torino",
@@ -7582,7 +7582,7 @@
     {
       "id": "officina-del-gusto-cartiera",
       "organizationId": "org-cartiera",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-officina-del-gusto-cartiera.webp",
       "title": "L’Officina del gusto – laboratorio di cucina per bambini",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -7648,7 +7648,7 @@
     {
       "id": "natale-e-reale-stupinigi-2026",
       "organizationId": "org-natale-reale",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-natale-e-reale-stupinigi-2026.webp",
       "title": "Natale è Reale – il Villaggio di Babbo Natale a Stupinigi",
       "category": "Festa",
       "municipality": "Nichelino",
@@ -7905,7 +7905,7 @@
     {
       "id": "pierino-e-il-lupo-in-famiglia-al-regio",
       "organizationId": "org-teatro-regio",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-pierino-e-il-lupo-in-famiglia-al-regio.webp",
       "title": "Pierino e il lupo – In famiglia al Regio",
       "category": "Musica",
       "municipality": "Torino",
@@ -8158,7 +8158,7 @@
     {
       "id": "tanti-auguri-margherita-visita-e-laboratorio-per",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-tanti-auguri-margherita-visita-e-laboratorio-per.webp",
       "title": "Tanti auguri, Margherita! – visita e laboratorio per famiglie",
       "category": "Museo",
       "municipality": "Torino",
@@ -8187,7 +8187,7 @@
     {
       "id": "la-regina-margherita-perle-a-palazzo-visita-teat",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-regina-margherita-perle-a-palazzo-visita-teat.webp",
       "title": "La Regina Margherita: perle a palazzo – visita teatrale",
       "category": "Teatro",
       "municipality": "Torino",
@@ -8316,7 +8316,7 @@
     {
       "id": "in-arte-rospo-attivita-per-famiglie-alla-gam",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-in-arte-rospo-attivita-per-famiglie-alla-gam.webp",
       "title": "In arte…Rospo! – attività per famiglie alla GAM",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -8480,7 +8480,7 @@
     {
       "id": "le-sette-gonne-della-nonna-spettacolo",
       "organizationId": "org-citta-del-sole",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-le-sette-gonne-della-nonna-spettacolo.webp",
       "title": "Le sette gonne della nonna – spettacolo",
       "category": "Teatro",
       "municipality": "Torino",
@@ -8661,7 +8661,7 @@
     {
       "id": "storia-di-carta-e-di-fango-teatro-per-famiglie",
       "organizationId": "org-comune-di-chivasso",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-storia-di-carta-e-di-fango-teatro-per-famiglie.webp",
       "title": "Storia di carta e di fango – Teatro per famiglie",
       "category": "Teatro",
       "municipality": "Chivasso",
@@ -8969,7 +8969,7 @@
     {
       "id": "il-gatto-con-gli-stivali-favole-a-merenda",
       "organizationId": "org-teatro-della-concordia",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-gatto-con-gli-stivali-favole-a-merenda.webp",
       "title": "Il Gatto con gli Stivali – Favole a Merenda",
       "category": "Teatro",
       "municipality": "Venaria Reale",
@@ -9062,7 +9062,7 @@
     {
       "id": "mun-xmas-il-piccolo-babbo-natale-lettura-e-labor",
       "organizationId": "org-cil-creativita-in-liberta-munlab-ecomuse",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-mun-xmas-il-piccolo-babbo-natale-lettura-e-labor.webp",
       "title": "Mun-XMas: Il piccolo Babbo Natale – lettura e laboratorio",
       "category": "Laboratorio",
       "municipality": "Cambiano",
@@ -9094,7 +9094,7 @@
     {
       "id": "abiti-in-gioco-visita-e-laboratorio-per-famiglie",
       "organizationId": "org-museo-accorsi-ometto",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-abiti-in-gioco-visita-e-laboratorio-per-famiglie.webp",
       "title": "Abiti in gioco – visita e laboratorio per famiglie",
       "category": "Museo",
       "municipality": "Torino",
@@ -9124,7 +9124,7 @@
     {
       "id": "biscotti-di-natale-laboratorio-la-mamma-dei-bisc",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
       "title": "Biscotti di Natale – laboratorio La mamma dei biscotti",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -9153,7 +9153,7 @@
     {
       "id": "mini-panettone-di-natale-laboratorio-la-mamma-de",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
       "title": "Mini-panettone di Natale – laboratorio La mamma dei biscotti",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -9182,7 +9182,7 @@
     {
       "id": "mini-casetta-di-pan-di-zenzero-laboratorio-la-ma",
       "organizationId": "org-36",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
       "title": "Mini casetta di Pan di Zenzero – laboratorio La mamma dei biscotti",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -9247,7 +9247,7 @@
     {
       "id": "storie-che-incanto-il-mondo-e-mio",
       "organizationId": "org-centro-paideia",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-storie-che-incanto-il-mondo-e-mio.webp",
       "title": "Storie, che incanto! – Il mondo è mio",
       "category": "Lettura",
       "municipality": "Torino",
@@ -9550,7 +9550,7 @@
     {
       "id": "alchemistry-laboratorio-scientifico",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-alchemistry-laboratorio-scientifico.webp",
       "title": "Alchemistry – laboratorio scientifico",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -9582,7 +9582,7 @@
     {
       "id": "slime-e-altre-schifezze-laboratorio-scientifico",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-slime-e-altre-schifezze-laboratorio-scientifico.webp",
       "title": "Slime e altre schifezze – laboratorio scientifico",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -9614,7 +9614,7 @@
     {
       "id": "al-passo-degli-animali-camminate-corse-e-salti",
       "organizationId": "mrsn-new",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-al-passo-degli-animali-camminate-corse-e-salti.webp",
       "title": "Al passo degli animali: camminate, corse e salti",
       "category": "Museo",
       "municipality": "Torino",
@@ -9648,7 +9648,7 @@
     {
       "id": "spino-il-riccio-decorazioni-sotto-l-albero",
       "organizationId": "org-40",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-spino-il-riccio-decorazioni-sotto-l-albero.webp",
       "title": "Spino il Riccio – Decorazioni sotto l'albero",
       "category": "Natura",
       "municipality": "Venaria Reale",
@@ -9775,7 +9775,7 @@
     {
       "id": "la-domenica-dei-piccoli-tutti-pronti-per-l-inver",
       "organizationId": "cosso-new",
-      "illustration": "icona-natura.webp",
+      "illustration": "illustrazione-la-domenica-dei-piccoli-tutti-pronti-per-l-inver.webp",
       "title": "La Domenica dei piccoli – Tutti pronti per l'inverno",
       "category": "Natura",
       "municipality": "San Secondo di Pinerolo",

@@ -3419,5 +3419,383 @@
       "quality": 88,
       "note": "Stessa illustrazione, originale conservato; controllo visivo delle tessere e delle schede."
     }
+  },
+  {
+    "eventId": "circolo-lettori-occhio-a-pinocchio",
+    "title": "Occhio a Pinocchio",
+    "source": "https://torino.circololettori.it/occhio-a-pinocchio/",
+    "description": "Laboratorio con Dario Benedetto: la storia di Pinocchio prende forma con il DAS e la creta, e si parla insieme del significato delle bugie.",
+    "asset": "illustrazione-circolo-lettori-occhio-a-pinocchio.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Fable con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Fable (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-circolo-lettori-occhio-a-pinocchio.webp",
+      "derivedFrom": "illustrazione-circolo-lettori-occhio-a-pinocchio.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "officina-del-gusto-cartiera",
+    "title": "L’Officina del gusto – laboratorio di cucina per bambini",
+    "source": "https://www.cartiera.to.it/",
+    "description": "Un laboratorio di cucina in cui i bambini preparano qualcosa con le proprie mani. Si tiene a Cartiera, lo spazio di quartiere in via Fossano.",
+    "asset": "illustrazione-officina-del-gusto-cartiera.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Fable con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Fable (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-officina-del-gusto-cartiera.webp",
+      "derivedFrom": "illustrazione-officina-del-gusto-cartiera.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "natale-e-reale-stupinigi-2026",
+    "title": "Natale è Reale – il Villaggio di Babbo Natale a Stupinigi",
+    "source": "https://www.natalereale.it/",
+    "description": "Alla Palazzina di Caccia di Stupinigi c'è il villaggio degli elfi con la casa e l'ufficio postale di Babbo Natale, dove i bambini fanno la foto e lasciano la letterina. Ci sono giochi in legno, labora",
+    "asset": "illustrazione-natale-e-reale-stupinigi-2026.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-natale-e-reale-stupinigi-2026.webp",
+      "derivedFrom": "illustrazione-natale-e-reale-stupinigi-2026.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "pierino-e-il-lupo-in-famiglia-al-regio",
+    "title": "Pierino e il lupo – In famiglia al Regio",
+    "source": "https://www.teatroregio.torino.it/famiglia-2026-2027/pierino-e-il-lupo",
+    "description": "La fiaba musicale di Prokofiev con l'Orchestra del Regio, un narratore e il teatro d'ombre di Controluce. Ogni personaggio ha il suo strumento e le ombre si muovono con la musica.",
+    "asset": "illustrazione-pierino-e-il-lupo-in-famiglia-al-regio.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Fable con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Fable (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pierino-e-il-lupo-in-famiglia-al-regio.webp",
+      "derivedFrom": "illustrazione-pierino-e-il-lupo-in-famiglia-al-regio.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "tanti-auguri-margherita-visita-e-laboratorio-per",
+    "title": "Tanti auguri, Margherita! – visita e laboratorio per famiglie",
+    "source": "https://museireali.cultura.gov.it/events/calendario-settembre-dicembre-2026/",
+    "description": "Visita dedicata al compleanno della regina Margherita e alle feste alla corte dei Savoia. Poi laboratorio con giochi di una volta.",
+    "asset": "illustrazione-tanti-auguri-margherita-visita-e-laboratorio-per.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tanti-auguri-margherita-visita-e-laboratorio-per.webp",
+      "derivedFrom": "illustrazione-tanti-auguri-margherita-visita-e-laboratorio-per.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "la-regina-margherita-perle-a-palazzo-visita-teat",
+    "title": "La Regina Margherita: perle a palazzo – visita teatrale",
+    "source": "https://museireali.cultura.gov.it/events/calendario-settembre-dicembre-2026/",
+    "description": "Visita teatrale itinerante: alcuni attori accompagnano il pubblico negli appartamenti privati della regina.",
+    "asset": "illustrazione-la-regina-margherita-perle-a-palazzo-visita-teat.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-regina-margherita-perle-a-palazzo-visita-teat.webp",
+      "derivedFrom": "illustrazione-la-regina-margherita-perle-a-palazzo-visita-teat.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "in-arte-rospo-attivita-per-famiglie-alla-gam",
+    "title": "In arte…Rospo! – attività per famiglie alla GAM",
+    "source": "https://www.coopculture.it/it/prodotti/in-arterospo/",
+    "description": "Visita alla mostra, poi una biologa parla dei rospi e una chimica della carta. Ogni partecipante disegna il suo rospo per un'installazione collettiva; merenda inclusa.",
+    "asset": "illustrazione-in-arte-rospo-attivita-per-famiglie-alla-gam.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-in-arte-rospo-attivita-per-famiglie-alla-gam.webp",
+      "derivedFrom": "illustrazione-in-arte-rospo-attivita-per-famiglie-alla-gam.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "le-sette-gonne-della-nonna-spettacolo",
+    "title": "Le sette gonne della nonna – spettacolo",
+    "source": "https://www.cittadelsole.it/ita/evento/torino-via-nizza-9",
+    "description": "Una fiaba lappone: i nipoti Mino e Lulù cercano le gonne colorate della nonna, diventate vele, tende e ombrelloni.",
+    "asset": "illustrazione-le-sette-gonne-della-nonna-spettacolo.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-le-sette-gonne-della-nonna-spettacolo.webp",
+      "derivedFrom": "illustrazione-le-sette-gonne-della-nonna-spettacolo.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "storia-di-carta-e-di-fango-teatro-per-famiglie",
+    "title": "Storia di carta e di fango – Teatro per famiglie",
+    "source": "https://www.comune.chivasso.to.it/it/events/stagione-teatrale-2026-2027-2519423-2519427-2519428-2519432",
+    "description": "Il rospo Fosco esce dal suo libro illustrato e scopre il mondo vero, tra una maestra, una bambina, galline e un airone. Una storia sul mondo che cambia e sulla speranza nel futuro, seguita da un labor",
+    "asset": "illustrazione-storia-di-carta-e-di-fango-teatro-per-famiglie.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storia-di-carta-e-di-fango-teatro-per-famiglie.webp",
+      "derivedFrom": "illustrazione-storia-di-carta-e-di-fango-teatro-per-famiglie.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "il-gatto-con-gli-stivali-favole-a-merenda",
+    "title": "Il Gatto con gli Stivali – Favole a Merenda",
+    "source": "https://www.teatrodellaconcordia.it/programma-prossimi-eventi/",
+    "description": "Spettacolo della rassegna Favole a Merenda dedicato alla fiaba del gatto furbo con gli stivali. Pomeriggio a teatro per bambini e famiglie.",
+    "asset": "illustrazione-il-gatto-con-gli-stivali-favole-a-merenda.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-gatto-con-gli-stivali-favole-a-merenda.webp",
+      "derivedFrom": "illustrazione-il-gatto-con-gli-stivali-favole-a-merenda.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "mun-xmas-il-piccolo-babbo-natale-lettura-e-labor",
+    "title": "Mun-XMas: Il piccolo Babbo Natale – lettura e laboratorio",
+    "source": "https://www.munlabtorino.it/2026/10/28/mundays-e-laboratori-di-autunno/",
+    "description": "Lettura del libro Il piccolo Babbo Natale e realizzazione di decorazioni in argilla per l'albero. Per bambini con un adulto.",
+    "asset": "illustrazione-mun-xmas-il-piccolo-babbo-natale-lettura-e-labor.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mun-xmas-il-piccolo-babbo-natale-lettura-e-labor.webp",
+      "derivedFrom": "illustrazione-mun-xmas-il-piccolo-babbo-natale-lettura-e-labor.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "abiti-in-gioco-visita-e-laboratorio-per-famiglie",
+    "title": "Abiti in gioco – visita e laboratorio per famiglie",
+    "source": "https://www.fondazioneaccorsi-ometto.it/servizi-educativi/attivita-per-le-famiglie/",
+    "description": "Visita alla mostra sugli abiti di Roberto Capucci e poi laboratorio: i bambini, come piccoli stilisti, vestono una sagoma con materiali diversi. Circa un'ora di visita e mezz'ora di laboratorio.",
+    "asset": "illustrazione-abiti-in-gioco-visita-e-laboratorio-per-famiglie.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-abiti-in-gioco-visita-e-laboratorio-per-famiglie.webp",
+      "derivedFrom": "illustrazione-abiti-in-gioco-visita-e-laboratorio-per-famiglie.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "biscotti-di-natale-laboratorio-la-mamma-dei-bisc",
+    "title": "Biscotti di Natale – laboratorio La mamma dei biscotti",
+    "source": "https://www.binariagruppoabele.org/events/mammabiscottinatale/",
+    "description": "Laboratorio di cucina in cui i bambini preparano i biscotti di Natale. Fa parte della serie natalizia della Mamma dei biscotti a Binaria.",
+    "asset": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
+      "derivedFrom": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "mini-panettone-di-natale-laboratorio-la-mamma-de",
+    "title": "Mini-panettone di Natale – laboratorio La mamma dei biscotti",
+    "source": "https://www.binariagruppoabele.org/events/mammabiscottinatale/",
+    "description": "Laboratorio di cucina per bambini: si prepara un piccolo panettone natalizio.",
+    "asset": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
+      "derivedFrom": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "mini-casetta-di-pan-di-zenzero-laboratorio-la-ma",
+    "title": "Mini casetta di Pan di Zenzero – laboratorio La mamma dei biscotti",
+    "source": "https://www.binariagruppoabele.org/events/mammabiscottinatale/",
+    "description": "Laboratorio di cucina natalizio: i bambini costruiscono e decorano una piccola casetta di pan di zenzero.",
+    "asset": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.webp",
+      "derivedFrom": "illustrazione-biscotti-di-natale-laboratorio-la-mamma-dei-bisc.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "storie-che-incanto-il-mondo-e-mio",
+    "title": "Storie, che incanto! – Il mondo è mio",
+    "source": "https://centropaideia.org/lautunno-si-legge-insieme/",
+    "description": "Laboratori di lettura inclusivi per bambini con e senza disabilità. Il 17/11 'Il mondo è mio', l'1/12 'Mostro, pussa via!' con l'illustratrice Anna Forlati, il 15/12 'Magie di neve'.",
+    "asset": "illustrazione-storie-che-incanto-il-mondo-e-mio.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Fable con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Fable (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-che-incanto-il-mondo-e-mio.webp",
+      "derivedFrom": "illustrazione-storie-che-incanto-il-mondo-e-mio.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "alchemistry-laboratorio-scientifico",
+    "title": "Alchemistry – laboratorio scientifico",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+    "description": "Laboratorio di circa un'ora che mette a confronto l'antica alchimia e la chimica moderna, con esperimenti adatti ai bambini.",
+    "asset": "illustrazione-alchemistry-laboratorio-scientifico.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-alchemistry-laboratorio-scientifico.webp",
+      "derivedFrom": "illustrazione-alchemistry-laboratorio-scientifico.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "slime-e-altre-schifezze-laboratorio-scientifico",
+    "title": "Slime e altre schifezze – laboratorio scientifico",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-novembre-2026/",
+    "description": "I bambini preparano materiali viscosi e gelatinosi scoprendo la chimica che c'è dietro, in un laboratorio di circa un'ora.",
+    "asset": "illustrazione-slime-e-altre-schifezze-laboratorio-scientifico.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-slime-e-altre-schifezze-laboratorio-scientifico.webp",
+      "derivedFrom": "illustrazione-slime-e-altre-schifezze-laboratorio-scientifico.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "al-passo-degli-animali-camminate-corse-e-salti",
+    "title": "Al passo degli animali: camminate, corse e salti",
+    "source": "https://mrsntorino.it/al-passo-degli-animali-camminate-corse-e-salti/",
+    "description": "Visita guidata in cui si osserva come si muovono orsi, elefanti, foche e dinosauri, e si gioca a imitarne le andature.",
+    "asset": "illustrazione-al-passo-degli-animali-camminate-corse-e-salti.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-al-passo-degli-animali-camminate-corse-e-salti.webp",
+      "derivedFrom": "illustrazione-al-passo-degli-animali-camminate-corse-e-salti.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "spino-il-riccio-decorazioni-sotto-l-albero",
+    "title": "Spino il Riccio – Decorazioni sotto l'albero",
+    "source": "https://www.parchireali.it/events/spino-il-riccio-decorazioni-sotto-lalbero/",
+    "description": "Passeggiata nel parco per raccogliere pigne, legnetti e foglie, poi laboratorio all'aperto per creare decorazioni di Natale con materiali naturali. Con il Passaporto del Bosco si raccolgono timbri per",
+    "asset": "illustrazione-spino-il-riccio-decorazioni-sotto-l-albero.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-spino-il-riccio-decorazioni-sotto-l-albero.webp",
+      "derivedFrom": "illustrazione-spino-il-riccio-decorazioni-sotto-l-albero.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
+  },
+  {
+    "eventId": "la-domenica-dei-piccoli-tutti-pronti-per-l-inver",
+    "title": "La Domenica dei piccoli – Tutti pronti per l'inverno",
+    "source": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-15/",
+    "description": "Laboratorio nel parco del Castello: con una caccia agli indizi i bambini scoprono come gli alberi si preparano all'inverno.",
+    "asset": "illustrazione-la-domenica-dei-piccoli-tutti-pronti-per-l-inver.png",
+    "generatedOn": "2026-11-16",
+    "prompt": "Disegno di prova fatto da Claude Opus con codice (SVG + texture), stile dei disegni del sito.",
+    "note": "Illustrazione originale simbolica disegnata da Claude Opus (prova del 16/11/2026 chiesta da Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-domenica-dei-piccoli-tutti-pronti-per-l-inver.webp",
+      "derivedFrom": "illustrazione-la-domenica-dei-piccoli-tutti-pronti-per-l-inver.png",
+      "date": "2026-11-16",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione, ridotta a 610 px."
+    }
   }
 ]
