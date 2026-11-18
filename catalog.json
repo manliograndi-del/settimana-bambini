@@ -10836,6 +10836,40 @@
         "2026-11-28T15:00:00+01:00"
       ],
       "startsAt": "2026-11-28T15:00:00+01:00"
+    },
+    {
+      "id": "lego-holiday-lab-camion-di-natale",
+      "organizationId": "lego-italy",
+      "illustration": "icona-laboratorio.webp",
+      "title": "LEGO Holiday Lab – il camion di Natale",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Camion LEGO · via Giuseppe Luigi Lagrange 45, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Famiglie (sotto i 12 anni con un adulto)",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Consigliata su Eventbrite (fasce orarie, al momento esaurite); si può anche fare la fila sul posto.",
+      "url": "https://www.eventbrite.it/e/lego-holiday-lab-torino-tickets-2004215564706",
+      "description": "Un grande camion a tema natalizio con la fabbrica di Babbo Natale da esplorare e un piano dove si costruisce coi mattoncini LEGO una decorazione da portare a casa. L'esperienza dura circa un quarto d'ora.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 18 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-18",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-11-28T10:00:00+01:00",
+        "2026-11-29T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-28T10:00:00+01:00": "2026-11-28T18:30:00+01:00",
+        "2026-11-29T10:00:00+01:00": "2026-11-29T18:30:00+01:00"
+      },
+      "startsAt": "2026-11-28T10:00:00+01:00"
     }
   ],
   "organizations": [
@@ -12885,6 +12919,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il giro del 16 novembre 2026."
+    },
+    {
+      "id": "lego-italy",
+      "name": "LEGO Italia",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "url": "https://www.lego.com/it-it",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-18",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il giro del 18 novembre 2026."
     }
   ]
 }
