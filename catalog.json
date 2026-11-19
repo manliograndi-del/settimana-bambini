@@ -10870,6 +10870,35 @@
         "2026-11-29T10:00:00+01:00": "2026-11-29T18:30:00+01:00"
       },
       "startsAt": "2026-11-28T10:00:00+01:00"
+    },
+    {
+      "id": "sabato-da-corti-li",
+      "organizationId": "fondazione-omi",
+      "illustration": "icona-lettura.webp",
+      "title": "Il Sabato da Corti.Lì – avventure negli albi illustrati",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "CortiLì · via Giolitti 35, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Obbligatoria: dal sito operamunificaistruzione.it/eventi, info@operamunificaistruzione.it o 011 8178968.",
+      "url": "https://www.operamunificaistruzione.it/eventi/",
+      "description": "Un sabato mattina per bambini piccoli con letture animate, laboratori creativi e giochi intorno ai libri illustrati, sul tema dell'avventura e dell'esplorazione.",
+      "discoverySources": [],
+      "verificationMethod": "Sito dell’organizzatore non leggibile in automatico il 19 novembre 2026: data, ora e luogo dalla scheda TorinoBimbi; link all’organizzatore.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-19",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-21T10:15:00+01:00"
+      ],
+      "startsAt": "2026-11-21T10:15:00+01:00"
     }
   ],
   "organizations": [
@@ -12932,6 +12961,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il giro del 18 novembre 2026."
+    },
+    {
+      "id": "fondazione-omi",
+      "name": "Fondazione OMI – Opera Munifica Istruzione",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "url": "https://www.operamunificaistruzione.it/eventi/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-19",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il giro del 19 novembre 2026."
     }
   ]
 }
