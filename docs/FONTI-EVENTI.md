@@ -76,7 +76,10 @@ Su questi siti si **scopre** l'evento, poi lo si conferma sul sito dell'organizz
 | **Il Tacco di Bacco · ForKids** | [iltaccodibacco.it/torino/forkids](https://iltaccodibacco.it/torino/forkids/) e le pagine dei comuni vicini (/rivoli/forkids/, /settimo-torinese/, /nichelino/…) | 0 (2 spunti, già presenti) | Aggiunto il 20/10/2026. Usare «carica altri». |
 | **GuidaTorino · Bambini** | [guidatorino.com/eventi/torino/bambini](https://www.guidatorino.com/eventi/torino/bambini) + articolo settimanale «Cosa fare a Torino questa settimana» | 0 (3 spunti, già presenti) | Aggiunto il 20/10/2026. Poche schede ma con data e luogo. |
 | **Kid Pass** | [kidpass.it/eventi](https://kidpass.it/eventi/) | 0 | Finora nessun evento nella zona. |
+| **Mentelocale Torino · Bambini** | [mentelocale.it/torino/bambini](https://mentelocale.it/torino/bambini/) | 6 (21/11/2026) | Aggiunto il 21/11/2026: spettacoli per famiglie di teatri piccoli e della cintura, con link a Happyticket. |
 | **Comune di Torino – Eventi** | [comune.torino.it/vivere-comune/eventi](https://www.comune.torino.it/vivere-comune/eventi) (filtri Famiglia/Minore) ed [eventi.comune.torino.it](https://eventi.comune.torino.it/) | 0 | Quasi solo eventi per adulti. Dal cloud dà 503. |
+
+**Organizzatori «solo social» (Manlio, 21/11/2026).** Chi pubblica le date solo su Facebook o Instagram è una fonte valida: si legge dal browser del computer di Manlio (dal cloud i social non si aprono) e il link sul sito va al post dell'organizzatore. Le routine automatiche non possono farlo: questi organizzatori si leggono nei giri a mano. Aggregatori provati il 21/11/2026 e non utili: Eventbrite, TorinoToday, Abbonamento Musei, agenda generale di Turismo Torino, Piemonte dal Vivo, Rete Case del Quartiere.
 
 ## 5. Organizzatori (fonti originali)
 
