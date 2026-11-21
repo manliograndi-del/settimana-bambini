@@ -6,7 +6,7 @@ Aggiornato: **6 novembre 2026**. È l'elenco unico di tutti i posti dove cerchia
 
 - **Eventi pubblicati finora:** 201 (dal 18 ottobre al 30 novembre 2026; 95 sono ancora da venire). Altri 4 sono stati ritirati.
 - **Organizzatori da cui abbiamo preso almeno un evento:** 67.
-- **Fonti in tutto nel registro:** 172 (16 aggregatori, 76 fonti attive, 79 fonti tranquille, 1 organizzatore), più 1 PDF mensile e 1 newsletter. Il 6/11/2026 sono entrate 11 fonti di Natale (vedi «Fonti di Natale» nella sezione 5).
+- **Fonti in tutto nel registro:** 208, più 1 PDF mensile e 1 newsletter. Il 6/11/2026 sono entrate 11 fonti di Natale (vedi «Fonti di Natale» nella sezione 5), il 21/11/2026 altre 18 fonti nuove (vedi «Organizzatori nuovi del 21/11/2026»).
 - **La fonte che dà più eventi:** le Biblioteche civiche torinesi (40 eventi), lette soprattutto dal loro PDF mensile.
 - **TorinoBimbi** ci ha fatto scoprire 23 eventi, ma serve solo per scoprire: il link sul sito porta sempre all'organizzatore.
 
@@ -268,6 +268,29 @@ Si leggono **solo da metà novembre al 6 gennaio**. Molti programmi 2026 escono 
 | Comune di Nichelino | [comune.nichelino.to.it](https://comune.nichelino.to.it/vivere-il-comune/eventi/) | tranquilla (turno A) | Natale in città e presepe vivente per le vie. |
 
 Aggiunte alle note di fonti che c'erano già: Comune di Rivoli (Villaggio di Babbo Natale, dall'8/12 circa al 6/1), Comune di Vinovo (Regno di Babbo Natale al Castello Della Rovere; trovato l'indirizzo della pagina eventi), Casa del Teatro Ragazzi (elenco degli spettacoli di dicembre da confermare), Teatro Erba / Torino Spettacoli (musical di Natale al Teatro Alfieri), Teatro della Concordia (Canto di Natale 6/12, già pubblicato). Il Luna Park di Natale al Parco Dora (15/11/2026-15/1/2027) non va tra gli eventi: è sempre aperto, senza un orario di spettacolo.
+
+### Organizzatori nuovi del 21/11/2026
+
+Ricerca fatta apposta per trovare organizzatori **che non avevamo** (Natale e altro). 18 fonti nuove: 6 hanno già dato eventi, le altre si rileggono quando escono i programmi di Natale.
+
+| Fonte | Sito | Come la leggiamo | Note per chi cerca |
+|---|---|---|---|
+| Teatro Monterosa (Torino) | [teatromonterosa.it](https://teatromonterosa.it/) | attiva | Spettacoli per famiglie. Pubblicato «Il rapimento di Babbo Natale» 26/12. |
+| Tedacà – Bellarte (Torino) | [tedaca.it](https://www.tedaca.it/spettacoli-eventi/) | attiva | Rassegna «Un Natale da favola». Pubblicato «Servizio Favole» (3-8 anni) 26/12-6/1. |
+| Area X – Intesa Sanpaolo con Focus Junior | [focusjunior.it](https://www.focusjunior.it/) | attiva | Show scientifico + laboratorio 5-12 anni. areax.it 503 al cloud. Pubblicato 12/12; prossimo 23/1/2027. |
+| Eataly Torino Lingotto – corsi bambini | [eataly.it](https://www.eataly.it/c/corsi-per-bambini-torino) | attiva | Solo i corsi fino a 12 anni. Pubblicato «I biscotti per Rudolph» 16/12. |
+| Presepe vivente di Buriasco | [scheda Turismo Torino](https://turismotorino.org/it/visita/eventi/presepe-vivente-2026-buriasco) | Natale | Nessun sito, solo social. Pubblicato 24, 26, 27/12. |
+| Presepe in Vetta – Rocca di Cavour | [scheda Turismo Torino](https://turismotorino.org/en/visit/events/presepe-in-vetta-2026) | Natale | 8/12-10/1, programma per famiglie ancora senza date. |
+| Mercatino di Natale di Orio Canavese | [scheda Turismo Torino](https://turismotorino.org/it/visita/eventi/mercatino-di-natale-2026-orio-canavese) | Natale | 6/12: pony, trucca bimbi, rapaci. Nessun sito dell'organizzatore: non pubblicato. |
+| Le Gru – Natale (Grugliasco) | [legru.it](https://www.legru.it) | Natale | Spettacoli sab/dom 28/11-20/12. Sito 503 al cloud: non pubblicato. |
+| Lavanderia a Vapore – Piemonte dal Vivo (Collegno) | [lavanderiaavapore.eu](https://www.lavanderiaavapore.eu/) | tranquilla | Niente per bambini fino a inizio dicembre. |
+| Teatro Principessa Isabella (Torino) | sito da trovare | tranquilla | «Lo specchio di Alice» 18-20/12 e 8-10/1, visto solo su MenteLocale. |
+| Teatro Colosseo (Torino) | [teatrocolosseo.it](https://www.teatrocolosseo.it/) | tranquilla | Sito vuoto alla lettura automatica: usare il Chrome di Manlio. |
+| Fondazione Sandretto Re Rebaudengo | [fsrr.org](https://fsrr.org/) | tranquilla | Laboratori per famiglie; sito 503 al cloud. |
+| Fondazione Merz | [fondazionemerz.org](https://www.fondazionemerz.org/educational/) | tranquilla | «Una Domenica Lunghissima» per famiglie, ancora senza date. |
+| Comuni di Grugliasco, Collegno, Carmagnola, Giaveno, Ciriè | siti dei Comuni | Natale | Programmi di Natale 2026 non ancora usciti il 21/11 (Collegno e Carmagnola bloccati al cloud). |
+
+Anche nuovo, da un organizzatore che c'era già: «Metamorfosi» al Teatro Astra (TPE), 8 date dal 28/11 al 20/12. Buona pista per scoprire: **MenteLocale Torino** (mentelocale.it/torino/natale e /bambini), solo per scoprire.
 
 ### Comuni, giornali locali e altro (0 eventi)
 
