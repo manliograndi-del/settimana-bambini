@@ -6741,7 +6741,7 @@
       "costLabel": "Non indicato (attività di biblioteca)",
       "costBand": "unknown",
       "booking": "Info: 011 01137570",
-      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
+      "url": "https://bct.comune.torino.it/eventi-attivita/la-magia-della-lettura-ad-alta-voce-0",
       "description": "Letture di albi scelti per bambini fino a 6 anni, a cura delle volontarie del Circolo LaAV Torino.",
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
@@ -6751,13 +6751,23 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
+      "verifiedAt": "2026-11-21",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-18T17:00:00+01:00",
-        "2026-11-21T10:30:00+01:00"
+        "2026-11-21T10:30:00+01:00",
+        "2026-12-16T17:00:00+01:00",
+        "2026-12-19T10:30:00+01:00",
+        "2027-01-13T17:00:00+01:00",
+        "2027-01-16T10:30:00+01:00"
       ],
-      "startsAt": "2026-11-18T17:00:00+01:00"
+      "startsAt": "2026-11-18T17:00:00+01:00",
+      "occurrenceEnds": {
+        "2026-12-16T17:00:00+01:00": "2026-12-16T18:00:00+01:00",
+        "2026-12-19T10:30:00+01:00": "2026-12-19T11:30:00+01:00",
+        "2027-01-13T17:00:00+01:00": "2027-01-13T18:00:00+01:00",
+        "2027-01-16T10:30:00+01:00": "2027-01-16T11:30:00+01:00"
+      }
     },
     {
       "id": "il-tuo-posto-del-cuore-geisser",
@@ -7119,7 +7129,7 @@
       "id": "mercoledi-da-fiaba-negarville",
       "organizationId": "org-35",
       "illustration": "illustrazione-mercoledi-da-fiaba-negarville.webp",
-      "title": "Mercoledì da fiaba – Storie della fattoria",
+      "title": "Mercoledì da fiaba – letture ad alta voce",
       "category": "Lettura",
       "municipality": "Torino",
       "venue": "Punto di servizio bibliotecario via Negarville · via Celeste Negarville 30/8, Torino",
@@ -7129,8 +7139,8 @@
       "costLabel": "Non indicato (attività di biblioteca)",
       "costBand": "unknown",
       "booking": "Info: 011 01139780",
-      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf",
-      "description": "Letture ad alta voce per tutta la famiglia, interpretate da Ilenia Speranza.",
+      "url": "https://bct.comune.torino.it/eventi-attivita/mercoledi-da-fiaba-aspettando-natale",
+      "description": "Letture ad alta voce per tutta la famiglia, interpretate da Ilenia Speranza. Il 9 dicembre il tema è «Aspettando Natale».",
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
       ],
@@ -7139,12 +7149,16 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-21",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-11T16:30:00+01:00"
+        "2026-11-11T16:30:00+01:00",
+        "2026-12-09T16:30:00+01:00"
       ],
-      "startsAt": "2026-11-11T16:30:00+01:00"
+      "startsAt": "2026-11-11T16:30:00+01:00",
+      "occurrenceEnds": {
+        "2026-12-09T16:30:00+01:00": "2026-12-09T18:00:00+01:00"
+      }
     },
     {
       "id": "piccoli-racconti-0-3-utoya",
