@@ -3797,5 +3797,473 @@
       "quality": 88,
       "note": "Stessa illustrazione, ridotta a 610 px."
     }
+  },
+  {
+    "eventId": "polo-900-archetti-24-ottobre",
+    "title": "Archetti del Polo – laboratorio musicale",
+    "source": "https://polodel900.it/eventi/archetti-del-polo-21/",
+    "description": "Musica per i più piccoli con canto, percussioni con il corpo e violini di cartone, per scoprire come suona un’orchestra d’archi.",
+    "asset": "illustrazione-polo-900-archetti-24-ottobre.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Little children aged 2 to 7 sitting in a circle pretending to play violins and cellos made of cardboard, a smiling musician with a real violin leading them, children clapping and tapping their knees to the rhythm.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-polo-900-archetti-24-ottobre.webp",
+      "derivedFrom": "illustrazione-polo-900-archetti-24-ottobre.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "camera-kids-visite-gioco-alla-mostra-di-letizia",
+    "title": "CAMERA Kids – visite gioco alla mostra di Letizia Battaglia",
+    "source": "https://camera.to/didattica/camera-kids-visite-gioco-per-letizia-battaglia-lopera-1970-2020/",
+    "description": "Visita in forma di gioco per bambini e famiglie alla mostra di Letizia Battaglia. Ogni incontro ha un tema: la Sicilia, le feste, i giochi di strada.",
+    "asset": "illustrazione-camera-kids-visite-gioco-alla-mostra-di-letizia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children in a photography gallery playing a game in front of big black-and-white photos of a sunny southern Italian street festival, a guide holding up picture cards, a child pointing at a photo of kids jumping rope.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-camera-kids-visite-gioco-alla-mostra-di-letizia.webp",
+      "derivedFrom": "illustrazione-camera-kids-visite-gioco-alla-mostra-di-letizia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "carta-pieghe-e-meraviglia-pop-up",
+    "title": "Carta, pieghe e meraviglia – laboratorio sui libri pop-up",
+    "source": "https://www.fondazionetancredidibarolo.com/project/eventi_novembre-2026/",
+    "description": "Un laboratorio per famiglie tra i libri animati del Pop-App Museum. I bambini scoprono pieghe e meccanismi semplici e costruiscono un piccolo lavoro di carta che si muove.",
+    "asset": "illustrazione-carta-pieghe-e-meraviglia-pop-up.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children folding and cutting coloured paper at a big table, a giant pop-up book opening with a paper castle and a paper whale rising from the pages, a child pulling a paper tab that moves a little bird.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-carta-pieghe-e-meraviglia-pop-up.webp",
+      "derivedFrom": "illustrazione-carta-pieghe-e-meraviglia-pop-up.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "pabi-laboratorio-per-papa-e-bambini",
+    "title": "PABÌ – laboratorio per papà e bambini",
+    "source": "https://www.gruppoabele.org/documenti/schede/gef_settembre_2026_card.pdf",
+    "description": "Mattinata dedicata ai papà con i figli piccoli, per giocare, creare e passare del tempo insieme. Si svolge negli spazi di Binaria del Gruppo Abele.",
+    "asset": "illustrazione-pabi-laboratorio-per-papa-e-bambini.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Several dads sitting on a colourful rug with their toddlers, building a tall tower of wooden blocks, painting with big brushes and laughing together in a bright community room.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pabi-laboratorio-per-papa-e-bambini.webp",
+      "derivedFrom": "illustrazione-pabi-laboratorio-per-papa-e-bambini.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "visita-in-fattoria-al-giardino-di-rosero",
+    "title": "Visita in fattoria al Giardino di Rosero",
+    "source": "https://giardinodirosero.understory.io",
+    "description": "Visita guidata di un'ora tra alpaca, pecore, galline e anatre, con storie sugli animali. Si possono dare da mangiare e accarezzare alpaca e pecore. Adatta anche ai più piccoli.",
+    "asset": "illustrazione-visita-in-fattoria-al-giardino-di-rosero.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children on a green hillside farm feeding fluffy alpacas and sheep from their hands, hens and ducks walking around, a farmer telling a story, autumn trees and hills behind.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-visita-in-fattoria-al-giardino-di-rosero.webp",
+      "derivedFrom": "illustrazione-visita-in-fattoria-al-giardino-di-rosero.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "nella-pancia-di-tauret-visita-per-neogenitori-co",
+    "title": "Nella pancia di Tauret – visita per neogenitori con bebè",
+    "source": "https://museoegizio.it/esplora/visite/nella-pancia-di-tauret/",
+    "description": "Visita guidata in piccolo gruppo con un egittologo per neogenitori insieme ai loro bebè. Si gira il museo con calma e si parla di maternità nell'antico Egitto.",
+    "asset": "illustrazione-nella-pancia-di-tauret-visita-per-neogenitori-co.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: New parents carrying babies in baby slings walking slowly through an ancient Egyptian museum room, a kind guide pointing at a stone statue of a hippo goddess, golden light on the statues.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-nella-pancia-di-tauret-visita-per-neogenitori-co.webp",
+      "derivedFrom": "illustrazione-nella-pancia-di-tauret-visita-per-neogenitori-co.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "nati-per-leggere-incontro-con-letture-ad-alta-vo",
+    "title": "Nati per Leggere – incontro con letture ad alta voce",
+    "source": "https://www.bibliotecavenariareale.it/novembre-2026-in-bibliovenaria/",
+    "description": "Incontro per famiglie con bimbi piccolissimi: si spiega perché leggere ai bambini fin da subito e si ascoltano storie lette da Manuela Carriglio.",
+    "asset": "illustrazione-nati-per-leggere-incontro-con-letture-ad-alta-vo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A reader holding up a big cardboard picture book to babies and toddlers sitting on their parents' laps on soft cushions, a baby touching the pages, a basket of colourful baby books.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-nati-per-leggere-incontro-con-letture-ad-alta-vo.webp",
+      "derivedFrom": "illustrazione-nati-per-leggere-incontro-con-letture-ad-alta-vo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "laboratorio-7-12-mesi-la-mia-famiglia-selvaggia",
+    "title": "Laboratorio 7-12 mesi «La mia famiglia selvaggia»",
+    "source": "https://spaziozerosei.it/calendario-eventi/",
+    "description": "Attività per piccoli gruppi di adulti e bambini ispirata al libro «La mia famiglia selvaggia» di Laurent Moreau.",
+    "asset": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Parents and small children on a soft floor playing with big cut-paper wild animal masks: a bear, a lion, an owl and a deer; a baby crawling towards a paper fox, wild animal shapes all around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.webp",
+      "derivedFrom": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "laboratorio-1-3-anni-la-mia-famiglia-selvaggia",
+    "title": "Laboratorio 1-3 anni «La mia famiglia selvaggia»",
+    "source": "https://spaziozerosei.it/calendario-eventi/",
+    "description": "Laboratorio per piccoli gruppi di adulti e bambini ispirato al libro di Laurent Moreau.",
+    "asset": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Parents and small children on a soft floor playing with big cut-paper wild animal masks: a bear, a lion, an owl and a deer; a baby crawling towards a paper fox, wild animal shapes all around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.webp",
+      "derivedFrom": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "laboratorio-3-6-anni-la-mia-famiglia-selvaggia",
+    "title": "Laboratorio 3-6 anni «La mia famiglia selvaggia»",
+    "source": "https://spaziozerosei.it/calendario-eventi/",
+    "description": "Laboratorio per piccoli gruppi di adulti e bambini ispirato al libro di Laurent Moreau.",
+    "asset": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Parents and small children on a soft floor playing with big cut-paper wild animal masks: a bear, a lion, an owl and a deer; a baby crawling towards a paper fox, wild animal shapes all around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.webp",
+      "derivedFrom": "illustrazione-laboratorio-7-12-mesi-la-mia-famiglia-selvaggia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "zerododici-mesi",
+    "title": "Zerododici mesi",
+    "source": "https://spaziozerosei.it/calendario-eventi/",
+    "description": "Un tempo di prime scoperte per piccoli gruppi di adulti e bebè.",
+    "asset": "illustrazione-zerododici-mesi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Babies under one year discovering soft fabrics, wooden rings and shiny bowls on a big round mat, parents sitting around them smiling, calm warm light in a small nursery room.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-zerododici-mesi.webp",
+      "derivedFrom": "illustrazione-zerododici-mesi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "diventiamo-musica-0-3",
+    "title": "DiventiAmo Musica 0-3",
+    "source": "https://www.operamunificaistruzione.it/evento/diventiamo-musica-5/",
+    "description": "Giochi musicali per bambini piccolissimi insieme ai genitori, ispirati alla Music Learning Theory di Gordon. Si canta e si ascolta per scoprire ritmo e melodia.",
+    "asset": "illustrazione-diventiamo-musica-0-3.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A music teacher singing with open arms to toddlers and parents sitting in a circle, children swaying and shaking little maracas, musical notes floating in the air like ribbons.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-diventiamo-musica-0-3.webp",
+      "derivedFrom": "illustrazione-diventiamo-musica-0-3.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "le-storie-del-mercoledi",
+    "title": "Le storie del mercoledì",
+    "source": "https://bct.comune.torino.it/eventi-attivita/le-storie-del-mercoledi-4",
+    "description": "Letture animate e un piccolo laboratorio per bambini e famiglie, con il personale della biblioteca e i volontari del Servizio civile.",
+    "asset": "illustrazione-le-storie-del-mercoledi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A young librarian reading a big picture book to children aged 3 to 6 on cushions in a library, then children at a low table colouring and cutting paper, bookshelves behind.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-le-storie-del-mercoledi.webp",
+      "derivedFrom": "illustrazione-le-storie-del-mercoledi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "l-antico-egitto-e-noi-egitto-che-magia",
+    "title": "L'antico Egitto e noi – Egitto, che magia!",
+    "source": "https://bct.comune.torino.it/eventi-attivita/lantico-egitto-e-noi-egitto-che-magia",
+    "description": "Incontro e laboratorio con lo staff del Museo Egizio su magia e amuleti nell’antico Egitto, confrontati con i portafortuna di oggi.",
+    "asset": "illustrazione-l-antico-egitto-e-noi-egitto-che-magia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children and parents at a library table making ancient Egyptian amulets from clay: scarabs and eye charms, an expert showing a small statue, hieroglyph-like decorations (no real letters) on the wall.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-l-antico-egitto-e-noi-egitto-che-magia.webp",
+      "derivedFrom": "illustrazione-l-antico-egitto-e-noi-egitto-che-magia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "non-ti-scordar-di-me-relaxed-performance",
+    "title": "Non ti scordar di me – relaxed performance",
+    "source": "https://bct.comune.torino.it/eventi-attivita/non-ti-scordar-di-me",
+    "description": "Spettacolo in formato «relaxed», cioè accogliente per chi ha bisogno di un ambiente più tranquillo, su una nonna che perde la memoria e la nipote che ritrova con lei un legame speciale. È liberamente ",
+    "asset": "illustrazione-non-ti-scordar-di-me-relaxed-performance.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A gentle scene on a small stage: a grandmother sitting in an armchair holding hands with her granddaughter, old photos and a teapot around them, forget-me-not flowers, families watching calmly on cushions.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-non-ti-scordar-di-me-relaxed-performance.webp",
+      "derivedFrom": "illustrazione-non-ti-scordar-di-me-relaxed-performance.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "geisser-gametime-giochi-da-tavolo-e-videogiochi",
+    "title": "Geisser Gametime – giochi da tavolo e videogiochi",
+    "source": "https://bct.comune.torino.it/eventi-attivita/geisser-gametime-3",
+    "description": "Pomeriggi e mattine di giochi da tavolo e videogiochi in biblioteca, in uno spazio aperto a tutti. Animano i volontari del servizio civile e il personale.",
+    "asset": "illustrazione-geisser-gametime-giochi-da-tavolo-e-videogiochi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Teenagers in a library playing a board game on one table and a video game with controllers on a screen next to it, laughing and cheering, bookshelves around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-geisser-gametime-giochi-da-tavolo-e-videogiochi.webp",
+      "derivedFrom": "illustrazione-geisser-gametime-giochi-da-tavolo-e-videogiochi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "cura-giochiamo-che-io-ero-te",
+    "title": "Cura – Giochiamo che io ero te?",
+    "source": "https://www.libreriatherese.it/event/cura-giochiamo-che-io-ero-te-3-6-anni/",
+    "description": "Storie sui piccoli gesti di cura, poi i bambini 'riparano' oggetti rotti nell'ospedale delle cose rotte.",
+    "asset": "illustrazione-cura-giochiamo-che-io-ero-te.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Small children playing doctor for broken things: putting a bandage on a teddy bear, gluing a cracked teacup, fixing a toy car with a tiny screwdriver, at a little 'hospital' table in a bookshop.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-cura-giochiamo-che-io-ero-te.webp",
+      "derivedFrom": "illustrazione-cura-giochiamo-che-io-ero-te.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "due-matite",
+    "title": "Due matite",
+    "source": "https://www.assembleateatro.com/due-matite",
+    "description": "Musical per bambini con canzoni dell'infanzia e animali, raccontato da due matite e un temperino.",
+    "asset": "illustrazione-due-matite.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two giant smiling pencil characters and a little pencil sharpener singing on a stage, cartoon animals drawn in the air around them, children in the audience singing along.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-due-matite.webp",
+      "derivedFrom": "illustrazione-due-matite.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-leche-league-incontro-sull-allattamento",
+    "title": "La Leche League – incontro sull'allattamento",
+    "source": "https://www.cascinaroccafranca.it/novembre-in-cascina-5/",
+    "description": "Incontro gratuito sull'allattamento e sui primi mesi di vita, aperto a mamme, papà e accompagnatori con i bambini.",
+    "asset": "illustrazione-la-leche-league-incontro-sull-allattamento.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A circle of mums and dads with newborn babies on sofas and cushions in a warm old farmhouse room, cups of tea, a mum gently nursing under a soft blanket, sunlight through the windows.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-leche-league-incontro-sull-allattamento.webp",
+      "derivedFrom": "illustrazione-la-leche-league-incontro-sull-allattamento.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "bimbi-in-festa-festa-di-chivasso-la-citta-dei-ba",
+    "title": "Bimbi in festa – Festa di Chivasso, la città dei bambini",
+    "source": "https://www.comune.chivasso.to.it/it/eventi/bimbi-in-festa-festa-di-chivasso-la-citta-dei-bambini",
+    "description": "Mattinata di giochi e laboratori creativi per bambini fino a 6 anni e famiglie al PalaLancia.",
+    "asset": "illustrazione-bimbi-in-festa-festa-di-chivasso-la-citta-dei-ba.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A big sports hall turned into a playground: toddlers on soft play shapes, children painting at long tables, balloons and bunting, parents chatting.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-bimbi-in-festa-festa-di-chivasso-la-citta-dei-ba.webp",
+      "derivedFrom": "illustrazione-bimbi-in-festa-festa-di-chivasso-la-citta-dei-ba.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "lego-holiday-lab-camion-di-natale",
+    "title": "LEGO Holiday Lab – il camion di Natale",
+    "source": "https://www.eventbrite.it/e/lego-holiday-lab-torino-tickets-2004215564706",
+    "description": "Un grande camion a tema natalizio con la fabbrica di Babbo Natale da esplorare e un piano dove si costruisce coi mattoncini LEGO una decorazione da portare a casa. L'esperienza dura circa un quarto d'",
+    "asset": "illustrazione-lego-holiday-lab-camion-di-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A big red Christmas truck with its side open showing a toy workshop inside, children and parents building small Christmas decorations from colourful plastic toy bricks on a table, snowflakes. No brand names.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lego-holiday-lab-camion-di-natale.webp",
+      "derivedFrom": "illustrazione-lego-holiday-lab-camion-di-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-modellismo-e-grugliasco-2026",
+    "title": "Il modellismo è… – mostra di modellismo per grandi e piccoli",
+    "source": "https://www.instagram.com/amicidelmodellismo/p/DfVU0v4Ar6d/",
+    "description": "Undicesima edizione della mostra di modellismo: treni, aerei, navi, un luna park e un circo in miniatura, auto radiocomandate da provare e modellisti al lavoro.",
+    "asset": "illustrazione-il-modellismo-e-grugliasco-2026.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children with wide eyes watching a big model railway with tiny trains, a miniature circus tent and Ferris wheel, model planes hanging from the ceiling, a boy steering a remote-control car.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-modellismo-e-grugliasco-2026.webp",
+      "derivedFrom": "illustrazione-il-modellismo-e-grugliasco-2026.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-villaggio-degli-elfi-laboratori-natalizi",
+    "title": "Il Villaggio degli Elfi – laboratori natalizi",
+    "source": "https://www.instagram.com/casadellemeraviglietorino/p/Df-d_g4CC0X/",
+    "description": "Giornata di mercatino e laboratori di Natale: biscotti, origami, ghirlande e acquerelli d'auguri per i bambini, con polentata a pranzo.",
+    "asset": "illustrazione-il-villaggio-degli-elfi-laboratori-natalizi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children in a cosy Christmas village making gingerbread biscuits, paper origami stars and green wreaths, people in elf hats helping, a pot of polenta steaming in the background.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-villaggio-degli-elfi-laboratori-natalizi.webp",
+      "derivedFrom": "illustrazione-il-villaggio-degli-elfi-laboratori-natalizi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "cucina-d-autunno-laboratorio-scarabocchi",
+    "title": "Cucina d'Autunno – laboratorio Scarabocchi",
+    "source": "https://ch4sportingclub.it/news/laboratorio-cucina-dautunno/",
+    "description": "Laboratorio con tre postazioni nella natura: cucina del bosco con foglie e pigne, torte di fango e stampe con timbri naturali. Si porta a casa un barattolo d'autunno.",
+    "asset": "illustrazione-cucina-d-autunno-laboratorio-scarabocchi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Toddlers outdoors at a wooden play kitchen in the woods making mud cakes decorated with leaves and pine cones, a glass jar filled with autumn leaves, little rubber boots.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-cucina-d-autunno-laboratorio-scarabocchi.webp",
+      "derivedFrom": "illustrazione-cucina-d-autunno-laboratorio-scarabocchi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "storie-galattiche-lettura-animata",
+    "title": "Storie Galattiche – lettura animata",
+    "source": "https://www.comune.pianezza.to.it/it-it/vivere-il-comune/eventi/lettura-animata-storie-galattiche-133148-1-0029c92220fd2ab9897077aafe378ee5",
+    "description": "Lettura animata a tema spazio con la Compagnia Stregatto.",
+    "asset": "illustrazione-storie-galattiche-lettura-animata.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A storyteller dressed as an astronaut reading a book in a library turned into outer space, paper planets and stars hanging from the ceiling, children wearing cardboard helmets.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-storie-galattiche-lettura-animata.webp",
+      "derivedFrom": "illustrazione-storie-galattiche-lettura-animata.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "tessere-relazioni-dal-grembo-al-corpo",
+    "title": "Tessere relazioni: dal grembo al corpo",
+    "source": "https://bct.comune.torino.it/eventi-attivita/tessere-relazioni-dal-grembo-al-corpo-0",
+    "description": "Laboratorio per bambini e genitori con corpo, voce e materiali artistici: si esplorano lo spazio, il movimento, la musicalità e il colore, fino al rilassamento. Lo conducono le operatrici del CIF.",
+    "asset": "illustrazione-tessere-relazioni-dal-grembo-al-corpo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Mothers and fathers with small children dancing and stretching on a big sheet of paper, painting with their hands and feet, colourful ribbons and soft music, a calm library room.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (ChatGPT, fornita da Manlio, foglio da 8); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tessere-relazioni-dal-grembo-al-corpo.webp",
+      "derivedFrom": "illustrazione-tessere-relazioni-dal-grembo-al-corpo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
   }
 ]
