@@ -7783,7 +7783,7 @@
     {
       "id": "canto-di-natale-concordia-2026",
       "organizationId": "org-teatro-della-concordia",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-canto-di-natale-concordia-2026.webp",
       "title": "Canto di Natale – Favole a Merenda",
       "category": "Teatro",
       "municipality": "Venaria Reale",
@@ -8023,7 +8023,7 @@
     {
       "id": "il-piccolo-spazzacamino-in-famiglia-al-regio",
       "organizationId": "org-teatro-regio",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-il-piccolo-spazzacamino-in-famiglia-al-regio.webp",
       "title": "Il piccolo spazzacamino – In famiglia al Regio",
       "category": "Musica",
       "municipality": "Torino",
@@ -8309,7 +8309,7 @@
     {
       "id": "la-storia-del-natale-dell-albero-e-della-regina",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-la-storia-del-natale-dell-albero-e-della-regina.webp",
       "title": "La storia del Natale, dell'albero e della regina che lo portò in Italia",
       "category": "Museo",
       "municipality": "Torino",
@@ -8338,7 +8338,7 @@
     {
       "id": "passi-di-festa-los-zapatos-di-san-nicola",
       "organizationId": "org-musei-reali-di-torino",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-passi-di-festa-los-zapatos-di-san-nicola.webp",
       "title": "Passi di festa: los zapatos di San Nicola",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -8370,7 +8370,7 @@
     {
       "id": "atmosfere-natalizie-nelle-residenze",
       "organizationId": "org-fondazione-ordine-mauriziano-palazzina-d",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-atmosfere-natalizie-nelle-residenze.webp",
       "title": "Atmosfere natalizie nelle residenze",
       "category": "Laboratorio",
       "municipality": "Nichelino",
@@ -8434,7 +8434,7 @@
     {
       "id": "volti-che-affiorano-attivita-per-famiglie-alla-g",
       "organizationId": "org-gam-torino",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-volti-che-affiorano-attivita-per-famiglie-alla-g.webp",
       "title": "Volti che affiorano – attività per famiglie alla GAM",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -8628,7 +8628,7 @@
     {
       "id": "opera-pop-kids",
       "organizationId": "org-casa-fools",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-opera-pop-kids.webp",
       "title": "Opera Pop Kids",
       "category": "Musica",
       "municipality": "Torino",
@@ -8779,7 +8779,7 @@
     {
       "id": "sciopero-ovvero-quella-volta-che-il-lupo-smise-d",
       "organizationId": "org-comune-di-chivasso",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-sciopero-ovvero-quella-volta-che-il-lupo-smise-d.webp",
       "title": "Sciopero! Ovvero quella volta che il lupo smise di lavorare – Teatro per famiglie",
       "category": "Teatro",
       "municipality": "Chivasso",
@@ -8843,7 +8843,7 @@
     {
       "id": "fiocchi-di-neve-pav-kids",
       "organizationId": "org-7",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-fiocchi-di-neve-pav-kids.webp",
       "title": "Fiocchi di Neve – PAV Kids",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -8875,7 +8875,7 @@
     {
       "id": "penne-selvagge-la-festa-di-natale-di-collodi",
       "organizationId": "org-circolo-lettori",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-penne-selvagge-la-festa-di-natale-di-collodi.webp",
       "title": "Penne Selvagge. La festa di Natale di Collodi",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -8907,7 +8907,7 @@
     {
       "id": "pinocchio-e-giannettino-due-monelli-a-confronto",
       "organizationId": "org-circolo-lettori",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-pinocchio-e-giannettino-due-monelli-a-confronto.webp",
       "title": "Pinocchio e Giannettino, due monelli a confronto",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -9578,7 +9578,7 @@
     {
       "id": "qualcuno-ha-visto-babbo-natale-commedia-musicale",
       "organizationId": "org-teatro-cardinal-massaia",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-qualcuno-ha-visto-babbo-natale-commedia-musicale.webp",
       "title": "Qualcuno ha visto Babbo Natale – commedia musicale",
       "category": "Teatro",
       "municipality": "Torino",
@@ -9607,7 +9607,7 @@
     {
       "id": "la-sirenetta-musical-per-famiglie",
       "organizationId": "org-teatro-cardinal-massaia",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-sirenetta-musical-per-famiglie.webp",
       "title": "La Sirenetta – musical per famiglie",
       "category": "Teatro",
       "municipality": "Torino",
@@ -9832,7 +9832,7 @@
     {
       "id": "family-lab-festa-della-luce",
       "organizationId": "org-21",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-family-lab-festa-della-luce.webp",
       "title": "Family Lab – Festa della Luce",
       "category": "Festa",
       "municipality": "Torino",
@@ -9890,7 +9890,7 @@
     {
       "id": "la-domenica-dei-piccoli-terre-da-vedere-terre-da",
       "organizationId": "cosso-new",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-la-domenica-dei-piccoli-terre-da-vedere-terre-da.webp",
       "title": "La Domenica dei piccoli – Terre da vedere, terre da toccare",
       "category": "Laboratorio",
       "municipality": "San Secondo di Pinerolo",
@@ -10014,7 +10014,7 @@
     {
       "id": "la-mia-vera-storia-di-natale-kirby-teatro",
       "organizationId": "org-la-bottega-teatrale",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-mia-vera-storia-di-natale-kirby-teatro.webp",
       "title": "La mia vera storia di Natale – Kirby Teatro",
       "category": "Teatro",
       "municipality": "Torino",
@@ -10222,7 +10222,7 @@
     {
       "id": "il-cuoco-dalla-gamba-di-legno",
       "organizationId": "mulino-ad-arte",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-cuoco-dalla-gamba-di-legno.webp",
       "title": "Il cuoco dalla gamba di legno",
       "category": "Teatro",
       "municipality": "Cantalupa",
@@ -10254,7 +10254,7 @@
     {
       "id": "ahi-ahia-pirati-in-corsia",
       "organizationId": "mulino-ad-arte",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-ahi-ahia-pirati-in-corsia.webp",
       "title": "Ahi! Ahia! Pirati in corsia!",
       "category": "Teatro",
       "municipality": "Cantalupa",
@@ -10286,7 +10286,7 @@
     {
       "id": "prossima-destinazione-natale-circo-contemporaneo",
       "organizationId": "settimo",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-prossima-destinazione-natale-circo-contemporaneo.webp",
       "title": "Prossima destinazione: Natale! – circo contemporaneo",
       "category": "Circo",
       "municipality": "Settimo Torinese",
@@ -10318,7 +10318,7 @@
     {
       "id": "il-bosco-delle-storie-di-natale-drogheria-rebelo",
       "organizationId": "settimo",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-bosco-delle-storie-di-natale-drogheria-rebelo.webp",
       "title": "Il bosco delle storie di Natale – Drogheria Rebelot",
       "category": "Teatro",
       "municipality": "Settimo Torinese",
@@ -10350,7 +10350,7 @@
     {
       "id": "la-tartaruga-e-il-pinguino-innamorato-domenicama",
       "organizationId": "assemblea-teatro",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-tartaruga-e-il-pinguino-innamorato-domenicama.webp",
       "title": "La tartaruga e il pinguino innamorato – Domenicamattinateatro",
       "category": "Teatro",
       "municipality": "Torino",
@@ -10469,7 +10469,7 @@
     {
       "id": "pinocchio-un-bambino-come-tutti-gli-altri",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-pinocchio-un-bambino-come-tutti-gli-altri.webp",
       "title": "Pinocchio. Un bambino come tutti gli altri",
       "category": "Teatro",
       "municipality": "Torino",
@@ -10528,7 +10528,7 @@
     {
       "id": "nina-blu-e-lo-scacciableah-lettura-e-laboratorio",
       "organizationId": "org-23",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-nina-blu-e-lo-scacciableah-lettura-e-laboratorio.webp",
       "title": "Nina, Blu e lo Scacciableah – lettura e laboratorio",
       "category": "Lettura",
       "municipality": "Torino",
@@ -10557,7 +10557,7 @@
     {
       "id": "i-libri-animati-raccontano-il-nocciolo",
       "organizationId": "org-23",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-i-libri-animati-raccontano-il-nocciolo.webp",
       "title": "I libri animati raccontano – Il nòcciolo",
       "category": "Lettura",
       "municipality": "Torino",
@@ -10586,7 +10586,7 @@
     {
       "id": "giocoleria-con-zenzero",
       "organizationId": "org-officine-s",
-      "illustration": "icona-circo.webp",
+      "illustration": "illustrazione-giocoleria-con-zenzero.webp",
       "title": "Giocoleria con Zenzero!",
       "category": "Circo",
       "municipality": "Torino",
@@ -10618,7 +10618,7 @@
     {
       "id": "facciamo-l-albero-con-gli-elfi",
       "organizationId": "org-officine-s",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-facciamo-l-albero-con-gli-elfi.webp",
       "title": "Facciamo l'albero con gli elfi!",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -10650,7 +10650,7 @@
     {
       "id": "laboratorio-di-natale-con-babbo-e-gli-elfi",
       "organizationId": "org-officine-s",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-laboratorio-di-natale-con-babbo-e-gli-elfi.webp",
       "title": "Laboratorio di Natale con Babbo e gli Elfi!",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -10682,7 +10682,7 @@
     {
       "id": "scriviamo-la-letterina-di-natale",
       "organizationId": "org-officine-s",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-scriviamo-la-letterina-di-natale.webp",
       "title": "Scriviamo la letterina di Natale!",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -10714,7 +10714,7 @@
     {
       "id": "festa-di-natale-con-mamma-noel",
       "organizationId": "org-officine-s",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-festa-di-natale-con-mamma-noel.webp",
       "title": "Festa di Natale con Mamma Noel!",
       "category": "Festa",
       "municipality": "Torino",
@@ -10746,7 +10746,7 @@
     {
       "id": "crea-la-tua-calza-della-befana",
       "organizationId": "org-officine-s",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-crea-la-tua-calza-della-befana.webp",
       "title": "Crea la tua calza della Befana!",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -10868,7 +10868,7 @@
     {
       "id": "sfavola-la-non-favola-di-tre-non-supereroi",
       "organizationId": "accademia-dei-folli",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-sfavola-la-non-favola-di-tre-non-supereroi.webp",
       "title": "Sfavola – La non favola di tre non supereroi",
       "category": "Teatro",
       "municipality": "Torino",
@@ -10897,7 +10897,7 @@
     {
       "id": "potrebbe-sempre-servire-laboratorio-arte-e-ricic",
       "organizationId": "org-8",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-potrebbe-sempre-servire-laboratorio-arte-e-ricic.webp",
       "title": "Potrebbe sempre servire? – laboratorio arte e riciclo",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11021,7 +11021,7 @@
     {
       "id": "santa-pelagia-baby-soffi-d-inverno",
       "organizationId": "fondazione-omi",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-santa-pelagia-baby-soffi-d-inverno.webp",
       "title": "Santa Pelagia Baby – Soffi d'Inverno",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11053,7 +11053,7 @@
     {
       "id": "il-sabato-da-corti-li-piccolo-rito-d-inverno",
       "organizationId": "fondazione-omi",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-il-sabato-da-corti-li-piccolo-rito-d-inverno.webp",
       "title": "Il Sabato da Corti.Lì – Piccolo rito d'inverno",
       "category": "Lettura",
       "municipality": "Torino",
@@ -11085,7 +11085,7 @@
     {
       "id": "mercorti-li-gocce-di-voce",
       "organizationId": "fondazione-omi",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-mercorti-li-gocce-di-voce.webp",
       "title": "Mercorti.Lì – Gocce di voce",
       "category": "Lettura",
       "municipality": "Torino",
@@ -11117,7 +11117,7 @@
     {
       "id": "santa-pelagia-baby-la-musica-si-muove",
       "organizationId": "fondazione-omi",
-      "illustration": "icona-musica.webp",
+      "illustration": "illustrazione-santa-pelagia-baby-la-musica-si-muove.webp",
       "title": "Santa Pelagia Baby – La musica si muove!",
       "category": "Musica",
       "municipality": "Torino",
@@ -11149,7 +11149,7 @@
     {
       "id": "mercorti-li-crescere-manco-per-sogno",
       "organizationId": "fondazione-omi",
-      "illustration": "icona-lettura.webp",
+      "illustration": "illustrazione-mercorti-li-crescere-manco-per-sogno.webp",
       "title": "Mercorti.Lì – Crescere… Manco per sogno!",
       "category": "Lettura",
       "municipality": "Torino",
@@ -11181,7 +11181,7 @@
     {
       "id": "scienza-da-podio-laboratorio",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-scienza-da-podio-laboratorio.webp",
       "title": "Scienza da Podio – laboratorio",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -11219,7 +11219,7 @@
     {
       "id": "the-elf-on-the-lab-laboratorio-di-natale",
       "organizationId": "org-4",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-the-elf-on-the-lab-laboratorio-di-natale.webp",
       "title": "The elf on the lab – laboratorio di Natale",
       "category": "Laboratorio",
       "municipality": "Settimo Torinese",
@@ -11281,7 +11281,7 @@
     {
       "id": "atomic-bingo-show",
       "organizationId": "org-4",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-atomic-bingo-show.webp",
       "title": "Atomic Bingo – show",
       "category": "Gioco e parchi",
       "municipality": "Settimo Torinese",
@@ -11325,7 +11325,7 @@
     {
       "id": "lo-zapato-e-il-conto-alla-rovescia-per-natale",
       "organizationId": "org-65",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-lo-zapato-e-il-conto-alla-rovescia-per-natale.webp",
       "title": "Lo Zapato e… il conto alla rovescia per Natale!",
       "category": "Museo",
       "municipality": "Venaria Reale",
@@ -11361,7 +11361,7 @@
     {
       "id": "la-luce-prende-forma-visita-e-laboratorio-per-fa",
       "organizationId": "org-65",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-la-luce-prende-forma-visita-e-laboratorio-per-fa.webp",
       "title": "La luce prende forma – visita e laboratorio per famiglie",
       "category": "Museo",
       "municipality": "Venaria Reale",
@@ -11430,7 +11430,7 @@
     {
       "id": "yoga-mamma-e-bebe",
       "organizationId": "org-citta-del-sole",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-yoga-mamma-e-bebe.webp",
       "title": "Yoga mamma e bebè",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11462,7 +11462,7 @@
     {
       "id": "il-rapimento-di-babbo-natale-monterosa",
       "organizationId": "org-teatro-monterosa",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-rapimento-di-babbo-natale-monterosa.webp",
       "title": "Il rapimento di Babbo Natale",
       "category": "Teatro",
       "municipality": "Torino",
@@ -11493,7 +11493,7 @@
     {
       "id": "servizio-favole-tedaca-natale",
       "organizationId": "org-tedaca",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-servizio-favole-tedaca-natale.webp",
       "title": "Servizio Favole – Un Natale da favola",
       "category": "Teatro",
       "municipality": "Torino",
@@ -11535,7 +11535,7 @@
     {
       "id": "detective-del-digitale-focus-junior-area-x",
       "organizationId": "org-area-x",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-detective-del-digitale-focus-junior-area-x.webp",
       "title": "All’arrembaggio del web – show scientifico e laboratorio con Focus Junior",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11569,7 +11569,7 @@
     {
       "id": "biscotti-per-rudolph-eataly-lingotto",
       "organizationId": "org-eataly-lingotto",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-biscotti-per-rudolph-eataly-lingotto.webp",
       "title": "Cucinare in famiglia – i biscotti per Rudolph",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11601,7 +11601,7 @@
     {
       "id": "presepe-vivente-buriasco-2026",
       "organizationId": "org-presepe-buriasco",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-presepe-vivente-buriasco-2026.webp",
       "title": "Presepe vivente di Buriasco",
       "category": "Festa",
       "municipality": "Buriasco",
@@ -11639,7 +11639,7 @@
     {
       "id": "metamorfosi-teatro-astra",
       "organizationId": "org-fondazione-tpe",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-metamorfosi-teatro-astra.webp",
       "title": "Metamorfosi – storie da Ovidio con musica dal vivo",
       "category": "Teatro",
       "municipality": "Torino",
@@ -11711,7 +11711,7 @@
     {
       "id": "hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi",
       "organizationId": "barrito-new",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi.webp",
       "title": "Hokusai: la grande onda e il Monte Fuji – Sabati Giocondi",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11740,7 +11740,7 @@
     {
       "id": "il-mistero-delle-renne-scomparse-un-barrito-da-p",
       "organizationId": "barrito-new",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-mistero-delle-renne-scomparse-un-barrito-da-p.webp",
       "title": "Il mistero delle renne scomparse – Un Barrito da piccoli",
       "category": "Teatro",
       "municipality": "Torino",
@@ -11769,7 +11769,7 @@
     {
       "id": "tane-a-natale-sabati-giocondi",
       "organizationId": "barrito-new",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-tane-a-natale-sabati-giocondi.webp",
       "title": "Tane a Natale – Sabati Giocondi",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -11798,7 +11798,7 @@
     {
       "id": "la-rivolta-dei-fantasmi-le-figure-dell-inverno",
       "organizationId": "org-la-bottega-teatrale",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-la-rivolta-dei-fantasmi-le-figure-dell-inverno.webp",
       "title": "La Rivolta dei Fantasmi – Le Figure dell'Inverno",
       "category": "Teatro",
       "municipality": "Torino",
@@ -11827,7 +11827,7 @@
     {
       "id": "festa-di-natale-alla-casa-nel-parco",
       "organizationId": "org-14",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-festa-di-natale-alla-casa-nel-parco.webp",
       "title": "Festa di Natale alla Casa nel Parco",
       "category": "Festa",
       "municipality": "Torino",
@@ -11891,7 +11891,7 @@
     {
       "id": "natale-al-baby-gym",
       "organizationId": "org-49",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-natale-al-baby-gym.webp",
       "title": "Natale al Baby Gym",
       "category": "Gioco e parchi",
       "municipality": "Torino",
@@ -12049,7 +12049,7 @@
     {
       "id": "il-re-leone-e-l-elefante-casa-gianduja",
       "organizationId": "org-10",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-re-leone-e-l-elefante-casa-gianduja.webp",
       "title": "Il Re Leone e l'Elefante – Casa Gianduja",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12079,7 +12079,7 @@
     {
       "id": "schiaccianoci-e-re-dei-topi-marionette-a-casa-gi",
       "organizationId": "org-10",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-schiaccianoci-e-re-dei-topi-marionette-a-casa-gi.webp",
       "title": "Schiaccianoci e Re dei Topi – marionette a Casa Gianduja",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12113,7 +12113,7 @@
     {
       "id": "gianduja-e-la-farina-magica-burattini-a-casa-gia",
       "organizationId": "org-10",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-gianduja-e-la-farina-magica-burattini-a-casa-gia.webp",
       "title": "Gianduja e la Farina Magica – burattini a Casa Gianduja",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12143,7 +12143,7 @@
     {
       "id": "mettere-in-ordine-il-natale",
       "organizationId": "org-auditorium-franca-rame",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-mettere-in-ordine-il-natale.webp",
       "title": "Mettere in ordine il Natale",
       "category": "Teatro",
       "municipality": "Rivalta di Torino",
@@ -12172,7 +12172,7 @@
     {
       "id": "dialoghi-per-domani-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-dialoghi-per-domani-casa-teatro.webp",
       "title": "Dialoghi per domani – storie di coraggio e libertà",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12202,7 +12202,7 @@
     {
       "id": "lo-schiaccianoci-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-lo-schiaccianoci-casa-teatro.webp",
       "title": "Lo Schiaccianoci – danza per famiglie",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12232,7 +12232,7 @@
     {
       "id": "viaggio-di-una-nuvola-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-viaggio-di-una-nuvola-casa-teatro.webp",
       "title": "Viaggio di una nuvola",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12261,7 +12261,7 @@
     {
       "id": "piccolo-asmodeo-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-piccolo-asmodeo-casa-teatro.webp",
       "title": "Piccolo Asmodeo",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12291,7 +12291,7 @@
     {
       "id": "ida-e-la-bambina-nuova-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-ida-e-la-bambina-nuova-casa-teatro.webp",
       "title": "Ida e la bambina nuova",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12321,7 +12321,7 @@
     {
       "id": "astro-elefantessa-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-astro-elefantessa-casa-teatro.webp",
       "title": "Astro Elefantessa – una proboscidata nello spazio",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12351,7 +12351,7 @@
     {
       "id": "ape-pina-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-ape-pina-casa-teatro.webp",
       "title": "Ape Pina",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12381,7 +12381,7 @@
     {
       "id": "sparkly-magic-show-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-sparkly-magic-show-casa-teatro.webp",
       "title": "Sparkly Magic Show – magia per le feste",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12428,7 +12428,7 @@
     {
       "id": "il-canto-di-natale-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-il-canto-di-natale-casa-teatro.webp",
       "title": "Il Canto di Natale – con merenda",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12463,7 +12463,7 @@
     {
       "id": "in-viaggio-con-il-piccolo-principe-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-in-viaggio-con-il-piccolo-principe-casa-teatro.webp",
       "title": "In viaggio con il Piccolo Principe",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12493,7 +12493,7 @@
     {
       "id": "zerozerozerosottozero-casa-teatro",
       "organizationId": "org-9",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-zerozerozerosottozero-casa-teatro.webp",
       "title": "Zerozerozerosottozero",
       "category": "Teatro",
       "municipality": "Torino",
@@ -12557,7 +12557,7 @@
     {
       "id": "non-il-solito-calendario-avvento-pentesilea",
       "organizationId": "org-pentesilea",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-non-il-solito-calendario-avvento-pentesilea.webp",
       "title": "Non il solito calendario dell'avvento – laboratorio",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -12753,7 +12753,7 @@
     {
       "id": "bazar-di-natale-2026",
       "organizationId": "org-chicco-di-grano",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-bazar-di-natale-2026.webp",
       "title": "Bazar di Natale 2026",
       "category": "Festa",
       "municipality": "Torino",
@@ -12785,7 +12785,7 @@
     {
       "id": "festival-del-diwali",
       "organizationId": "org-oasi-dream-zone",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-festival-del-diwali.webp",
       "title": "Festival del Diwali",
       "category": "Festa",
       "municipality": "Moncalieri",
@@ -12949,7 +12949,7 @@
     {
       "id": "speciale-serr-laboratorio-perche-lo-butti",
       "organizationId": "org-3",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-speciale-serr-laboratorio-perche-lo-butti.webp",
       "title": "Speciale SERR – Laboratorio «Perché lo butti?»",
       "category": "Laboratorio",
       "municipality": "Torino",
@@ -12981,7 +12981,7 @@
     {
       "id": "in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp",
       "organizationId": "org-museo-lavazza",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp.webp",
       "title": "In famiglia al Museo Lavazza: «Con le mani puoi – speciale ATP Finals»",
       "category": "Museo",
       "municipality": "Torino",
@@ -13013,7 +13013,7 @@
     {
       "id": "in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch",
       "organizationId": "org-museo-lavazza",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch.webp",
       "title": "In famiglia al Museo Lavazza: «Sfida all'ultimo chicco – speciale ATP Finals»",
       "category": "Museo",
       "municipality": "Torino",
@@ -13077,7 +13077,7 @@
     {
       "id": "la-festa-scozzese-gino-compie-4-anni",
       "organizationId": "org-orti-generali",
-      "illustration": "icona-festa.webp",
+      "illustration": "illustrazione-la-festa-scozzese-gino-compie-4-anni.webp",
       "title": "La festa scozzese: Gino compie 4 anni!",
       "category": "Festa",
       "municipality": "Torino",
@@ -13109,7 +13109,7 @@
     {
       "id": "pierino-e-il-lupo-ciurma-a-pinerolo",
       "organizationId": "org-comune-pinerolo",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-pierino-e-il-lupo-ciurma-a-pinerolo.webp",
       "title": "Pierino e il lupo – Ciurma! a Pinerolo",
       "category": "Teatro",
       "municipality": "Pinerolo",
@@ -13199,7 +13199,7 @@
     {
       "id": "riciclattoli-laboratorio-e-letture",
       "organizationId": "org-38",
-      "illustration": "icona-laboratorio.webp",
+      "illustration": "illustrazione-riciclattoli-laboratorio-e-letture.webp",
       "title": "Riciclattoli – laboratorio e letture",
       "category": "Laboratorio",
       "municipality": "Venaria Reale",
@@ -13228,7 +13228,7 @@
     {
       "id": "dragonplay-venaria-giochi-da-tavolo",
       "organizationId": "org-38",
-      "illustration": "icona-gioco.webp",
+      "illustration": "illustrazione-dragonplay-venaria-giochi-da-tavolo.webp",
       "title": "DragonPlay Venaria – giochi da tavolo",
       "category": "Gioco e parchi",
       "municipality": "Venaria Reale",
@@ -13289,7 +13289,7 @@
     {
       "id": "pinocchio-piccole-correlazioni",
       "organizationId": "org-cecchi-point",
-      "illustration": "icona-teatro.webp",
+      "illustration": "illustrazione-pinocchio-piccole-correlazioni.webp",
       "title": "Pinocchio – Piccole correlazioni",
       "category": "Teatro",
       "municipality": "Torino",
@@ -13347,7 +13347,7 @@
     {
       "id": "visita-di-natale-per-famiglie-natale-al-castello",
       "organizationId": "org-fai-masino",
-      "illustration": "icona-museo.webp",
+      "illustration": "illustrazione-visita-di-natale-per-famiglie-natale-al-castello.webp",
       "title": "Visita di Natale per famiglie – Natale al Castello",
       "category": "Museo",
       "municipality": "Caravino",
