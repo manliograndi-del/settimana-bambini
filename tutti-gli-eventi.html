@@ -16,10 +16,10 @@ header{background:var(--ink);color:#fff;padding:18px 16px}
 header h1{margin:0;font:700 26px/1.15 Fredoka,system-ui,sans-serif}
 header a{color:#fff;opacity:.8;font-size:14px}
 main{max-width:860px;margin:0 auto;padding:8px 16px 40px}
-h2{position:sticky;top:0;z-index:1;margin:22px -16px 8px;padding:10px 16px;background:var(--paper);border-bottom:2px solid var(--ink);font:700 21px/1.2 Fredoka,system-ui,sans-serif}
+h2{position:-webkit-sticky;position:sticky;top:0;z-index:5;margin:22px -16px 8px;padding:10px 16px;background:var(--paper);border-bottom:2px solid var(--ink);font:700 21px/1.2 Fredoka,system-ui,sans-serif}
 h2 small{font:700 14px Nunito,sans-serif;color:var(--muted);text-transform:none;margin-left:6px}
 table{width:100%;border-collapse:collapse;background:#fff;table-layout:fixed}
-td{border:1px solid var(--line);vertical-align:top;padding:10px}
+td{border:1px solid var(--line);vertical-align:top;padding:10px;overflow-wrap:anywhere}
 td.img{width:40%;padding:6px}
 td.img img{display:block;width:100%;height:auto;border-radius:8px}
 .t{font:600 19px/1.25 Fredoka,system-ui,sans-serif;margin-bottom:6px}
@@ -52,7 +52,7 @@ td.img img{display:block;width:100%;height:auto;border-radius:8px}
   var html='';
   Object.keys(days).sort().forEach(function(d){
     var list=days[d].sort(function(a,b){return (a.time||'99').localeCompare(b.time||'99')||a.e.title.localeCompare(b.e.title)});
-    var lab=fmt.format(new Date(d+'T12:00:00Z'));html+='<h2>'+lab.charAt(0).toUpperCase()+lab.slice(1)+'</h2><table>';
+    var lab=fmt.format(new Date(d+'T12:00:00Z'));html+='<section><h2>'+lab.charAt(0).toUpperCase()+lab.slice(1)+'</h2><table>';
     list.forEach(function(x){
       var e=x.e;
       var row=function(k,v){return v?'<div class="r"><b>'+k+':</b> '+esc(v)+'</div>':''};
@@ -63,7 +63,7 @@ td.img img{display:block;width:100%;height:auto;border-radius:8px}
         (e.url?'<div class="l"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Sito dell’organizzatore</a></div>':'')+
         '</td></tr>';
     });
-    html+='</table>';
+    html+='</table></section>';
   });
   document.getElementById('list').innerHTML=html||'<p>Nessun evento.</p>';
 })();
