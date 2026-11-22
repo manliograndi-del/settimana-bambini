@@ -4265,5 +4265,1481 @@
       "quality": 88,
       "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
     }
+  },
+  {
+    "eventId": "bazar-di-natale-2026",
+    "title": "Bazar di Natale 2026",
+    "source": "https://chiccodigrano.it/eventi/",
+    "description": "Festa per l'inizio dell'Avvento con laboratori artistici, un teatrino per i piccoli, momenti musicali, mercatino artigianale e buffet.",
+    "asset": "illustrazione-bazar-di-natale-2026.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A small Christmas fair in a community hall: a tiny puppet theatre for little ones, children painting at a table, a market stall with handmade toys, a musician with a guitar, warm lights.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-bazar-di-natale-2026.webp",
+      "derivedFrom": "illustrazione-bazar-di-natale-2026.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "nina-blu-e-lo-scacciableah-lettura-e-laboratorio",
+    "title": "Nina, Blu e lo Scacciableah – lettura e laboratorio",
+    "source": "https://www.libreriadeiragazzitorino.it/",
+    "description": "Lettura della storia di una volpina di malumore. Poi i bambini costruiscono con materiali di recupero uno «Scacciableah» per mandare via la tristezza.",
+    "asset": "illustrazione-nina-blu-e-lo-scacciableah-lettura-e-laboratorio.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A grumpy little fox with a dark rain cloud over its head, and children in a bookshop building a funny machine from cardboard tubes, bottle caps and string to chase the cloud away.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-nina-blu-e-lo-scacciableah-lettura-e-laboratorio.webp",
+      "derivedFrom": "illustrazione-nina-blu-e-lo-scacciableah-lettura-e-laboratorio.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "yoga-mamma-e-bebe",
+    "title": "Yoga mamma e bebè",
+    "source": "https://www.cittadelsole.it/ita/evento/torino-via-nizza-9",
+    "description": "Incontro singolo di yoga per mamme con il loro bebè nel negozio di giocattoli di via Nizza. Un'ora di movimento e relax da fare insieme al bambino.",
+    "asset": "illustrazione-yoga-mamma-e-bebe.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Mothers doing gentle yoga poses on mats with their babies lying on their tummies or in their arms, in a toy shop with shelves of colourful wooden toys behind them.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-yoga-mamma-e-bebe.webp",
+      "derivedFrom": "illustrazione-yoga-mamma-e-bebe.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "metamorfosi-teatro-astra",
+    "title": "Metamorfosi – storie da Ovidio con musica dal vivo",
+    "source": "https://www.fondazionetpe.it/metamorfosi/",
+    "description": "Storie dalle Metamorfosi di Ovidio, con personaggi che si trasformano in alberi e fiori. Regia di Barbara Mazzi, musica dal vivo che va dalla classica all'elettronica.",
+    "asset": "illustrazione-metamorfosi-teatro-astra.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A girl on stage turning into a laurel tree with leaves growing from her raised arms, a flower blooming from the ground, a musician with a cello and a small keyboard at the side, children watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-metamorfosi-teatro-astra.webp",
+      "derivedFrom": "illustrazione-metamorfosi-teatro-astra.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "riciclattoli-laboratorio-e-letture",
+    "title": "Riciclattoli – laboratorio e letture",
+    "source": "https://www.bibliotecavenariareale.it/novembre-2026-in-bibliovenaria/",
+    "description": "Con Lisa Gaffo i bambini costruiscono un gioco con materiali di recupero e ascoltano alcune letture.",
+    "asset": "illustrazione-riciclattoli-laboratorio-e-letture.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children aged 6 to 8 building a game from egg boxes, bottle caps and cardboard rolls in a library, a reader holding a book open, a box full of recycled materials.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-riciclattoli-laboratorio-e-letture.webp",
+      "derivedFrom": "illustrazione-riciclattoli-laboratorio-e-letture.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "sfavola-la-non-favola-di-tre-non-supereroi",
+    "title": "Sfavola – La non favola di tre non supereroi",
+    "source": "https://accademiadeifolli.com/sfavola",
+    "description": "Una fiaba alla rovescia con una Fata, un Mago e un Principe Azzurro chiusi in una torre, tra tentativi di fuga e litigi. Racconta con ironia che nessuno si salva da solo.",
+    "asset": "illustrazione-sfavola-la-non-favola-di-tre-non-supereroi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A fairy, a wizard and a prince charming squeezed together inside a tall stone tower window, arguing and trying to climb out with a rope of bedsheets, children laughing below.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sfavola-la-non-favola-di-tre-non-supereroi.webp",
+      "derivedFrom": "illustrazione-sfavola-la-non-favola-di-tre-non-supereroi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "potrebbe-sempre-servire-laboratorio-arte-e-ricic",
+    "title": "Potrebbe sempre servire? – laboratorio arte e riciclo",
+    "source": "https://www.maotorino.it/it/evento/potrebbe-sempre-servire/",
+    "description": "Visita alla mostra di Song Dong con l'installazione Waste not e riflessione sul riuso dei materiali. Nel secondo incontro a REMIDA si crea con materiali di scarto un oggetto da regalare.",
+    "asset": "illustrazione-potrebbe-sempre-servire-laboratorio-arte-e-ricic.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children and parents looking at a huge museum art installation made of thousands of neatly arranged old household objects: pots, bottles, shoes and jars; a child making a gift from scraps at a table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-potrebbe-sempre-servire-laboratorio-arte-e-ricic.webp",
+      "derivedFrom": "illustrazione-potrebbe-sempre-servire-laboratorio-arte-e-ricic.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "dragonplay-venaria-giochi-da-tavolo",
+    "title": "DragonPlay Venaria – giochi da tavolo",
+    "source": "https://www.bibliotecavenariareale.it/novembre-2026-in-bibliovenaria/",
+    "description": "Pomeriggio di giochi da tavolo in biblioteca, aperto a ragazzi dai 10 anni in su.",
+    "asset": "illustrazione-dragonplay-venaria-giochi-da-tavolo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Pre-teens around a library table playing a fantasy board game with a map, dragon miniatures, cards and dice, one cheering with arms raised.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-dragonplay-venaria-giochi-da-tavolo.webp",
+      "derivedFrom": "illustrazione-dragonplay-venaria-giochi-da-tavolo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "festival-del-diwali",
+    "title": "Festival del Diwali",
+    "source": "https://oasidreamzone.it/festival-del-diwali/",
+    "description": "Pomeriggio dedicato alla Festa delle Luci indiana con laboratori creativi, decorazioni e lanterne, balli, racconti e merenda. È riservato ai bambini.",
+    "asset": "illustrazione-festival-del-diwali.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children decorating clay oil lamps and paper lanterns, colourful rangoli patterns made of coloured powder on the floor, children dancing in bright clothes, warm glowing lights.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-festival-del-diwali.webp",
+      "derivedFrom": "illustrazione-festival-del-diwali.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "pinocchio-un-bambino-come-tutti-gli-altri",
+    "title": "Pinocchio. Un bambino come tutti gli altri",
+    "source": "https://casateatroragazzi.it/biglietteria/",
+    "description": "Rilettura di Pinocchio per i 200 anni di Collodi, con l'attore e autore Fabrizio Tana, che ha la sindrome di Down. Lo spettacolo parla del desiderio di essere come gli altri e di cosa voglia dire crescere.",
+    "asset": "illustrazione-pinocchio-un-bambino-come-tutti-gli-altri.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: On a stage, a wooden puppet boy with a long nose standing next to a real young man with a kind face who looks at him in a mirror, both smiling, a simple carpenter's workshop set. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pinocchio-un-bambino-come-tutti-gli-altri.webp",
+      "derivedFrom": "illustrazione-pinocchio-un-bambino-come-tutti-gli-altri.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "i-libri-animati-raccontano-il-nocciolo",
+    "title": "I libri animati raccontano – Il nòcciolo",
+    "source": "https://www.libreriadeiragazzitorino.it/",
+    "description": "Racconto animato tratto dal libro «Il nòcciolo» di Isabel Pin: due popoli vicini litigano per un oggetto misterioso caduto sul confine.",
+    "asset": "illustrazione-i-libri-animati-raccontano-il-nocciolo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two little villages on two hills facing each other, the villagers pulling a giant mysterious seed fallen right on the border line, a storyteller showing it as a pop-up book to small children.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-i-libri-animati-raccontano-il-nocciolo.webp",
+      "derivedFrom": "illustrazione-i-libri-animati-raccontano-il-nocciolo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-cuoco-dalla-gamba-di-legno",
+    "title": "Il cuoco dalla gamba di legno",
+    "source": "https://mulinoadarte.com/eventi/il-cuoco-dalla-gamba-di-legno/",
+    "description": "Due cuochi in una cucina vuota inventano una storia di tesori, pirati e giungle per dimenticare la fame. Uno spettacolo che parla ai bambini anche della guerra e di chi la subisce.",
+    "asset": "illustrazione-il-cuoco-dalla-gamba-di-legno.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two cooks in an empty old kitchen pretending a wooden spoon is a sword and a pot is a pirate ship, an imaginary jungle and treasure chest appearing behind them like a dream.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-cuoco-dalla-gamba-di-legno.webp",
+      "derivedFrom": "illustrazione-il-cuoco-dalla-gamba-di-legno.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "dialoghi-per-domani-casa-teatro",
+    "title": "Dialoghi per domani – storie di coraggio e libertà",
+    "source": "https://casateatroragazzi.it/spettacoli/dialoghi-coraggiosi-2/",
+    "description": "Spettacolo sulle grandi figure che hanno lasciato un segno, come Franco Basaglia, Gandhi e Gino Strada.",
+    "asset": "illustrazione-dialoghi-per-domani-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Older children in a theatre watching actors on a stage with big painted panels showing a doctor helping people, a man walking peacefully on a dusty road, and a hospital opening its doors, hopeful light.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-dialoghi-per-domani-casa-teatro.webp",
+      "derivedFrom": "illustrazione-dialoghi-per-domani-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "pinocchio-piccole-correlazioni",
+    "title": "Pinocchio – Piccole correlazioni",
+    "source": "https://www.cecchipoint.it/pinocchio-spettacolo-teatrale-per-piccole-correlazioni/",
+    "description": "Rilettura giocosa del Pinocchio di Collodi con cinque attori che coinvolgono il pubblico.",
+    "asset": "illustrazione-pinocchio-piccole-correlazioni.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Five lively actors acting out Pinocchio on a small stage among the audience: one as the puppet with a long nose, one as a cat, one as a fox, one as a cricket, one as Geppetto, children joining in. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pinocchio-piccole-correlazioni.webp",
+      "derivedFrom": "illustrazione-pinocchio-piccole-correlazioni.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-domenica-dei-piccoli-terre-da-vedere-terre-da",
+    "title": "La Domenica dei piccoli – Terre da vedere, terre da toccare",
+    "source": "https://www.fondazionecosso.com/evento/la-domenica-dei-piccoli-16/",
+    "description": "Laboratorio in mostra per i più piccoli, ispirato all'opera di Grazia Toderi. I bambini provano diversi tipi di terra da toccare, modellare e piantare.",
+    "asset": "illustrazione-la-domenica-dei-piccoli-terre-da-vedere-terre-da.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Small children in a castle room with bowls of different coloured soils, red, brown and yellow, touching and modelling it, planting a seed in a little pot, a big art painting of the earth seen from above on the wall.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-domenica-dei-piccoli-terre-da-vedere-terre-da.webp",
+      "derivedFrom": "illustrazione-la-domenica-dei-piccoli-terre-da-vedere-terre-da.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-luce-prende-forma-visita-e-laboratorio-per-fa",
+    "title": "La luce prende forma – visita e laboratorio per famiglie",
+    "source": "https://lavenaria.it/evento/la-luce-prende-forma/",
+    "description": "Visita alla mostra Atelier dei Moderni e laboratorio ispirato ad Anna-Eva Bergman. Si crea un'opera con colori, rilievi e ritagli metallici che cambia con la luce.",
+    "asset": "illustrazione-la-luce-prende-forma-visita-e-laboratorio-per-fa.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families in an elegant royal palace hall making artworks with shiny metal foil cut-outs on dark paper, sunlight from big windows making the silver and gold shapes sparkle.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-luce-prende-forma-visita-e-laboratorio-per-fa.webp",
+      "derivedFrom": "illustrazione-la-luce-prende-forma-visita-e-laboratorio-per-fa.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "non-il-solito-calendario-avvento-pentesilea",
+    "title": "Non il solito calendario dell'avvento – laboratorio",
+    "source": "https://associazionepentesilea.wordpress.com/2026/11/14/appuntamenti-di-novembre/",
+    "description": "I bambini cuciono a mano un calendario dell'avvento diverso dal solito, con 24 piccoli momenti da vivere insieme a dicembre. Intanto per gli adulti c'è l'Artbrunch.",
+    "asset": "illustrazione-non-il-solito-calendario-avvento-pentesilea.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children sewing by hand little felt pockets onto a long strip of fabric to make an advent calendar, needles, buttons and colourful thread on a wooden table, parents chatting with coffee behind.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-non-il-solito-calendario-avvento-pentesilea.webp",
+      "derivedFrom": "illustrazione-non-il-solito-calendario-avvento-pentesilea.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-tartaruga-e-il-pinguino-innamorato-domenicama",
+    "title": "La tartaruga e il pinguino innamorato – Domenicamattinateatro",
+    "source": "https://www.assembleateatro.com/tartarugaepinguino-291126",
+    "description": "Piccolo musical con le canzoni di Rascel, Endrigo, Rodari e dello Zecchino d'Oro. Due matite e un temperino raccontano la storia di una tartaruga, di un pinguino innamorato e di una zebra a pois.",
+    "asset": "illustrazione-la-tartaruga-e-il-pinguino-innamorato-domenicama.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A slow tortoise, a penguin in love holding a flower, and a zebra with polka dots singing together on a stage, two big pencil characters and a sharpener as narrators.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-tartaruga-e-il-pinguino-innamorato-domenicama.webp",
+      "derivedFrom": "illustrazione-la-tartaruga-e-il-pinguino-innamorato-domenicama.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp",
+    "title": "In famiglia al Museo Lavazza: «Con le mani puoi – speciale ATP Finals»",
+    "source": "https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza",
+    "description": "Percorso sensoriale nelle sale del museo con indizi da scoprire e un laboratorio finale ispirato a Montessori.",
+    "asset": "illustrazione-in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Toddlers exploring a sensory path in a modern museum: touching coffee beans in wooden trays, sniffing little jars, a tennis ball rolling, Montessori-style wooden objects.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp.webp",
+      "derivedFrom": "illustrazione-in-famiglia-al-museo-lavazza-con-le-mani-puoi-sp.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-festa-scozzese-gino-compie-4-anni",
+    "title": "La festa scozzese: Gino compie 4 anni!",
+    "source": "https://www.ortigenerali.it/la-festa-scozzese-gino-compie-4-anni/",
+    "description": "Festa per il compleanno del vitellino Gino con cornamuse, cibo e un buffo gioco con le mucche Highland del pascolo.",
+    "asset": "illustrazione-la-festa-scozzese-gino-compie-4-anni.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A shaggy red Highland calf wearing a small party hat in a green city farm pasture, a piper in a kilt playing bagpipes, children laughing and offering hay, a birthday cake on a picnic table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-festa-scozzese-gino-compie-4-anni.webp",
+      "derivedFrom": "illustrazione-la-festa-scozzese-gino-compie-4-anni.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch",
+    "title": "In famiglia al Museo Lavazza: «Sfida all'ultimo chicco – speciale ATP Finals»",
+    "source": "https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza",
+    "description": "Sfide, giochi di squadra e prove di abilità nel museo, con lo spirito del tennis.",
+    "asset": "illustrazione-in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children in two teams having a fun challenge in a modern museum: carrying coffee beans on tennis rackets, balancing and racing, cheering parents.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch.webp",
+      "derivedFrom": "illustrazione-in-famiglia-al-museo-lavazza-sfida-all-ultimo-ch.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "visita-di-natale-per-famiglie-natale-al-castello",
+    "title": "Visita di Natale per famiglie – Natale al Castello",
+    "source": "https://fondoambiente.it/eventi/natale-al-castello-vestito-a-festa",
+    "description": "Visita del castello addobbato per Natale pensata per bambini e famiglie, alla scoperta di tradizioni e giochi di una volta.",
+    "asset": "illustrazione-visita-di-natale-per-famiglie-natale-al-castello.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families walking through a grand castle room decorated for Christmas with garlands and a tall tree, children playing old-fashioned games like spinning tops and wooden horses, a big fireplace.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-visita-di-natale-per-famiglie-natale-al-castello.webp",
+      "derivedFrom": "illustrazione-visita-di-natale-per-famiglie-natale-al-castello.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "giocoleria-con-zenzero",
+    "title": "Giocoleria con Zenzero!",
+    "source": "https://officine-s.it/29-novembre-giocoleria-con-zenzero/",
+    "description": "Il giocoliere Zenzero porta in scena lanci e numeri di abilità. Il pomeriggio continua con musica, animazione e un laboratorio per giocare insieme.",
+    "asset": "illustrazione-giocoleria-con-zenzero.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A cheerful juggler with ginger hair juggling colourful clubs and balls, a child trying to spin a plate on a stick, others learning to juggle scarves, music notes in the air.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-giocoleria-con-zenzero.webp",
+      "derivedFrom": "illustrazione-giocoleria-con-zenzero.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "lo-zapato-e-il-conto-alla-rovescia-per-natale",
+    "title": "Lo Zapato e… il conto alla rovescia per Natale!",
+    "source": "https://lavenaria.it/evento/lo-zapato-e-il-conto-alla-rovescia-per-natale-2/",
+    "description": "Visita a tema natalizio sulla festa dello Zapato alla corte sabauda, con caccia ai dolci nascosti nelle scarpe. Poi laboratorio per costruire un calendario dell'Avvento.",
+    "asset": "illustrazione-lo-zapato-e-il-conto-alla-rovescia-per-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children in a royal palace hall searching for sweets hidden inside old-fashioned shoes lined up on the floor, golden mirrors, then making an advent calendar at a table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lo-zapato-e-il-conto-alla-rovescia-per-natale.webp",
+      "derivedFrom": "illustrazione-lo-zapato-e-il-conto-alla-rovescia-per-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "speciale-serr-laboratorio-perche-lo-butti",
+    "title": "Speciale SERR – Laboratorio «Perché lo butti?»",
+    "source": "https://www.acomeambiente.org/blog/2026/10/28/speciale-serr-laboratorio-perche-lo-butti/",
+    "description": "Si costruisce un proiettore per smartphone e si riflette su consumi e rifiuti, per la Settimana europea per la riduzione dei rifiuti.",
+    "asset": "illustrazione-speciale-serr-laboratorio-perche-lo-butti.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Teenagers building a smartphone projector from a shoebox and a magnifying lens, a bright projected image on the wall, a pile of rescued junk being sorted.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-speciale-serr-laboratorio-perche-lo-butti.webp",
+      "derivedFrom": "illustrazione-speciale-serr-laboratorio-perche-lo-butti.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "pierino-e-il-lupo-ciurma-a-pinerolo",
+    "title": "Pierino e il lupo – Ciurma! a Pinerolo",
+    "source": "https://www.comune.pinerolo.to.it/vivere-comune/eventi/pierino-lupo",
+    "description": "Racconto senza parole di Gek Tessaro con immagini e ombre; alle 15 laboratorio allo Spazio LAB5.",
+    "asset": "illustrazione-pierino-e-il-lupo-ciurma-a-pinerolo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A wordless shadow show: a boy, a bird, a duck, a cat and a wolf as black shadows on a glowing screen, an artist drawing live images on a light table, children watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pierino-e-il-lupo-ciurma-a-pinerolo.webp",
+      "derivedFrom": "illustrazione-pierino-e-il-lupo-ciurma-a-pinerolo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "santa-pelagia-baby-soffi-d-inverno",
+    "title": "Santa Pelagia Baby – Soffi d'Inverno",
+    "source": "https://www.operamunificaistruzione.it/eventi/",
+    "description": "Pomeriggio a tema invernale per bambini dai 3 ai 6 anni al punto lettura della Fondazione OMI. Ingresso gratuito.",
+    "asset": "illustrazione-santa-pelagia-baby-soffi-d-inverno.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Small children blowing on paper snowflakes and feathers to make them fly, a big paper wind cloud with puffed cheeks, winter scarves and mittens, a cosy reading room.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-santa-pelagia-baby-soffi-d-inverno.webp",
+      "derivedFrom": "illustrazione-santa-pelagia-baby-soffi-d-inverno.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-sabato-da-corti-li-piccolo-rito-d-inverno",
+    "title": "Il Sabato da Corti.Lì – Piccolo rito d'inverno",
+    "source": "https://www.operamunificaistruzione.it/evento/piccolo-rito-dinverno-letture-per-accogliere-la-stagione-che-arriva/",
+    "description": "Letture per accogliere l'inverno dedicate ai bambini fino a 6 anni con le famiglie. Appuntamento gratuito del sabato mattina.",
+    "asset": "illustrazione-il-sabato-da-corti-li-piccolo-rito-d-inverno.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families with babies and toddlers sitting around a soft white rug like snow, a reader with a book and a candle-like lamp, paper birds and bare winter branches.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-sabato-da-corti-li-piccolo-rito-d-inverno.webp",
+      "derivedFrom": "illustrazione-il-sabato-da-corti-li-piccolo-rito-d-inverno.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "scienza-da-podio-laboratorio",
+    "title": "Scienza da Podio – laboratorio",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-dicembre/",
+    "description": "Laboratorio di un'ora con sfide e piccoli esperimenti sul legame tra sport e chimica.",
+    "asset": "illustrazione-scienza-da-podio-laboratorio.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children in lab coats and safety glasses on a little winners' podium holding up bubbling test tubes like trophies, sports balls and a stopwatch next to coloured chemistry flasks.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-scienza-da-podio-laboratorio.webp",
+      "derivedFrom": "illustrazione-scienza-da-podio-laboratorio.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "penne-selvagge-la-festa-di-natale-di-collodi",
+    "title": "Penne Selvagge. La festa di Natale di Collodi",
+    "source": "https://torino.circololettori.it/attivita/bambini-26/",
+    "description": "Laboratorio di scrittura e lettura dedicato a Collodi e alle sue storie di Natale. Pensato per bambini dai 7 agli 11 anni.",
+    "asset": "illustrazione-penne-selvagge-la-festa-di-natale-di-collodi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children with big feather quills writing their own Christmas stories at an old wooden table, a little wooden puppet with a long nose peeking out from a book, snowy window. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-penne-selvagge-la-festa-di-natale-di-collodi.webp",
+      "derivedFrom": "illustrazione-penne-selvagge-la-festa-di-natale-di-collodi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi",
+    "title": "Hokusai: la grande onda e il Monte Fuji – Sabati Giocondi",
+    "source": "https://www.barrito.to.it/i-sabati-giocondi-dicembre-2026/",
+    "description": "Laboratorio creativo con Andrea Guerzoni ispirato alle stampe giapponesi di Hokusai, con la grande onda e le vedute del Monte Fuji.",
+    "asset": "illustrazione-hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children painting and printing a giant curling blue sea wave with foam claws and a snowy mountain in the background, Japanese print style inside the picture-book look, ink rollers on the table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi.webp",
+      "derivedFrom": "illustrazione-hokusai-la-grande-onda-e-il-monte-fuji-sabati-gi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "lo-schiaccianoci-casa-teatro",
+    "title": "Lo Schiaccianoci – danza per famiglie",
+    "source": "https://casateatroragazzi.it/spettacoli/lo-schiaccianoci/",
+    "description": "La Compagnia EgriBiancoDanza porta in scena Lo Schiaccianoci sulle musiche di Čajkovskij, con la Fata Confetto che guida Clara nella notte di Natale.",
+    "asset": "illustrazione-lo-schiaccianoci-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Ballet dancers on a stage: a girl in a nightdress holding a wooden nutcracker doll, a sugar-plum fairy in pink, a giant decorated Christmas tree and falling snow.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-lo-schiaccianoci-casa-teatro.webp",
+      "derivedFrom": "illustrazione-lo-schiaccianoci-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-re-leone-e-l-elefante-casa-gianduja",
+    "title": "Il Re Leone e l'Elefante – Casa Gianduja",
+    "source": "https://www.happyticket.com/torino/acquista-biglietti/1-316787-il-re-leone-e-l-elefante.htm",
+    "description": "Spettacolo di pupazzi e attore della Compagnia Marionette Grilli. Il biglietto comprende un laboratorio dalle 15 e la visita al museo delle marionette.",
+    "asset": "illustrazione-il-re-leone-e-l-elefante-casa-gianduja.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: An actor with a big lion puppet wearing a small crown and a gentle grey elephant puppet on a little puppet stage, children watching, a marionette museum with puppets on the walls. Not the Disney film.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-re-leone-e-l-elefante-casa-gianduja.webp",
+      "derivedFrom": "illustrazione-il-re-leone-e-l-elefante-casa-gianduja.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "viaggio-di-una-nuvola-casa-teatro",
+    "title": "Viaggio di una nuvola",
+    "source": "https://casateatroragazzi.it/spettacoli/viaggio-di-una-nuvola/",
+    "description": "Una nuvola porta un bambino in viaggio sopra il mondo, tra campagne, deserti e animali da scoprire. Per i piccolissimi.",
+    "asset": "illustrazione-viaggio-di-una-nuvola-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A small child riding on a soft white cloud above the world: green fields, a yellow desert with camels, a sea with whales; toddlers in the audience watching on cushions.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-viaggio-di-una-nuvola-casa-teatro.webp",
+      "derivedFrom": "illustrazione-viaggio-di-una-nuvola-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "festa-di-natale-alla-casa-nel-parco",
+    "title": "Festa di Natale alla Casa nel Parco",
+    "source": "https://www.casanelparco.it/festa-di-natale-2026/",
+    "description": "Festa di quartiere con burattini del Teatrino Viaggiante alle 11, spettacolo di magia «Christmas Box» alle 15:30 e lettura «Caro Babbo ti scrivo» alle 15. Alle 17 si addobbano gli alberi ai Giardini Emilio Pugno.",
+    "asset": "illustrazione-festa-di-natale-alla-casa-nel-parco.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families in a park in winter hanging handmade decorations on small trees, a little travelling puppet theatre on one side, a magician pulling a present from a box.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-festa-di-natale-alla-casa-nel-parco.webp",
+      "derivedFrom": "illustrazione-festa-di-natale-alla-casa-nel-parco.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "prossima-destinazione-natale-circo-contemporaneo",
+    "title": "Prossima destinazione: Natale! – circo contemporaneo",
+    "source": "https://www.comune.settimo-torinese.to.it/it/eventi/prossima-destinazione-natale",
+    "description": "La vigilia di Natale alcuni artisti di circo bloccati in aeroporto aiutano un fantasma che teme di essere dimenticato, raccontando le tradizioni natalizie dei loro Paesi. Acrobazie aeree, palo cinese, verticalismo e corda molle.",
+    "asset": "illustrazione-prossima-destinazione-natale-circo-contemporaneo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Circus artists stuck in an airport waiting room on Christmas Eve: an acrobat hanging from silk ribbons, one balancing on a slack rope between suitcases, a friendly little ghost smiling, a departures board with only symbols.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-prossima-destinazione-natale-circo-contemporaneo.webp",
+      "derivedFrom": "illustrazione-prossima-destinazione-natale-circo-contemporaneo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "facciamo-l-albero-con-gli-elfi",
+    "title": "Facciamo l'albero con gli elfi!",
+    "source": "https://officine-s.it/6-dicembre-facciamo-lalbero-con-gli-elfi/",
+    "description": "Gli elfi aiutano i bambini a creare ognuno la propria pallina da appendere all'albero di Natale. Poi musica e giochi per i più piccoli.",
+    "asset": "illustrazione-facciamo-l-albero-con-gli-elfi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two friendly elves helping children paint and glitter their own Christmas baubles, then children hanging them on a big tree, music notes floating.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-facciamo-l-albero-con-gli-elfi.webp",
+      "derivedFrom": "illustrazione-facciamo-l-albero-con-gli-elfi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "canto-di-natale-concordia-2026",
+    "title": "Canto di Natale – Favole a Merenda",
+    "source": "https://www.teatrodellaconcordia.it/programma-prossimi-eventi/",
+    "description": "La storia del vecchio brontolone che la notte di Natale cambia idea, raccontata con pupazzi, maschere e topolini. Uno spettacolo della rassegna domenicale Favole a Merenda, pensato per i bambini e le loro famiglie.",
+    "asset": "illustrazione-canto-di-natale-concordia-2026.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A grumpy old man puppet in a nightcap counting coins by candlelight, little mouse puppets dancing on his desk, a masked actor as a glowing spirit, children with snacks watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-canto-di-natale-concordia-2026.webp",
+      "derivedFrom": "illustrazione-canto-di-natale-concordia-2026.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "atomic-bingo-show",
+    "title": "Atomic Bingo – show",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-dicembre/",
+    "description": "Una tombola a tema tavola periodica con esperimenti e premi per chi completa la cartella.",
+    "asset": "illustrazione-atomic-bingo-show.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families playing bingo with big cards covered in colourful element squares (only coloured squares, no letters), a scientist on stage making a flask bubble and smoke, a child winning a prize.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-atomic-bingo-show.webp",
+      "derivedFrom": "illustrazione-atomic-bingo-show.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "laboratorio-di-natale-con-babbo-e-gli-elfi",
+    "title": "Laboratorio di Natale con Babbo e gli Elfi!",
+    "source": "https://officine-s.it/8-dicembre-laboratorio-di-natale-con-babbo-e-gli-elfi/",
+    "description": "Laboratorio creativo natalizio con la possibilità di incontrare Babbo Natale. Seguono musica, truccabimbi e animazione.",
+    "asset": "illustrazione-laboratorio-di-natale-con-babbo-e-gli-elfi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Father Christmas sitting in a big armchair while children show him their handmade Christmas crafts, elves with face paint brushes painting stars on a child's cheek.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-laboratorio-di-natale-con-babbo-e-gli-elfi.webp",
+      "derivedFrom": "illustrazione-laboratorio-di-natale-con-babbo-e-gli-elfi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "the-elf-on-the-lab-laboratorio-di-natale",
+    "title": "The elf on the lab – laboratorio di Natale",
+    "source": "https://www.mu-ch.it/scopri-il-programma-di-dicembre/",
+    "description": "Gli elfi hanno combinato un pasticcio tra robot ed esperimenti: i bambini li aiutano a rimettere ordine con la scienza.",
+    "asset": "illustrazione-the-elf-on-the-lab-laboratorio-di-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A messy science lab with little elves tangled in wires and tipped-over flasks, a friendly robot covered in tinsel, children in lab coats helping to tidy up and fix things.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-the-elf-on-the-lab-laboratorio-di-natale.webp",
+      "derivedFrom": "illustrazione-the-elf-on-the-lab-laboratorio-di-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "mercorti-li-gocce-di-voce",
+    "title": "Mercorti.Lì – Gocce di voce",
+    "source": "https://www.operamunificaistruzione.it/evento/mercorti-li-gocce-di-voce/",
+    "description": "Pomeriggio del mercoledì con voce e storie per bambini da 0 a 6 anni al Corti.Lì. Gratuito.",
+    "asset": "illustrazione-mercorti-li-gocce-di-voce.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A reader singing softly and big blue paper raindrops falling from an umbrella above a group of small children and parents, a child catching a raindrop, books on the floor.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mercorti-li-gocce-di-voce.webp",
+      "derivedFrom": "illustrazione-mercorti-li-gocce-di-voce.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-storia-del-natale-dell-albero-e-della-regina",
+    "title": "La storia del Natale, dell'albero e della regina che lo portò in Italia",
+    "source": "https://museireali.cultura.gov.it/events/calendario-settembre-dicembre-2026/",
+    "description": "Visita e laboratorio sulle tradizioni del presepe e dell'albero di Natale, dai reperti archeologici alle Natività dipinte.",
+    "asset": "illustrazione-la-storia-del-natale-dell-albero-e-della-regina.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: An elegant 19th-century queen in a long gown placing a star on a candle-lit Christmas tree in a royal palace hall, children making nativity figures at a table nearby.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-storia-del-natale-dell-albero-e-della-regina.webp",
+      "derivedFrom": "illustrazione-la-storia-del-natale-dell-albero-e-della-regina.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "detective-del-digitale-focus-junior-area-x",
+    "title": "All’arrembaggio del web – show scientifico e laboratorio con Focus Junior",
+    "source": "https://www.focusjunior.it/senza-categoria/focus-junior-torna-ad-area-x-il-12-dicembre-pronti-a-diventare-detective-del-web/",
+    "description": "Un pomeriggio per capire come funziona internet: password, notizie false e messaggi segreti. Prima lo show scientifico, poi il laboratorio «Detective del digitale» in cui si costruisce una piccola rete e si cifrano i messaggi. Circa un'ora e mezza.",
+    "asset": "illustrazione-detective-del-digitale-focus-junior-area-x.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children dressed as little detectives with magnifying glasses connecting computers with coloured strings like a spider web, a padlock and a secret message in symbols, a presenter doing a science show.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-detective-del-digitale-focus-junior-area-x.webp",
+      "derivedFrom": "illustrazione-detective-del-digitale-focus-junior-area-x.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "piccolo-asmodeo-casa-teatro",
+    "title": "Piccolo Asmodeo",
+    "source": "https://casateatroragazzi.it/spettacoli/piccolo-asmodeo/",
+    "description": "Asmodeo è un diavoletto troppo buono: il padre lo manda sulla Terra con una missione impossibile, e ne nasce un viaggio strampalato.",
+    "asset": "illustrazione-piccolo-asmodeo-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A small, kind little red devil with tiny horns helping an old lady carry her shopping on a city street, looking confused, his stern devil father watching from a cloud of smoke.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-piccolo-asmodeo-casa-teatro.webp",
+      "derivedFrom": "illustrazione-piccolo-asmodeo-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-mistero-delle-renne-scomparse-un-barrito-da-p",
+    "title": "Il mistero delle renne scomparse – Un Barrito da piccoli",
+    "source": "https://www.barrito.to.it/i-sabati-giocondi-dicembre-2026/",
+    "description": "Spettacolo di Natale della compagnia Fiabesca, nella rassegna di teatro per famiglie del Barrito.",
+    "asset": "illustrazione-il-mistero-delle-renne-scomparse-un-barrito-da-p.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children and an actor dressed as a detective following reindeer hoofprints in the snow with a lantern, an empty sleigh behind them, a reindeer peeking out from behind a tree.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-mistero-delle-renne-scomparse-un-barrito-da-p.webp",
+      "derivedFrom": "illustrazione-il-mistero-delle-renne-scomparse-un-barrito-da-p.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "schiaccianoci-e-re-dei-topi-marionette-a-casa-gi",
+    "title": "Schiaccianoci e Re dei Topi – marionette a Casa Gianduja",
+    "source": "https://www.happyticket.com/torino/acquista-biglietti/1-316794-schiaccianoci-e-re-dei-topi.htm",
+    "description": "La fiaba natalizia dello Schiaccianoci raccontata con le marionette della Compagnia Grilli. Nel weekend il biglietto comprende laboratorio dalle 15 e visita al museo.",
+    "asset": "illustrazione-schiaccianoci-e-re-dei-topi-marionette-a-casa-gi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Marionettes on strings on a small puppet stage: a brave wooden nutcracker soldier with a sword facing a mouse king with three crowns, a girl marionette in a nightdress, puppeteer hands above.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-schiaccianoci-e-re-dei-topi-marionette-a-casa-gi.webp",
+      "derivedFrom": "illustrazione-schiaccianoci-e-re-dei-topi-marionette-a-casa-gi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "ida-e-la-bambina-nuova-casa-teatro",
+    "title": "Ida e la bambina nuova",
+    "source": "https://casateatroragazzi.it/spettacoli/ida-e-la-bambina-nuova/",
+    "description": "Ida non parla mai, ma dentro di lei c'è una Bambina Nuova che dice tutto quello che Ida tiene dentro. Una storia sulle emozioni.",
+    "asset": "illustrazione-ida-e-la-bambina-nuova-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A quiet girl sitting silently, and next to her a glowing, colourful copy of herself shouting, laughing and dancing, showing all the emotions she keeps inside.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-ida-e-la-bambina-nuova-casa-teatro.webp",
+      "derivedFrom": "illustrazione-ida-e-la-bambina-nuova-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "natale-al-baby-gym",
+    "title": "Natale al Baby Gym",
+    "source": "https://www.babygym-to.com/evento/natale/",
+    "description": "Festa di Natale in palestra con giochi a tema elfi, musica, percorsi e acrobazie, e la visita di Babbo Natale.",
+    "asset": "illustrazione-natale-al-baby-gym.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Toddlers and young children in elf hats tumbling on soft gym mats, climbing a colourful obstacle course and doing cartwheels, Father Christmas waving at the door.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-natale-al-baby-gym.webp",
+      "derivedFrom": "illustrazione-natale-al-baby-gym.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "fiocchi-di-neve-pav-kids",
+    "title": "Fiocchi di Neve – PAV Kids",
+    "source": "https://parcoartevivente.it/pav-kids/",
+    "description": "Laboratorio sulle geometrie del ghiaccio: con la tecnica della monotipia i bambini creano timbri e biglietti di auguri. Dopo si può fare pic nic sul prato.",
+    "asset": "illustrazione-fiocchi-di-neve-pav-kids.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children printing big snowflake shapes with ink and rollers onto paper to make greeting cards, a table covered with icy blue prints, a garden with modern sculptures outside the window.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-fiocchi-di-neve-pav-kids.webp",
+      "derivedFrom": "illustrazione-fiocchi-di-neve-pav-kids.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "volti-che-affiorano-attivita-per-famiglie-alla-g",
+    "title": "Volti che affiorano – attività per famiglie alla GAM",
+    "source": "https://www.coopculture.it/it/prodotti/volti-che-affiorano/",
+    "description": "Visita guidata alla mostra di Marisa Merz e poi un'attività creativa di gruppo ispirata al suo modo di lavorare, fatto di gesti ripetuti e ascolto.",
+    "asset": "illustrazione-volti-che-affiorano-attivita-per-famiglie-alla-g.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families in a modern art gallery sitting together around a big sheet of paper, repeating small marks and lines to make gentle faces appear, thin copper wire and delicate drawings around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-volti-che-affiorano-attivita-per-famiglie-alla-g.webp",
+      "derivedFrom": "illustrazione-volti-che-affiorano-attivita-per-famiglie-alla-g.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "scriviamo-la-letterina-di-natale",
+    "title": "Scriviamo la letterina di Natale!",
+    "source": "https://officine-s.it/13-dicembre-scriviamo-la-letterina-di-natale/",
+    "description": "I bambini scrivono la lettera a Babbo Natale con Mamma Noel e due elfe; una letterina sarà estratta il 20 dicembre. Animazione e musica per grandi e piccoli.",
+    "asset": "illustrazione-scriviamo-la-letterina-di-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children writing and drawing their letters to Father Christmas at a long table, Mother Christmas in a red dress and two girl elves helping, a big red mailbox.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-scriviamo-la-letterina-di-natale.webp",
+      "derivedFrom": "illustrazione-scriviamo-la-letterina-di-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "sciopero-ovvero-quella-volta-che-il-lupo-smise-d",
+    "title": "Sciopero! Ovvero quella volta che il lupo smise di lavorare – Teatro per famiglie",
+    "source": "https://www.comune.chivasso.to.it/it/events/stagione-teatrale-2026-2027-2519423-2519427-2519428-2519432-2519433",
+    "description": "Il Lupo Cattivo, stanco di perdere sempre, entra in sciopero. Senza di lui il regno delle fiabe va in crisi e il Re prova in tutti i modi a farlo tornare al lavoro. Di e con Riccardo Colombini.",
+    "asset": "illustrazione-sciopero-ovvero-quella-volta-che-il-lupo-smise-d.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A big bad wolf sitting on a chair with crossed arms holding a protest sign with only a drawing of a crossed-out claw, a worried fairy-tale king, Little Red Riding Hood and three little pigs looking confused.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sciopero-ovvero-quella-volta-che-il-lupo-smise-d.webp",
+      "derivedFrom": "illustrazione-sciopero-ovvero-quella-volta-che-il-lupo-smise-d.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "passi-di-festa-los-zapatos-di-san-nicola",
+    "title": "Passi di festa: los zapatos di San Nicola",
+    "source": "https://museireali.cultura.gov.it/events/calendario-settembre-dicembre-2026/",
+    "description": "Visita al piano di rappresentanza e poi creazione di una decorazione in origami da appendere all'albero.",
+    "asset": "illustrazione-passi-di-festa-los-zapatos-di-san-nicola.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children folding origami stars and paper birds at a table in an elegant royal hall, then hanging them on a Christmas tree, little shoes lined up near a fireplace.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-passi-di-festa-los-zapatos-di-san-nicola.webp",
+      "derivedFrom": "illustrazione-passi-di-festa-los-zapatos-di-san-nicola.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "qualcuno-ha-visto-babbo-natale-commedia-musicale",
+    "title": "Qualcuno ha visto Babbo Natale – commedia musicale",
+    "source": "https://teatrocardinalmassaia.com/spettacolo/qualcuno-ha-visto-babbo-natale/",
+    "description": "Commedia musicale per famiglie: Babbo Natale è sparito e la piccola Alice, con l'aiuto degli elfi, prova a salvare il Natale.",
+    "asset": "illustrazione-qualcuno-ha-visto-babbo-natale-commedia-musicale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A brave little girl in a red coat with a magnifying glass and a group of elves searching through a toy workshop for Father Christmas, an empty armchair, singing on stage.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-qualcuno-ha-visto-babbo-natale-commedia-musicale.webp",
+      "derivedFrom": "illustrazione-qualcuno-ha-visto-babbo-natale-commedia-musicale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "ahi-ahia-pirati-in-corsia",
+    "title": "Ahi! Ahia! Pirati in corsia!",
+    "source": "https://mulinoadarte.com/eventi/ahi-ahia-pirati-in-corsia-2/",
+    "description": "Nina, ricoverata in ospedale, scopre con l'infermiere Camillo la vera storia del pirata Long John Silver e diventa capitano dei pirati buoni. Un'avventura teatrale ispirata all'Isola del Tesoro.",
+    "asset": "illustrazione-ahi-ahia-pirati-in-corsia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A girl in a hospital bed wearing a paper pirate hat, a friendly nurse with an eye patch telling a story, the bed turning into a pirate ship sailing towards a treasure island.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-ahi-ahia-pirati-in-corsia.webp",
+      "derivedFrom": "illustrazione-ahi-ahia-pirati-in-corsia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "biscotti-per-rudolph-eataly-lingotto",
+    "title": "Cucinare in famiglia – i biscotti per Rudolph",
+    "source": "https://www.eataly.it/p/cucinare-in-famiglia-%7C-i-biscotti-per-rudolph-2004477965554.html",
+    "description": "Lezione pratica di cucina per bambini e genitori: si preparano insieme i biscotti di Natale per la renna Rudolph.",
+    "asset": "illustrazione-biscotti-per-rudolph-eataly-lingotto.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children and parents in aprons cutting reindeer-shaped biscuits from dough in a bright cooking school kitchen, a plate of biscuits with a red-nosed reindeer peeking in through the window.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-biscotti-per-rudolph-eataly-lingotto.webp",
+      "derivedFrom": "illustrazione-biscotti-per-rudolph-eataly-lingotto.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "santa-pelagia-baby-la-musica-si-muove",
+    "title": "Santa Pelagia Baby – La musica si muove!",
+    "source": "https://www.operamunificaistruzione.it/evento/santa-pelagia-baby-la-musica-si-muove/",
+    "description": "Musica e movimento per bambini dai 3 ai 6 anni. Ingresso gratuito.",
+    "asset": "illustrazione-santa-pelagia-baby-la-musica-si-muove.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Small children dancing freely with coloured ribbons and scarves, a teacher playing a tambourine, music notes swirling around them like a dance.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-santa-pelagia-baby-la-musica-si-muove.webp",
+      "derivedFrom": "illustrazione-santa-pelagia-baby-la-musica-si-muove.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "atmosfere-natalizie-nelle-residenze",
+    "title": "Atmosfere natalizie nelle residenze",
+    "source": "https://www.ordinemauriziano.it/palazzina-stupinigi/eventi/atmosfere-natalizie-nelle-residenze/",
+    "description": "I giardinieri della Palazzina insegnano a fare centrotavola e ghirlande di Natale con fiori d'inverno, bacche e foglie della tenuta, da portare a casa.",
+    "asset": "illustrazione-atmosfere-natalizie-nelle-residenze.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Gardeners showing families how to make Christmas wreaths and table centrepieces with winter berries, holly, pine branches and dried flowers, in front of an elegant royal hunting lodge in the snow.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-atmosfere-natalizie-nelle-residenze.webp",
+      "derivedFrom": "illustrazione-atmosfere-natalizie-nelle-residenze.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "astro-elefantessa-casa-teatro",
+    "title": "Astro Elefantessa – una proboscidata nello spazio",
+    "source": "https://casateatroragazzi.it/spettacoli/elefantastica/",
+    "description": "Un'elefantessa sogna di diventare astronauta e trova una strada nuova per riuscirci. Spettacolo gratuito del progetto «Un teatro da vicino».",
+    "asset": "illustrazione-astro-elefantessa-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A little elephant in a space suit floating among the stars and planets, using her trunk to steer a homemade rocket, children cheering in the theatre.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-astro-elefantessa-casa-teatro.webp",
+      "derivedFrom": "illustrazione-astro-elefantessa-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-piccolo-spazzacamino-in-famiglia-al-regio",
+    "title": "Il piccolo spazzacamino – In famiglia al Regio",
+    "source": "https://www.teatroregio.torino.it/famiglia-2026-2027/il-piccolo-spazzacamino",
+    "description": "Opera per bambini di Britten: il piccolo Sam resta incastrato in un camino e lo liberano i bambini della casa. Il pubblico è invitato a cantare con gli interpreti e il coro di voci bianche.",
+    "asset": "illustrazione-il-piccolo-spazzacamino-in-famiglia-al-regio.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A small chimney sweep boy covered in soot being pulled out of a big fireplace by children of the house, a children's choir singing on a big opera stage, the audience singing along.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-piccolo-spazzacamino-in-famiglia-al-regio.webp",
+      "derivedFrom": "illustrazione-il-piccolo-spazzacamino-in-famiglia-al-regio.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "pinocchio-e-giannettino-due-monelli-a-confronto",
+    "title": "Pinocchio e Giannettino, due monelli a confronto",
+    "source": "https://torino.circololettori.it/attivita/bambini-26/",
+    "description": "Laboratorio che mette a confronto due monelli dei libri di Collodi, Pinocchio e Giannettino. Per bambini dai 5 ai 9 anni.",
+    "asset": "illustrazione-pinocchio-e-giannettino-due-monelli-a-confronto.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two naughty boys side by side: a wooden puppet with a long nose and a cheeky 19th-century schoolboy with a cap, both pulling faces, children at desks laughing and drawing them. Classic old-book style, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-pinocchio-e-giannettino-due-monelli-a-confronto.webp",
+      "derivedFrom": "illustrazione-pinocchio-e-giannettino-due-monelli-a-confronto.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "tane-a-natale-sabati-giocondi",
+    "title": "Tane a Natale – Sabati Giocondi",
+    "source": "https://www.barrito.to.it/i-sabati-giocondi-dicembre-2026/",
+    "description": "Laboratorio con Suzanne Piana in cui i bambini costruiscono tane per gli animali dell'inverno.",
+    "asset": "illustrazione-tane-a-natale-sabati-giocondi.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children building cosy winter dens from twigs, moss, wool and boxes for little animals: a hedgehog, a dormouse and a squirrel sleeping inside, snowy branches.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-tane-a-natale-sabati-giocondi.webp",
+      "derivedFrom": "illustrazione-tane-a-natale-sabati-giocondi.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "ape-pina-casa-teatro",
+    "title": "Ape Pina",
+    "source": "https://casateatroragazzi.it/spettacoli/ape-pina/",
+    "description": "Un'ape che ha perso la strada ritrova il suo alveare: un'attrice, disegni dal vivo con la lavagna luminosa, suoni e musica.",
+    "asset": "illustrazione-ape-pina-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A little lost bee flying over flowers looking for her hive, painted live by an actress on a glowing light table and projected big on a screen, toddlers watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-ape-pina-casa-teatro.webp",
+      "derivedFrom": "illustrazione-ape-pina-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "festa-di-natale-con-mamma-noel",
+    "title": "Festa di Natale con Mamma Noel!",
+    "source": "https://officine-s.it/20-dicembre-festa-di-natale-con-mamma-noel/",
+    "description": "Festa di Natale con Mamma Noel e gli elfi, con l'estrazione della letterina fortunata. Giochi, magia e truccabimbi.",
+    "asset": "illustrazione-festa-di-natale-con-mamma-noel.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Mother Christmas in a red dress pulling a lucky letter from a big glass jar, children with painted faces cheering, elves doing a magic trick with a top hat.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-festa-di-natale-con-mamma-noel.webp",
+      "derivedFrom": "illustrazione-festa-di-natale-con-mamma-noel.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "opera-pop-kids",
+    "title": "Opera Pop Kids",
+    "source": "https://www.casafools.it/evento/opera-pop-kids/",
+    "description": "Luigi Orfeo racconta le grandi opere liriche come un luna park in musica, tra giullarate e pantomime. Parole e musica rendono l'opera facile da capire anche per i più piccoli. Merenda alle 16 prima dello spettacolo.",
+    "asset": "illustrazione-opera-pop-kids.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A jester-like singer on a stage turned into a colourful musical fairground: a carousel, a Viking-helmet opera singer, a toreador and a fairy, children laughing in the audience with snacks.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-opera-pop-kids.webp",
+      "derivedFrom": "illustrazione-opera-pop-kids.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-mia-vera-storia-di-natale-kirby-teatro",
+    "title": "La mia vera storia di Natale – Kirby Teatro",
+    "source": "https://www.labottegateatrale.it/calendario-spettacoli-le-figure-dellinverno-2026-2027.html",
+    "description": "Spettacolo natalizio della compagnia Kirby Teatro nella rassegna per famiglie della domenica pomeriggio alla Crocetta.",
+    "asset": "illustrazione-la-mia-vera-storia-di-natale-kirby-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Actors on a small stage telling a Christmas story with a decorated tree, a fireplace with stockings and a surprised child opening a glowing present, families watching.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-mia-vera-storia-di-natale-kirby-teatro.webp",
+      "derivedFrom": "illustrazione-la-mia-vera-storia-di-natale-kirby-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "family-lab-festa-della-luce",
+    "title": "Family Lab – Festa della Luce",
+    "source": "https://www.gruppoabele.org/documenti/schede/gef_settembre_2026_card.pdf",
+    "description": "Pomeriggio di festa per famiglie sotto Natale, con giochi e attività per grandi e piccoli.",
+    "asset": "illustrazione-family-lab-festa-della-luce.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Families making paper lanterns and little candle-like lights in a warm community café, a long table, children holding up glowing lanterns, garlands of lights.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-family-lab-festa-della-luce.webp",
+      "derivedFrom": "illustrazione-family-lab-festa-della-luce.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "presepe-vivente-buriasco-2026",
+    "title": "Presepe vivente di Buriasco",
+    "source": "https://turismotorino.org/it/visita/eventi/presepe-vivente-2026-buriasco",
+    "description": "Sedicesima edizione del presepe vivente nel parco di Villa Ceriana: scene della Natività, il villaggio dei vecchi mestieri, bancarelle e i recinti con gli animali.",
+    "asset": "illustrazione-presepe-vivente-buriasco-2026.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A living nativity scene in a village park at night: people in old costumes as shepherds, a blacksmith and a baker at work, a donkey and sheep in pens, families walking with lanterns.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-presepe-vivente-buriasco-2026.webp",
+      "derivedFrom": "illustrazione-presepe-vivente-buriasco-2026.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "sparkly-magic-show-casa-teatro",
+    "title": "Sparkly Magic Show – magia per le feste",
+    "source": "https://casateatroragazzi.it/spettacoli/sparkly-magic-show/",
+    "description": "Grande spettacolo di magia e illusionismo con il Circolo Amici della Magia di Torino, per tutte le età, nelle vacanze di Natale.",
+    "asset": "illustrazione-sparkly-magic-show-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A magician in a sparkly jacket making doves and colourful scarves fly out of a top hat, a floating table, glittering stars, astonished children in the audience.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-sparkly-magic-show-casa-teatro.webp",
+      "derivedFrom": "illustrazione-sparkly-magic-show-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-rapimento-di-babbo-natale-monterosa",
+    "title": "Il rapimento di Babbo Natale",
+    "source": "https://teatromonterosa.it/il-rapimento-di-babbo-natale/",
+    "description": "Alla vigilia di Natale cinque demoni rapiscono Babbo Natale: i suoi aiutanti e la Regina delle Fate organizzano la liberazione. Spettacolo per famiglie con scambio di regali nel pomeriggio.",
+    "asset": "illustrazione-il-rapimento-di-babbo-natale-monterosa.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Five funny little horned demons carrying away Father Christmas tied up with tinsel, the Fairy Queen with a glowing wand and his helpers chasing them across the snow.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-rapimento-di-babbo-natale-monterosa.webp",
+      "derivedFrom": "illustrazione-il-rapimento-di-babbo-natale-monterosa.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "servizio-favole-tedaca-natale",
+    "title": "Servizio Favole – Un Natale da favola",
+    "source": "https://www.tedaca.it/spettacoli/servizio-favole-natale-da-favola/",
+    "description": "Quattro bambine trasformano il teatro in un «servizio di racconto favole» e raccontano storie e filastrocche ispirate a Gianni Rodari. Dura un'ora.",
+    "asset": "illustrazione-servizio-favole-tedaca-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Four girls on a stage behind a little counter with a sign showing only a book symbol, handing out stories like ice-cream, fantasy characters popping out of the books, children in the audience.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-servizio-favole-tedaca-natale.webp",
+      "derivedFrom": "illustrazione-servizio-favole-tedaca-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-bosco-delle-storie-di-natale-drogheria-rebelo",
+    "title": "Il bosco delle storie di Natale – Drogheria Rebelot",
+    "source": "https://www.comune.settimo-torinese.to.it/it/eventi/il-bosco-delle-storie-di-natale",
+    "description": "La vigilia di Natale la cameretta di un bambino diventa un bosco innevato dove prendono vita personaggi dei libri e animali che festeggiano il ritorno della luce. Spettacolo della compagnia Drogheria Rebelot.",
+    "asset": "illustrazione-il-bosco-delle-storie-di-natale-drogheria-rebelo.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A child's bedroom turning into a snowy forest: the bed among fir trees, a fox, a bear and storybook characters stepping out of books, little lights coming back on in the trees.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-bosco-delle-storie-di-natale-drogheria-rebelo.webp",
+      "derivedFrom": "illustrazione-il-bosco-delle-storie-di-natale-drogheria-rebelo.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "il-canto-di-natale-casa-teatro",
+    "title": "Il Canto di Natale – con merenda",
+    "source": "https://casateatroragazzi.it/spettacoli/il-canto-di-natale/",
+    "description": "La fiaba di Dickens esce da una vecchia credenza come da un calendario dell'Avvento: Scrooge e i tre spiriti, raccontati da due attori. Segue la merenda.",
+    "asset": "illustrazione-il-canto-di-natale-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Two actors opening the many little doors of an old wooden cupboard like an advent calendar, from each door a scene appears: a grumpy old man, three glowing spirits, a snowy Victorian street; children with a snack.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-il-canto-di-natale-casa-teatro.webp",
+      "derivedFrom": "illustrazione-il-canto-di-natale-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "mettere-in-ordine-il-natale",
+    "title": "Mettere in ordine il Natale",
+    "source": "https://www.happyticket.com/torino/acquista-biglietti/1-320087-mettere-in-ordine-il-natale.htm",
+    "description": "Nel Boscodellemeraviglie il Folletto Sam prepara il Natale, ma l'incontro con lo Spirito del Natale gli fa capire cosa serve perché la festa arrivi davvero.",
+    "asset": "illustrazione-mettere-in-ordine-il-natale.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A little elf in a magical forest trying to tidy up a huge mess of presents, ribbons and baubles, a glowing friendly Christmas spirit appearing among the trees.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mettere-in-ordine-il-natale.webp",
+      "derivedFrom": "illustrazione-mettere-in-ordine-il-natale.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "crea-la-tua-calza-della-befana",
+    "title": "Crea la tua calza della Befana!",
+    "source": "https://officine-s.it/3-gennaio-crea-la-tua-calza-della-befana/",
+    "description": "I bambini costruiscono con le proprie mani la calza per la Befana. Il pomeriggio continua con musica, animazione e giochi.",
+    "asset": "illustrazione-crea-la-tua-calza-della-befana.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Children decorating big felt stockings with buttons, sequins and ribbons, a kind old witch with a broom and a patched shawl smiling at them, sweets on the table.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-crea-la-tua-calza-della-befana.webp",
+      "derivedFrom": "illustrazione-crea-la-tua-calza-della-befana.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-sirenetta-musical-per-famiglie",
+    "title": "La Sirenetta – musical per famiglie",
+    "source": "https://teatrocardinalmassaia.com/spettacolo/la-sirenetta/",
+    "description": "La fiaba della Sirenetta in versione musical, con canzoni dal vivo e costumi fantastici, per bambini e adulti.",
+    "asset": "illustrazione-la-sirenetta-musical-per-famiglie.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A musical stage under the sea: a mermaid with a shimmering tail singing on a rock, fish, seashells and coral, a ship above the waves. Classic fairy-tale look, not the Disney version.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-sirenetta-musical-per-famiglie.webp",
+      "derivedFrom": "illustrazione-la-sirenetta-musical-per-famiglie.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "in-viaggio-con-il-piccolo-principe-casa-teatro",
+    "title": "In viaggio con il Piccolo Principe",
+    "source": "https://casateatroragazzi.it/spettacoli/in-viaggio-con-il-piccolo-principe/",
+    "description": "Il viaggio del Piccolo Principe dall'asteroide B 612 alla Terra e i personaggi che incontra lungo la strada.",
+    "asset": "illustrazione-in-viaggio-con-il-piccolo-principe-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A boy with golden hair and a long scarf standing on a tiny planet with a single rose under a glass dome, a fox looking up at him, stars and other small planets around. Not the original book drawings.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-in-viaggio-con-il-piccolo-principe-casa-teatro.webp",
+      "derivedFrom": "illustrazione-in-viaggio-con-il-piccolo-principe-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "gianduja-e-la-farina-magica-burattini-a-casa-gia",
+    "title": "Gianduja e la Farina Magica – burattini a Casa Gianduja",
+    "source": "https://www.happyticket.com/torino/acquista-biglietti/1-316777-gianduja-e-la-farina-magica.htm",
+    "description": "Spettacolo di burattini con Gianduja, la maschera piemontese, per bambini e famiglie, della Compagnia Marionette Grilli.",
+    "asset": "illustrazione-gianduja-e-la-farina-magica-burattini-a-casa-gia.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A traditional Piedmont hand puppet with a red tricorn hat and a pigtail throwing a cloud of sparkling magic flour from a sack, a little puppet booth, children laughing.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-gianduja-e-la-farina-magica-burattini-a-casa-gia.webp",
+      "derivedFrom": "illustrazione-gianduja-e-la-farina-magica-burattini-a-casa-gia.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "zerozerozerosottozero-casa-teatro",
+    "title": "Zerozerozerosottozero",
+    "source": "https://casateatroragazzi.it/spettacoli/zerozerosottozero/",
+    "description": "Tre pinguini agenti speciali in missione per salvare gli animali dall'estinzione: uno spettacolo sul cambiamento climatico.",
+    "asset": "illustrazione-zerozerozerosottozero-casa-teatro.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Three penguin secret agents in sunglasses on a melting iceberg, using gadgets to rescue a polar bear, a seal and a little fox, the sun shining hot.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-zerozerozerosottozero-casa-teatro.webp",
+      "derivedFrom": "illustrazione-zerozerozerosottozero-casa-teatro.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "la-rivolta-dei-fantasmi-le-figure-dell-inverno",
+    "title": "La Rivolta dei Fantasmi – Le Figure dell'Inverno",
+    "source": "https://www.labottegateatrale.it/calendario-spettacoli-le-figure-dellinverno-2026-2027.html",
+    "description": "Spettacolo interattivo: nel castello del re e della regina i fantasmi entrano in sciopero perché stufi di lavorare senza paga, e arriva anche una strega.",
+    "asset": "illustrazione-la-rivolta-dei-fantasmi-le-figure-dell-inverno.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: Friendly ghosts in a castle on strike, sitting with crossed arms and picket signs showing only a ghost symbol, a surprised king and queen, a funny witch flying in through the window.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-la-rivolta-dei-fantasmi-le-figure-dell-inverno.webp",
+      "derivedFrom": "illustrazione-la-rivolta-dei-fantasmi-le-figure-dell-inverno.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
+  },
+  {
+    "eventId": "mercorti-li-crescere-manco-per-sogno",
+    "title": "Mercorti.Lì – Crescere… Manco per sogno!",
+    "source": "https://www.operamunificaistruzione.it/evento/mercorti-li-crescere-manco-per-sogno-0-6/",
+    "description": "Appuntamento del mercoledì al Corti.Lì con storie sul crescere, per bambini da 0 a 6 anni. Gratuito.",
+    "asset": "illustrazione-mercorti-li-crescere-manco-per-sogno.png",
+    "generatedOn": "2026-11-22",
+    "prompt": "Warm hand-painted children's picture-book illustration, gouache with textured cut-paper collage, cream paper background, warm palette, no text. Scene: A small child standing on tiptoe next to a growth chart on a wall shaped like a giraffe, pretending not to want to grow up, other little children reading picture books around.",
+    "note": "Illustrazione originale simbolica generata dalla descrizione verificata (Google Flow, Nano Banana, foglio generato da Claude per Manlio); non fotografia né materiale ufficiale.",
+    "optimizedAsset": {
+      "file": "illustrazione-mercorti-li-crescere-manco-per-sogno.webp",
+      "derivedFrom": "illustrazione-mercorti-li-crescere-manco-per-sogno.png",
+      "date": "2026-11-22",
+      "format": "WebP",
+      "quality": 88,
+      "note": "Stessa illustrazione ritagliata dal foglio; controllo visivo delle tessere."
+    }
   }
 ]

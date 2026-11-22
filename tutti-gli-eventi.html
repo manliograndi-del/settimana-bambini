@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Tutti gli eventi · La settimana dei bambini</title>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;700;800&display=swap">
+<style>
+:root{--ink:#26201f;--paper:#fff8ee;--line:#eadfce;--muted:#6f625c;--accent:#e2553f}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:600 16px/1.4 Nunito,system-ui,sans-serif}
+header{background:var(--ink);color:#fff;padding:18px 16px}
+header h1{margin:0;font:700 26px/1.15 Fredoka,system-ui,sans-serif}
+header a{color:#fff;opacity:.8;font-size:14px}
+main{max-width:860px;margin:0 auto;padding:8px 16px 40px}
+h2{position:sticky;top:0;z-index:1;margin:22px -16px 8px;padding:10px 16px;background:var(--paper);border-bottom:2px solid var(--ink);font:700 21px/1.2 Fredoka,system-ui,sans-serif}
+h2 small{font:700 14px Nunito,sans-serif;color:var(--muted);text-transform:none;margin-left:6px}
+table{width:100%;border-collapse:collapse;background:#fff;table-layout:fixed}
+td{border:1px solid var(--line);vertical-align:top;padding:10px}
+td.img{width:40%;padding:6px}
+td.img img{display:block;width:100%;height:auto;border-radius:8px}
+.t{font:600 19px/1.25 Fredoka,system-ui,sans-serif;margin-bottom:6px}
+.h{color:var(--accent);font-weight:800;margin-right:6px}
+.r{font-size:15px;margin:3px 0}
+.r b{color:var(--muted)}
+.d{margin:8px 0;font-weight:600}
+.l a{color:var(--accent);font-weight:800}
+</style>
+</head>
+<body>
+<header><h1>Tutti gli eventi, giorno per giorno</h1><a href="./">Prima pagina</a></header>
+<main id="list"></main>
+<script src="daily-catalog.js"></script>
+<script>
+(function(){
+  var pad=function(n){return String(n).padStart(2,'0')};
+  var now=new Date();
+  var today=now.getFullYear()+'-'+pad(now.getMonth()+1)+'-'+pad(now.getDate());
+  var days={};
+  DATA.verifiedEvents.forEach(function(e){
+    if(e.status!=='published'||e.isExample)return;
+    (e.occurrences||[]).forEach(function(o){
+      var d=o.slice(0,10); if(d<today)return;
+      (days[d]=days[d]||[]).push({e:e,time:o.length>10?o.slice(11,16):''});
+    });
+  });
+  var fmt=new Intl.DateTimeFormat('it-IT',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
+  var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+  var html='';
+  Object.keys(days).sort().forEach(function(d){
+    var list=days[d].sort(function(a,b){return (a.time||'99').localeCompare(b.time||'99')||a.e.title.localeCompare(b.e.title)});
+    var lab=fmt.format(new Date(d+'T12:00:00Z'));html+='<h2>'+lab.charAt(0).toUpperCase()+lab.slice(1)+'</h2><table>';
+    list.forEach(function(x){
+      var e=x.e;
+      var row=function(k,v){return v?'<div class="r"><b>'+k+':</b> '+esc(v)+'</div>':''};
+      html+='<tr><td class="img">'+(e.illustration?'<img loading="lazy" alt="" src="'+esc(e.illustration)+'">':'')+'</td>'+
+        '<td><div class="t">'+(x.time?'<span class="h">'+x.time+'</span>':'')+esc(e.title)+'</div>'+
+        row('Dove',e.venue||e.municipality)+row('Età',e.ageLabel)+row('Costo',e.costLabel)+row('Prenotazione',e.booking)+
+        (e.description?'<div class="d">'+esc(e.description)+'</div>':'')+
+        (e.url?'<div class="l"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">Sito dell’organizzatore</a></div>':'')+
+        '</td></tr>';
+    });
+    html+='</table>';
+  });
+  document.getElementById('list').innerHTML=html||'<p>Nessun evento.</p>';
+})();
+</script>
+</body>
+</html>
