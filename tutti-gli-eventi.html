@@ -43,7 +43,7 @@ td.img img{display:block;width:100%;height:auto;border-radius:8px}
   DATA.verifiedEvents.forEach(function(e){
     if(e.status!=='published'||e.isExample)return;
     (e.occurrences||[]).forEach(function(o){
-      var d=o.slice(0,10); if(d<today)return;
+      var d=o.slice(0,10); if(d<=today)return;
       (days[d]=days[d]||[]).push({e:e,time:o.length>10?o.slice(11,16):''});
     });
   });
