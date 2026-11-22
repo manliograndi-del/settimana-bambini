@@ -33,7 +33,7 @@ td.img img{display:block;width:100%;height:auto;border-radius:8px}
 <body>
 <header><h1>Tutti gli eventi, giorno per giorno</h1><a href="./">Prima pagina</a></header>
 <main id="list"></main>
-<script src="daily-catalog.js"></script>
+<script>document.write('<script src="daily-catalog.js?t='+Date.now()+'"><\/script>')</script>
 <script>
 (function(){
   var pad=function(n){return String(n).padStart(2,'0')};
