@@ -10319,10 +10319,11 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-12",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-12-06T15:30:00+01:00"
+        "2026-12-06T15:30:00+01:00",
+        "2026-12-06T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-12-06T15:30:00+01:00": "2026-12-06T16:30:00+01:00"
@@ -10351,10 +10352,11 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-12",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-12-27T15:30:00+01:00"
+        "2026-12-27T15:30:00+01:00",
+        "2026-12-27T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-12-27T15:30:00+01:00": "2026-12-27T16:30:00+01:00"
@@ -12884,13 +12886,15 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-21",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-25T10:00:00+01:00"
+        "2026-11-25T10:00:00+01:00",
+        "2026-12-02T10:00:00+01:00"
       ],
       "occurrenceEnds": {
-        "2026-11-25T10:00:00+01:00": "2026-11-25T11:30:00+01:00"
+        "2026-11-25T10:00:00+01:00": "2026-11-25T11:30:00+01:00",
+        "2026-12-02T10:00:00+01:00": "2026-12-02T11:30:00+01:00"
       },
       "startsAt": "2026-11-25T10:00:00+01:00"
     },
@@ -12916,17 +12920,27 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-23",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-26T17:00:00+01:00",
         "2026-11-27T10:30:00+01:00",
-        "2026-11-28T10:30:00+01:00"
+        "2026-11-28T10:30:00+01:00",
+        "2026-12-03T17:00:00+01:00",
+        "2026-12-04T10:30:00+01:00",
+        "2026-12-10T17:00:00+01:00",
+        "2026-12-11T10:30:00+01:00",
+        "2026-12-12T10:30:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-11-26T17:00:00+01:00": "2026-11-26T18:00:00+01:00",
         "2026-11-27T10:30:00+01:00": "2026-11-27T11:30:00+01:00",
-        "2026-11-28T10:30:00+01:00": "2026-11-28T11:30:00+01:00"
+        "2026-11-28T10:30:00+01:00": "2026-11-28T11:30:00+01:00",
+        "2026-12-03T17:00:00+01:00": "2026-12-03T18:00:00+01:00",
+        "2026-12-04T10:30:00+01:00": "2026-12-04T11:30:00+01:00",
+        "2026-12-10T17:00:00+01:00": "2026-12-10T18:00:00+01:00",
+        "2026-12-11T10:30:00+01:00": "2026-12-11T11:30:00+01:00",
+        "2026-12-12T10:30:00+01:00": "2026-12-12T11:30:00+01:00"
       },
       "startsAt": "2026-11-26T17:00:00+01:00"
     },
@@ -12952,13 +12966,15 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-21",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-28T16:30:00+01:00"
+        "2026-11-28T16:30:00+01:00",
+        "2026-12-12T16:30:00+01:00"
       ],
       "occurrenceEnds": {
-        "2026-11-28T16:30:00+01:00": "2026-11-28T17:30:00+01:00"
+        "2026-11-28T16:30:00+01:00": "2026-11-28T17:30:00+01:00",
+        "2026-12-12T16:30:00+01:00": "2026-12-12T17:30:00+01:00"
       },
       "startsAt": "2026-11-28T16:30:00+01:00"
     },
@@ -14159,6 +14175,289 @@
         "2026-12-12T15:00:00+01:00": "2026-12-12T17:00:00+01:00"
       },
       "startsAt": "2026-12-12T15:00:00+01:00"
+    },
+    {
+      "id": "incantum-la-magia-del-natale",
+      "organizationId": "moncalieri-new",
+      "illustration": "icona-festa.webp",
+      "title": "Incantum – La magia del Natale",
+      "category": "Festa",
+      "municipality": "Moncalieri",
+      "venue": "Piazza Vittorio Emanuele II · Moncalieri",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutte le età",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Non richiesta",
+      "url": "https://www.comune.moncalieri.to.it/vivere-comune/eventi/incantum-magia-natale",
+      "description": "Spettacolo di danza aerea in piazza che apre il Natale a Moncalieri: sei acrobate sospese a una gru danzano in costume tra musica e luci.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-27T18:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-27T18:00:00+01:00": "2026-11-27T20:00:00+01:00"
+      },
+      "startsAt": "2026-11-27T18:00:00+01:00"
+    },
+    {
+      "id": "ateliebebe-primi-suoni-con-mamma-e-papa",
+      "organizationId": "unione",
+      "illustration": "icona-musica.webp",
+      "title": "Ateliebebè – Primi suoni con mamma e papà",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Teatro Vittoria · via Gramsci 4, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 24,
+      "ageLabel": "0-24 mesi",
+      "costLabel": "Bambino + 1 adulto 10 €, adulto in più 5 €",
+      "costBand": "low",
+      "booking": "Obbligatoria: biglietti online e in sede dalle 10:30 di martedì 5/1/2027",
+      "url": "https://unionemusicale.it/concerto/ateliebebe-10-01-2027/",
+      "description": "Laboratorio musicale per i più piccoli su un grande tappeto: i musicisti giocano con i bambini con voce, sguardi e movimento. Portare calze antiscivolo.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2027-01-10T10:00:00+01:00",
+        "2027-01-10T11:30:00+01:00"
+      ],
+      "startsAt": "2027-01-10T10:00:00+01:00"
+    },
+    {
+      "id": "noteingioco-divertirsi-con-la-musica",
+      "organizationId": "unione",
+      "illustration": "icona-musica.webp",
+      "title": "Noteingioco – Divertirsi con la musica",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Teatro Vittoria · via Gramsci 4, Torino",
+      "ageMinMonths": 24,
+      "ageMaxMonths": 47,
+      "ageLabel": "2-3 anni",
+      "costLabel": "Bambino + 1 adulto 10 €, adulto in più 5 €",
+      "costBand": "low",
+      "booking": "Obbligatoria: biglietti online e in sede dalle 10:30 del 12/1/2027",
+      "url": "https://unionemusicale.it/concerto/noteingioco-17012027/",
+      "description": "Percorso musicale interattivo per bambini di 2-3 anni con un adulto: si ascolta, si tocca e si gioca con i suoni insieme ai musicisti.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2027-01-17T10:00:00+01:00",
+        "2027-01-17T11:30:00+01:00"
+      ],
+      "startsAt": "2027-01-17T10:00:00+01:00"
+    },
+    {
+      "id": "laboratorio-di-scienza-3-6-anni-ma-e-liquido-e-s",
+      "organizationId": "org-19",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Laboratorio di scienza 3-6 anni – «Ma è liquido?» e «Sabbie mobili»",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Spazio ZeroSei · piazza della Repubblica 2B, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3-6 anni",
+      "costLabel": "5 €",
+      "costBand": "low",
+      "booking": "Obbligatoria: 011 5212432",
+      "url": "https://spaziozerosei.it/calendario-eventi/",
+      "description": "Piccoli esperimenti da fare insieme, adulti e bambini: il 2/12 si gioca con i liquidi («Ma è liquido?»), il 16/12 con le «Sabbie mobili».",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-02T17:00:00+01:00",
+        "2026-12-16T17:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-02T17:00:00+01:00": "2026-12-02T18:00:00+01:00",
+        "2026-12-16T17:00:00+01:00": "2026-12-16T18:00:00+01:00"
+      },
+      "startsAt": "2026-12-02T17:00:00+01:00"
+    },
+    {
+      "id": "incartiamo-il-natale",
+      "organizationId": "org-fattoria-sociale-paideia",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Incartiamo il Natale",
+      "category": "Laboratorio",
+      "municipality": "Baldissero Torinese",
+      "venue": "Fattoria Sociale Paideia · strada Pino Torinese 15/1, Baldissero Torinese",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per famiglie",
+      "costLabel": "20 € adulto con un bambino; 8 € dal 3° componente; gratis sotto i 3 anni",
+      "costBand": "high",
+      "booking": "Su richiesta tramite il modulo della pagina, info@fattoriasocialepaideia.it, 342 9229423",
+      "url": "https://www.fattoriasocialepaideia.it/evento/incartiamo-il-natale/",
+      "description": "Dopo un giro in fattoria a cercare foglie e rametti, si decora carta da regalo natalizia con tempere e stampi naturali. Si può poi restare in fattoria fino alle 17.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-13T10:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-13T10:00:00+01:00": "2026-12-13T12:30:00+01:00"
+      },
+      "startsAt": "2026-12-13T10:00:00+01:00"
+    },
+    {
+      "id": "in-famiglia-al-museo-lavazza-storie-di-chicchi-a",
+      "organizationId": "org-museo-lavazza",
+      "illustration": "icona-museo.webp",
+      "title": "In famiglia al Museo Lavazza: «Storie di chicchi aspettando il Natale»",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Museo Lavazza · Nuvola Lavazza, via Bologna 32, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 47,
+      "ageLabel": "0-3 anni",
+      "costLabel": "5 € bambini, 8 € adulti",
+      "costBand": "low",
+      "booking": "Obbligatoria: biglietti su Ticketlandia",
+      "url": "https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza",
+      "description": "Racconto natalizio per i più piccoli tra le sale del museo, con un libro speciale e personaggi curiosi. Consigliati fascia o marsupio per chi non cammina.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-06T11:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-06T11:00:00+01:00": "2026-12-06T12:30:00+01:00"
+      },
+      "startsAt": "2026-12-06T11:00:00+01:00"
+    },
+    {
+      "id": "in-famiglia-al-museo-lavazza-la-magia-in-un-pacc",
+      "organizationId": "org-museo-lavazza",
+      "illustration": "icona-museo.webp",
+      "title": "In famiglia al Museo Lavazza: «La magia in un pacchetto – Christmas edition»",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Museo Lavazza · Nuvola Lavazza, via Bologna 32, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 155,
+      "ageLabel": "4-12 anni",
+      "costLabel": "5 € bambini, 8 € adulti",
+      "costBand": "low",
+      "booking": "Obbligatoria: biglietti su Ticketlandia",
+      "url": "https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza",
+      "description": "Visita al museo e laboratorio in cui il caffè usato diventa concime naturale, chiuso in una confezione natalizia decorata da ciascuno.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-06T15:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-06T15:00:00+01:00": "2026-12-06T16:30:00+01:00"
+      },
+      "startsAt": "2026-12-06T15:00:00+01:00"
+    },
+    {
+      "id": "in-famiglia-al-museo-lavazza-il-natale-si-legge",
+      "organizationId": "org-museo-lavazza",
+      "illustration": "icona-lettura.webp",
+      "title": "In famiglia al Museo Lavazza: «Il Natale si legge... al profumo di caffè»",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Museo Lavazza · Nuvola Lavazza, via Bologna 32, Torino",
+      "ageMinMonths": 48,
+      "ageMaxMonths": 155,
+      "ageLabel": "4-12 anni",
+      "costLabel": "5 € bambini, 8 € adulti",
+      "costBand": "low",
+      "booking": "Obbligatoria: biglietti su Ticketlandia",
+      "url": "https://www.ticketlandia.com/m/event/laboratori-famiglie-museo-lavazza",
+      "description": "Storie di Natale da ascoltare in famiglia al museo, il giorno di Santo Stefano.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-26T16:00:00+01:00"
+      ],
+      "startsAt": "2026-12-26T16:00:00+01:00"
+    },
+    {
+      "id": "cassetti-abitati-l-ultimo-cassetto",
+      "organizationId": "org-luna-nel-caffe",
+      "illustration": "icona-lettura.webp",
+      "title": "Cassetti abitati – l'ultimo cassetto",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Habitat · via Le Chiuse 66, Torino",
+      "ageMinMonths": 60,
+      "ageMaxMonths": 119,
+      "ageLabel": "5-9 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Obbligatoria: lalunanelcaffeaps@gmail.com",
+      "url": "https://www.facebook.com/61573306155037/",
+      "description": "Ultimo incontro di letture e laboratori sulle emozioni e sulle cose importanti per i bambini. I bambini partecipano accompagnati da un adulto.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 25 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-23",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-11-28T16:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-11-28T16:00:00+01:00": "2026-11-28T18:00:00+01:00"
+      },
+      "startsAt": "2026-11-28T16:00:00+01:00"
     }
   ],
   "organizations": [
@@ -16475,6 +16774,19 @@
       "category": "Teatro",
       "municipality": "Torino",
       "url": "https://www.cpgtorino.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-23",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il giro del 23 novembre 2026."
+    },
+    {
+      "id": "org-luna-nel-caffe",
+      "name": "La Luna nel Caffè APS",
+      "category": "Associazioni e ludoteche",
+      "municipality": "Torino",
+      "url": "https://www.facebook.com/61573306155037/",
       "sourceType": "originale",
       "verificationStatus": "canale_consultato",
       "lastCheckedAt": "2026-11-23",
