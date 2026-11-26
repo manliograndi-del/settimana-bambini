@@ -13457,11 +13457,18 @@
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-23",
+      "verifiedAt": "2026-11-26",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-25T10:15:00+01:00",
-        "2026-11-25T11:30:00+01:00"
+        "2026-11-25T11:30:00+01:00",
+        "2026-11-28T12:30:00+01:00",
+        "2026-12-02T10:15:00+01:00",
+        "2026-12-02T11:30:00+01:00",
+        "2026-12-09T10:15:00+01:00",
+        "2026-12-09T11:30:00+01:00",
+        "2026-12-16T10:15:00+01:00",
+        "2026-12-16T11:30:00+01:00"
       ],
       "startsAt": "2026-11-25T10:15:00+01:00"
     },
@@ -14458,6 +14465,159 @@
         "2026-11-28T16:00:00+01:00": "2026-11-28T18:00:00+01:00"
       },
       "startsAt": "2026-11-28T16:00:00+01:00"
+    },
+    {
+      "id": "aspettando-il-natale-letture-e-laboratorio",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Aspettando il Natale – letture e laboratorio",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario Rita Atria · Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni, con le famiglie",
+      "costLabel": "Non indicato",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://bct.comune.torino.it/eventi-attivita/aspettando-il-natale-0",
+      "description": "Pomeriggio di letture ad alta voce e laboratorio di Natale per i più piccoli con le loro famiglie, curato dalle bibliotecarie e dai volontari del Servizio Civile.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-16T17:00:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-16T17:00:00+01:00": "2026-12-16T18:30:00+01:00"
+      },
+      "startsAt": "2026-12-16T17:00:00+01:00"
+    },
+    {
+      "id": "ghirlande-nelle-residenze-laboratorio-di-natale",
+      "organizationId": "org-65",
+      "illustration": "illustrazione-atmosfere-natalizie-nelle-residenze.webp",
+      "title": "Ghirlande nelle Residenze – laboratorio di Natale alla Reggia",
+      "category": "Laboratorio",
+      "municipality": "Venaria Reale",
+      "venue": "Reggia di Venaria · piazza della Repubblica 4, Venaria Reale",
+      "ageMinMonths": 120,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 10 anni, con gli adulti",
+      "costLabel": "20 €",
+      "costBand": "medium",
+      "booking": "Obbligatoria entro giovedì 3 dicembre, via email (indirizzo sulla scheda)",
+      "url": "https://lavenaria.it/evento/atmosfere-natalizie-nelle-residenze/",
+      "description": "I giardinieri della Reggia aiutano grandi e ragazzi a creare ghirlande e centrotavola natalizi con fiori d'inverno, bacche e foglie raccolte nei viali storici.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-05T14:30:00+01:00"
+      ],
+      "occurrenceEnds": {
+        "2026-12-05T14:30:00+01:00": "2026-12-05T17:30:00+01:00"
+      },
+      "startsAt": "2026-12-05T14:30:00+01:00"
+    },
+    {
+      "id": "canti-di-sirene-pirati-e-topini-il-mercoledi",
+      "organizationId": "org-capitan-tomin",
+      "illustration": "icona-musica.webp",
+      "title": "Canti di sirene, pirati e topini! – il mercoledì",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Libreria Capitan Tomìn · via Goffredo Casalis 44/B, Torino",
+      "ageMinMonths": 12,
+      "ageMaxMonths": 35,
+      "ageLabel": "1–3 anni, con un adulto",
+      "costLabel": "A pagamento (importo non indicato)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: WhatsApp 379 210 0952 o cosicomesuono@gmail.com",
+      "url": "https://www.libreriacapitantomin.it/",
+      "description": "Pomeriggio di canzoni, suoni e piccoli strumenti musicali per bambini piccoli insieme a un adulto, tra storie di mare, pirati e topini.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-26",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-02T16:45:00+01:00",
+        "2026-12-09T16:45:00+01:00",
+        "2026-12-16T16:45:00+01:00"
+      ],
+      "startsAt": "2026-12-02T16:45:00+01:00"
+    },
+    {
+      "id": "io-sono-noi-siamo-laboratorio-di-lettura-0-6-ann",
+      "organizationId": "org-palazzo-madama",
+      "illustration": "icona-lettura.webp",
+      "title": "Io sono… Noi siamo… – laboratorio di lettura 0-6 anni",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Nuova Biblioteca centrale (ex Torino Esposizioni) · corso Massimo d'Azeglio 15, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni",
+      "costLabel": "Gratuito",
+      "costBand": "free",
+      "booking": "Obbligatoria: email a madamadidattica@fondazionetorinomusei.it",
+      "url": "https://www.palazzomadamatorino.it/it/evento/io-sono-noi-siamo/",
+      "description": "Albi illustrati su identità ed emozioni e poi ogni famiglia costruisce un autoritratto tridimensionale con carta e sagome colorate. Fa parte di «Nutrirsi di cultura 0-6», per l'apertura della nuova Biblioteca centrale.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-11T14:00:00+01:00"
+      ],
+      "startsAt": "2026-12-11T14:00:00+01:00"
+    },
+    {
+      "id": "il-sorriso-enigmatico-un-dettaglio-cambia-tutto",
+      "organizationId": "org-palazzo-madama",
+      "illustration": "icona-museo.webp",
+      "title": "Il sorriso enigmatico. Un dettaglio cambia tutto",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Palazzo Madama · piazza Castello, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 131,
+      "ageLabel": "6–10 anni con adulti",
+      "costLabel": "10 € a partecipante (adulti e bambini), più ingresso al museo (gratis con Abbonamento Musei)",
+      "costBand": "medium",
+      "booking": "Obbligatoria: online sulla biglietteria Fondazione Torino Musei, tel. 011 19560449, ftm.prenotazioni@coopculture.it",
+      "url": "https://www.palazzomadamatorino.it/it/evento/il-sorriso-enigmatico/",
+      "description": "Adulti e bambini osservano da vicino il Ritratto d'uomo di Antonello da Messina e giocano con le espressioni del viso. Un'emozione estratta a sorte diventa lo spunto per inventare un nuovo ritratto.",
+      "discoverySources": [],
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 26 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-26",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-30T11:00:00+01:00"
+      ],
+      "startsAt": "2026-12-30T11:00:00+01:00"
     }
   ],
   "organizations": [
@@ -16793,6 +16953,19 @@
       "rightsStatus": "da_valutare",
       "acquisitionMethod": "manuale",
       "notes": "Aggiunta con il giro del 23 novembre 2026."
+    },
+    {
+      "id": "org-palazzo-madama",
+      "name": "Palazzo Madama – Museo Civico d'Arte Antica",
+      "category": "Musei",
+      "municipality": "Torino",
+      "url": "https://www.palazzomadamatorino.it/",
+      "sourceType": "originale",
+      "verificationStatus": "canale_consultato",
+      "lastCheckedAt": "2026-11-26",
+      "rightsStatus": "da_valutare",
+      "acquisitionMethod": "manuale",
+      "notes": "Aggiunta con il giro del 26 novembre 2026."
     }
   ]
 }
