@@ -36,3 +36,12 @@ Clonare https://github.com/manliograndi-del/settimana-bambini in una cartella de
 Eseguire node scripts/build.cjs e node scripts/test.cjs, poi controllare in browser index.html o usare un server statico locale. Il report di build elenca attività disponibili e giorni mancanti sui tredici giorni; non è un controllo delle fonti. La build aggiorna le versioni cache in base al contenuto dei file.
 
 Prima della pubblicazione recuperare lo stato remoto e confrontare le modifiche. In caso di regressione ripristinare i file del commit precedente in un nuovo commit, senza riscrivere la storia o sovrascrivere altri lavori. Baseline precedente al consolidamento: f4c500f039f038193f1bfcd87ee3376be3b43f51.
+
+## Formato dei disegni degli eventi (regola di Manlio, 27 novembre 2026)
+
+Il sito mostra i disegni degli eventi in riquadri **orizzontali 4:3** (schede della settimana) e 16:10 (evento in evidenza), ritagliando al centro. Da ora ogni disegno nuovo si fa già **orizzontale 4:3**, con la scena principale al centro:
+
+- foglio 4:3 diviso in **2 x 2** (4 disegni per foglio, ognuno esce 4:3), oppure un disegno singolo 4:3;
+- niente più fogli 4x2 o 3x2: danno riquadri verticali che il sito taglia sopra e sotto;
+- nel prompt: «each panel is a landscape 4:3 scene, main subject in the centre, nothing important near the edges»;
+- ritaglio a 672 x 504 px (PNG + WebP qualità 88).
