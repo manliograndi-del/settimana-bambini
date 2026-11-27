@@ -5703,12 +5703,12 @@
       "discoverySources": [
         "https://www.torinobimbi.it/3-6-anni"
       ],
-      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: Ogni lunedì 17-18; scheda: https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Note: Ogni lunedì 17-18; scheda: https://bct.comune.torino.it/eventi-attivita/lunedi-da-favola-0 Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026. 7/12: «Storie per Natale» con Bombettabook; 14, 21, 28/12 letture natalizie e laboratorio.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-27",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-02T17:00:00+01:00",
@@ -5716,8 +5716,10 @@
         "2026-11-16T17:00:00+01:00",
         "2026-11-23T17:00:00+01:00",
         "2026-11-30T17:00:00+01:00",
+        "2026-12-07T17:00:00+01:00",
         "2026-12-14T17:00:00+01:00",
-        "2026-12-21T17:00:00+01:00"
+        "2026-12-21T17:00:00+01:00",
+        "2026-12-28T17:00:00+01:00"
       ],
       "startsAt": "2026-11-02T17:00:00+01:00",
       "occurrenceEnds": {
@@ -6713,17 +6715,19 @@
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
       ],
-      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
+      "verifiedAt": "2026-11-27",
       "scheduleType": "limited_series",
       "occurrences": [
         "2026-11-07T10:30:00+01:00",
         "2026-11-14T10:30:00+01:00",
-        "2026-11-28T10:30:00+01:00"
+        "2026-11-28T10:30:00+01:00",
+        "2026-12-05T10:30:00+01:00",
+        "2026-12-12T10:30:00+01:00"
       ],
       "startsAt": "2026-11-07T10:30:00+01:00"
     },
@@ -7057,15 +7061,16 @@
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
       ],
-      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-12T17:00:00+01:00"
+        "2026-11-12T17:00:00+01:00",
+        "2026-12-10T17:00:00+01:00"
       ],
       "startsAt": "2026-11-12T17:00:00+01:00"
     },
@@ -7088,15 +7093,16 @@
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
       ],
-      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-14T10:30:00+01:00"
+        "2026-11-14T10:30:00+01:00",
+        "2026-12-12T10:30:00+01:00"
       ],
       "startsAt": "2026-11-14T10:30:00+01:00"
     },
@@ -7224,15 +7230,16 @@
       "discoverySources": [
         "https://bct.comune.torino.it/sites/default/files/articoli/2026-10/In_Biblioteca_Novembre_2026.pdf"
       ],
-      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio.",
+      "verificationMethod": "Agenda mensile «In Biblioteca – Novembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 31 ottobre 2026 dal browser di Manlio. Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-10-31",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-11-26T17:00:00+01:00"
+        "2026-11-26T17:00:00+01:00",
+        "2026-12-17T17:00:00+01:00"
       ],
       "startsAt": "2026-11-26T17:00:00+01:00"
     },
@@ -13676,15 +13683,16 @@
       "url": "https://bct.comune.torino.it/eventi-attivita/shhhe-una-sorpresa",
       "description": "Un pomeriggio natalizio con una storia e un film a sorpresa, per bambini e famiglie.",
       "discoverySources": [],
-      "verificationMethod": "Pagina originale dell’organizzatore letta il 23 novembre 2026.",
+      "verificationMethod": "Pagina originale dell’organizzatore letta il 23 novembre 2026. Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
       "verifiedBy": "Ricerca assistita su fonte originale",
       "isExample": false,
       "accessibility": "Da chiedere all’organizzatore",
       "status": "published",
-      "verifiedAt": "2026-11-23",
-      "scheduleType": "single",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
       "occurrences": [
-        "2026-12-16T17:00:00+01:00"
+        "2026-12-16T17:00:00+01:00",
+        "2026-12-28T17:00:00+01:00"
       ],
       "occurrenceEnds": {
         "2026-12-16T17:00:00+01:00": "2026-12-16T18:30:00+01:00"
@@ -14618,6 +14626,601 @@
         "2026-12-30T11:00:00+01:00"
       ],
       "startsAt": "2026-12-30T11:00:00+01:00"
+    },
+    {
+      "id": "nutrirsi-famiglie-vallette-mirafiori-centrale",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Chi sono io? – famiglie di Vallette e Mirafiori Sud alla nuova Centrale",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Centrale (nuova sede) · corso Massimo d'Azeglio 15, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: 011 4429629, madamadidattica@fondazionetorinomusei.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture e un laboratorio sull'identità: ogni famiglia crea autoritratti in 3D con carta e sagome colorate. Con Palazzo Madama, nei giorni di apertura della nuova Biblioteca Centrale. Progetto Nutrirsi di Cultura 0-6, pensato per le famiglie di Vallette e Mirafiori Sud.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-11T14:00:00+01:00"
+      ],
+      "startsAt": "2026-12-11T14:00:00+01:00"
+    },
+    {
+      "id": "nutrirsi-famiglie-porta-palazzo-pozzo-strada-centrale",
+      "organizationId": "org-35",
+      "illustration": "icona-museo.webp",
+      "title": "Con le famiglie di Porta Palazzo e Pozzo Strada – MAO alla nuova Centrale",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Centrale (nuova sede) · corso Massimo d'Azeglio 15, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: maodidattica@fondazionetorinomusei.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture, arte, gioco e movimento con il Museo d'Arte Orientale nella nuova Biblioteca Centrale. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-12T10:30:00+01:00"
+      ],
+      "startsAt": "2026-12-12T10:30:00+01:00"
+    },
+    {
+      "id": "nutrirsi-famiglie-barriera-rebaudengo-centrale",
+      "organizationId": "org-35",
+      "illustration": "icona-museo.webp",
+      "title": "Con le famiglie di Barriera e Rebaudengo – GAM alla nuova Centrale",
+      "category": "Museo",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Centrale (nuova sede) · corso Massimo d'Azeglio 15, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Un tempo di cura e meraviglia sui gesti di ogni giorno, per grandi e piccoli da 0 a 6 anni, con la GAM. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-13T14:30:00+01:00"
+      ],
+      "startsAt": "2026-12-13T14:30:00+01:00"
+    },
+    {
+      "id": "nutrirsi-famiglie-falchera-aurora-centrale",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Con le famiglie di Falchera e Aurora – GAM alla nuova Centrale",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Centrale (nuova sede) · corso Massimo d'Azeglio 15, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Non indicata",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture e un laboratorio d'arte con materiali semplici, chiacchiere e gioco, con la GAM. Progetto Nutrirsi di Cultura 0-6.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-13T15:30:00+01:00"
+      ],
+      "startsAt": "2026-12-13T15:30:00+01:00"
+    },
+    {
+      "id": "come-fa-babbo-natale-della-corte",
+      "organizationId": "org-35",
+      "illustration": "icona-musica.webp",
+      "title": "Come fa Babbo Natale a passare dal camino? – letture musicali",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica musicale Andrea Della Corte · corso Francia 186, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Richiesta: 011 01138350, biblioteca.musicale@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture natalizie accompagnate dal canto nella biblioteca musicale.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-10T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-10T17:00:00+01:00"
+    },
+    {
+      "id": "un-natale-da-raccontare-cognasso",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Un Natale da raccontare",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Francesco Cognasso · corso Cincinnato 115, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 107,
+      "ageLabel": "3–8 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01138526",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture condivise e laboratorio di Natale con i volontari del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-19T10:30:00+01:00"
+      ],
+      "startsAt": "2026-12-19T10:30:00+01:00"
+    },
+    {
+      "id": "al-cinema-in-famiglia-calvino",
+      "organizationId": "org-35",
+      "illustration": "icona-cinema.webp",
+      "title": "Al cinema in famiglia",
+      "category": "Cinema",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Italo Calvino · lungo Dora Agrigento 94, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01120740",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Torna il cinema in biblioteca: un film per grandi e piccoli, una mattina insieme prima delle feste.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-19T10:30:00+01:00"
+      ],
+      "startsAt": "2026-12-19T10:30:00+01:00"
+    },
+    {
+      "id": "decoriamo-il-natale-pavese",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Decoriamo il Natale",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Cesare Pavese · via Candiolo 79, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria: 011 01137080",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Laboratorio creativo a tema natalizio.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-17T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-17T17:00:00+01:00"
+    },
+    {
+      "id": "biblioplay-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-gioco.webp",
+      "title": "Biblioplay – giochi da tavolo in biblioteca",
+      "category": "Gioco e parchi",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": 96,
+      "ageMaxMonths": 203,
+      "ageLabel": "8–16 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Obbligatoria (max 12): 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Un pomeriggio al mese di giochi da tavolo con le volontarie del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-16T16:45:00+01:00"
+      ],
+      "startsAt": "2026-12-16T16:45:00+01:00"
+    },
+    {
+      "id": "lingua-in-fabula-guidetti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Lingua in fabula – storie in tedesco e italiano",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Bianca Guidetti Serra · piazzetta Università dei Mastri Minusieri 2, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 119,
+      "ageLabel": "3–9 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info e prenotazioni: 011 01131890",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture giocose in tedesco e italiano per avvicinarsi alla lingua tedesca con le storie.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-19T11:00:00+01:00"
+      ],
+      "startsAt": "2026-12-19T11:00:00+01:00"
+    },
+    {
+      "id": "natale-da-favola-immagina-racconta-amoretti",
+      "organizationId": "org-35",
+      "illustration": "icona-laboratorio.webp",
+      "title": "Natale da favola – Immagina e racconta il tuo Natale",
+      "category": "Laboratorio",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Villa Amoretti · corso Orbassano 200, Torino",
+      "ageMinMonths": 72,
+      "ageMaxMonths": 167,
+      "ageLabel": "6–13 anni",
+      "costLabel": "Quota assicurativa 20 € (valida fino a maggio 2027)",
+      "costBand": "low",
+      "booking": "Iscrizione: 392 8212667, info@agiotorino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Due sabati per inventare e raccontare il proprio Natale, a cura dell'Associazione Giovani Torino. Ingresso libero con quota assicurativa.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-05T10:00:00+01:00",
+        "2026-12-12T10:00:00+01:00"
+      ],
+      "startsAt": "2026-12-05T10:00:00+01:00"
+    },
+    {
+      "id": "la-sorpresa-di-natale-amoretti",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "La sorpresa di Natale",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Villa Amoretti · corso Orbassano 200, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01138604",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture ad alta voce di Natale per i più piccoli, con le volontarie del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-22T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-22T17:00:00+01:00"
+    },
+    {
+      "id": "avventure-scoperte-fantasia-don-milani",
+      "organizationId": "org-35",
+      "illustration": "icona-cinema.webp",
+      "title": "Avventure, scoperte e fantasia – film in biblioteca",
+      "category": "Cinema",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica Don Lorenzo Milani · via dei Pioppi 43, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Per tutta la famiglia",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01132619",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Una proiezione pensata per i bambini e le loro famiglie.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-05T10:30:00+01:00"
+      ],
+      "startsAt": "2026-12-05T10:30:00+01:00"
+    },
+    {
+      "id": "e-poi-cosa-succede-utoya",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "E poi cosa succede?",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario I ragazzi e le ragazze di Utøya · via Zumaglia 39, Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": 83,
+      "ageLabel": "3–6 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info e prenotazioni: 011 01128485",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Albi illustrati, filastrocche e attività a tema con la volontaria del Servizio Civile.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-03T17:00:00+01:00",
+        "2026-12-10T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-03T17:00:00+01:00"
+    },
+    {
+      "id": "i-colori-dell-autunno-negarville",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "I colori dell'autunno",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario via Negarville · via Celeste Negarville 30/8, Torino",
+      "ageMinMonths": 0,
+      "ageMaxMonths": 83,
+      "ageLabel": "0–6 anni con le famiglie",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01139780",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture per famiglie sulle meraviglie e i colori dell'autunno, a cura di Marinella Catalano.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-03T16:30:00+01:00"
+      ],
+      "startsAt": "2026-12-03T16:30:00+01:00"
+    },
+    {
+      "id": "natale-in-negarville",
+      "organizationId": "org-35",
+      "illustration": "icona-festa.webp",
+      "title": "Natale in Negarville",
+      "category": "Festa",
+      "municipality": "Torino",
+      "venue": "Punto di servizio bibliotecario via Negarville · via Celeste Negarville 30/8, Torino",
+      "ageMinMonths": null,
+      "ageMaxMonths": null,
+      "ageLabel": "Bambini e famiglie (età non indicata)",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01139780",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture, giochi e laboratori per festeggiare l'arrivo del Natale.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-16T16:30:00+01:00"
+      ],
+      "startsAt": "2026-12-16T16:30:00+01:00"
+    },
+    {
+      "id": "il-ladro-di-neve-bibliobus",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "Il ladro di neve – letture sul Bibliobus",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Bibliobus delle Biblioteche civiche · soste diverse (vedi descrizione), Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: bibliobus@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Storie di animali alle prese con il freddo e il lungo sonno d'inverno. Soste: 7/12 via Scialoja (Bibliobus 2); 9/12 corso Telesio; 11/12 giardini Sospello, via Casteldelfino 55; 14/12 piazza Santa Giulia.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-07T16:45:00+01:00",
+        "2026-12-09T17:00:00+01:00",
+        "2026-12-11T17:00:00+01:00",
+        "2026-12-14T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-07T16:45:00+01:00"
+    },
+    {
+      "id": "la-stella-di-ghiaccio-bibliobus",
+      "organizationId": "org-35",
+      "illustration": "icona-lettura.webp",
+      "title": "La stella di ghiaccio – letture sul Bibliobus",
+      "category": "Lettura",
+      "municipality": "Torino",
+      "venue": "Bibliobus delle Biblioteche civiche · soste diverse (vedi descrizione), Torino",
+      "ageMinMonths": 36,
+      "ageMaxMonths": null,
+      "ageLabel": "Dai 3 anni",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: bibliobus@comune.torino.it",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Dolci storie che accompagnano al Natale. Soste: 17/12 via Osasco 19/A; 21/12 piazza Santa Giulia.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "limited_series",
+      "occurrences": [
+        "2026-12-17T17:00:00+01:00",
+        "2026-12-21T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-17T17:00:00+01:00"
+    },
+    {
+      "id": "natale-in-punta-di-piedi-della-corte",
+      "organizationId": "org-35",
+      "illustration": "icona-musica.webp",
+      "title": "Natale in punta di piedi – la storia dello Schiaccianoci",
+      "category": "Musica",
+      "municipality": "Torino",
+      "venue": "Biblioteca civica musicale Andrea Della Corte · corso Francia 186, Torino",
+      "ageMinMonths": 96,
+      "ageMaxMonths": null,
+      "ageLabel": "Dagli 8 anni (anche adulti)",
+      "costLabel": "Non indicato (attività di biblioteca)",
+      "costBand": "unknown",
+      "booking": "Info: 011 01138350",
+      "url": "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf",
+      "description": "Letture e video per scoprire come è nato il balletto «Lo schiaccianoci» di Čajkovskij, con la musicologa Liana Püschel.",
+      "discoverySources": [
+        "https://bct.comune.torino.it/sites/default/files/articoli/2026-11/Web_2026_12_3_0.pdf"
+      ],
+      "verificationMethod": "Agenda mensile «In Biblioteca – Dicembre 2026» delle Biblioteche civiche torinesi (PDF ufficiale) letta il 27 novembre 2026.",
+      "verifiedBy": "Ricerca assistita su fonte originale",
+      "isExample": false,
+      "accessibility": "Da chiedere all’organizzatore",
+      "status": "published",
+      "verifiedAt": "2026-11-27",
+      "scheduleType": "single",
+      "occurrences": [
+        "2026-12-23T17:00:00+01:00"
+      ],
+      "startsAt": "2026-12-23T17:00:00+01:00"
     }
   ],
   "organizations": [
