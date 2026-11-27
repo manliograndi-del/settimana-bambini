@@ -150,6 +150,43 @@ function render(anim){
     h += `<main class="panel"><div class="in ${anim?'enter':''}">${cur.kind==='week'?weekHTML():cur.kind==='voce'?voceHTML(cur):nodeHTML(cur)}${note()}</div></main>`;
   }
   $('#app').innerHTML = h;
+  if($('#daymap')) dayMap();
+}
+/* ---- mappa del giorno: un segno per ogni posto con eventi nel giorno scelto; toccandolo compaiono gli eventi ---- */
+const MAP_DAYS = ['2026-11-28']; // giorni con la mappa (prova)
+const PIN = {storie:'#e0177a',lab:'#3f8fe3',show:'#ee7c14',musei:'#8fc11c'};
+let leafletReady = null;
+function loadLeaflet(){
+  if(window.L) return Promise.resolve();
+  return leafletReady = leafletReady || new Promise((ok,ko)=>{
+    const c=document.createElement('link'); c.rel='stylesheet'; c.href='vendor/leaflet/leaflet.css'; document.head.appendChild(c);
+    const s=document.createElement('script'); s.src='vendor/leaflet/leaflet.js'; s.onload=ok; s.onerror=ko; document.head.appendChild(s);
+  });
+}
+function dayMap(){
+  const day = state.day, box = $('#daymap');
+  const at = e => e.occ.find(o=>o.startsWith(day));
+  const list = NAV.events.filter(e=>!state.cat||e.c===state.cat).filter(evOK).filter(e=>at(e)&&COORD[e.venue]).sort((a,b)=>at(a)<at(b)?-1:1);
+  const spots = {};
+  for(const e of list){ const k=COORD[e.venue].join(','); (spots[k]=spots[k]||{ll:COORD[e.venue],ev:[]}).ev.push(e); }
+  loadLeaflet().then(()=>{
+    if(!box.isConnected) return;
+    const map = L.map(box,{zoomControl:true,attributionControl:true,scrollWheelZoom:false,tap:true});
+    L.tileLayer(window.TILES||'https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:window.TILES_MAX||18,minZoom:window.TILES_MIN||9,attribution:'© OpenStreetMap'}).addTo(map);
+    map.attributionControl.setPrefix(false);
+    const marks = Object.values(spots).map(s=>{
+      const n = s.ev.length, col = PIN[s.ev[0].c]||'#3f8fe3';
+      const icon = L.divIcon({className:'pin',html:`<span style="--pc:${col}"><b>${n>1?n:''}</b></span>`,iconSize:[30,38],iconAnchor:[15,36],popupAnchor:[0,-32]});
+      const place = esc(s.ev[0].venue.split('·')[0].trim());
+      const html = `<div class="mpop"><b class="mpl">${place}</b>${s.ev.map(e=>`<button class="mev" data-mev="${e.id}">${evArt(e,'mth')}<span><em>${esc(at(e).slice(11,16)||'')}</em><strong>${esc(e.t)}</strong><i>${SVG.play} Scopri</i></span></button>`).join('')}</div>`;
+      return L.marker(s.ll,{icon,title:s.ev.map(e=>e.t).join(' · ')}).bindPopup(html,{maxWidth:270,minWidth:230,autoPanPadding:[20,20]});
+    });
+    const g = L.featureGroup(marks).addTo(map);
+    // si apre su Torino città (dove sono quasi tutti); i posti fuori città restano sulla mappa allontanando lo zoom
+    const city = marks.filter(m=>{const p=m.getLatLng();return Math.abs(p.lat-45.07)<0.05&&Math.abs(p.lng-7.68)<0.07;});
+    map.fitBounds(L.featureGroup(city.length>=marks.length*0.6?city:marks).getBounds(),{padding:[34,34],maxZoom:15});
+    map.on('popupopen',ev=>ev.popup.getElement().querySelectorAll('[data-mev]').forEach(b=>b.addEventListener('click',()=>showEvent(b.dataset.mev))));
+  }).catch(()=>box.remove());
 }
 const note = () => `<p class="note">Torino e dintorni. Date, orari e prezzi degli eventi sono controllati sui siti di chi li organizza: le fonti sono nelle schede. Orari e aperture dei posti possono cambiare, controllate sul loro sito prima di andare. Loghi dei rispettivi proprietari. <a href="calendario.html">Calendario della settimana con l’orologio delle età</a></p>`;
 function evCard(e){
@@ -192,6 +229,7 @@ function weekHTML(){
   if(state.day) h += `<div class="allrow"><button class="go-arrow sm" data-allev>Tutti <i>${SVG.arrow}</i></button></div>`;
   if(state.cat) h += filtersHTML();
   const v = NAV.events.filter(e=>!state.cat||e.c===state.cat).filter(evOK);
+  if(state.day && MAP_DAYS.includes(state.day) && v.some(e=>COORD[e.venue]&&e.occ.some(o=>o.startsWith(state.day)))) h += `<div class="daymap" id="daymap"></div>`;
   let any = false;
   for(const [,,day] of DAYS){
     if(state.day && state.day!==day) continue;
@@ -291,6 +329,8 @@ addEventListener('popstate',e=>{ document.querySelector('.sheet')?.remove(); sta
 addEventListener('keydown',e=>{ if(e.key==='Escape') document.querySelector('.sheet')?.remove(); });
 
 const start = index[location.hash.slice(1)]; if(start) cur=start;
+// link diretto a un giorno: index.html#giorno-2026-11-28
+{ const m = location.hash.match(/^#giorno-(\d{4}-\d{2}-\d{2})$/); if(m){ cur = index.settimana; if(WEEK.includes(m[1])) state.day = m[1]; } }
 try{ history.replaceState({id:cur.id},''); }catch(e){}
 render(false);
 
